@@ -60,9 +60,8 @@ router.get("/wordora/assets/:file", async (req, res) => {
   }
   try {
     const file = publicMediaFile(req.params.file);
-    const [exists] = await file.exists();
-    if (!exists) { res.status(404).end(); return; }
     const [metadata] = await file.getMetadata();
+    if (res.destroyed) return;
     const size = Number(metadata.size);
     res.set({ "Content-Type": metadata.contentType || "application/octet-stream", "Accept-Ranges": "bytes", "Cache-Control": "public, max-age=86400", "X-Content-Type-Options": "nosniff" });
     let start = 0, end = size - 1;
@@ -76,7 +75,24 @@ router.get("/wordora/assets/:file", async (req, res) => {
     }
     res.set("Content-Length", String(end - start + 1));
     if (req.method === "HEAD") { res.end(); return; }
-    file.createReadStream({ start, end }).on("error", () => { if (!res.headersSent) res.status(502).end(); else res.destroy(); }).pipe(res);
-  } catch { if (!res.headersSent) res.status(502).end(); }
+    const stream = file.createReadStream({ start, end });
+    const stop = () => stream.destroy();
+    res.once("close", stop);
+    stream.once("end", () => res.off("close", stop));
+    stream.once("error", () => {
+      res.off("close", stop);
+      if (!res.headersSent) {
+        res.removeHeader("Cache-Control");
+        res.removeHeader("Content-Length");
+        res.status(502).end();
+      } else res.destroy();
+    });
+    stream.pipe(res);
+  } catch (error) {
+    if (!res.headersSent && !res.destroyed) {
+      const notFound = typeof error === "object" && error !== null && "code" in error && error.code === 404;
+      res.status(notFound ? 404 : 502).end();
+    }
+  }
 });
 export default router;

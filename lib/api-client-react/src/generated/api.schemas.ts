@@ -74,6 +74,29 @@ export interface HealthStatus {
   status: string;
 }
 
+export type LessonStudyStateStage = typeof LessonStudyStateStage[keyof typeof LessonStudyStateStage];
+
+
+export const LessonStudyStateStage = {
+  words: 'words',
+  summary: 'summary',
+} as const;
+
+export interface LessonStudyState {
+  /**
+     * @minimum 0
+     * @maximum 9999
+     */
+  wordIndex: number;
+  /**
+     * @maxItems 200
+     * @items.maxLength 100
+     */
+  studiedWordIds: string[];
+  stage: LessonStudyStateStage;
+  updatedAt: string;
+}
+
 /**
  * @nullable
  */
@@ -90,6 +113,8 @@ export const WordoraProgressSelectedLanguage = {
 
 export type WordoraProgressQuizAttempts = {[key: string]: number};
 
+export type WordoraProgressLessonStudy = {[key: string]: LessonStudyState};
+
 export interface WordoraProgress {
   /** @nullable */
   selectedLanguage: WordoraProgressSelectedLanguage;
@@ -102,6 +127,7 @@ export interface WordoraProgress {
   /** @nullable */
   lastActiveDate: string | null;
   quizAttempts: WordoraProgressQuizAttempts;
+  lessonStudy?: WordoraProgressLessonStudy;
 }
 
 /**
@@ -120,6 +146,8 @@ export const WordoraProgressInputSelectedLanguage = {
 
 export type WordoraProgressInputQuizAttempts = {[key: string]: number};
 
+export type WordoraProgressInputLessonStudy = {[key: string]: LessonStudyState};
+
 export interface WordoraProgressInput {
   /** @nullable */
   selectedLanguage: WordoraProgressInputSelectedLanguage;
@@ -132,5 +160,6 @@ export interface WordoraProgressInput {
   /** @nullable */
   lastActiveDate: string | null;
   quizAttempts: WordoraProgressInputQuizAttempts;
+  lessonStudy?: WordoraProgressInputLessonStudy;
 }
 

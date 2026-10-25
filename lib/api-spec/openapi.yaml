@@ -171,6 +171,26 @@ components:
           type: string
       required:
         - status
+    LessonStudyState:
+      type: object
+      required: [wordIndex, studiedWordIds, stage, updatedAt]
+      properties:
+        wordIndex:
+          type: integer
+          minimum: 0
+          maximum: 9999
+        studiedWordIds:
+          type: array
+          maxItems: 200
+          items:
+            type: string
+            maxLength: 100
+        stage:
+          type: string
+          enum: [words, summary]
+        updatedAt:
+          type: string
+          format: date-time
     WordoraProgress:
       type: object
       required:
@@ -206,6 +226,11 @@ components:
           additionalProperties:
             type: integer
             minimum: 0
+        lessonStudy:
+          type: object
+          maxProperties: 500
+          additionalProperties:
+            $ref: "#/components/schemas/LessonStudyState"
     WordoraProgressInput:
       type: object
       required:
@@ -241,4 +266,9 @@ components:
           additionalProperties:
             type: integer
             minimum: 0
+        lessonStudy:
+          type: object
+          maxProperties: 500
+          additionalProperties:
+            $ref: "#/components/schemas/LessonStudyState"
 

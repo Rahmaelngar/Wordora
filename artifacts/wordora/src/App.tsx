@@ -1,32 +1,36 @@
-import { type ReactNode, createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
+import { type ReactNode, createContext, useContext, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ClerkProvider, SignIn, SignUp, useClerk, useUser } from '@clerk/react';
 import { publishableKeyFromHost } from '@clerk/react/internal';
 import { shadcn } from '@clerk/themes';
 import { arSA } from '@clerk/localizations';
-import { BookOpen, Bookmark, Check, CheckCircle2, ChevronLeft, ChevronRight, CircleHelp, Globe2, Headphones, LockKeyhole, LogOut, Menu, MessageCircle, RotateCcw, Settings, Sparkles, Trash2, Trophy, X } from 'lucide-react';
+import { BookOpen, Film, ListChecks, PlayCircle, Bookmark, Check, CheckCircle2, ChevronLeft, ChevronRight, CircleHelp, Globe2, Headphones, LockKeyhole, LogOut, Menu, MessageCircle, RotateCcw, Settings, Sparkles, Trash2, Trophy, X } from 'lucide-react';
 import { Route, Switch, Link, Redirect, Router as WouterRouter, useLocation } from 'wouter';
 import { getGetWordoraProgressQueryKey, useGetWordoraProgress, useSaveWordoraProgress } from '@workspace/api-client-react';
 import type { WordoraProgress } from '@workspace/api-client-react';
 import { languages, lessons, lessonById, type LanguageId, type Level, type Lesson, type Word } from './data';
 import NotFound from '@/pages/not-found';
-import { AudioButton } from './features/learning/audio';
+import { AudioButton, stopAllLearningAudio } from './features/learning/audio';
 import { PronunciationPractice } from './features/learning/pronunciation';
-import { MediaLesson, assetUrl } from './features/learning/media';
+import { assetUrl } from './features/learning/media';
+import { GreetingVideo, VideoUnavailable } from './features/learning/lesson-video';
+import { IntroCover, useIntroGate } from './features/learning/intro';
+import { isGreetingLesson, isLessonUnlocked, isLevelUnlocked, levelRules, nextLessonFor, readStudy, requiredFor, writeStudy } from './features/learning/study';
 import { GptIeon } from './features/learning/chat';
+import { mergeLessonStudy } from './features/learning/study-persistence';
 
 const queryClient = new QueryClient();
 const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 const clerkPubKey = publishableKeyFromHost(window.location.hostname, import.meta.env.VITE_CLERK_PUBLISHABLE_KEY);
 const clerkProxyUrl = import.meta.env.VITE_CLERK_PROXY_URL;
 type ProgressData = WordoraProgress;
-const emptyProgress = (): ProgressData => ({ selectedLanguage: null, completedLessons: [], savedWords: [], points: 0, streak: 0, lastActiveDate: null, quizAttempts: {} });
+const emptyProgress = (): ProgressData => ({ selectedLanguage: null, completedLessons: [], savedWords: [], points: 0, streak: 0, lastActiveDate: null, quizAttempts: {}, lessonStudy: {} });
 const localKey = 'wordora-progress-v1';
 const progressStorageKey = (userId?: string | null) => userId ? `${localKey}:user:${userId}` : localKey;
 const readLocal = (key = localKey): ProgressData => {
-  try { const raw = localStorage.getItem(key); return raw ? { ...emptyProgress(), ...JSON.parse(raw) } : emptyProgress(); } catch { return emptyProgress(); }
+  try { const raw = localStorage.getItem(key); const parsed = raw ? JSON.parse(raw) : {}; return { ...emptyProgress(), ...parsed, lessonStudy: mergeLessonStudy(parsed?.lessonStudy) }; } catch { return emptyProgress(); }
 };
-type AppContextType = { progress: ProgressData; updateProgress: (fn: (old: ProgressData) => ProgressData) => void; localOnly: boolean; cloudError: boolean };
+type AppContextType = { progress: ProgressData; updateProgress: (fn: (old: ProgressData) => ProgressData) => void; localOnly: boolean; cloudError: boolean; ready: boolean };
 const AppContext = createContext<AppContextType | null>(null);
 const useApp = () => {
   const value = useContext(AppContext);
@@ -62,16 +66,33 @@ function stripBase(path: string) { return basePath && path.startsWith(basePath) 
 
 function WordoraRoot() {
   const { isSignedIn, user } = useUser();
-  const query = useGetWordoraProgress({ query: { enabled: !!isSignedIn, queryKey: getGetWordoraProgressQueryKey() } });
+  const activeUserId = isSignedIn ? user?.id ?? null : null;
+  const activeUserRef = useRef(activeUserId); activeUserRef.current = activeUserId;
+  const query = useGetWordoraProgress({ query: { enabled: !!activeUserId, queryKey: [...getGetWordoraProgressQueryKey(), activeUserId], staleTime: 30000 } });
   const save = useSaveWordoraProgress();
+  const saveFn = useRef(save.mutateAsync); saveFn.current = save.mutateAsync;
+  const saveQueue = useRef<Promise<unknown>>(Promise.resolve());
+  const revisions = useRef(new Map<string, number>());
+  const [storageError, setStorageError] = useState(false);
+  const persistLocal = useCallback((key: string, value: ProgressData) => {
+    try { localStorage.setItem(key, JSON.stringify(value)); setStorageError(false); }
+    catch { setStorageError(true); }
+  }, []);
+  const queueCloudSave = useCallback((owner: string, data: ProgressData) => {
+    const revision = (revisions.current.get(owner) || 0) + 1;
+    revisions.current.set(owner, revision);
+    saveQueue.current = saveQueue.current.catch(() => undefined).then(async () => {
+      if (activeUserRef.current !== owner || revisions.current.get(owner) !== revision) return;
+      await saveFn.current({ data });
+    }).catch(() => undefined);
+  }, []);
   const [progress, setProgress] = useState<ProgressData>(readLocal);
   const progressRef = useRef(progress);
   progressRef.current = progress;
   const mergedFor = useRef<string | null>(null);
-  const activeUserId = isSignedIn ? user?.id ?? null : null;
   const previousUserId = useRef<string | null>(null);
   useEffect(() => {
-    if (previousUserId.current !== null && previousUserId.current !== activeUserId) {
+    if (previousUserId.current !== activeUserId) {
       const guestProgress = readLocal(progressStorageKey(activeUserId));
       progressRef.current = guestProgress;
       setProgress(guestProgress);
@@ -92,12 +113,13 @@ function WordoraRoot() {
       points: Math.max(cloud.points, userLocal.points, local.points), streak: Math.max(cloud.streak, userLocal.streak, local.streak),
       lastActiveDate: cloud.lastActiveDate ?? userLocal.lastActiveDate ?? local.lastActiveDate,
       quizAttempts: { ...local.quizAttempts, ...userLocal.quizAttempts, ...cloud.quizAttempts },
+      lessonStudy: mergeLessonStudy(cloud.lessonStudy, local.lessonStudy, userLocal.lessonStudy),
     };
     progressRef.current = merged;
     setProgress(merged);
-    localStorage.setItem(progressStorageKey(user.id), JSON.stringify(merged));
-    if (JSON.stringify(merged) !== JSON.stringify(cloud)) save.mutate({ data: merged });
-  }, [isSignedIn, user?.id, query.data, save]);
+    persistLocal(progressStorageKey(user.id), merged);
+    if (JSON.stringify(merged) !== JSON.stringify(cloud)) queueCloudSave(user.id, merged);
+  }, [isSignedIn, user?.id, query.data, persistLocal, queueCloudSave]);
   useEffect(() => {
     if (!isSignedIn) mergedFor.current = null;
   }, [isSignedIn]);
@@ -105,10 +127,13 @@ function WordoraRoot() {
     const next = fn(progressRef.current);
     progressRef.current = next;
     setProgress(next);
-    localStorage.setItem(progressStorageKey(activeUserId), JSON.stringify(next));
-    if (isSignedIn) save.mutate({ data: next });
+    persistLocal(progressStorageKey(activeUserId), next);
+    if (activeUserId && mergedFor.current === activeUserId) queueCloudSave(activeUserId, next);
   };
-  return <AppContext.Provider value={{ progress, updateProgress, localOnly: !isSignedIn, cloudError: !!query.error || save.isError }}>
+  const intro = useIntroGate();
+  if (intro.visible) return <IntroCover onDone={intro.dismiss} />;
+  return <AppContext.Provider value={{ progress, updateProgress, localOnly: !isSignedIn, cloudError: !!query.error || save.isError, ready: !activeUserId || mergedFor.current === activeUserId || query.isError }}>
+    {storageError && <div className="notice" role="alert">تعذّر حفظ البيانات محليًا. اسمح بالتخزين في المتصفح حتى لا تفقد مكانك عند إغلاق الصفحة.</div>}
     <Switch>
       <Route path="/" component={HomeRoute} />
       <Route path="/sign-in/*?" component={SignInPage} />
@@ -134,7 +159,8 @@ function HomeRoute() {
 }
 function ProtectedPage({ children }: { children: ReactNode }) {
   const { isLoaded } = useUser();
-  if (!isLoaded) return <div className="page-wrap app-main"><div className="panel" style={{height:120,background:'#f1eef7'}} /></div>;
+  const { ready } = useApp();
+  if (!isLoaded || !ready) return <div className="page-wrap app-main"><div className="panel" role="status" aria-label="جارٍ تحميل تقدمك" style={{height:120,background:'#f1eef7'}} /></div>;
   return <>{children}</>;
 }
 function SignInPage() {
@@ -212,17 +238,15 @@ function LearnPage() {
   const lang = progress.selectedLanguage || (localStorage.getItem('wordora-language-hint') as LanguageId) || 'english';
   const language = languages.find(l=>l.id===lang)!;
   useEffect(()=>{if(!progress.selectedLanguage)updateProgress(old=>old.selectedLanguage?old:{...old,selectedLanguage:lang});},[progress.selectedLanguage,lang,updateProgress]);
-  const finishedByLevel = (level: Level) => progress.completedLessons.filter(id=>lessons.find(l=>l.id===id)?.languageId===lang && lessons.find(l=>l.id===id)?.level===level).length;
-  const levels: { level:Level; title:string; required:number }[] = [{level:'A1',title:'البداية',required:0},{level:'A2',title:'خطوات أوسع',required:4},{level:'B1',title:'تحدّث بثقة',required:2}];
   return <main className="page-wrap app-main">
     <div className="welcome-banner"><div><div className="hero-kicker">مساحة التعلّم</div><h1>أهلاً بك في رحلتك.</h1><p>درس واحد قصير يكفي لتبدأ اليوم.</p></div><SelectLanguage/></div>
     {cloudError && !localOnly && <div className="notice" style={{marginBottom:16}}>تعذّر تحميل المزامنة الآن. سيبقى تقدّمك على هذا الجهاز، وسنحاول مرة أخرى لاحقاً.</div>}
     <div className="stat-strip"><div className="stat"><strong data-testid="text-points">{progress.points}</strong><span>نقطة تعلّم</span></div><div className="stat"><strong data-testid="text-streak">{progress.streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-completed-count">{progress.completedLessons.length}</strong><span>درس مكتمل</span></div></div>
     <div className="learn-photo"><img src={assetUrl('wordora-conversation.jpg')} alt="متعلّمان يتدرّبان على محادثة بلغة جديدة" loading="lazy" onError={e=>{(e.currentTarget.parentElement as HTMLElement).style.display='none';}}/><span className="ai-label">صورة مُولّدة بالذكاء الاصطناعي</span></div>
     <GptIeon language={lang}/>
-    <MediaLesson key={lang} language={lang}/>
+    <Link href={`/lesson/${lang}-1`} className="video-teaser" data-testid="link-greeting-video"><span className="lesson-video-icon"><Film size={18}/></span><span><b>فيديو درس التحية</b><small>متاح داخل أول درس A1 «التحية والتعارف» — افتحه من شاشة الدرس.</small></span><ChevronLeft size={17}/></Link>
     <div style={{display:'flex',justifyContent:'space-between',gap:12,alignItems:'center',flexWrap:'wrap'}}><div><h2 style={{margin:'0 0 5px',color:'#36256e'}}>دروس {language.arabicName}</h2><div style={{color:'#888293'}}>اختر موضوعاً وابدأ بالمفردات الأساسية.</div></div><span className="badge" dir="ltr">{language.name} · A1</span></div>
-    {levels.map(({level,title,required})=>{const unlocked=level==='A1'||(level==='A2'?finishedByLevel('A1')>=required:finishedByLevel('A2')>=required);const list=lessons.filter(l=>l.languageId===lang&&l.level===level);return <section key={level}><div className="level-head"><span className="level-pill">{level}</span><h2>{title}</h2>{!unlocked&&<p>أكمل {required} دروس من المستوى السابق لفتح هذا المستوى</p>}</div><div className="lesson-grid">{list.map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!unlocked} completed={progress.completedLessons.includes(lesson.id)} number={index+1}/>)}</div></section>;})}
+    {levelRules.map(({level,title,required})=>{const unlocked=isLevelUnlocked(progress.completedLessons,lang,level);const list=lessons.filter(l=>l.languageId===lang&&l.level===level);return <section key={level}><div className="level-head"><span className="level-pill">{level}</span><h2>{title}</h2>{!unlocked&&<p>أكمل {required} دروس من المستوى السابق لفتح هذا المستوى</p>}</div><div className="lesson-grid">{list.map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!unlocked} completed={progress.completedLessons.includes(lesson.id)} number={index+1}/>)}</div></section>;})}
     <div style={{marginTop:28,color:'#928b9e',fontSize:'.86rem'}}>{localOnly?'ملف محلي: تقدّمك محفوظ على هذا الجهاز فقط. أنشئ حساباً لمزامنته.':'تقدّمك محفوظ في حسابك.'}{localOnly&&<Link href="/sign-up" style={{color:'#704cce',fontWeight:700,marginRight:6}} data-testid="link-sync-account">إنشاء حساب</Link>}</div>
   </main>;
 }
@@ -233,25 +257,64 @@ function LessonTile({lesson,locked,completed,number}:{lesson:Lesson;locked:boole
 function LessonPage() {
   const { lessonId } = useParamsSafe();
   const lesson = lessonById(lessonId);
-  const [phase,setPhase]=useState<'words'|'quiz'|'done'>('words');
-  const [index,setIndex]=useState(0);
+  const { progress } = useApp();
+  const { user } = useUser();
+  if(!lesson) return <main className="page-wrap app-main"><div className="panel"><h1 className="page-title">لم نجد هذا الدرس</h1><Link href="/learn" className="btn btn-primary" style={{marginTop:20}} data-testid="link-back-learn">العودة للتعلّم</Link></div></main>;
+  if(!isLessonUnlocked(lesson,progress.completedLessons)) return <main className="page-wrap app-main"><div className="panel empty-state" data-testid="status-lesson-locked"><div className="empty-icon"><LockKeyhole size={26}/></div><h3>هذا الدرس مقفل حالياً</h3><p>أكمل {requiredFor(lesson.level)} دروس من المستوى السابق في {languages.find(l=>l.id===lesson.languageId)?.arabicName} لفتح المستوى {lesson.level}.</p><Link href="/learn" className="btn btn-primary" style={{marginTop:15}} data-testid="link-locked-back-learn">العودة للدروس</Link></div></main>;
+  return <LessonSession key={`${lesson.id}::${user?.id ?? 'guest'}`} lesson={lesson}/>;
+}
+function LessonSession({lesson}:{lesson:Lesson}) {
+  const {progress,updateProgress,localOnly,cloudError}=useApp();
+  const [, setLocation] = useLocation();
+  const [initial] = useState(()=>readStudy(progress,lesson));
+  const [phase,setPhase]=useState<'words'|'summary'|'quiz'|'done'>(initial?.stage==='summary'?'summary':'words');
+  const [index,setIndex]=useState(initial?.wordIndex ?? 0);
+  const [resumed,setResumed]=useState(!!initial && (initial.stage==='summary' || initial.wordIndex>0));
   const [savedToast,setSavedToast]=useState(false);
+  const [lockedNote,setLockedNote]=useState(false);
   const [quizResult,setQuizResult]=useState<{score:number;total:number}|null>(null);
-  const {progress,updateProgress}=useApp();
-  const word=lesson?.words[index];
-  if(!lesson||!word) return <main className="page-wrap app-main"><div className="panel"><h1 className="page-title">لم نجد هذا الدرس</h1><Link href="/learn" className="btn btn-primary" style={{marginTop:20}} data-testid="link-back-learn">العودة للتعلّم</Link></div></main>;
+  const total=lesson.words.length;
+  const word=lesson.words[Math.min(index,total-1)];
+  const language=languages.find(l=>l.id===lesson.languageId)!;
+  useEffect(()=>{ stopAllLearningAudio(); },[index,phase]);
+  useEffect(()=>()=>stopAllLearningAudio(),[]);
+  const studied=()=>readStudy(progress,lesson)?.studiedWordIds ?? [];
+  const persist=(wordIndex:number,stage:'words'|'summary',addId?:string)=>updateProgress(old=>{const prev=readStudy(old,lesson);const ids=prev?.studiedWordIds??[];return writeStudy(old,lesson.id,{wordIndex,stage,studiedWordIds:addId&&!ids.includes(addId)?[...ids,addId]:ids});});
+  const go=(i:number)=>{setResumed(false);setIndex(i);};
+  const next=()=>{const i=Math.min(total-1,index+1);persist(i,'words',word.id);go(i);};
+  const prev=()=>{const i=Math.max(0,index-1);persist(i,'words');go(i);};
+  const finish=()=>{persist(total-1,'summary',word.id);setResumed(false);setPhase('summary');};
+  const review=()=>{persist(0,'words');go(0);setPhase('words');};
   const saved=progress.savedWords.includes(word.id);
   const toggleSave=()=>{updateProgress(old=>({...old,savedWords:saved?old.savedWords.filter(id=>id!==word.id):[...old.savedWords,word.id]}));setSavedToast(true);window.setTimeout(()=>setSavedToast(false),1600);};
-  return <main className="page-wrap app-main">
-    <div className="lesson-top"><Link className="btn btn-quiet" href="/learn" data-testid="link-exit-lesson"><ChevronRight size={18}/>كل الدروس</Link><span style={{color:'#7e788b',fontWeight:700}}>{phase==='words'?'تعلّم الكلمات':phase==='quiz'?'اختبر نفسك':'أحسنت!'}</span><span style={{color:'#8f899a',fontSize:'.88rem'}}>{phase==='words'?`${index+1} / ${lesson.words.length}`:phase==='quiz'?'اختبار قصير':''}</span></div>
-    <div className="progress-track"><span style={{width:phase==='words'?`${((index+1)/lesson.words.length)*58}%`:phase==='quiz'?'75%':'100%'}}/></div>
-    <div style={{marginTop:18,color:'#8c8599',fontSize:'.89rem'}}>{lesson.topic} · {languages.find(l=>l.id===lesson.languageId)?.name}</div>
-    {phase==='words'&&<><article className="panel word-card" key={word.id}><div style={{color:'#958fa0',fontSize:'.83rem'}}>الكلمة {index+1} من {lesson.words.length}</div><h1 dir="ltr" data-testid={`text-word-${word.id}`}>{word.term}</h1><div className="arabic-meaning" data-testid={`text-meaning-${word.id}`}>{word.arabicMeaning}</div><div className="pronunciation"><small>النطق التقريبي</small><span dir="auto">{word.pronunciation}</span></div><div className="example-line"><span>{word.example}</span><small>{word.exampleArabic}</small></div><div style={{position:'absolute',top:14,left:14}}><AudioButton key={word.id} compact language={lesson.languageId} text={word.term} label="استمع إلى نطق الكلمة" testId={`button-speak-word-${word.id}`}/></div></article>
+  const {next:nextLesson,locked:nextLocked}=nextLessonFor(lesson,progress.completedLessons);
+  const studiedCount=studied().length;
+  const pct=phase==='words'?Math.round(((index+1)/total)*100):100;
+  return <main className="page-wrap app-main lesson-main">
+    <div className="lesson-top"><Link className="btn btn-quiet" href="/learn" data-testid="link-exit-lesson"><ChevronRight size={18}/>كل الدروس</Link><span style={{color:'#7e788b',fontWeight:700}}>{phase==='words'?'تعلّم الكلمات':phase==='summary'?'ملخّص الدرس':phase==='quiz'?'اختبر نفسك':'أحسنت!'}</span><span style={{color:'#8f899a',fontSize:'.88rem'}} data-testid="text-word-counter">{phase==='words'?`${index+1} من ${total}`:phase==='summary'?`${studiedCount} من ${total}`:''}</span></div>
+    <div className="progress-track" role="progressbar" aria-label="تقدّم الدرس" aria-valuemin={0} aria-valuemax={100} aria-valuenow={pct} data-testid="progress-lesson"><span style={{width:`${pct}%`}}/></div>
+    <div style={{marginTop:18,color:'#8c8599',fontSize:'.89rem'}}>{lesson.topic} · {language.name} · {lesson.level}</div>
+    <p className="study-storage-note" data-testid="status-study-storage">{localOnly?'يُحفظ مكانك في الدرس على هذا الجهاز. الحساب يتيح مزامنته بين الأجهزة.':cloudError?'تعذّرت المزامنة حاليًا؛ يُحفظ مكانك محليًا حتى استعادة الاتصال.':'يُحفظ مكانك محليًا وتتم مزامنته مع حسابك عند الاتصال.'}</p>
+    {resumed&&<div className="notice resume-note" data-testid="status-lesson-resumed">{phase==='summary'?'عدت إلى ملخّص الدرس حيث توقفت.':`تابعت من حيث توقفت: الكلمة ${index+1} من ${total}.`}<button className="btn btn-quiet btn-small" onClick={review} data-testid="button-resume-restart">ابدأ من الأول</button></div>}
+    {phase==='words'&&<>
+      <article className="panel word-card" key={word.id} data-testid="card-current-word"><div style={{color:'#958fa0',fontSize:'.83rem'}}>الكلمة {index+1} من {total}</div><h1 dir="ltr" lang={lesson.languageId} data-testid={`text-word-${word.id}`}>{word.term}</h1><div className="arabic-meaning" data-testid={`text-meaning-${word.id}`}>{word.arabicMeaning}</div><div className="pronunciation"><small>النطق التقريبي</small><span dir="auto">{word.pronunciation}</span></div><div className="example-line"><span lang={lesson.languageId}>{word.example}</span><small>{word.exampleArabic}</small></div><div style={{position:'absolute',top:14,left:14}}><AudioButton key={word.id} compact language={lesson.languageId} text={word.term} label="استمع إلى نطق الكلمة" testId={`button-speak-word-${word.id}`}/></div></article>
       <div className="word-actions"><AudioButton key={`ex-${word.id}`} language={lesson.languageId} text={word.example} label="استمع إلى المثال" testId={`button-speak-example-${word.id}`}/><button className="btn btn-outline" onClick={toggleSave} data-testid={`button-save-word-${word.id}`}><Bookmark size={17} fill={saved?'currentColor':'none'}/>{saved?'إزالة من كلماتي':'احفظ الكلمة'}</button></div>{savedToast&&<div style={{textAlign:'center',color:'#43846c',marginTop:9}} data-testid="status-save-feedback">{saved?'أُضيفت إلى كلماتك المحفوظة':'أُزيلت من كلماتك المحفوظة'}</div>}
+      <div className="word-nav"><button className="btn btn-outline" disabled={index===0} onClick={prev} data-testid="button-previous-word"><ChevronRight size={17}/> السابقة</button>{index<total-1?<button className="btn btn-primary" onClick={next} data-testid="button-next-word">الكلمة التالية <ChevronLeft size={17}/></button>:<button className="btn btn-primary" onClick={finish} data-testid="button-finish-words">أنهيت الكلمات <ChevronLeft size={17}/></button>}</div>
       <PronunciationPractice key={`practice-${word.id}`} language={lesson.languageId} target={word.term} testId="pronunciation-word"/>
-      <div className="word-nav"><button className="btn btn-outline" disabled={index===0} onClick={()=>setIndex(i=>Math.max(0,i-1))} data-testid="button-previous-word"><ChevronRight size={17}/> السابقة</button>{index<lesson.words.length-1?<button className="btn btn-primary" onClick={()=>setIndex(i=>Math.min(lesson.words.length-1,i+1))} data-testid="button-next-word">الكلمة التالية <ChevronLeft size={17}/></button>:<button className="btn btn-primary" onClick={()=>setPhase('quiz')} data-testid="button-start-quiz">ابدأ الاختبار <ChevronLeft size={17}/></button>}</div></>}
+      {isGreetingLesson(lesson)?<GreetingVideo language={lesson.languageId} languageName={language.arabicName} pauseKey={word.id}/>:<VideoUnavailable/>}
+    </>}
+    {phase==='summary'&&<section className="panel lesson-summary" data-testid="section-lesson-summary">
+      <div className="summary-head"><span className="empty-icon"><ListChecks size={26}/></span><div><h2>راجعت كلمات الدرس</h2><p data-testid="text-summary-studied">أكملت {studiedCount} من {total} كلمات. الاختبار هو ما يُكمل الدرس ويمنح النقاط.</p></div></div>
+      <ol className="summary-list" data-testid="list-summary-words">{lesson.words.map(w=><li key={w.id} data-testid={`row-summary-word-${w.id}`}><div className="summary-term"><b dir="ltr" lang={lesson.languageId}>{w.term}</b><span>{w.arabicMeaning}</span></div><em dir="ltr" lang={lesson.languageId}>{w.example}</em><small>{w.exampleArabic}</small></li>)}</ol>
+      <div className="summary-actions">
+        <button className="btn btn-primary" onClick={()=>setPhase('quiz')} data-testid="button-start-quiz"><PlayCircle size={18}/> ابدأ الاختبار</button>
+        <button className="btn btn-outline" onClick={review} data-testid="button-review-words"><RotateCcw size={16}/> راجع الكلمات من البداية</button>
+        {nextLesson&&!nextLocked?<button className="btn btn-quiet" onClick={()=>setLocation(`/lesson/${nextLesson.id}`)} data-testid="button-next-lesson">الدرس التالي: {nextLesson.topic} <ChevronLeft size={16}/></button>:<button className="btn btn-quiet" onClick={()=>setLockedNote(true)} data-testid="button-next-lesson">الدرس التالي <ChevronLeft size={16}/></button>}
+      </div>
+      {lockedNote&&<p className="notice" style={{marginTop:14}} data-testid="status-next-lesson-locked">{nextLesson?`الدرس التالي «${nextLesson.topic}» في المستوى ${nextLesson.level} مقفل. أكمل ${requiredFor(nextLesson.level)} دروس من المستوى السابق لفتحه.`:'هذا آخر درس متاح في هذه اللغة.'}</p>}
+    </section>}
     {phase==='quiz'&&<Quiz lesson={lesson} onComplete={(score,total)=>{setQuizResult({score,total});const complete=progress.completedLessons.includes(lesson.id);updateProgress(old=>{const next=touch({...old,completedLessons:old.completedLessons.includes(lesson.id)?old.completedLessons:[...old.completedLessons,lesson.id],points:old.points+(complete?0:20+score*5),quizAttempts:{...old.quizAttempts,[lesson.id]:(old.quizAttempts[lesson.id]||0)+1}});return next;});setPhase('done');}}/>}
-     {phase==='done'&&<div className="panel empty-state" style={{marginTop:23}}><div className="empty-icon"><Trophy size={28}/></div><h3>أكملت الدرس!</h3><p data-testid="text-quiz-score">إجابات صحيحة: {quizResult?.score ?? 0} · إجابات غير صحيحة: {(quizResult?.total ?? 0)-(quizResult?.score ?? 0)}</p><p style={{color:'#7355c8'}}>تقدّم رائع. كل كلمة جديدة تفتح لك باباً.</p><div style={{display:'flex',justifyContent:'center',gap:11,flexWrap:'wrap',marginTop:19}}><Link href="/learn" className="btn btn-primary" data-testid="link-completion-lessons">تابع الدروس <ChevronLeft size={17}/></Link><Link href="/progress" className="btn btn-outline" data-testid="link-completion-progress">عرض إنجازي</Link></div></div>}
+     {phase==='done'&&<div className="panel empty-state" style={{marginTop:23}}><div className="empty-icon"><Trophy size={28}/></div><h3>أكملت الدرس!</h3><p data-testid="text-quiz-score">إجابات صحيحة: {quizResult?.score ?? 0} · إجابات غير صحيحة: {(quizResult?.total ?? 0)-(quizResult?.score ?? 0)}</p><p style={{color:'#7355c8'}}>تقدّم رائع. كل كلمة جديدة تفتح لك باباً.</p><div style={{display:'flex',justifyContent:'center',gap:11,flexWrap:'wrap',marginTop:19}}><button className="btn btn-outline" onClick={()=>setPhase('summary')} data-testid="button-done-summary">العودة للملخّص</button><Link href="/learn" className="btn btn-primary" data-testid="link-completion-lessons">تابع الدروس <ChevronLeft size={17}/></Link><Link href="/progress" className="btn btn-outline" data-testid="link-completion-progress">عرض إنجازي</Link></div></div>}
   </main>;
 }
 function useParamsSafe(){ const [path]=useLocation(); const id=path.split('/').filter(Boolean).pop()||''; return {lessonId:id}; }

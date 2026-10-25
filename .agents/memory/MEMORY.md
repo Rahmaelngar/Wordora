@@ -1,2 +1,2 @@
-- [Wordora product requirements](wordora-product.md) — Arabic-first learners, five target languages, A1-to-B1 progression, and the confirmed GPT Ieon assistant name.
+- [Wordora product requirements](wordora-product.md) — Arabic-first curriculum, GPT Ieon naming, original logo first, and one-word-at-a-time lessons.
 - [Learning video compatibility](wordora-media-compatibility.md) — successful media requests do not prove playback; preview Chromium needs a WebM option.

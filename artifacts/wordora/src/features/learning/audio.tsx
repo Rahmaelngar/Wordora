@@ -33,6 +33,7 @@ export function useLearningAudio(language: LanguageId, text: string) {
       if (my !== token.current) return;
       setUrl(u);
       stopAllLearningAudio();
+      window.dispatchEvent(new Event('wordora:learning-audio-play'));
       const a = new Audio(u); audioRef.current = a; activeAudio = a;
       a.onended = () => { if (my === token.current) setState('idle'); };
       a.onpause = () => { if (my === token.current) setState(s => s === 'playing' ? 'idle' : s); };

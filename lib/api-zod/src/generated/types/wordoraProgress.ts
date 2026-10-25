@@ -5,6 +5,7 @@
  * API specification
  * OpenAPI spec version: 0.1.0
  */
+import type { WordoraProgressLessonStudy } from './wordoraProgressLessonStudy';
 import type { WordoraProgressQuizAttempts } from './wordoraProgressQuizAttempts';
 import type { WordoraProgressSelectedLanguage } from './wordoraProgressSelectedLanguage';
 
@@ -20,4 +21,5 @@ export interface WordoraProgress {
   /** @nullable */
   lastActiveDate: string | null;
   quizAttempts: WordoraProgressQuizAttempts;
+  lessonStudy?: WordoraProgressLessonStudy;
 }

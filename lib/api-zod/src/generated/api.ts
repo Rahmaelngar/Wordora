@@ -66,6 +66,13 @@ export const getWordoraProgressResponseStreakMin = 0;
 
 export const getWordoraProgressResponseQuizAttemptsMinOne = 0;
 
+export const getWordoraProgressResponseLessonStudyWordIndexMin = 0;
+export const getWordoraProgressResponseLessonStudyWordIndexMax = 9999;
+
+export const getWordoraProgressResponseLessonStudyStudiedWordIdsItemMax = 100;
+
+export const getWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
+
 
 
 export const GetWordoraProgressResponse = zod.object({
@@ -75,7 +82,13 @@ export const GetWordoraProgressResponse = zod.object({
   "points": zod.number().int().min(getWordoraProgressResponsePointsMin),
   "streak": zod.number().int().min(getWordoraProgressResponseStreakMin),
   "lastActiveDate": zod.string().nullable(),
-  "quizAttempts": zod.record(zod.string(), zod.number().int().min(getWordoraProgressResponseQuizAttemptsMinOne))
+  "quizAttempts": zod.record(zod.string(), zod.number().int().min(getWordoraProgressResponseQuizAttemptsMinOne)),
+  "lessonStudy": zod.record(zod.string(), zod.object({
+  "wordIndex": zod.number().int().min(getWordoraProgressResponseLessonStudyWordIndexMin).max(getWordoraProgressResponseLessonStudyWordIndexMax),
+  "studiedWordIds": zod.array(zod.string().max(getWordoraProgressResponseLessonStudyStudiedWordIdsItemMax)).max(getWordoraProgressResponseLessonStudyStudiedWordIdsMax),
+  "stage": zod.enum(['words', 'summary']),
+  "updatedAt": zod.coerce.date()
+})).optional()
 })
 
 
@@ -88,6 +101,13 @@ export const saveWordoraProgressBodyStreakMin = 0;
 
 export const saveWordoraProgressBodyQuizAttemptsMinOne = 0;
 
+export const saveWordoraProgressBodyLessonStudyWordIndexMin = 0;
+export const saveWordoraProgressBodyLessonStudyWordIndexMax = 9999;
+
+export const saveWordoraProgressBodyLessonStudyStudiedWordIdsItemMax = 100;
+
+export const saveWordoraProgressBodyLessonStudyStudiedWordIdsMax = 200;
+
 
 
 export const SaveWordoraProgressBody = zod.object({
@@ -97,7 +117,13 @@ export const SaveWordoraProgressBody = zod.object({
   "points": zod.number().int().min(saveWordoraProgressBodyPointsMin),
   "streak": zod.number().int().min(saveWordoraProgressBodyStreakMin),
   "lastActiveDate": zod.string().nullable(),
-  "quizAttempts": zod.record(zod.string(), zod.number().int().min(saveWordoraProgressBodyQuizAttemptsMinOne))
+  "quizAttempts": zod.record(zod.string(), zod.number().int().min(saveWordoraProgressBodyQuizAttemptsMinOne)),
+  "lessonStudy": zod.record(zod.string(), zod.object({
+  "wordIndex": zod.number().int().min(saveWordoraProgressBodyLessonStudyWordIndexMin).max(saveWordoraProgressBodyLessonStudyWordIndexMax),
+  "studiedWordIds": zod.array(zod.string().max(saveWordoraProgressBodyLessonStudyStudiedWordIdsItemMax)).max(saveWordoraProgressBodyLessonStudyStudiedWordIdsMax),
+  "stage": zod.enum(['words', 'summary']),
+  "updatedAt": zod.coerce.date()
+})).optional()
 })
 
 export const saveWordoraProgressResponsePointsMin = 0;
@@ -105,6 +131,13 @@ export const saveWordoraProgressResponsePointsMin = 0;
 export const saveWordoraProgressResponseStreakMin = 0;
 
 export const saveWordoraProgressResponseQuizAttemptsMinOne = 0;
+
+export const saveWordoraProgressResponseLessonStudyWordIndexMin = 0;
+export const saveWordoraProgressResponseLessonStudyWordIndexMax = 9999;
+
+export const saveWordoraProgressResponseLessonStudyStudiedWordIdsItemMax = 100;
+
+export const saveWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
 
 
 
@@ -115,7 +148,13 @@ export const SaveWordoraProgressResponse = zod.object({
   "points": zod.number().int().min(saveWordoraProgressResponsePointsMin),
   "streak": zod.number().int().min(saveWordoraProgressResponseStreakMin),
   "lastActiveDate": zod.string().nullable(),
-  "quizAttempts": zod.record(zod.string(), zod.number().int().min(saveWordoraProgressResponseQuizAttemptsMinOne))
+  "quizAttempts": zod.record(zod.string(), zod.number().int().min(saveWordoraProgressResponseQuizAttemptsMinOne)),
+  "lessonStudy": zod.record(zod.string(), zod.object({
+  "wordIndex": zod.number().int().min(saveWordoraProgressResponseLessonStudyWordIndexMin).max(saveWordoraProgressResponseLessonStudyWordIndexMax),
+  "studiedWordIds": zod.array(zod.string().max(saveWordoraProgressResponseLessonStudyStudiedWordIdsItemMax)).max(saveWordoraProgressResponseLessonStudyStudiedWordIdsMax),
+  "stage": zod.enum(['words', 'summary']),
+  "updatedAt": zod.coerce.date()
+})).optional()
 })
 
 

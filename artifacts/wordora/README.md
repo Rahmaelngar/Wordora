@@ -38,6 +38,31 @@ permission. It compares recognized words, not acoustic pronunciation accuracy.
 The browser's recognition service may process microphone audio. Unsupported
 browsers still have listening/repetition practice.
 
+## Single-word study and resuming
+
+Each lesson shows one word at a time. Next/Previous replace the card; finishing
+the words opens a vocabulary/example summary before the existing quiz.
+Reviewing, navigation, audio and video do not award points or complete a lesson.
+The next-lesson action respects the same level locks as the lesson list.
+
+The optional `lessonStudy` progress map stores a checkpoint per lesson:
+current index, studied word IDs, words/summary stage, and an ISO update time.
+It uses the existing local progress store for guests and account-scoped local
+storage plus the existing PostgreSQL JSON progress API for signed-in learners.
+No database schema migration is needed. Missing checkpoints remain compatible
+with older progress. Interrupted quizzes return to the words summary.
+
+Cloud/local checkpoints merge per lesson using their latest update time.
+Cloud writes are serialized/coalesced so rapid navigation cannot finish with an
+older request overwriting a newer checkpoint. Account query caches are scoped
+by identity. If storage or cloud sync fails, show the learner the actual status.
+
+`features/learning/study.ts` defines level locks and study helpers;
+`study-persistence.ts` normalizes and merges checkpoints; `lesson-video.tsx`
+provides the matched greetings-group video and explicit unavailable-video state.
+`intro.tsx` shows the original logo briefly at each app load, with a skip button,
+without replaying the introduction on in-app navigation.
+
 ## API and durable media
 
 Contract: `lib/api-spec/openapi.yaml`. After a contract change:
