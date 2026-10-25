@@ -21,6 +21,10 @@ import type {
 
 import type {
   HealthStatus,
+  LearningAudio,
+  LearningAudioInput,
+  TutorChatInput,
+  TutorChatReply,
   WordoraProgress,
   WordoraProgressInput
 } from './api.schemas';
@@ -51,6 +55,241 @@ const withQueryKey = <T extends object, K>(query: T, queryKey: K): T & { queryKe
   }
   return result;
 };
+
+export const getSendWordoraChatUrl = () => {
+
+
+
+
+  return `/api/wordora/chat`
+}
+
+export const sendWordoraChat = async (tutorChatInput: TutorChatInput, options?: Parameters<typeof customFetch>[1]): Promise<TutorChatReply> => {
+
+    const getHeaders = (h?: NonNullable<RequestInit['headers']>): Record<string, string | readonly string[]> => {
+    if (!h) return {};
+    if (h instanceof Headers) return Object.fromEntries(h.entries());
+    if (Symbol.iterator in h) {
+      return Object.fromEntries(
+        Array.from(h as Iterable<Iterable<string>>, (entry) => Array.from(entry) as [string, string]),
+      );
+    }
+    const headers: Record<string, string | readonly string[]> = {};
+    for (const [name, value] of Object.entries<string | readonly string[] | undefined>(h)) {
+      if (value !== undefined) headers[name] = value;
+    }
+    return headers;
+  };
+return customFetch<TutorChatReply>(getSendWordoraChatUrl(),
+  {
+    ...options,
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...getHeaders(options?.headers) },
+    body: JSON.stringify(tutorChatInput)
+  }
+);}
+
+
+
+
+
+export const getSendWordoraChatMutationKey = () => ['sendWordoraChat'] as const;
+
+export const getSendWordoraChatMutationOptions = <TError = ErrorType<void>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof sendWordoraChat>>, TError,SendWordoraChatMutationVariables, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof sendWordoraChat>>, TError,SendWordoraChatMutationVariables, TContext> => {
+
+const mutationKey = getSendWordoraChatMutationKey();
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof sendWordoraChat>>, SendWordoraChatMutationVariables> = (props) => {
+          const {data} = props ?? {};
+
+          return  sendWordoraChat(data,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type SendWordoraChatMutationResult = NonNullable<Awaited<ReturnType<typeof sendWordoraChat>>>
+    export type SendWordoraChatMutationBody = BodyType<TutorChatInput>
+    export type SendWordoraChatMutationError = ErrorType<void>
+    export type SendWordoraChatMutationVariables = {data: BodyType<TutorChatInput>}
+
+    export const useSendWordoraChat = <TError = ErrorType<void>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof sendWordoraChat>>, TError,SendWordoraChatMutationVariables, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof sendWordoraChat>>,
+        TError,
+        SendWordoraChatMutationVariables,
+        TContext
+      > => {
+      return useMutation(getSendWordoraChatMutationOptions(options));
+    }
+
+export const getCreateWordoraAudioUrl = () => {
+
+
+
+
+  return `/api/wordora/audio`
+}
+
+export const createWordoraAudio = async (learningAudioInput: LearningAudioInput, options?: Parameters<typeof customFetch>[1]): Promise<LearningAudio> => {
+
+    const getHeaders = (h?: NonNullable<RequestInit['headers']>): Record<string, string | readonly string[]> => {
+    if (!h) return {};
+    if (h instanceof Headers) return Object.fromEntries(h.entries());
+    if (Symbol.iterator in h) {
+      return Object.fromEntries(
+        Array.from(h as Iterable<Iterable<string>>, (entry) => Array.from(entry) as [string, string]),
+      );
+    }
+    const headers: Record<string, string | readonly string[]> = {};
+    for (const [name, value] of Object.entries<string | readonly string[] | undefined>(h)) {
+      if (value !== undefined) headers[name] = value;
+    }
+    return headers;
+  };
+return customFetch<LearningAudio>(getCreateWordoraAudioUrl(),
+  {
+    ...options,
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...getHeaders(options?.headers) },
+    body: JSON.stringify(learningAudioInput)
+  }
+);}
+
+
+
+
+
+export const getCreateWordoraAudioMutationKey = () => ['createWordoraAudio'] as const;
+
+export const getCreateWordoraAudioMutationOptions = <TError = ErrorType<unknown>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof createWordoraAudio>>, TError,CreateWordoraAudioMutationVariables, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof createWordoraAudio>>, TError,CreateWordoraAudioMutationVariables, TContext> => {
+
+const mutationKey = getCreateWordoraAudioMutationKey();
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof createWordoraAudio>>, CreateWordoraAudioMutationVariables> = (props) => {
+          const {data} = props ?? {};
+
+          return  createWordoraAudio(data,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type CreateWordoraAudioMutationResult = NonNullable<Awaited<ReturnType<typeof createWordoraAudio>>>
+    export type CreateWordoraAudioMutationBody = BodyType<LearningAudioInput>
+    export type CreateWordoraAudioMutationError = ErrorType<unknown>
+    export type CreateWordoraAudioMutationVariables = {data: BodyType<LearningAudioInput>}
+
+    export const useCreateWordoraAudio = <TError = ErrorType<unknown>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof createWordoraAudio>>, TError,CreateWordoraAudioMutationVariables, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof createWordoraAudio>>,
+        TError,
+        CreateWordoraAudioMutationVariables,
+        TContext
+      > => {
+      return useMutation(getCreateWordoraAudioMutationOptions(options));
+    }
+
+export const getGetWordoraAssetUrl = (file: string,) => {
+
+
+
+
+  return `/api/wordora/assets/${file}`
+}
+
+export const getWordoraAsset = async (file: string, options?: Parameters<typeof customFetch>[1]): Promise<Blob> => {
+
+  return customFetch<Blob>(getGetWordoraAssetUrl(file),
+  {
+    ...options,
+    method: 'GET'
+
+
+  }
+);}
+
+
+
+
+
+export const getGetWordoraAssetQueryKey = (file: string,) => {
+    return [
+    `/api/wordora/assets/${file}`
+    ] as const;
+    }
+
+
+export const getGetWordoraAssetQueryOptions = <TData = Awaited<ReturnType<typeof getWordoraAsset>>, TError = ErrorType<unknown>>(file: string, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getWordoraAsset>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+) => {
+
+const {query: queryOptions, request: requestOptions} = options ?? {};
+
+  const queryKey =  queryOptions?.queryKey ?? getGetWordoraAssetQueryKey(file);
+
+
+
+    const queryFn: QueryFunction<Awaited<ReturnType<typeof getWordoraAsset>>> = ({ signal }) => getWordoraAsset(file, { signal, ...requestOptions });
+
+
+
+
+
+   return  { queryKey, queryFn, enabled: file !== null && file !== undefined, ...queryOptions} as UseQueryOptions<Awaited<ReturnType<typeof getWordoraAsset>>, TError, TData> & { queryKey: QueryKey }
+}
+
+export type GetWordoraAssetQueryResult = NonNullable<Awaited<ReturnType<typeof getWordoraAsset>>>
+export type GetWordoraAssetQueryError = ErrorType<unknown>
+
+
+
+export function useGetWordoraAsset<TData = Awaited<ReturnType<typeof getWordoraAsset>>, TError = ErrorType<unknown>>(
+ file: string, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getWordoraAsset>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+
+ ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
+
+  const queryOptions = getGetWordoraAssetQueryOptions(file,options)
+
+  const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
+
+  return withQueryKey(query, queryOptions.queryKey);
+}
+
+
+
+
+
+
 
 export const getHealthCheckUrl = () => {
 

@@ -13,6 +13,60 @@ tags:
   - name: wordora
     description: Wordora learning progress
 paths:
+  /wordora/chat:
+    post:
+      operationId: sendWordoraChat
+      tags: [wordora]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/TutorChatInput"
+      responses:
+        "200":
+          description: Tutor reply
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/TutorChatReply"
+        "429":
+          description: Please wait before trying again
+  /wordora/audio:
+    post:
+      operationId: createWordoraAudio
+      tags: [wordora]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/LearningAudioInput"
+      responses:
+        "200":
+          description: AI-generated pronunciation audio
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/LearningAudio"
+  /wordora/assets/{file}:
+    get:
+      operationId: getWordoraAsset
+      tags: [wordora]
+      parameters:
+        - in: path
+          name: file
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Public learning media
+          content:
+            application/octet-stream:
+              schema:
+                type: string
+                format: binary
   /healthz:
     get:
       operationId: healthCheck
@@ -63,6 +117,53 @@ paths:
           description: Authentication required
 components:
   schemas:
+    TutorMessage:
+      type: object
+      required: [role, content]
+      properties:
+        role:
+          type: string
+          enum: [user, assistant]
+        content:
+          type: string
+          minLength: 1
+          maxLength: 1600
+    TutorChatInput:
+      type: object
+      required: [language, messages]
+      properties:
+        language:
+          type: string
+          enum: [english, french, spanish, german, italian]
+        messages:
+          type: array
+          minItems: 1
+          maxItems: 20
+          items:
+            $ref: "#/components/schemas/TutorMessage"
+    TutorChatReply:
+      type: object
+      required: [reply]
+      properties:
+        reply:
+          type: string
+    LearningAudioInput:
+      type: object
+      required: [language, text]
+      properties:
+        language:
+          type: string
+          enum: [english, french, spanish, german, italian]
+        text:
+          type: string
+          minLength: 1
+          maxLength: 400
+    LearningAudio:
+      type: object
+      required: [url]
+      properties:
+        url:
+          type: string
     HealthStatus:
       type: object
       properties:

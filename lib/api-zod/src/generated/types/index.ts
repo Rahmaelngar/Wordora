@@ -7,6 +7,14 @@
  */
 
 export * from './healthStatus';
+export * from './learningAudio';
+export * from './learningAudioInput';
+export * from './learningAudioInputLanguage';
+export * from './tutorChatInput';
+export * from './tutorChatInputLanguage';
+export * from './tutorChatReply';
+export * from './tutorMessage';
+export * from './tutorMessageRole';
 export * from './wordoraProgress';
 export * from './wordoraProgressInput';
 export * from './wordoraProgressInputQuizAttempts';

@@ -1,1 +1,2 @@
-- [Wordora audience and learning scope](wordora-product.md) — Arabic-speaking learners, five target languages, and A1-to-B1 progression define the curriculum.
+- [Wordora product requirements](wordora-product.md) — Arabic-first learners, five target languages, A1-to-B1 progression, and the confirmed GPT Ieon assistant name.
+- [Learning video compatibility](wordora-media-compatibility.md) — successful media requests do not prove playback; preview Chromium needs a WebM option.

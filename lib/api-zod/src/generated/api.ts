@@ -8,6 +8,46 @@
 import * as zod from 'zod';
 
 
+export const sendWordoraChatBodyMessagesItemContentMax = 1600;
+
+export const sendWordoraChatBodyMessagesMax = 20;
+
+
+
+export const SendWordoraChatBody = zod.object({
+  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian']),
+  "messages": zod.array(zod.object({
+  "role": zod.enum(['user', 'assistant']),
+  "content": zod.string().min(1).max(sendWordoraChatBodyMessagesItemContentMax)
+})).min(1).max(sendWordoraChatBodyMessagesMax)
+})
+
+export const SendWordoraChatResponse = zod.object({
+  "reply": zod.string()
+})
+
+
+export const createWordoraAudioBodyTextMax = 400;
+
+
+
+export const CreateWordoraAudioBody = zod.object({
+  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian']),
+  "text": zod.string().min(1).max(createWordoraAudioBodyTextMax)
+})
+
+export const CreateWordoraAudioResponse = zod.object({
+  "url": zod.string()
+})
+
+
+export const GetWordoraAssetParams = zod.object({
+  "file": zod.coerce.string()
+})
+
+export const GetWordoraAssetResponse = zod.unknown()
+
+
 /**
  * Returns server health status
  * @summary Health check

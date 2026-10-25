@@ -8,3 +8,9 @@ Wordora serves Arabic-speaking learners. Keep explanations, meanings, and learne
 **Why:** The user specified these as product requirements; they define the audience and supported learning scope.
 
 **How to apply:** Keep future content and UI Arabic-first. Do not replace the target languages or level progression without an explicit request.
+
+The educational assistant's display name is **GPT Ieon**, and it belongs centrally on the learning page.
+
+**Why:** The user explicitly confirmed this name and placement after clarification. It is a product name, not a requested model identifier.
+
+**How to apply:** Preserve the exact spelling and Arabic-first tutoring role when changing chat providers or redesigning the learning experience.

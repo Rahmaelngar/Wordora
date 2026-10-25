@@ -5,6 +5,71 @@
  * API specification
  * OpenAPI spec version: 0.1.0
  */
+export type TutorMessageRole = typeof TutorMessageRole[keyof typeof TutorMessageRole];
+
+
+export const TutorMessageRole = {
+  user: 'user',
+  assistant: 'assistant',
+} as const;
+
+export interface TutorMessage {
+  role: TutorMessageRole;
+  /**
+     * @minLength 1
+     * @maxLength 1600
+     */
+  content: string;
+}
+
+export type TutorChatInputLanguage = typeof TutorChatInputLanguage[keyof typeof TutorChatInputLanguage];
+
+
+export const TutorChatInputLanguage = {
+  english: 'english',
+  french: 'french',
+  spanish: 'spanish',
+  german: 'german',
+  italian: 'italian',
+} as const;
+
+export interface TutorChatInput {
+  language: TutorChatInputLanguage;
+  /**
+     * @minItems 1
+     * @maxItems 20
+     */
+  messages: TutorMessage[];
+}
+
+export interface TutorChatReply {
+  reply: string;
+}
+
+export type LearningAudioInputLanguage = typeof LearningAudioInputLanguage[keyof typeof LearningAudioInputLanguage];
+
+
+export const LearningAudioInputLanguage = {
+  english: 'english',
+  french: 'french',
+  spanish: 'spanish',
+  german: 'german',
+  italian: 'italian',
+} as const;
+
+export interface LearningAudioInput {
+  language: LearningAudioInputLanguage;
+  /**
+     * @minLength 1
+     * @maxLength 400
+     */
+  text: string;
+}
+
+export interface LearningAudio {
+  url: string;
+}
+
 export interface HealthStatus {
   status: string;
 }
