@@ -17,6 +17,7 @@ development servers beside them.
 ## Learning features
 
 - `src/data.ts`: vocabulary, Arabic meanings, examples, approximate pronunciation.
+- `src/extra-vocabulary.ts`: append-only additions, keeping existing word IDs stable.
 - `src/features/learning/chat.tsx`: GPT Ieon tutor and session-only history.
 - `src/features/learning/media.tsx`: narrated greeting video/audio for each language.
 - `src/features/learning/audio.tsx`: generated word/example audio and playback.
@@ -62,6 +63,20 @@ by identity. If storage or cloud sync fails, show the learner the actual status.
 provides the matched greetings-group video and explicit unavailable-video state.
 `intro.tsx` shows the original logo briefly at each app load, with a skip button,
 without replaying the introduction on in-app navigation.
+
+The curriculum now has 55 lessons with six entries each (330 words/phrases).
+When a four-word summary checkpoint is loaded after this expansion, the learner
+resumes at the first new word; saved words, points and completed-lesson IDs stay
+unchanged. Completion rewards are not granted again for previously completed lessons.
+
+After activating example audio, its written sentence and Arabic translation stay
+visible beside the control. The existing word card already supplies the word and
+meaning beside compact pronunciation buttons. The opened greeting video/WAV also
+offers a show/hide transcript. This is readable text, not time-synchronized subtitles.
+The frozen recording text is `features/learning/greeting-transcript.ts`: it covers
+only the four phrases actually spoken by those existing recordings, not the two
+appended words. Media generation uses this same snapshot so a cached older WAV
+cannot silently be paired with a longer displayed transcript.
 
 ## API and durable media
 

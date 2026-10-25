@@ -14,3 +14,9 @@ Tiny byte-range probes can also miss transport warnings that appear during full-
 **Why:** Full downloads reproduced listener-limit warnings in the storage transport's stream pipeline while repeated 100-byte reads did not.
 
 **How to apply:** Diagnose streaming warnings with full-sized reads and warning traces. Do not treat a passing tiny range request as proof of a lifecycle fix, or suppress listener limits globally without finding the cause.
+
+Media transcripts must match the published recording, not automatically include all current vocabulary.
+
+**Why:** A lesson can gain new words while its existing video/WAV continues to narrate only the older phrases. Using the live word list as a transcript would falsely claim those additions are spoken.
+
+**How to apply:** Update narration and its transcript together, invalidate old generation caches when changing the recording, and do not imply timestamp synchronization without real alignment data.

@@ -1,3 +1,5 @@
+import { additionalWords } from './extra-vocabulary';
+
 export type LanguageId = 'english' | 'french' | 'spanish' | 'german' | 'italian';
 export type Level = 'A1' | 'A2' | 'B1';
 export type Word = { id: string; term: string; arabicMeaning: string; pronunciation: string; example: string; exampleArabic: string };
@@ -164,10 +166,10 @@ const starterLessons: Lesson[] = languages.flatMap((language) => topics.map((top
   topic: topic.title,
   words: topic.phrases[language.id].map((term, wordIndex) => ({
     id: `${language.id}-${topicIndex + 1}-${wordIndex + 1}`, term,
-    arabicMeaning: meanings[topic.group][wordIndex],
+    arabicMeaning: language.id === 'french' && topicIndex === 0 && wordIndex === 1 ? 'أهلًا (غير رسمي)' : meanings[topic.group][wordIndex],
     pronunciation: topicIndex === 0 ? pronunciation[language.id][wordIndex] : pronunciationHints[language.id][topic.group][wordIndex],
     example: topicIndex === 0 ? examples[language.id][wordIndex] : exampleSentences[language.id][topic.group][wordIndex],
-    exampleArabic: topicIndex === 0 ? examplesAr[wordIndex] : exampleTranslations[topic.group][wordIndex],
+    exampleArabic: language.id === 'french' && topicIndex === 0 && wordIndex === 1 ? 'أهلًا يا سارة.' : topicIndex === 0 ? examplesAr[wordIndex] : exampleTranslations[topic.group][wordIndex],
   })),
 })));
 type Four = [string, string, string, string];
@@ -273,5 +275,7 @@ const advancedLessons: Lesson[] = languages.flatMap((language) => advancedTopics
     exampleArabic: topic.examplesArabic[wordIndex],
   })),
 })));
-export const lessons: Lesson[] = [...starterLessons, ...advancedLessons];
+export const lessons: Lesson[] = [...starterLessons, ...advancedLessons].map(lesson => ({
+  ...lesson, words: [...lesson.words, ...additionalWords(lesson)],
+}));
 export const lessonById = (id: string) => lessons.find((lesson) => lesson.id === id);

@@ -26,3 +26,9 @@ Lessons should show one word at a time; a full vocabulary list belongs in the en
 **Why:** The user explicitly chose this learning flow and rejected stacked word lists, fictional videos and broken links.
 
 **How to apply:** Preserve next/previous navigation, resumable study and a separate quiz step when extending lessons.
+
+The user clarified: «جمل الصوت والفيديو تظهر مكتوبة مع ترجمتها بالعربي».
+
+**Why:** This explicitly refers to the recorded lesson content, not converting the learner's microphone speech to text.
+
+**How to apply:** Pair spoken lesson sentences with readable original text and Arabic translation. Do not substitute a microphone feature for this requirement.

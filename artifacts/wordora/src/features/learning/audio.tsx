@@ -3,6 +3,7 @@ import { useCreateWordoraAudio } from '@workspace/api-client-react';
 import { Loader2, RotateCcw, Square, Volume2 } from 'lucide-react';
 import type { LanguageId } from '../../data';
 
+export const langCode: Record<LanguageId, string> = { english: 'en', french: 'fr', spanish: 'es', german: 'de', italian: 'it' };
 const urlCache = new Map<string, string>();
 export const soundOn = () => { try { const raw = localStorage.getItem('wordora-preferences-v1'); if (!raw) return true; const p = JSON.parse(raw); return p.sound !== false; } catch { return true; } };
 let activeAudio: HTMLAudioElement | null = null;
@@ -45,17 +46,24 @@ export function useLearningAudio(language: LanguageId, text: string) {
   return { state, url, play, cancel };
 }
 
-export function AudioButton({ language, text, label, testId, compact, className }: { language: LanguageId; text: string; label: string; testId: string; compact?: boolean; className?: string }) {
+export function AudioButton({ language, text, label, testId, compact, className, translation }: { language: LanguageId; text: string; translation?: string; label: string; testId: string; compact?: boolean; className?: string }) {
   const { state, url, play, cancel } = useLearningAudio(language, text);
   const enabled = soundOn();
+  const [heard, setHeard] = useState(false);
+  useEffect(() => { setHeard(false); }, [language, text]);
   const busy = state === 'loading' || state === 'playing';
   return <span className="audio-control" aria-live="polite">
-    <button type="button" className={className ?? (compact ? 'btn btn-quiet' : 'btn btn-outline')} onClick={() => busy ? cancel() : play()} disabled={!enabled}
+    <button type="button" className={className ?? (compact ? 'btn btn-quiet' : 'btn btn-outline')} onClick={() => { if (busy) cancel(); else { setHeard(true); void play(); } }} disabled={!enabled}
       aria-label={!enabled ? 'الصوت مُعطّل من الإعدادات' : busy ? 'إيقاف الصوت' : label} title={!enabled ? 'فعّل الصوت من الإعدادات' : label} data-testid={testId}>
       {state === 'loading' ? <Loader2 size={18} className="spin" /> : state === 'playing' ? <Square size={16} /> : state === 'error' ? <RotateCcw size={17} /> : <Volume2 size={18} />}
       {!compact && <span>{state === 'loading' ? 'جارٍ تجهيز الصوت…' : state === 'playing' ? 'إيقاف' : state === 'error' ? 'أعد المحاولة' : label}</span>}
     </button>
     {state === 'error' && <small className="audio-msg err" role="alert" data-testid={`${testId}-error`}>تعذّر تشغيل الصوت. حاول مرة أخرى.</small>}
     {state === 'blocked' && url && <span className="audio-msg"><small>المتصفح منع التشغيل التلقائي، شغّله يدوياً:</small><audio controls preload="none" src={url} data-testid={`${testId}-fallback`} /></span>}
+    {heard && enabled && !compact && <span className="spoken-text" role="note" data-testid={`${testId}-spoken`}>
+      <small>النص المنطوق</small>
+      <span dir="ltr" lang={langCode[language]}>{text}</span>
+      {translation && <span dir="rtl" lang="ar">{translation}</span>}
+    </span>}
   </span>;
 }

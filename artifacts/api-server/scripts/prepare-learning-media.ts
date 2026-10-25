@@ -3,7 +3,8 @@ import { resolve } from "node:path";
 import { execFileSync } from "node:child_process";
 import { batchProcess } from "@workspace/integrations-openai-ai-server/batch";
 import { generateLearningAudio, saveMedia } from "../src/lib/learning-ai";
-import { languages, lessons } from "../../wordora/src/data";
+import { languages } from "../../wordora/src/data";
+import { greetingTranscript } from "../../wordora/src/features/learning/greeting-transcript";
 
 const workspace = resolve(import.meta.dirname, "../../..");
 const output = resolve(workspace, "generated-artifacts/wordora-learning");
@@ -14,16 +15,16 @@ for (const name of ["wordora-learning", "wordora-conversation"]) {
 }
 const font = execFileSync("fc-match", ["-f", "%{file}", "DejaVu Sans"], { encoding: "utf8" }).trim();
 await batchProcess(languages, async language => {
-  const lesson = lessons.find(item => item.languageId === language.id && item.level === "A1")!;
+  const transcript = greetingTranscript[language.id];
   const audioPath = resolve(output, `lesson-${language.id}.wav`);
   try { await access(audioPath); } catch {
     console.log(`Generating ${language.name} narration`);
-    const audio = await generateLearningAudio(lesson.words.map(word => `${word.term}. ${word.example}`).join("\n"), language.id);
+    const audio = await generateLearningAudio(transcript.map(line => `${line.term}. ${line.sentence}`).join("\n"), language.id);
     await writeFile(audioPath, audio);
   }
   await saveMedia(`lesson-${language.id}.wav`, await readFile(audioPath), "audio/wav");
   const textPath = resolve(output, `${language.id}-phrases.txt`);
-  await writeFile(textPath, lesson.words.map(word => word.term).join("\n\n"));
+  await writeFile(textPath, transcript.map(line => line.term).join("\n\n"));
   const videoPath = resolve(output, `lesson-${language.id}.mp4`);
   const filter = [
     "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720",

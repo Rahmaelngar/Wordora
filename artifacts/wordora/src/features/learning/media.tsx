@@ -1,13 +1,14 @@
 import { useEffect, useRef, useState } from 'react';
 import { Film, Headphones } from 'lucide-react';
-import { languages, lessons, type LanguageId } from '../../data';
+import { languages, type LanguageId } from '../../data';
+import { greetingTranscript } from './greeting-transcript';
 import { PronunciationPractice } from './pronunciation';
 import { soundOn, stopAllLearningAudio } from './audio';
 
 export const assetUrl = (file: string) => `${import.meta.env.BASE_URL.replace(/\/$/, '')}/api/wordora/assets/${file}`;
 
 export function MediaLesson({ language }: { language: LanguageId }) {
-  const lesson = lessons.find(l => l.languageId === language && l.level === 'A1')!;
+  const transcript = greetingTranscript[language];
   const info = languages.find(l => l.id === language)!;
   const videoRef = useRef<HTMLVideoElement>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -29,11 +30,11 @@ export function MediaLesson({ language }: { language: LanguageId }) {
           {enabled ? <audio key={language} ref={audioRef} controls preload="metadata" onError={() => setAudioError(true)} onPlay={() => { videoRef.current?.pause(); stopAllLearningAudio(); }} src={assetUrl(`lesson-${language}.wav`)} data-testid={`audio-lesson-${language}`} /> : <small>الصوت مُعطّل من الإعدادات.</small>}
         </div>
         {audioError && <p role="alert">تعذّر تحميل الصوت. حاول مرة أخرى بعد التحقق من الاتصال.</p>}
-        <PronunciationPractice language={language} target={lesson.words[0].example} testId="pronunciation-media" />
+        <PronunciationPractice language={language} target={transcript[0].sentence} testId="pronunciation-media" />
       </div>
       <ol className="transcript" aria-label="نص الدرس" data-testid="list-transcript">
         <li className="transcript-title"><Film size={15} /> النص والترجمة</li>
-        {lesson.words.map(w => <li key={w.id}><b dir="ltr" lang={language}>{w.term}</b><span>{w.arabicMeaning}</span><em dir="ltr">{w.example}</em><span>{w.exampleArabic}</span></li>)}
+        {transcript.map(w => <li key={w.wordId}><b dir="ltr" lang={language}>{w.term}</b><span>{w.arabicMeaning}</span><em dir="ltr">{w.sentence}</em><span>{w.sentenceArabic}</span></li>)}
       </ol>
     </div>
   </section>;

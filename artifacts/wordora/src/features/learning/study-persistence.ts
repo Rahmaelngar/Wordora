@@ -18,8 +18,10 @@ export function mergeLessonStudy(...sources: unknown[]): StudyMap {
       const timestamp = typeof raw.updatedAt === 'string' ? Date.parse(raw.updatedAt) : NaN;
       const updatedAt = Number.isFinite(timestamp) ? new Date(timestamp).toISOString() : new Date(0).toISOString();
       if (result[id] && Date.parse(result[id].updatedAt) > Date.parse(updatedAt)) continue;
+      const firstNewWord = raw.stage === 'summary' && studiedWordIds.length < lesson.words.length
+        ? lesson.words.findIndex(word => !studied.has(word.id)) : -1;
       result[id] = {
-        wordIndex: typeof raw.wordIndex === 'number' && Number.isInteger(raw.wordIndex)
+        wordIndex: firstNewWord >= 0 ? firstNewWord : typeof raw.wordIndex === 'number' && Number.isInteger(raw.wordIndex)
           ? Math.max(0, Math.min(raw.wordIndex, lesson.words.length - 1)) : 0,
         studiedWordIds,
         stage: raw.stage === 'summary' && studiedWordIds.length === lesson.words.length ? 'summary' : 'words',

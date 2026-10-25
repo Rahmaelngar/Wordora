@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { AlertCircle, Film, Headphones, Loader2, Play, RotateCcw, VideoOff, X } from 'lucide-react';
 import type { LanguageId } from '../../data';
-import { soundOn, stopAllLearningAudio } from './audio';
+import { langCode, soundOn, stopAllLearningAudio } from './audio';
+import { greetingTranscript } from './greeting-transcript';
 import { assetUrl } from './media';
 
 export const LEARNING_AUDIO_EVENT = 'wordora:learning-audio-play';
@@ -11,6 +12,7 @@ export function GreetingVideo({ language, languageName, pauseKey }: { language: 
   const [open, setOpen] = useState(false);
   const [status, setStatus] = useState<'loading' | 'ready' | 'error'>('loading');
   const [attempt, setAttempt] = useState(0);
+  const [showText, setShowText] = useState(true);
   const [audioError, setAudioError] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -45,6 +47,7 @@ export function GreetingVideo({ language, languageName, pauseKey }: { language: 
         <audio ref={audioRef} controls preload="none" onError={() => setAudioError(true)} onPlay={() => { videoRef.current?.pause(); stopAllLearningAudio(); }} src={assetUrl(`lesson-${language}.wav`)} data-testid={`audio-lesson-${language}`} />
       </div>}
       {audioError && <p className="pron-note err" role="alert">تعذّر تحميل الملف الصوتي.</p>}
+      <MediaTranscript language={language} show={showText} onToggle={() => setShowText(v => !v)} />
     </div>}
   </section>;
 }
@@ -54,4 +57,19 @@ export function VideoUnavailable() {
     <div className="lesson-video-head"><span className="lesson-video-icon muted"><VideoOff size={18} /></span>
       <div><strong>لا يوجد فيديو لهذا الدرس</strong><small>استخدم زر الاستماع لسماع نطق الكلمة والمثال، ثم جرّب قولها بصوتك.</small></div></div>
   </div>;
+}
+
+function MediaTranscript({ language, show, onToggle }: { language: LanguageId; show: boolean; onToggle: () => void }) {
+  const rows = greetingTranscript[language] ?? [];
+  return <section className="media-transcript" aria-labelledby="media-transcript-title" data-testid="section-media-transcript">
+    <div className="media-transcript-head">
+      <h3 id="media-transcript-title">النص المكتوب للفيديو والصوت</h3>
+      <button type="button" className="btn btn-quiet btn-small" aria-expanded={show} onClick={onToggle} data-testid="button-toggle-media-transcript">{show ? 'إخفاء النص' : 'إظهار النص'}</button>
+    </div>
+    <p className="media-transcript-note">يغطي هذا الفيديو والملف الصوتي عبارات التحية الأربع التالية فقط (نص غير متزامن مع الوقت). باقي كلمات الدرس لها زر استماع خاص بالكلمة والمثال.</p>
+    {show && <ol className="media-transcript-list">{rows.map(r => <li key={r.wordId} data-testid={`row-media-transcript-${r.wordId}`}>
+      <div className="mt-pair"><b dir="ltr" lang={langCode[language]}>{r.term}</b><span dir="rtl" lang="ar">{r.arabicMeaning}</span></div>
+      <div className="mt-pair"><span dir="ltr" lang={langCode[language]}>{r.sentence}</span><span dir="rtl" lang="ar">{r.sentenceArabic}</span></div>
+    </li>)}</ol>}
+  </section>;
 }
