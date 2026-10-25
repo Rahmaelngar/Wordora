@@ -218,7 +218,7 @@ function Shell({ children }: { children: ReactNode }) {
 function Landing() {
   const [, setLocation] = useLocation();
   const { updateProgress } = useApp();
-  return <div dir="rtl">
+  return <div dir="rtl" className="landing">
     <section className="hero page-wrap"><div className="hero-grid">
       <div><div className="hero-kicker">خطوة صغيرة، عالم أوسع</div><h1 dir="ltr" style={{textAlign:'left'}}>Learn a New Language.<br/><span>Open a New World.</span></h1>
         <p className="hero-copy">ابدأ من كلمة واحدة. دروس قصيرة، نطق واضح، وعبارات حقيقية تساعدك تتحدث بثقة — على راحتك، وبخطوتك.</p>
@@ -227,14 +227,14 @@ function Landing() {
       </div>
       <div className="hero-art"><img className="hero-logo-image" src="/wordora-logo.png" alt="شعار Wordora الكامل: Words Open New Worlds" /></div>
     </div></section>
-    <section className="section page-wrap"><div className="section-heading"><div><h2>أيّ لغة تفتح لك الباب؟</h2><p>اختر لغة وابدأ بأول درس للمبتدئين.</p></div><span className="badge">٥ لغات متاحة</span></div>
+    <section className="section page-wrap"><div className="section-heading"><div><h2>أيّ لغة تفتح لك الباب؟</h2><p>اختر لغة وابدأ بأول درس للمبتدئين.</p></div><span className="badge" data-testid="text-language-count">{arNum(languages.length)} لغات متاحة</span></div>
       <div className="language-grid">{languages.map(language=><button key={language.id} className="language-card" onClick={()=>{ localStorage.setItem('wordora-language-hint',language.id); updateProgress(old=>({...old,selectedLanguage:language.id})); setLocation('/learn'); }} data-testid={`button-choose-language-${language.id}`}><span className="language-flag" style={{fontFamily:'DM Sans',fontWeight:800,fontSize:'.9rem',background:'#f0ebfb',color:'#704cce',width:39,height:39,borderRadius:13,display:'grid',placeItems:'center'}}>{language.flag}</span><b dir="ltr">{language.name}</b><span>{language.arabicName}</span></button>)}</div>
     </section>
     <section className="section page-wrap"><div className="section-heading"><div><h2>تعلّم يناسب يومك</h2><p>بدون ضغط. كل تقدّم صغير يستحق الاحتفال.</p></div></div><div className="feature-grid"><article className="feature-panel"><Sparkles size={25}/><h3>عبارات تستخدمها فعلاً</h3><p>تدرّب على التحية، الطلب، التنقّل، ومواقف الحياة اليومية — مع المعنى والنطق.</p><div className="feature-number">01</div></article><article className="feature-panel alt"><Headphones size={25}/><h3>اسمعها، ثم قلها</h3><p>استمع إلى نطق حقيقي، شاهد درساً مروياً، ثم جرّب قولها بصوتك.</p><div className="feature-number">02</div></article></div></section>
     <section className="section page-wrap"><figure className="home-photo"><img src={assetUrl('wordora-learning.jpg')} alt="متعلّمة تستمع إلى درس لغة على حاسوبها" loading="lazy"/><figcaption><b>تعلّم بالسمع والمشاهدة</b><span>دروس فيديو مروية، صوت لكل كلمة، ومساعد GPT Ieon للأسئلة.</span><em className="ai-label">صورة مُولّدة بالذكاء الاصطناعي</em></figcaption></figure></section>
-    <section className="section page-wrap steps-section"><div className="section-heading"><div><h2>كيف تبدأ رحلتك؟</h2><p>ثلاث خطوات بسيطة، وكل خطوة محسوبة من إنجازك الحقيقي.</p></div></div><div className="steps-grid"><article className="step-card"><span>01</span><h3>اختر لغتك</h3><p>ابدأ بالإنجليزية أو الفرنسية أو الإسبانية أو الألمانية أو الإيطالية.</p></article><article className="step-card"><span>02</span><h3>تعلّم كلمات الدرس</h3><p>اقرأ المعنى والمثال، واستمع إلى النطق ثم احفظ ما تريد مراجعته.</p></article><article className="step-card"><span>03</span><h3>اختبر نفسك</h3><p>أجب عن أسئلة قصيرة لتحصل على نقاط وتتابع تقدمك خطوة بخطوة.</p></article></div></section>
+    <section className="section page-wrap steps-section"><div className="section-heading"><div><h2>كيف تبدأ رحلتك؟</h2><p>ثلاث خطوات بسيطة، وكل خطوة محسوبة من إنجازك الحقيقي.</p></div></div><div className="steps-grid"><article className="step-card"><span>01</span><h3>اختر لغتك</h3><p>{languages.length} لغات متاحة، ابدأ بأيّها شئت من المستوى A1.</p></article><article className="step-card"><span>02</span><h3>تعلّم كلمات الدرس</h3><p>اقرأ المعنى والمثال، واستمع إلى النطق ثم احفظ ما تريد مراجعته.</p></article><article className="step-card"><span>03</span><h3>اختبر نفسك</h3><p>أجب عن أسئلة قصيرة لتحصل على نقاط وتتابع تقدمك خطوة بخطوة.</p></article></div></section>
     <section className="section page-wrap" style={{paddingTop:8}}><div className="welcome-banner"><div><div className="hero-kicker">رحلتك تبدأ هنا</div><h1>كلمة اليوم قد تغيّر غداً.</h1><p>ابدأ درساً قصيراً، واحفظ الكلمات التي تريد العودة إليها.</p></div><Link className="btn btn-primary" href="/learn" data-testid="link-footer-start">اختر أول درس <ChevronLeft size={18}/></Link></div></section>
-    <div className="page-wrap" style={{paddingBottom:34,color:'#8a8495',fontSize:'.88rem'}}>دروس المستوى A1 مفتوحة من البداية. تقدّمك محفوظ على هذا الجهاز، ويمكنك مزامنته مع حسابك لاحقاً.</div>
+    <div className="page-wrap landing-note">دروس المستوى A1 مفتوحة من البداية. تقدّمك محفوظ على هذا الجهاز، ويمكنك مزامنته مع حسابك لاحقاً.</div>
   </div>;
 }
 function SelectLanguage() {
@@ -252,12 +252,17 @@ function LearnPage() {
     <div className="welcome-banner"><div><div className="hero-kicker">مساحة التعلّم</div><h1>أهلاً بك في رحلتك.</h1><p>درس واحد قصير يكفي لتبدأ اليوم.</p></div><SelectLanguage/></div>
     {cloudError && !localOnly && <div className="notice" style={{marginBottom:16}}>تعذّر تحميل المزامنة الآن. سيبقى تقدّمك على هذا الجهاز، وسنحاول مرة أخرى لاحقاً.</div>}
     <DailyPlan progress={progress} language={lang} updateProgress={updateProgress}/>
-    <div className="stat-strip"><div className="stat"><strong data-testid="text-points">{progress.points}</strong><span>نقطة تعلّم</span></div><div className="stat"><strong data-testid="text-streak">{getDailyPlan(progress,lang).streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-completed-count">{progress.completedLessons.length}</strong><span>درس مكتمل</span></div></div>
-    <div className="learn-photo"><img src={assetUrl('wordora-conversation.jpg')} alt="متعلّمان يتدرّبان على محادثة بلغة جديدة" loading="lazy" onError={e=>{(e.currentTarget.parentElement as HTMLElement).style.display='none';}}/><span className="ai-label">صورة مُولّدة بالذكاء الاصطناعي</span></div>
-    <GptIeon language={lang}/>
-    <Link href={`/lesson/${lang}-1`} className="video-teaser" data-testid="link-greeting-video"><span className="lesson-video-icon"><Film size={18}/></span><span><b>فيديو درس التحية</b><small>متاح داخل أول درس A1 «التحية والتعارف» — افتحه من شاشة الدرس.</small></span><ChevronLeft size={17}/></Link>
-    <div style={{display:'flex',justifyContent:'space-between',gap:12,alignItems:'center',flexWrap:'wrap'}}><div><h2 style={{margin:'0 0 5px',color:'#36256e'}}>دروس {language.arabicName}</h2><div style={{color:'#888293'}}>اختر موضوعاً وابدأ بالمفردات الأساسية.</div></div><span className="badge" dir="ltr">{language.name} · {lessons.filter(l=>l.languageId===lang).length}</span></div>
-    <LevelTabs key={lang} lang={lang} completed={progress.completedLessons}/>
+    <div className="stat-strip learn-stats"><div className="stat"><strong data-testid="text-points">{progress.points}</strong><span>نقطة تعلّم</span></div><div className="stat"><strong data-testid="text-streak">{getDailyPlan(progress,lang).streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-completed-count">{progress.completedLessons.length}</strong><span>درس مكتمل</span></div></div>
+    <section className="learn-block" aria-labelledby="learn-lessons-title">
+      <div className="learn-block-head"><div><span className="rv-kicker">الدروس</span><h2 id="learn-lessons-title">دروس {language.arabicName}</h2><p>اختر مستواك ثم موضوعاً واحداً.</p></div><span className="badge" dir="ltr">{language.name} · {lessons.filter(l=>l.languageId===lang).length}</span></div>
+      <LevelTabs key={lang} lang={lang} completed={progress.completedLessons}/>
+    </section>
+    <section className="learn-block learn-assist" aria-label="مساعد ووسائط">
+      <div className="learn-block-head"><div><span className="rv-kicker">مساعدة إضافية</span><h2>اسأل وشاهد</h2><p>GPT Ieon للأسئلة، وفيديو التحية داخل أول درس.</p></div></div>
+      <details className="learn-fold" data-testid="details-gpt-ieon"><summary data-testid="button-toggle-gpt-ieon"><MessageCircle size={17}/><span><b dir="ltr">GPT Ieon</b><small>افتح المساعد واسأل عن أي كلمة أو قاعدة بالعربية</small></span><ChevronLeft size={16} className="learn-fold-chev"/></summary><GptIeon language={lang}/></details>
+      <Link href={`/lesson/${lang}-1`} className="video-teaser" data-testid="link-greeting-video"><span className="lesson-video-icon"><Film size={18}/></span><span><b>فيديو درس التحية</b><small>متاح داخل أول درس A1 «التحية والتعارف» — افتحه من شاشة الدرس.</small></span><ChevronLeft size={17}/></Link>
+      <div className="learn-photo"><img src={assetUrl('wordora-conversation.jpg')} alt="متعلّمان يتدرّبان على محادثة بلغة جديدة" loading="lazy" onError={e=>{(e.currentTarget.parentElement as HTMLElement).style.display='none';}}/><span className="ai-label">صورة مُولّدة بالذكاء الاصطناعي</span></div>
+    </section>
     <div style={{marginTop:28,color:'#928b9e',fontSize:'.86rem'}}>{localOnly?'ملف محلي: تقدّمك محفوظ على هذا الجهاز فقط. أنشئ حساباً لمزامنته.':'تقدّمك محفوظ في حسابك.'}{localOnly&&<Link href="/sign-up" style={{color:'#704cce',fontWeight:700,marginRight:6}} data-testid="link-sync-account">إنشاء حساب</Link>}</div>
   </main>;
 }
@@ -265,6 +270,8 @@ const levelLabels:Record<Level,string>={A1:'مفردات أساسية',A2:'عب�
 const arNum=(n:number)=>n.toLocaleString('ar-EG');
 function LevelTabs({lang,completed}:{lang:LanguageId;completed:string[]}) {
   const [active,setActive]=useState<Level>('A1');
+  const [showAll,setShowAll]=useState(false);
+  useEffect(()=>setShowAll(false),[active,lang]);
   const tabRefs=useRef<(HTMLButtonElement|null)[]>([]);
   const info=levelRules.map(r=>{const list=lessons.filter(l=>l.languageId===lang&&l.level===r.level);return {...r,list,entries:list.reduce((n,l)=>n+l.words.length,0),done:list.filter(l=>completed.includes(l.id)).length,unlocked:isLevelUnlocked(completed,lang,r.level)};});
   const cur=info.find(i=>i.level===active)!;
@@ -280,7 +287,8 @@ function LevelTabs({lang,completed}:{lang:LanguageId;completed:string[]}) {
     <div role="tabpanel" id={`lv-panel-${active}`} aria-labelledby={`lv-tab-${active}`} className="lv-panel">
       <div className="level-head"><h2>{cur.title} — {levelLabels[cur.level]}</h2><span className="badge" data-testid={`text-level-summary-${cur.level}`}>{arNum(cur.entries)} كلمة وتعبير • {arNum(cur.list.length)} درسًا</span><span className="badge lv-done" data-testid={`text-level-count-${cur.level}`}>{arNum(cur.done)}/{arNum(cur.list.length)} مكتمل</span></div>
       {!cur.unlocked&&<div className="notice lv-lock" data-testid={`status-level-locked-${cur.level}`}><LockKeyhole size={16}/> هذا المستوى مقفل. أكمل {arNum(cur.required)} دروس من المستوى {prevLevel?.level} لفتحه (أنجزت {arNum(prevLevel?.done??0)} حتى الآن). يمكنك تصفّح المواضيع أدناه.</div>}
-      <div className="lesson-grid">{cur.list.map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!cur.unlocked} completed={completed.includes(lesson.id)} number={index+1}/>)}</div>
+      <div id={`lesson-list-${cur.level}`} className="lesson-grid">{(showAll?cur.list:cur.list.slice(0,3)).map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!cur.unlocked} completed={completed.includes(lesson.id)} number={index+1}/>)}</div>
+      {cur.list.length>3&&<div className="lesson-list-toggle"><p>معروض {arNum(showAll?cur.list.length:3)} من {arNum(cur.list.length)} درسًا</p><button type="button" className="btn btn-outline" aria-expanded={showAll} aria-controls={`lesson-list-${cur.level}`} onClick={()=>setShowAll(value=>!value)} data-testid="button-toggle-all-lessons">{showAll?'عرض دروس أقل':`عرض كل دروس ${cur.level}`}<ChevronLeft size={16}/></button></div>}
     </div>
   </section>;
 }

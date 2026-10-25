@@ -30,10 +30,13 @@ export function DailyPlan({ progress, language, updateProgress }: Props) {
       <div className="dp-copy">
         <span className="rv-kicker">خطتك لليوم</span>
         <h2 id="dp-title">{plan.completed ? 'أنجزت خطة اليوم بالكامل.' : plan.tasksDone > 0 ? 'بداية جيدة، أكمل ما تبقّى.' : 'ثلاث خطوات تكفي اليوم.'}</h2>
+        <details className="dp-options" data-testid="details-daily-goal">
+        <summary>هدف اليوم: {ar(minutes)} دقائق تقديرية · تعديل</summary>
         <div className="dp-goal" role="radiogroup" aria-label="مدة الخطة التقديرية">
           {goalOptions.map(m => <button key={m} role="radio" aria-checked={minutes === m} className={minutes === m ? 'on' : ''} onClick={() => pick(m)} data-testid={`button-goal-${m}`}>{ar(m)} د</button>)}
         </div>
         <p className="dp-hint">مدة تقديرية للخطة، وليست وقتاً مُقاساً. الهدف: {ar(plan.wordTarget)} كلمات صحيحة.</p>
+        </details>
       </div>
     </div>
     <ul className="dp-tasks">{tasks.map(({ id, icon: Icon, label, value, target }) => { const ok = value >= target; return <li key={id} className={ok ? 'ok' : ''} data-testid={`task-daily-${id}`}>

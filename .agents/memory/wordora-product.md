@@ -15,6 +15,15 @@ The user explicitly chose **100 learning entries in A1, 150 in A2, and 200 in B1
 
 **How to apply:** Distribute the content into short interactive lessons without deleting existing IDs/progress. Show level totals separately from the smaller lesson word counter; preserve the agreed quantities when editing the curriculum.
 
+Keep the interface visually calm and avoid showing every secondary control or
+long lesson list at once.
+
+**Why:** The user explicitly found the site's layout too dense to look at and
+asked for clearer organization, while keeping the existing product functional.
+
+**How to apply:** Give each page a clear primary task, group related content,
+and progressively reveal secondary options without removing access to them.
+
 The educational assistant's display name is **GPT Ieon**, and it belongs centrally on the learning page.
 
 **Why:** The user explicitly confirmed this name and placement after clarification. It is a product name, not a requested model identifier.
