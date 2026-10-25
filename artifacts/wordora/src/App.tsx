@@ -42,7 +42,7 @@ const touch = (p: ProgressData): ProgressData => {
 const appAppearance = {
   theme: shadcn,
   cssLayerName: 'clerk',
-  options: { logoPlacement: 'inside' as const, logoLinkUrl: basePath || '/', logoImageUrl: `${window.location.origin}${basePath}/logo.svg` },
+  options: { logoPlacement: 'inside' as const, logoLinkUrl: basePath || '/', logoImageUrl: `${window.location.origin}${basePath}/wordora-logo.png` },
   variables: { colorPrimary: '#704cce', colorForeground: '#36256e', colorMutedForeground: '#817b8e', colorDanger: '#c65c54', colorBackground: '#fffdfa', colorInput: '#fffdfa', colorInputForeground: '#36256e', colorNeutral: '#e7e1ef', fontFamily: 'DM Sans, Noto Sans Arabic, sans-serif', borderRadius: '14px' },
   elements: {
     rootBox: 'w-full flex justify-center', cardBox: 'bg-[#fffdfa] rounded-2xl w-[440px] max-w-full overflow-hidden shadow-xl',
@@ -186,7 +186,7 @@ function Landing() {
         <div className="hero-actions"><Link href="/learn" className="btn btn-primary" data-testid="link-start-learning">ابدأ التعلّم <ChevronLeft size={18}/></Link><Link href="/sign-up" className="btn btn-outline" data-testid="link-create-account">أنشئ حساباً مجانياً</Link></div>
         <div style={{marginTop:20,color:'#898395',fontSize:'.88rem'}}>ملف تعلّم محلي جاهز لك حتى قبل إنشاء حساب</div>
       </div>
-      <div className="hero-art" aria-label="كلمات ترحّب بك بلغات مختلفة"><div className="art-orbit"><div className="art-core"><img src="/wordora-logo.png" alt="" /></div></div><div className="bubble one" dir="ltr">Hello</div><div className="bubble two" dir="ltr">Bonjour</div><div className="bubble three" dir="ltr">Hola</div><div className="bubble four" dir="ltr">Hallo</div></div>
+      <div className="hero-art"><img className="hero-logo-image" src="/wordora-logo.png" alt="شعار Wordora الكامل: Words Open New Worlds" /></div>
     </div></section>
     <section className="section page-wrap"><div className="section-heading"><div><h2>أيّ لغة تفتح لك الباب؟</h2><p>اختر لغة وابدأ بأول درس للمبتدئين.</p></div><span className="badge">٥ لغات متاحة</span></div>
       <div className="language-grid">{languages.map(language=><button key={language.id} className="language-card" onClick={()=>{ localStorage.setItem('wordora-language-hint',language.id); updateProgress(old=>({...old,selectedLanguage:language.id})); setLocation('/learn'); }} data-testid={`button-choose-language-${language.id}`}><span className="language-flag" style={{fontFamily:'DM Sans',fontWeight:800,fontSize:'.9rem',background:'#f0ebfb',color:'#704cce',width:39,height:39,borderRadius:13,display:'grid',placeItems:'center'}}>{language.flag}</span><b dir="ltr">{language.name}</b><span>{language.arabicName}</span></button>)}</div>
