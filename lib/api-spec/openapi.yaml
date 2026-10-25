@@ -10,6 +10,8 @@ servers:
 tags:
   - name: health
     description: Health operations
+  - name: wordora
+    description: Wordora learning progress
 paths:
   /healthz:
     get:
@@ -24,6 +26,41 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/HealthStatus"
+  /wordora/progress:
+    get:
+      operationId: getWordoraProgress
+      tags: [wordora]
+      summary: Get the signed-in user's learning progress
+      responses:
+        "200":
+          description: Learning progress, initialized to an empty state when not saved yet
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WordoraProgress"
+        "401":
+          description: Authentication required
+    put:
+      operationId: saveWordoraProgress
+      tags: [wordora]
+      summary: Save the signed-in user's learning progress
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/WordoraProgressInput"
+      responses:
+        "200":
+          description: Saved learning progress
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WordoraProgress"
+        "400":
+          description: Invalid progress data
+        "401":
+          description: Authentication required
 components:
   schemas:
     HealthStatus:
@@ -33,4 +70,74 @@ components:
           type: string
       required:
         - status
+    WordoraProgress:
+      type: object
+      required:
+        - selectedLanguage
+        - completedLessons
+        - savedWords
+        - points
+        - streak
+        - lastActiveDate
+        - quizAttempts
+      properties:
+        selectedLanguage:
+          type: ["string", "null"]
+          enum: [english, french, spanish, german, italian, null]
+        completedLessons:
+          type: array
+          items:
+            type: string
+        savedWords:
+          type: array
+          items:
+            type: string
+        points:
+          type: integer
+          minimum: 0
+        streak:
+          type: integer
+          minimum: 0
+        lastActiveDate:
+          type: ["string", "null"]
+        quizAttempts:
+          type: object
+          additionalProperties:
+            type: integer
+            minimum: 0
+    WordoraProgressInput:
+      type: object
+      required:
+        - selectedLanguage
+        - completedLessons
+        - savedWords
+        - points
+        - streak
+        - lastActiveDate
+        - quizAttempts
+      properties:
+        selectedLanguage:
+          type: ["string", "null"]
+          enum: [english, french, spanish, german, italian, null]
+        completedLessons:
+          type: array
+          items:
+            type: string
+        savedWords:
+          type: array
+          items:
+            type: string
+        points:
+          type: integer
+          minimum: 0
+        streak:
+          type: integer
+          minimum: 0
+        lastActiveDate:
+          type: ["string", "null"]
+        quizAttempts:
+          type: object
+          additionalProperties:
+            type: integer
+            minimum: 0
 

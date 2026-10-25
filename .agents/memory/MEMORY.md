@@ -1,0 +1,1 @@
+- [Wordora audience and learning scope](wordora-product.md) — Arabic-speaking learners, five target languages, and A1-to-B1 progression define the curriculum.
