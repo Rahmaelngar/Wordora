@@ -1,0 +1,529 @@
+{
+  "lessons": [
+    {
+      "topic": "المنزل والأثاث",
+      "words": [
+        [
+          "house",
+          "بيت",
+          "هاوس",
+          "This house is small.",
+          "هذا البيت صغير."
+        ],
+        [
+          "room",
+          "غرفة",
+          "روم",
+          "The room is clean.",
+          "الغرفة نظيفة."
+        ],
+        [
+          "table",
+          "طاولة",
+          "تيبل",
+          "The table is near the window.",
+          "الطاولة قرب النافذة."
+        ],
+        [
+          "chair",
+          "كرسي",
+          "تْشير",
+          "I sit on the chair.",
+          "أنا أجلس على الكرسي."
+        ],
+        [
+          "bed",
+          "سرير",
+          "بِد",
+          "The bed is comfortable.",
+          "السرير مريح."
+        ],
+        [
+          "door",
+          "باب",
+          "دور",
+          "The door is open.",
+          "الباب مفتوح."
+        ],
+        [
+          "window",
+          "نافذة",
+          "وِندو",
+          "The window is big.",
+          "النافذة كبيرة."
+        ],
+        [
+          "kitchen",
+          "مطبخ",
+          "كِتشن",
+          "My mother is in the kitchen.",
+          "أمي في المطبخ."
+        ],
+        [
+          "sofa",
+          "أريكة",
+          "سوفا",
+          "The sofa is blue.",
+          "الأريكة زرقاء."
+        ],
+        [
+          "lamp",
+          "مصباح",
+          "لامب",
+          "The lamp is on.",
+          "المصباح مضاء."
+        ]
+      ]
+    },
+    {
+      "topic": "الجسم والصحة",
+      "words": [
+        [
+          "head",
+          "رأس",
+          "هِد",
+          "My head hurts.",
+          "رأسي يؤلمني."
+        ],
+        [
+          "eye",
+          "عين",
+          "آي",
+          "I open my eye.",
+          "أنا أفتح عيني."
+        ],
+        [
+          "hand",
+          "يد",
+          "هاند",
+          "I wash my hand.",
+          "أنا أغسل يدي."
+        ],
+        [
+          "leg",
+          "ساق",
+          "لِغ",
+          "My leg is tired.",
+          "ساقي متعبة."
+        ],
+        [
+          "tooth",
+          "سن",
+          "تُوث",
+          "My tooth is bad.",
+          "سني سيئ."
+        ],
+        [
+          "doctor",
+          "طبيب",
+          "دوكتور",
+          "The doctor is here.",
+          "الطبيب هنا."
+        ],
+        [
+          "nurse",
+          "ممرضة",
+          "نِرس",
+          "The nurse is kind.",
+          "الممرضة لطيفة."
+        ],
+        [
+          "medicine",
+          "دواء",
+          "مِدِسِن",
+          "I take medicine.",
+          "أنا أتناول دواءً."
+        ],
+        [
+          "sick",
+          "مريض",
+          "سِك",
+          "I am sick today.",
+          "أنا مريض اليوم."
+        ],
+        [
+          "healthy",
+          "صحي",
+          "هِلذي",
+          "This food is healthy.",
+          "هذا الطعام صحي."
+        ]
+      ]
+    },
+    {
+      "topic": "الملابس والأغراض",
+      "words": [
+        [
+          "shirt",
+          "قميص",
+          "شِرت",
+          "This shirt is white.",
+          "هذا القميص أبيض."
+        ],
+        [
+          "pants",
+          "بنطال",
+          "بانتس",
+          "My pants are black.",
+          "بنطالي أسود."
+        ],
+        [
+          "shoe",
+          "حذاء",
+          "شو",
+          "I wear one shoe.",
+          "أرتدي حذاءً واحدًا."
+        ],
+        [
+          "sock",
+          "جورب",
+          "سوك",
+          "This sock is old.",
+          "هذا الجورب قديم."
+        ],
+        [
+          "hat",
+          "قبعة",
+          "هات",
+          "The hat is on the table.",
+          "القبعة على الطاولة."
+        ],
+        [
+          "coat",
+          "معطف",
+          "كوت",
+          "I wear my coat.",
+          "أرتدي معطفي."
+        ],
+        [
+          "dress",
+          "فستان",
+          "دريس",
+          "Her dress is nice.",
+          "فستانها جميل."
+        ],
+        [
+          "bag",
+          "حقيبة",
+          "باغ",
+          "I put the book in the bag.",
+          "أضع الكتاب في الحقيبة."
+        ],
+        [
+          "watch",
+          "ساعة",
+          "واتش",
+          "My watch is new.",
+          "ساعتي جديدة."
+        ],
+        [
+          "keys",
+          "مفاتيح",
+          "كيز",
+          "I have my keys.",
+          "لدي مفاتيحي."
+        ]
+      ]
+    },
+    {
+      "topic": "المدرسة والتعلم",
+      "words": [
+        [
+          "school",
+          "مدرسة",
+          "سكول",
+          "The school is big.",
+          "المدرسة كبيرة."
+        ],
+        [
+          "teacher",
+          "معلم",
+          "تيتشر",
+          "The teacher speaks slowly.",
+          "المعلم يتكلم ببطء."
+        ],
+        [
+          "student",
+          "طالب",
+          "ستودِنت",
+          "The student reads well.",
+          "الطالب يقرأ جيدًا."
+        ],
+        [
+          "classroom",
+          "فصل دراسي",
+          "كلاس روم",
+          "We are in the classroom.",
+          "نحن في الفصل الدراسي."
+        ],
+        [
+          "lesson",
+          "درس",
+          "لِسِن",
+          "The lesson starts now.",
+          "الدرس يبدأ الآن."
+        ],
+        [
+          "book",
+          "كتاب",
+          "بوك",
+          "I open my book.",
+          "أفتح كتابي."
+        ],
+        [
+          "pen",
+          "قلم",
+          "بِن",
+          "This pen writes well.",
+          "هذا القلم يكتب جيدًا."
+        ],
+        [
+          "paper",
+          "ورق",
+          "بيبر",
+          "I need paper.",
+          "أحتاج إلى ورق."
+        ],
+        [
+          "desk",
+          "مكتب",
+          "دِسك",
+          "My desk is near the window.",
+          "مكتبي قرب النافذة."
+        ],
+        [
+          "homework",
+          "واجب منزلي",
+          "هوم ورك",
+          "I do my homework at night.",
+          "أقوم بواجباتي المنزلية في الليل."
+        ]
+      ]
+    },
+    {
+      "topic": "المهن وأماكن العمل",
+      "words": [
+        [
+          "worker",
+          "عامل",
+          "وُركر",
+          "The worker is busy.",
+          "العامل مشغول."
+        ],
+        [
+          "office",
+          "مكتب",
+          "أوفِس",
+          "She works in an office.",
+          "هي تعمل في مكتب."
+        ],
+        [
+          "hospital",
+          "مستشفى",
+          "هوسبتل",
+          "The hospital is near my house.",
+          "المستشفى قرب بيتي."
+        ],
+        [
+          "shop",
+          "متجر",
+          "شوب",
+          "We buy bread at the shop.",
+          "نشتري الخبز من المتجر."
+        ],
+        [
+          "restaurant",
+          "مطعم",
+          "رستورنت",
+          "The restaurant is open.",
+          "المطعم مفتوح."
+        ],
+        [
+          "hospitality",
+          "ضيافة",
+          "هوسبيتالِتي",
+          "The hotel has good hospitality.",
+          "للفندق ضيافة جيدة."
+        ],
+        [
+          "farmer",
+          "مزارع",
+          "فارمر",
+          "The farmer works early.",
+          "المزارع يعمل مبكرًا."
+        ],
+        [
+          "driver",
+          "سائق",
+          "درايفر",
+          "The driver is here.",
+          "السائق هنا."
+        ],
+        [
+          "cook",
+          "طباخ",
+          "كوك",
+          "My father is a cook.",
+          "أبي طباخ."
+        ],
+        [
+          "cashier",
+          "أمين صندوق",
+          "كاشير",
+          "The cashier smiles.",
+          "أمين الصندوق يبتسم."
+        ]
+      ]
+    },
+    {
+      "topic": "الطبيعة والحيوانات",
+      "words": [
+        [
+          "tree",
+          "شجرة",
+          "تري",
+          "The tree is tall.",
+          "الشجرة طويلة."
+        ],
+        [
+          "flower",
+          "زهرة",
+          "فلاور",
+          "This flower is red.",
+          "هذه الزهرة حمراء."
+        ],
+        [
+          "river",
+          "نهر",
+          "ريفَر",
+          "The river is wide.",
+          "النهر عريض."
+        ],
+        [
+          "mountain",
+          "جبل",
+          "ماونتن",
+          "The mountain is far away.",
+          "الجبل بعيد."
+        ],
+        [
+          "sun",
+          "شمس",
+          "سَن",
+          "The sun is bright.",
+          "الشمس مشرقة."
+        ],
+        [
+          "rain",
+          "مطر",
+          "رين",
+          "The rain is heavy.",
+          "المطر غزير."
+        ],
+        [
+          "dog",
+          "كلب",
+          "داغ",
+          "The dog is friendly.",
+          "الكلب ودود."
+        ],
+        [
+          "cat",
+          "قط",
+          "كات",
+          "My cat sleeps.",
+          "قطي ينام."
+        ],
+        [
+          "bird",
+          "طائر",
+          "بِرد",
+          "The bird is in the tree.",
+          "الطائر في الشجرة."
+        ],
+        [
+          "fish",
+          "سمك",
+          "فِش",
+          "The fish is in the water.",
+          "السمك في الماء."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوايات والرياضة",
+      "words": [
+        [
+          "game",
+          "لعبة",
+          "غيم",
+          "This game is fun.",
+          "هذه اللعبة ممتعة."
+        ],
+        [
+          "sport",
+          "رياضة",
+          "سبورت",
+          "Sport is good for health.",
+          "الرياضة مفيدة للصحة."
+        ],
+        [
+          "run",
+          "يجري",
+          "رَن",
+          "I run in the park.",
+          "أنا أجري في الحديقة."
+        ],
+        [
+          "swim",
+          "يسبح",
+          "سْوِم",
+          "They swim in the pool.",
+          "هم يسبحون في المسبح."
+        ],
+        [
+          "dance",
+          "يرقص",
+          "دانس",
+          "We dance at the party.",
+          "نحن نرقص في الحفلة."
+        ],
+        [
+          "sing",
+          "يغني",
+          "سِنغ",
+          "She sings well.",
+          "هي تغني جيدًا."
+        ],
+        [
+          "draw",
+          "يرسم",
+          "دراو",
+          "I draw a house.",
+          "أنا أرسم بيتًا."
+        ],
+        [
+          "read",
+          "يقرأ",
+          "ريد",
+          "I read every day.",
+          "أنا أقرأ كل يوم."
+        ],
+        [
+          "play",
+          "يلعب",
+          "بلاي",
+          "The children play outside.",
+          "الأطفال يلعبون في الخارج."
+        ],
+        [
+          "ball",
+          "كرة",
+          "بول",
+          "The ball is under the chair.",
+          "الكرة تحت الكرسي."
+        ]
+      ]
+    }
+  ]
+}

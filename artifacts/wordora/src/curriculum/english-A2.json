@@ -1,0 +1,983 @@
+{
+  "lessons": [
+    {
+      "topic": "طلب الطعام في المطعم",
+      "words": [
+        [
+          "I’d like a table for two",
+          "أريد طاولة لشخصين",
+          "آيد لايك أ تَيْبُل فور تُو",
+          "I’d like a table for two, please.",
+          "أريد طاولة لشخصين، من فضلك."
+        ],
+        [
+          "Could I see the menu?",
+          "هل يمكنني رؤية القائمة؟",
+          "كُد آي سي ذَ مِينيو",
+          "Could I see the menu, please?",
+          "هل يمكنني رؤية القائمة، من فضلك؟"
+        ],
+        [
+          "We are ready to order",
+          "نحن مستعدون للطلب",
+          "وي آر رِدي تُو أوردر",
+          "We are ready to order now.",
+          "نحن مستعدون للطلب الآن."
+        ],
+        [
+          "What do you recommend?",
+          "ماذا تنصحني؟",
+          "وُت دو يو رِكُمِند",
+          "What do you recommend for dinner?",
+          "ماذا تنصحني للعشاء؟"
+        ],
+        [
+          "I’d like chicken soup",
+          "أودّ حساء الدجاج",
+          "آيد لايك تشِكِن سوب",
+          "I’d like chicken soup, please.",
+          "أودّ حساء الدجاج، من فضلك."
+        ],
+        [
+          "Could we have the bill?",
+          "هل يمكننا الحصول على الفاتورة؟",
+          "كُد وي هاف ذَ بِل",
+          "Could we have the bill, please?",
+          "هل يمكننا الحصول على الفاتورة، من فضلك؟"
+        ],
+        [
+          "Is service included?",
+          "هل الخدمة مشمولة؟",
+          "إِز سِرفِس إنكلودِد",
+          "Is service included here?",
+          "هل الخدمة مشمولة هنا؟"
+        ],
+        [
+          "I am allergic to nuts",
+          "لدي حساسية من المكسرات",
+          "آي آم أَلِرجِك تُ نَتس",
+          "I am allergic to nuts, so I avoid them.",
+          "لدي حساسية من المكسرات، لذلك أتجنبها."
+        ],
+        [
+          "Can I get some water?",
+          "هل يمكنني الحصول على بعض الماء؟",
+          "كان آي جِت سَم وُوتر",
+          "Can I get some water, please?",
+          "هل يمكنني الحصول على بعض الماء، من فضلك؟"
+        ],
+        [
+          "The food is delicious",
+          "الطعام لذيذ",
+          "ذَ فود إِز دِلِشَس",
+          "The food is delicious here.",
+          "الطعام لذيذ هنا."
+        ],
+        [
+          "Could you make it spicy?",
+          "هل يمكنك جعله حارًا؟",
+          "كُد يو ميك إِت سْبايسي",
+          "Could you make it spicy, please?",
+          "هل يمكنك جعله حارًا، من فضلك؟"
+        ],
+        [
+          "I am full, thank you",
+          "أنا شبعان، شكرًا",
+          "آي آم فُل ثانك يو",
+          "I am full, thank you.",
+          "أنا شبعان، شكرًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الإقامة في الفندق",
+      "words": [
+        [
+          "I have a reservation",
+          "لدي حجز",
+          "آي هاف أ رِزِرفَيْشَن",
+          "I have a reservation under this name.",
+          "لدي حجز بهذا الاسم."
+        ],
+        [
+          "Check-in time",
+          "وقت تسجيل الوصول",
+          "تشِك إن تايم",
+          "Check-in time is at 3 p.m.",
+          "وقت تسجيل الوصول الساعة الثالثة مساءً."
+        ],
+        [
+          "Could I have the key card?",
+          "هل يمكنني الحصول على بطاقة الغرفة؟",
+          "كُد آي هاف ذَ كي كارد",
+          "Could I have the key card, please?",
+          "هل يمكنني الحصول على بطاقة الغرفة، من فضلك؟"
+        ],
+        [
+          "Where is the elevator?",
+          "أين المصعد؟",
+          "وِير إِز ذَ إِلِفيتور",
+          "Where is the elevator in this hotel?",
+          "أين المصعد في هذا الفندق؟"
+        ],
+        [
+          "The room is too cold",
+          "الغرفة باردة جدًا",
+          "ذَ روم إِز تُو كولد",
+          "The room is too cold for me.",
+          "الغرفة باردة جدًا بالنسبة لي."
+        ],
+        [
+          "Can I have an extra towel?",
+          "هل يمكنني الحصول على منشفة إضافية؟",
+          "كان آي هاف أ إكسترا تاوِل",
+          "Can I have an extra towel, please?",
+          "هل يمكنني الحصول على منشفة إضافية، من فضلك؟"
+        ],
+        [
+          "Breakfast is included",
+          "الإفطار مشمول",
+          "بْرِكفَست إِز إنكلودِد",
+          "Breakfast is included in the price.",
+          "الإفطار مشمول في السعر."
+        ],
+        [
+          "I need a quiet room",
+          "أحتاج إلى غرفة هادئة",
+          "آي نيد أ كْوايِت روم",
+          "I need a quiet room for the night.",
+          "أحتاج إلى غرفة هادئة لليل."
+        ],
+        [
+          "The Wi-Fi is not working",
+          "الواي فاي لا يعمل",
+          "ذَ واي فاي إِز نوت وِركِنغ",
+          "The Wi-Fi is not working in my room.",
+          "الواي فاي لا يعمل في غرفتي."
+        ],
+        [
+          "Can you call a taxi?",
+          "هل يمكنك طلب سيارة أجرة؟",
+          "كان يو كول أ تاكسي",
+          "Can you call a taxi for me?",
+          "هل يمكنك طلب سيارة أجرة لي؟"
+        ],
+        [
+          "I lost my room key",
+          "فقدت مفتاح غرفتي",
+          "آي لوست ماي روم كي",
+          "I lost my room key this morning.",
+          "فقدت مفتاح غرفتي هذا الصباح."
+        ],
+        [
+          "I would like a wake-up call",
+          "أرغب في مكالمة إيقاظ",
+          "آي وود لايك أ ويك أب كول",
+          "I would like a wake-up call at 7.",
+          "أرغب في مكالمة إيقاظ الساعة السابعة."
+        ]
+      ]
+    },
+    {
+      "topic": "السؤال عن الاتجاهات",
+      "words": [
+        [
+          "How do I get there?",
+          "كيف أصل إلى هناك؟",
+          "هاو دو آي جِت ذير",
+          "How do I get there from here?",
+          "كيف أصل إلى هناك من هنا؟"
+        ],
+        [
+          "Go straight ahead",
+          "اذهب مباشرة إلى الأمام",
+          "غو سترايت أَهِد",
+          "Go straight ahead for two blocks.",
+          "اذهب مباشرة إلى الأمام لكتلتين."
+        ],
+        [
+          "Turn right at the corner",
+          "انعطف يمينًا عند الزاوية",
+          "تِرن رايت أت ذَ كورنر",
+          "Turn right at the corner, then continue.",
+          "انعطف يمينًا عند الزاوية ثم تابع."
+        ],
+        [
+          "It is on your left",
+          "إنه على يسارك",
+          "إِت إِز أون يور لِفت",
+          "The shop is on your left.",
+          "المتجر على يسارك."
+        ],
+        [
+          "It is near the bank",
+          "إنه قرب البنك",
+          "إِت إِز نِير ذَ بانك",
+          "The pharmacy is near the bank.",
+          "الصيدلية قرب البنك."
+        ],
+        [
+          "Cross the street",
+          "اعبر الشارع",
+          "كروس ذَ ستريت",
+          "Cross the street carefully.",
+          "اعبر الشارع بحذر."
+        ],
+        [
+          "Take the second road",
+          "خذ الطريق الثاني",
+          "تيك ذَ سِكِند رود",
+          "Take the second road on the right.",
+          "خذ الطريق الثاني على اليمين."
+        ],
+        [
+          "Is it far from here?",
+          "هل هو بعيد من هنا؟",
+          "إِز إِت فار فرُم هير",
+          "Is it far from here on foot?",
+          "هل هو بعيد من هنا سيرًا على الأقدام؟"
+        ],
+        [
+          "I am looking for the museum",
+          "أبحث عن المتحف",
+          "آي آم لوكِنغ فور ذَ ميوزيَم",
+          "I am looking for the museum entrance.",
+          "أبحث عن مدخل المتحف."
+        ],
+        [
+          "The bus stop is over there",
+          "موقف الحافلة هناك",
+          "ذَ بَس ستوب إِز أوفر ذير",
+          "The bus stop is over there by the shop.",
+          "موقف الحافلة هناك بجوار المتجر."
+        ],
+        [
+          "Which way to the station?",
+          "أي طريق إلى المحطة؟",
+          "وِتش وَي تُ ذَ ستيشَن",
+          "Which way to the station, please?",
+          "أي طريق إلى المحطة، من فضلك؟"
+        ],
+        [
+          "You are going the wrong way",
+          "أنت تسير في الطريق الخطأ",
+          "يو آر غوينغ ذَ رونغ وَي",
+          "You are going the wrong way, I think.",
+          "أنت تسير في الطريق الخطأ، أعتقد ذلك."
+        ]
+      ]
+    },
+    {
+      "topic": "الوقت والمواعيد",
+      "words": [
+        [
+          "What time is it?",
+          "كم الساعة؟",
+          "وُت تايم إِز إِت",
+          "What time is it now?",
+          "كم الساعة الآن؟"
+        ],
+        [
+          "At seven o’clock",
+          "الساعة السابعة",
+          "آت سِفِن أُكلوك",
+          "The meeting starts at seven o’clock.",
+          "يبدأ الاجتماع الساعة السابعة."
+        ],
+        [
+          "See you at noon",
+          "أراك عند الظهر",
+          "سي يو آت نون",
+          "See you at noon tomorrow.",
+          "أراك عند الظهر غدًا."
+        ],
+        [
+          "I am late",
+          "أنا متأخر",
+          "آي آم ليت",
+          "I am late for the class.",
+          "أنا متأخر عن الدرس."
+        ],
+        [
+          "The appointment is at 9 a.m.",
+          "الموعد الساعة التاسعة صباحًا",
+          "ذَ أَبُوينتمنت إِز آت ناين إي إم",
+          "The appointment is at 9 a.m.",
+          "الموعد الساعة التاسعة صباحًا."
+        ],
+        [
+          "Please be on time",
+          "من فضلك كن في الموعد",
+          "بليز بي أون تايم",
+          "Please be on time for dinner.",
+          "من فضلك كن في الموعد للعشاء."
+        ],
+        [
+          "I have an early meeting",
+          "لدي اجتماع مبكر",
+          "آي هاف أَن إِرلي ميتِنغ",
+          "I have an early meeting today.",
+          "لدي اجتماع مبكر اليوم."
+        ],
+        [
+          "The train leaves at 6",
+          "يغادر القطار الساعة السادسة",
+          "ذَ ترين ليفز آت سِكس",
+          "The train leaves at 6 tonight.",
+          "يغادر القطار الساعة السادسة الليلة."
+        ],
+        [
+          "We can meet after lunch",
+          "يمكننا أن نلتقي بعد الغداء",
+          "وي كان ميت آفتر لَنتش",
+          "We can meet after lunch here.",
+          "يمكننا أن نلتقي بعد الغداء هنا."
+        ],
+        [
+          "I am free this afternoon",
+          "أنا متفرغ هذا المساء",
+          "آي آم فري ذِس آفترنون",
+          "I am free this afternoon.",
+          "أنا متفرغ هذا المساء."
+        ],
+        [
+          "The store opens at 8",
+          "يفتح المتجر الساعة الثامنة",
+          "ذَ ستور أوبِنز آت إيت",
+          "The store opens at 8 every day.",
+          "يفتح المتجر الساعة الثامنة كل يوم."
+        ],
+        [
+          "My watch is slow",
+          "ساعتي متأخرة",
+          "ماي ووتش إِز سلو",
+          "My watch is slow today.",
+          "ساعتي متأخرة اليوم."
+        ]
+      ]
+    },
+    {
+      "topic": "زيارة الطبيب",
+      "words": [
+        [
+          "I have a fever",
+          "لدي حمى",
+          "آي هاف أ فيفر",
+          "I have a fever and a headache.",
+          "لدي حمى وصداع."
+        ],
+        [
+          "My throat hurts",
+          "حلقي يؤلمني",
+          "ماي ثرَوت هِرتس",
+          "My throat hurts when I swallow.",
+          "حلقي يؤلمني عندما أبلع."
+        ],
+        [
+          "I need to see a doctor",
+          "أحتاج إلى رؤية طبيب",
+          "آي نيد تُ سي أ دكتور",
+          "I need to see a doctor today.",
+          "أحتاج إلى رؤية طبيب اليوم."
+        ],
+        [
+          "Do you have an appointment?",
+          "هل لديك موعد؟",
+          "دو يو هاف أَن أَبُوينتمنت",
+          "Do you have an appointment this morning?",
+          "هل لديك موعد هذا الصباح؟"
+        ],
+        [
+          "I feel dizzy",
+          "أشعر بالدوار",
+          "آي فيل دِزي",
+          "I feel dizzy when I stand up.",
+          "أشعر بالدوار عندما أقف."
+        ],
+        [
+          "Please take a deep breath",
+          "من فضلك خذ نفسًا عميقًا",
+          "بليز تيك أ ديب برَث",
+          "Please take a deep breath now.",
+          "من فضلك خذ نفسًا عميقًا الآن."
+        ],
+        [
+          "I am taking medicine",
+          "أنا أتناول دواء",
+          "آي آم تيكِنغ مِدِسِن",
+          "I am taking medicine for my cough.",
+          "أنا أتناول دواءً لسعالي."
+        ],
+        [
+          "I have a cough",
+          "لدي سعال",
+          "آي هاف أ كوف",
+          "I have a cough at night.",
+          "لدي سعال في الليل."
+        ],
+        [
+          "My back hurts",
+          "ظهري يؤلمني",
+          "ماي باك هِرتس",
+          "My back hurts after work.",
+          "ظهري يؤلمني بعد العمل."
+        ],
+        [
+          "I need a prescription",
+          "أحتاج إلى وصفة طبية",
+          "آي نيد أ بريسكربشَن",
+          "I need a prescription for this medicine.",
+          "أحتاج إلى وصفة طبية لهذا الدواء."
+        ],
+        [
+          "Are there any side effects?",
+          "هل توجد آثار جانبية؟",
+          "آر ذير أَني سايد إِفِكتس",
+          "Are there any side effects with this pill?",
+          "هل توجد آثار جانبية مع هذه الحبة؟"
+        ],
+        [
+          "I am feeling better",
+          "أنا أشعر بتحسن",
+          "آي آم فيلِنغ بِتَر",
+          "I am feeling better now.",
+          "أنا أشعر بتحسن الآن."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل في العمل",
+      "words": [
+        [
+          "I have a meeting",
+          "لدي اجتماع",
+          "آي هاف أ ميتِنغ",
+          "I have a meeting at 10.",
+          "لدي اجتماع الساعة العاشرة."
+        ],
+        [
+          "Please send me the file",
+          "من فضلك أرسل لي الملف",
+          "بليز سِند مي ذَ فايل",
+          "Please send me the file today.",
+          "من فضلك أرسل لي الملف اليوم."
+        ],
+        [
+          "I will finish it soon",
+          "سأنهيه قريبًا",
+          "آي وِل فِنِش إِت سون",
+          "I will finish it soon and send it.",
+          "سأنهيه قريبًا وأرسله."
+        ],
+        [
+          "Can you check this?",
+          "هل يمكنك التحقق من هذا؟",
+          "كان يو تشِك ذِس",
+          "Can you check this report?",
+          "هل يمكنك التحقق من هذا التقرير؟"
+        ],
+        [
+          "I am busy right now",
+          "أنا مشغول الآن",
+          "آي آم بِيزي رايت ناو",
+          "I am busy right now, sorry.",
+          "أنا مشغول الآن، آسف."
+        ],
+        [
+          "Let us discuss it later",
+          "دعنا نناقشه لاحقًا",
+          "لِت أَس دِسكَس إِت لَيْتر",
+          "Let us discuss it later in the office.",
+          "دعنا نناقشه لاحقًا في المكتب."
+        ],
+        [
+          "The deadline is tomorrow",
+          "الموعد النهائي غدًا",
+          "ذَ دِدلَاين إِز تُمارو",
+          "The deadline is tomorrow afternoon.",
+          "الموعد النهائي غدًا بعد الظهر."
+        ],
+        [
+          "I need your feedback",
+          "أحتاج إلى ملاحظاتك",
+          "آي نيد يور فيدباك",
+          "I need your feedback on this idea.",
+          "أحتاج إلى ملاحظاتك حول هذه الفكرة."
+        ],
+        [
+          "We work together",
+          "نحن نعمل معًا",
+          "وي وِرك تُجِذَر",
+          "We work together on this project.",
+          "نحن نعمل معًا على هذا المشروع."
+        ],
+        [
+          "Please join the call",
+          "من فضلك انضم إلى المكالمة",
+          "بليز جوين ذَ كول",
+          "Please join the call at 2.",
+          "من فضلك انضم إلى المكالمة الساعة الثانية."
+        ],
+        [
+          "I am sending an email",
+          "أنا أرسل بريدًا إلكترونيًا",
+          "آي آم سِندِنغ أَن إيميل",
+          "I am sending an email now.",
+          "أنا أرسل بريدًا إلكترونيًا الآن."
+        ],
+        [
+          "The office is closed today",
+          "المكتب مغلق اليوم",
+          "ذَ أوفِس إِز كلوزد تُداي",
+          "The office is closed today after lunch.",
+          "المكتب مغلق اليوم بعد الغداء."
+        ]
+      ]
+    },
+    {
+      "topic": "الهاتف والرسائل",
+      "words": [
+        [
+          "Can you hear me?",
+          "هل تسمعني؟",
+          "كان يو هير مي",
+          "Can you hear me on the phone?",
+          "هل تسمعني على الهاتف؟"
+        ],
+        [
+          "I will call you later",
+          "سأتصل بك لاحقًا",
+          "آي وِل كول يو لَيْتر",
+          "I will call you later this evening.",
+          "سأتصل بك لاحقًا هذا المساء."
+        ],
+        [
+          "Please leave a message",
+          "من فضلك اترك رسالة",
+          "بليز ليف أ مِسِج",
+          "Please leave a message after the beep.",
+          "من فضلك اترك رسالة بعد الإشارة."
+        ],
+        [
+          "My phone battery is low",
+          "بطارية هاتفي منخفضة",
+          "ماي فون باتِري إِز لو",
+          "My phone battery is low now.",
+          "بطارية هاتفي منخفضة الآن."
+        ],
+        [
+          "I sent a text message",
+          "أرسلت رسالة نصية",
+          "آي سِنت أ تِكست مِسِج",
+          "I sent a text message to Sara.",
+          "أرسلت رسالة نصية إلى سارة."
+        ],
+        [
+          "The signal is weak",
+          "الإشارة ضعيفة",
+          "ذَ سِجنَل إِز ويك",
+          "The signal is weak here.",
+          "الإشارة ضعيفة هنا."
+        ],
+        [
+          "Could you speak louder?",
+          "هل يمكنك أن تتكلم بصوت أعلى؟",
+          "كُد يو سبيك لاودر",
+          "Could you speak louder, please?",
+          "هل يمكنك أن تتكلم بصوت أعلى، من فضلك؟"
+        ],
+        [
+          "I missed your call",
+          "فاتتني مكالمتك",
+          "آي مِست يور كول",
+          "I missed your call this morning.",
+          "فاتتني مكالمتك هذا الصباح."
+        ],
+        [
+          "This number is wrong",
+          "هذا الرقم خاطئ",
+          "ذِس نَمبَر إِز رونغ",
+          "This number is wrong, I think.",
+          "هذا الرقم خاطئ، أعتقد ذلك."
+        ],
+        [
+          "I am typing a reply",
+          "أنا أكتب ردًا",
+          "آي آم تايپِنغ أ رِپلاي",
+          "I am typing a reply now.",
+          "أنا أكتب ردًا الآن."
+        ],
+        [
+          "The message was clear",
+          "كانت الرسالة واضحة",
+          "ذَ مِسِج وُز كلير",
+          "The message was clear to me.",
+          "كانت الرسالة واضحة بالنسبة لي."
+        ],
+        [
+          "I need your number",
+          "أحتاج إلى رقمك",
+          "آي نيد يور نَمبَر",
+          "I need your number for the trip.",
+          "أحتاج إلى رقمك للرحلة."
+        ]
+      ]
+    },
+    {
+      "topic": "الأنشطة في وقت الفراغ",
+      "words": [
+        [
+          "I like reading",
+          "أحب القراءة",
+          "آي لايك ريدِنغ",
+          "I like reading in the evening.",
+          "أحب القراءة في المساء."
+        ],
+        [
+          "Let us go for a walk",
+          "دعنا نذهب في نزهة",
+          "لِت أَس غو فور أ ووك",
+          "Let us go for a walk after dinner.",
+          "دعنا نذهب في نزهة بعد العشاء."
+        ],
+        [
+          "I play football",
+          "ألعب كرة القدم",
+          "آي بلاي فوتبول",
+          "I play football with friends.",
+          "ألعب كرة القدم مع الأصدقاء."
+        ],
+        [
+          "We are watching a film",
+          "نحن نشاهد فيلمًا",
+          "وي آر ووتشِنغ أ فيلم",
+          "We are watching a film tonight.",
+          "نحن نشاهد فيلمًا الليلة."
+        ],
+        [
+          "I enjoy cooking",
+          "أستمتع بالطهي",
+          "آي إنجوي كوكِنغ",
+          "I enjoy cooking on weekends.",
+          "أستمتع بالطهي في عطلة نهاية الأسبوع."
+        ],
+        [
+          "She goes swimming",
+          "هي تذهب للسباحة",
+          "شي غوز سْوِمِنغ",
+          "She goes swimming every Saturday.",
+          "هي تذهب للسباحة كل سبت."
+        ],
+        [
+          "I listen to music",
+          "أستمع إلى الموسيقى",
+          "آي لِسِن تُ ميوزِك",
+          "I listen to music when I study.",
+          "أستمع إلى الموسيقى عندما أدرس."
+        ],
+        [
+          "We are having fun",
+          "نحن نستمتع بوقتنا",
+          "وي آر هافِنغ فَن",
+          "We are having fun at the park.",
+          "نحن نستمتع بوقتنا في الحديقة."
+        ],
+        [
+          "I want to relax",
+          "أريد أن أسترخي",
+          "آي وونت تُ ريلاكْس",
+          "I want to relax this evening.",
+          "أريد أن أسترخي هذا المساء."
+        ],
+        [
+          "He is playing chess",
+          "هو يلعب الشطرنج",
+          "هي إِز بلايِنغ تشِس",
+          "He is playing chess with his brother.",
+          "هو يلعب الشطرنج مع أخيه."
+        ],
+        [
+          "We are going to the park",
+          "نحن ذاهبون إلى الحديقة",
+          "وي آر غوينغ تُ ذَ بارك",
+          "We are going to the park after lunch.",
+          "نحن ذاهبون إلى الحديقة بعد الغداء."
+        ],
+        [
+          "I drew a picture",
+          "رسمت صورة",
+          "آي درو أ بكتشر",
+          "I drew a picture for my friend.",
+          "رسمت صورة لصديقي."
+        ]
+      ]
+    },
+    {
+      "topic": "الخدمات في المدينة",
+      "words": [
+        [
+          "Where is the post office?",
+          "أين مكتب البريد؟",
+          "وِير إِز ذَ بوست أوفِس",
+          "Where is the post office near here?",
+          "أين مكتب البريد بالقرب من هنا؟"
+        ],
+        [
+          "I need a pharmacy",
+          "أحتاج إلى صيدلية",
+          "آي نيد أ فارْمَسي",
+          "I need a pharmacy open now.",
+          "أحتاج إلى صيدلية مفتوحة الآن."
+        ],
+        [
+          "The bank is downtown",
+          "البنك في وسط المدينة",
+          "ذَ بانك إِز داونتاون",
+          "The bank is downtown on Main Street.",
+          "البنك في وسط المدينة في شارع مين."
+        ],
+        [
+          "Can I get a bus map?",
+          "هل يمكنني الحصول على خريطة الحافلات؟",
+          "كان آي جِت أ بَس ماب",
+          "Can I get a bus map here?",
+          "هل يمكنني الحصول على خريطة الحافلات هنا؟"
+        ],
+        [
+          "The library is open",
+          "المكتبة مفتوحة",
+          "ذَ لايبرَري إِز أوبِن",
+          "The library is open until 6.",
+          "المكتبة مفتوحة حتى الساعة السادسة."
+        ],
+        [
+          "There is a supermarket nearby",
+          "هناك سوبرماركت قريب",
+          "ذير إِز أ سوبرماركِت نِرباي",
+          "There is a supermarket nearby.",
+          "هناك سوبرماركت قريب."
+        ],
+        [
+          "I need to top up my card",
+          "أحتاج إلى شحن بطاقتي",
+          "آي نيد تُ توب أب ماي كارد",
+          "I need to top up my card today.",
+          "أحتاج إلى شحن بطاقتي اليوم."
+        ],
+        [
+          "The bus comes every 20 minutes",
+          "تأتي الحافلة كل 20 دقيقة",
+          "ذَ بَس كَمْز إِفري تُونتي مِنتس",
+          "The bus comes every 20 minutes.",
+          "تأتي الحافلة كل 20 دقيقة."
+        ],
+        [
+          "Can you show me on a map?",
+          "هل يمكنك أن تريني على خريطة؟",
+          "كان يو شو مي أون أ ماب",
+          "Can you show me on a map, please?",
+          "هل يمكنك أن تريني على خريطة، من فضلك؟"
+        ],
+        [
+          "I am waiting for the taxi",
+          "أنا أنتظر سيارة الأجرة",
+          "آي آم وِيتِنغ فور ذَ تاكسي",
+          "I am waiting for the taxi outside.",
+          "أنا أنتظر سيارة الأجرة في الخارج."
+        ],
+        [
+          "The clinic is closed",
+          "العيادة مغلقة",
+          "ذَ كلينِك إِز كلوزد",
+          "The clinic is closed today.",
+          "العيادة مغلقة اليوم."
+        ],
+        [
+          "This street is busy",
+          "هذا الشارع مزدحم",
+          "ذِس ستريت إِز بیزی",
+          "This street is busy in the morning.",
+          "هذا الشارع مزدحم في الصباح."
+        ]
+      ]
+    },
+    {
+      "topic": "الدفع والمصروفات",
+      "words": [
+        [
+          "How much does it cost?",
+          "كم يكلف؟",
+          "هاو مَتش دَز إِت كوست",
+          "How much does it cost in total?",
+          "كم يكلف بالمجموع؟"
+        ],
+        [
+          "The price is too high",
+          "السعر مرتفع جدًا",
+          "ذَ برايس إِز تُو هاي",
+          "The price is too high for me.",
+          "السعر مرتفع جدًا بالنسبة لي."
+        ],
+        [
+          "I need to save money",
+          "أحتاج إلى توفير المال",
+          "آي نيد تُ سيف مَني",
+          "I need to save money this month.",
+          "أحتاج إلى توفير المال هذا الشهر."
+        ],
+        [
+          "I paid in cash",
+          "دفعت نقدًا",
+          "آي بايد إِن كاش",
+          "I paid in cash at the counter.",
+          "دفعت نقدًا عند الكاونتر."
+        ],
+        [
+          "Can I pay in installments?",
+          "هل يمكنني الدفع بالتقسيط؟",
+          "كان آي باي إِن إِنستولمَنتس",
+          "Can I pay in installments here?",
+          "هل يمكنني الدفع بالتقسيط هنا؟"
+        ],
+        [
+          "The total is 15 euros",
+          "المجموع 15 يورو",
+          "ذَ توتَل إِز فِفتين يوروز",
+          "The total is 15 euros after tax.",
+          "المجموع 15 يورو بعد الضريبة."
+        ],
+        [
+          "I got some change",
+          "حصلت على بعض الباقي",
+          "آي غوت سَم تشينج",
+          "I got some change from the shop.",
+          "حصلت على بعض الباقي من المتجر."
+        ],
+        [
+          "There is a discount",
+          "هناك خصم",
+          "ذير إِز أ دِسكاونت",
+          "There is a discount on these shoes.",
+          "هناك خصم على هذه الأحذية."
+        ],
+        [
+          "My wallet is empty",
+          "محفظتي فارغة",
+          "ماي وولت إِز إمبتي",
+          "My wallet is empty right now.",
+          "محفظتي فارغة الآن."
+        ],
+        [
+          "I need an invoice",
+          "أحتاج إلى فاتورة",
+          "آي نيد أَن إنفُويس",
+          "I need an invoice for work.",
+          "أحتاج إلى فاتورة للعمل."
+        ],
+        [
+          "The bill was incorrect",
+          "كانت الفاتورة غير صحيحة",
+          "ذَ بِل وُز إنكُرِكت",
+          "The bill was incorrect, so I asked for help.",
+          "كانت الفاتورة غير صحيحة، لذا طلبت المساعدة."
+        ],
+        [
+          "I spent too much",
+          "أنفقت كثيرًا جدًا",
+          "آي سْپِنت تُو مَتش",
+          "I spent too much this week.",
+          "أنفقت كثيرًا جدًا هذا الأسبوع."
+        ]
+      ]
+    },
+    {
+      "topic": "الطلبات والاقتراحات المهذبة",
+      "words": [
+        [
+          "Could you open the window?",
+          "هل يمكنك فتح النافذة؟",
+          "كُد يو أوبِن ذَ وِندو",
+          "Could you open the window, please?",
+          "هل يمكنك فتح النافذة، من فضلك؟"
+        ],
+        [
+          "Would you like some tea?",
+          "هل ترغب في بعض الشاي؟",
+          "وُد يو لايك سَم تي",
+          "Would you like some tea now?",
+          "هل ترغب في بعض الشاي الآن؟"
+        ],
+        [
+          "May I ask a question?",
+          "هل يمكنني أن أطرح سؤالًا؟",
+          "ماي آي آسك أ كْوِسْتشَن",
+          "May I ask a question about the class?",
+          "هل يمكنني أن أطرح سؤالًا عن الدرس؟"
+        ],
+        [
+          "Please wait here",
+          "من فضلك انتظر هنا",
+          "بليز ويت هير",
+          "Please wait here for a moment.",
+          "من فضلك انتظر هنا لحظة."
+        ],
+        [
+          "Could you speak slowly?",
+          "هل يمكنك أن تتكلم ببطء؟",
+          "كُد يو سبيك سْلوْلي",
+          "Could you speak slowly, please?",
+          "هل يمكنك أن تتكلم ببطء، من فضلك؟"
+        ],
+        [
+          "Let me think about it",
+          "دعني أفكر في الأمر",
+          "لِت مي ثِنك أباوت إِت",
+          "Let me think about it for a minute.",
+          "دعني أفكر في الأمر لمدة دقيقة."
+        ],
+        [
+          "Would you mind closing the door?",
+          "هل تمانع في إغلاق الباب؟",
+          "وُد يو مايند كلوزِنغ ذَ دور",
+          "Would you mind closing the door?",
+          "هل تمانع في إغلاق الباب؟"
+        ],
+        [
+          "I hope that helps",
+          "آمل أن يساعد ذلك",
+          "آي هوب ذَت هيلپس",
+          "I hope that helps you.",
+          "آمل أن يساعدك ذلك."
+        ],
+        [
+          "Could you bring me the bill?",
+          "هل يمكنك إحضار الفاتورة لي؟",
+          "كُد يو برِنغ مي ذَ بِل",
+          "Could you bring me the bill, please?",
+          "هل يمكنك إحضار الفاتورة لي، من فضلك؟"
+        ],
+        [
+          "Let us start now",
+          "دعنا نبدأ الآن",
+          "لِت أَس ستارت ناو",
+          "Let us start now, if you are ready.",
+          "دعنا نبدأ الآن إذا كنت مستعدًا."
+        ],
+        [
+          "Would you like to sit here?",
+          "هل ترغب في الجلوس هنا؟",
+          "وُد يو لايك تُ سِت هير",
+          "Would you like to sit here?",
+          "هل ترغب في الجلوس هنا؟"
+        ],
+        [
+          "Could I borrow your pen?",
+          "هل يمكنني استعارة قلمك؟",
+          "كُد آي بارو يور پِن",
+          "Could I borrow your pen for a minute?",
+          "هل يمكنني استعارة قلمك لدقيقة؟"
+        ]
+      ]
+    }
+  ]
+}

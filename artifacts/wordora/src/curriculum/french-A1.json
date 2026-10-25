@@ -1,0 +1,529 @@
+{
+  "lessons": [
+    {
+      "topic": "المنزل والأثاث",
+      "words": [
+        [
+          "la maison",
+          "المنزل",
+          "لا ميزون",
+          "La maison est grande.",
+          "المنزل كبير."
+        ],
+        [
+          "la chambre",
+          "الغرفة",
+          "لا شانبر",
+          "La chambre est calme.",
+          "الغرفة هادئة."
+        ],
+        [
+          "la cuisine",
+          "المطبخ",
+          "لا كوزين",
+          "La cuisine est propre.",
+          "المطبخ نظيف."
+        ],
+        [
+          "la table",
+          "الطاولة",
+          "لا تابْل",
+          "La table est ronde.",
+          "الطاولة مستديرة."
+        ],
+        [
+          "la chaise",
+          "الكرسي",
+          "لا شيز",
+          "La chaise est confortable.",
+          "الكرسي مريح."
+        ],
+        [
+          "le lit",
+          "السرير",
+          "لُ لي",
+          "Le lit est dans la chambre.",
+          "السرير في الغرفة."
+        ],
+        [
+          "le canapé",
+          "الأريكة",
+          "لُ كانابي",
+          "Le canapé est bleu.",
+          "الأريكة زرقاء."
+        ],
+        [
+          "la porte",
+          "الباب",
+          "لا بورت",
+          "La porte est ouverte.",
+          "الباب مفتوح."
+        ],
+        [
+          "la fenêtre",
+          "النافذة",
+          "لا فنِتر",
+          "La fenêtre est fermée.",
+          "النافذة مغلقة."
+        ],
+        [
+          "la lampe",
+          "المصباح",
+          "لا لامب",
+          "La lampe est sur la table.",
+          "المصباح على الطاولة."
+        ]
+      ]
+    },
+    {
+      "topic": "الجسم والصحة",
+      "words": [
+        [
+          "la tête",
+          "الرأس",
+          "لا تيت",
+          "Ma tête est fatiguée.",
+          "رأسي متعب."
+        ],
+        [
+          "le bras",
+          "الذراع",
+          "لُ برا",
+          "Mon bras est long.",
+          "ذراعي طويل."
+        ],
+        [
+          "la main",
+          "اليد",
+          "لا مان",
+          "Ma main est propre.",
+          "يدي نظيفة."
+        ],
+        [
+          "la jambe",
+          "الساق",
+          "لا جامب",
+          "Ma jambe me fait mal.",
+          "ساقي تؤلمني."
+        ],
+        [
+          "le ventre",
+          "البطن",
+          "لُ فانتر",
+          "J’ai mal au ventre.",
+          "أشعر بألم في بطني."
+        ],
+        [
+          "la fièvre",
+          "الحمى",
+          "لا فييفر",
+          "J’ai de la fièvre.",
+          "لدي حمى."
+        ],
+        [
+          "le médecin",
+          "الطبيب",
+          "لُ ميدسين",
+          "Le médecin est gentil.",
+          "الطبيب لطيف."
+        ],
+        [
+          "la pharmacie",
+          "الصيدلية",
+          "لا فارماسي",
+          "La pharmacie est près d’ici.",
+          "الصيدلية قريبة من هنا."
+        ],
+        [
+          "le médicament",
+          "الدواء",
+          "لُ ميديكمان",
+          "Ce médicament est pour moi.",
+          "هذا الدواء لي."
+        ],
+        [
+          "se reposer",
+          "يرتاح",
+          "سُ رُبوزي",
+          "Je veux me reposer.",
+          "أريد أن أرتاح."
+        ]
+      ]
+    },
+    {
+      "topic": "الملابس والأغراض",
+      "words": [
+        [
+          "la robe",
+          "الفستان",
+          "لا روب",
+          "La robe est jolie.",
+          "الفستان جميل."
+        ],
+        [
+          "la chemise",
+          "القميص",
+          "لا شميز",
+          "La chemise est propre.",
+          "القميص نظيف."
+        ],
+        [
+          "le pantalon",
+          "البنطال",
+          "لُ بانتالون",
+          "Le pantalon est noir.",
+          "البنطال أسود."
+        ],
+        [
+          "les chaussures",
+          "الأحذية",
+          "لي شوسير",
+          "Les chaussures sont nouvelles.",
+          "الأحذية جديدة."
+        ],
+        [
+          "le chapeau",
+          "القبعة",
+          "لُ شابو",
+          "Le chapeau est sur la table.",
+          "القبعة على الطاولة."
+        ],
+        [
+          "la veste",
+          "السترة",
+          "لا فيست",
+          "La veste est chaude.",
+          "السترة دافئة."
+        ],
+        [
+          "le manteau",
+          "المعطف",
+          "لُ مانتو",
+          "Le manteau est trop grand.",
+          "المعطف كبير جدًا."
+        ],
+        [
+          "le sac",
+          "الحقيبة",
+          "لُ ساك",
+          "Mon sac est lourd.",
+          "حقيبتي ثقيلة."
+        ],
+        [
+          "les clés",
+          "المفاتيح",
+          "لي كلي",
+          "Les clés sont ici.",
+          "المفاتيح هنا."
+        ],
+        [
+          "la montre",
+          "الساعة",
+          "لا مونتر",
+          "La montre est cassée.",
+          "الساعة مكسورة."
+        ]
+      ]
+    },
+    {
+      "topic": "المدرسة والتعلم",
+      "words": [
+        [
+          "l’école",
+          "المدرسة",
+          "لولكول",
+          "L’école est près de chez moi.",
+          "المدرسة قريبة من بيتي."
+        ],
+        [
+          "la classe",
+          "الفصل",
+          "لا كلاس",
+          "La classe est silencieuse.",
+          "الفصل هادئ."
+        ],
+        [
+          "le cahier",
+          "الدفتر",
+          "لُ كاييي",
+          "Le cahier est sur le bureau.",
+          "الدفتر على المكتب."
+        ],
+        [
+          "le stylo",
+          "القلم",
+          "لُ ستيلو",
+          "Mon stylo écrit bien.",
+          "قلمي يكتب جيدًا."
+        ],
+        [
+          "la leçon",
+          "الدرس",
+          "لا لُسون",
+          "La leçon est facile.",
+          "الدرس سهل."
+        ],
+        [
+          "le professeur",
+          "الأستاذ",
+          "لُ بروفسور",
+          "Le professeur parle lentement.",
+          "الأستاذ يتكلم ببطء."
+        ],
+        [
+          "étudier",
+          "يدرس",
+          "إيتوديي",
+          "Je veux étudier ce soir.",
+          "أريد أن أدرس هذا المساء."
+        ],
+        [
+          "lire",
+          "يقرأ",
+          "لير",
+          "Je lis un livre à l’école.",
+          "أنا أقرأ كتابًا في المدرسة."
+        ],
+        [
+          "écrire",
+          "يكتب",
+          "إيكْرير",
+          "J’écris une phrase.",
+          "أكتب جملة."
+        ],
+        [
+          "répéter",
+          "يكرر",
+          "ريبِتي",
+          "Je répète la réponse.",
+          "أكرر الإجابة."
+        ]
+      ]
+    },
+    {
+      "topic": "المهن وأماكن العمل",
+      "words": [
+        [
+          "le bureau",
+          "المكتب",
+          "لُ بورو",
+          "Le bureau est propre.",
+          "المكتب نظيف."
+        ],
+        [
+          "l’hôpital",
+          "المستشفى",
+          "لوبيتال",
+          "L’hôpital est grand.",
+          "المستشفى كبير."
+        ],
+        [
+          "la boulangerie",
+          "المخبز",
+          "لا بولانجري",
+          "La boulangerie ouvre tôt.",
+          "المخبز يفتح مبكرًا."
+        ],
+        [
+          "l’atelier",
+          "الورشة",
+          "لاتليي",
+          "L’atelier est bruyant.",
+          "الورشة صاخبة."
+        ],
+        [
+          "le magasin",
+          "المتجر",
+          "لُ ماغازان",
+          "Le magasin est fermé.",
+          "المتجر مغلق."
+        ],
+        [
+          "le docteur",
+          "الطبيب",
+          "لُ دوكتور",
+          "Le docteur travaille aujourd’hui.",
+          "الطبيب يعمل اليوم."
+        ],
+        [
+          "la vendeuse",
+          "البائعة",
+          "لا فانديز",
+          "La vendeuse sourit.",
+          "البائعة تبتسم."
+        ],
+        [
+          "le chauffeur",
+          "السائق",
+          "لُ شوفر",
+          "Le chauffeur conduit le bus.",
+          "السائق يقود الحافلة."
+        ],
+        [
+          "l’infirmière",
+          "الممرضة",
+          "لأنفيرميير",
+          "L’infirmière aide les patients.",
+          "الممرضة تساعد المرضى."
+        ],
+        [
+          "travailler",
+          "يعمل",
+          "تراتافييه",
+          "Je travaille ici.",
+          "أعمل هنا."
+        ]
+      ]
+    },
+    {
+      "topic": "الطبيعة والحيوانات",
+      "words": [
+        [
+          "la mer",
+          "البحر",
+          "لا مير",
+          "La mer est calme.",
+          "البحر هادئ."
+        ],
+        [
+          "la montagne",
+          "الجبل",
+          "لا مونتانْي",
+          "La montagne est haute.",
+          "الجبل عالٍ."
+        ],
+        [
+          "la forêt",
+          "الغابة",
+          "لا فورِيه",
+          "La forêt est verte.",
+          "الغابة خضراء."
+        ],
+        [
+          "le soleil",
+          "الشمس",
+          "لُ سولاي",
+          "Le soleil brille.",
+          "الشمس تشرق."
+        ],
+        [
+          "la pluie",
+          "المطر",
+          "لا پوي",
+          "La pluie est forte.",
+          "المطر غزير."
+        ],
+        [
+          "le chien",
+          "الكلب",
+          "لُ شيان",
+          "Le chien court vite.",
+          "الكلب يركض بسرعة."
+        ],
+        [
+          "le chat",
+          "القط",
+          "لُ شا",
+          "Le chat dort sur la chaise.",
+          "القط ينام على الكرسي."
+        ],
+        [
+          "l’oiseau",
+          "الطائر",
+          "لوازو",
+          "L’oiseau chante.",
+          "الطائر يغني."
+        ],
+        [
+          "le poisson",
+          "السمكة",
+          "لُ بواسون",
+          "Le poisson nage dans l’eau.",
+          "السمكة تسبح في الماء."
+        ],
+        [
+          "l’arbre",
+          "الشجرة",
+          "لاربر",
+          "L’arbre est grand.",
+          "الشجرة كبيرة."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوايات والرياضة",
+      "words": [
+        [
+          "le sport",
+          "الرياضة",
+          "لُ سبور",
+          "Le sport est important pour moi.",
+          "الرياضة مهمة بالنسبة لي."
+        ],
+        [
+          "jouer",
+          "يلعب",
+          "جوَييه",
+          "Je joue avec mes amis.",
+          "ألعب مع أصدقائي."
+        ],
+        [
+          "courir",
+          "يجري",
+          "كورير",
+          "Je cours dans le parc.",
+          "أجري في الحديقة."
+        ],
+        [
+          "nager",
+          "يسبح",
+          "ناجييه",
+          "Je nage en été.",
+          "أنا أسبح في الصيف."
+        ],
+        [
+          "danser",
+          "يرقص",
+          "دانسييه",
+          "Elle danse avec sa sœur.",
+          "هي ترقص مع أختها."
+        ],
+        [
+          "chanter",
+          "يغني",
+          "شانتييه",
+          "Je chante dans la voiture.",
+          "أغني في السيارة."
+        ],
+        [
+          "le vélo",
+          "الدراجة",
+          "لُ ڤيلو",
+          "Mon vélo est rouge.",
+          "دراجتي حمراء."
+        ],
+        [
+          "la musique",
+          "الموسيقى",
+          "لا ميزيك",
+          "J’aime la musique.",
+          "أحب الموسيقى."
+        ],
+        [
+          "le football",
+          "كرة القدم",
+          "لُ فوتبول",
+          "Le football est amusant.",
+          "كرة القدم ممتعة."
+        ],
+        [
+          "dessiner",
+          "يرسم",
+          "ديسينييه",
+          "Je dessine une maison.",
+          "أرسم منزلًا."
+        ]
+      ]
+    }
+  ]
+}

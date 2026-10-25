@@ -13,6 +13,23 @@ tags:
   - name: wordora
     description: Wordora learning progress
 paths:
+  /wordora/video:
+    post:
+      operationId: createWordoraVideo
+      tags: [wordora]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/LearningVideoInput"
+      responses:
+        "200":
+          description: Content-matched narrated learning video, generated and cached on demand
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/LearningVideo"
   /wordora/chat:
     post:
       operationId: sendWordoraChat
@@ -117,6 +134,22 @@ paths:
           description: Authentication required
 components:
   schemas:
+    LearningVideoInput:
+      type: object
+      required: [wordId]
+      properties:
+        wordId:
+          type: string
+          minLength: 1
+          maxLength: 100
+    LearningVideo:
+      type: object
+      required: [url, mp4Url]
+      properties:
+        url:
+          type: string
+        mp4Url:
+          type: string
     TutorMessage:
       type: object
       required: [role, content]
@@ -191,6 +224,28 @@ components:
         updatedAt:
           type: string
           format: date-time
+    DailyLearningActivity:
+      type: object
+      required: [correctWordIds, completedLessonIds, reviewedWordIds]
+      properties:
+        correctWordIds:
+          type: array
+          maxItems: 3000
+          items:
+            type: string
+            maxLength: 100
+        completedLessonIds:
+          type: array
+          maxItems: 500
+          items:
+            type: string
+            maxLength: 100
+        reviewedWordIds:
+          type: array
+          maxItems: 3000
+          items:
+            type: string
+            maxLength: 100
     WordoraProgress:
       type: object
       required:
@@ -231,6 +286,10 @@ components:
           maxProperties: 500
           additionalProperties:
             $ref: "#/components/schemas/LessonStudyState"
+        dailyActivity:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/DailyLearningActivity"
     WordoraProgressInput:
       type: object
       required:
@@ -271,4 +330,8 @@ components:
           maxProperties: 500
           additionalProperties:
             $ref: "#/components/schemas/LessonStudyState"
+        dailyActivity:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/DailyLearningActivity"
 

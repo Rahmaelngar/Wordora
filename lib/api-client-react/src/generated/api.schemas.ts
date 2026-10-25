@@ -5,6 +5,19 @@
  * API specification
  * OpenAPI spec version: 0.1.0
  */
+export interface LearningVideoInput {
+  /**
+     * @minLength 1
+     * @maxLength 100
+     */
+  wordId: string;
+}
+
+export interface LearningVideo {
+  url: string;
+  mp4Url: string;
+}
+
 export type TutorMessageRole = typeof TutorMessageRole[keyof typeof TutorMessageRole];
 
 
@@ -97,6 +110,24 @@ export interface LessonStudyState {
   updatedAt: string;
 }
 
+export interface DailyLearningActivity {
+  /**
+     * @maxItems 3000
+     * @items.maxLength 100
+     */
+  correctWordIds: string[];
+  /**
+     * @maxItems 500
+     * @items.maxLength 100
+     */
+  completedLessonIds: string[];
+  /**
+     * @maxItems 3000
+     * @items.maxLength 100
+     */
+  reviewedWordIds: string[];
+}
+
 /**
  * @nullable
  */
@@ -115,6 +146,8 @@ export type WordoraProgressQuizAttempts = {[key: string]: number};
 
 export type WordoraProgressLessonStudy = {[key: string]: LessonStudyState};
 
+export type WordoraProgressDailyActivity = {[key: string]: DailyLearningActivity};
+
 export interface WordoraProgress {
   /** @nullable */
   selectedLanguage: WordoraProgressSelectedLanguage;
@@ -128,6 +161,7 @@ export interface WordoraProgress {
   lastActiveDate: string | null;
   quizAttempts: WordoraProgressQuizAttempts;
   lessonStudy?: WordoraProgressLessonStudy;
+  dailyActivity?: WordoraProgressDailyActivity;
 }
 
 /**
@@ -148,6 +182,8 @@ export type WordoraProgressInputQuizAttempts = {[key: string]: number};
 
 export type WordoraProgressInputLessonStudy = {[key: string]: LessonStudyState};
 
+export type WordoraProgressInputDailyActivity = {[key: string]: DailyLearningActivity};
+
 export interface WordoraProgressInput {
   /** @nullable */
   selectedLanguage: WordoraProgressInputSelectedLanguage;
@@ -161,5 +197,6 @@ export interface WordoraProgressInput {
   lastActiveDate: string | null;
   quizAttempts: WordoraProgressInputQuizAttempts;
   lessonStudy?: WordoraProgressInputLessonStudy;
+  dailyActivity?: WordoraProgressInputDailyActivity;
 }
 

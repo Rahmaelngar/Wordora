@@ -9,6 +9,12 @@ Wordora serves Arabic-speaking learners. Keep explanations, meanings, and learne
 
 **How to apply:** Keep future content and UI Arabic-first. Do not replace the target languages or level progression without an explicit request.
 
+The user explicitly chose **100 learning entries in A1, 150 in A2, and 200 in B1 per language**, not 100 entries per lesson. Keep levels ordered A1 → A2 → B1, with more complete sentences at higher levels, and apply the same scope to all five languages.
+
+**Why:** The user repeated that a small four/six-word expansion was insufficient, insisted all languages receive the changes, and selected these per-level counts after clarification.
+
+**How to apply:** Distribute the content into short interactive lessons without deleting existing IDs/progress. Show level totals separately from the smaller lesson word counter; preserve the agreed quantities when editing the curriculum.
+
 The educational assistant's display name is **GPT Ieon**, and it belongs centrally on the learning page.
 
 **Why:** The user explicitly confirmed this name and placement after clarification. It is a product name, not a requested model identifier.

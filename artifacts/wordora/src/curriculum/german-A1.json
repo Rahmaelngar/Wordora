@@ -1,0 +1,529 @@
+{
+  "lessons": [
+    {
+      "topic": "المنزل والأثاث",
+      "words": [
+        [
+          "das Haus",
+          "البيت / المنزل",
+          "داس هاوس",
+          "Das Haus ist groß.",
+          "البيت كبير."
+        ],
+        [
+          "die Tür",
+          "الباب",
+          "دي تور",
+          "Die Tür ist offen.",
+          "الباب مفتوح."
+        ],
+        [
+          "das Fenster",
+          "النافذة",
+          "داس فنستر",
+          "Das Fenster ist klein.",
+          "النافذة صغيرة."
+        ],
+        [
+          "der Tisch",
+          "الطاولة",
+          "دير تِش",
+          "Der Tisch steht hier.",
+          "الطاولة هنا."
+        ],
+        [
+          "der Stuhl",
+          "الكرسي",
+          "دير شتول",
+          "Der Stuhl ist alt.",
+          "الكرسي قديم."
+        ],
+        [
+          "das Bett",
+          "السرير",
+          "داس بيت",
+          "Das Bett ist bequem.",
+          "السرير مريح."
+        ],
+        [
+          "der Schrank",
+          "الخزانة",
+          "دير شرانك",
+          "Der Schrank ist neu.",
+          "الخزانة جديدة."
+        ],
+        [
+          "die Lampe",
+          "المصباح",
+          "دي لامبه",
+          "Die Lampe leuchtet.",
+          "المصباح يضيء."
+        ],
+        [
+          "die Küche",
+          "المطبخ",
+          "دي كيشه",
+          "Die Küche ist sauber.",
+          "المطبخ نظيف."
+        ],
+        [
+          "das Sofa",
+          "الأريكة",
+          "داس سوفا",
+          "Das Sofa ist weich.",
+          "الأريكة ناعمة."
+        ]
+      ]
+    },
+    {
+      "topic": "الجسم والصحة",
+      "words": [
+        [
+          "der Kopf",
+          "الرأس",
+          "دير كوبف",
+          "Mein Kopf tut weh.",
+          "رأسي يؤلمني."
+        ],
+        [
+          "die Hand",
+          "اليد",
+          "دي هاند",
+          "Die Hand ist kalt.",
+          "اليد باردة."
+        ],
+        [
+          "der Arm",
+          "الذراع",
+          "دير آرم",
+          "Der Arm ist lang.",
+          "الذراع طويل."
+        ],
+        [
+          "das Bein",
+          "الساق",
+          "داس باين",
+          "Das Bein tut weh.",
+          "الساق تؤلمني."
+        ],
+        [
+          "der Fuß",
+          "القدم",
+          "دير فووس",
+          "Der Fuß ist müde.",
+          "القدم متعبة."
+        ],
+        [
+          "das Herz",
+          "القلب",
+          "داس هيرتس",
+          "Das Herz schlägt schnell.",
+          "القلب ينبض بسرعة."
+        ],
+        [
+          "das Fieber",
+          "الحمى",
+          "داس فيبر",
+          "Ich habe Fieber.",
+          "لدي حمى."
+        ],
+        [
+          "der Husten",
+          "السعال",
+          "دير هوستن",
+          "Der Husten ist stark.",
+          "السعال شديد."
+        ],
+        [
+          "der Schmerz",
+          "الألم",
+          "دير شمرْتس",
+          "Der Schmerz ist groß.",
+          "الألم شديد."
+        ],
+        [
+          "die Apotheke",
+          "الصيدلية",
+          "دي أبوتيكة",
+          "Ich gehe zur Apotheke.",
+          "أنا أذهب إلى الصيدلية."
+        ]
+      ]
+    },
+    {
+      "topic": "الملابس والأغراض",
+      "words": [
+        [
+          "der Hut",
+          "القبعة",
+          "دير هوت",
+          "Der Hut ist schwarz.",
+          "القبعة سوداء."
+        ],
+        [
+          "das Hemd",
+          "القميص",
+          "داس هِمت",
+          "Das Hemd ist sauber.",
+          "القميص نظيف."
+        ],
+        [
+          "die Hose",
+          "السروال / البنطال",
+          "دي هوزه",
+          "Die Hose ist kurz.",
+          "البنطال قصير."
+        ],
+        [
+          "die Jacke",
+          "السترة",
+          "دي ياكه",
+          "Die Jacke ist warm.",
+          "السترة دافئة."
+        ],
+        [
+          "der Schuh",
+          "الحذاء",
+          "دير شو",
+          "Der Schuh ist neu.",
+          "الحذاء جديد."
+        ],
+        [
+          "die Socke",
+          "الجورب",
+          "دي سوكه",
+          "Die Socke ist bunt.",
+          "الجورب ملون."
+        ],
+        [
+          "der Rucksack",
+          "حقيبة الظهر",
+          "دير روكساك",
+          "Der Rucksack ist schwer.",
+          "حقيبة الظهر ثقيلة."
+        ],
+        [
+          "der Schlüssel",
+          "المفتاح",
+          "دير شلوسل",
+          "Der Schlüssel ist weg.",
+          "المفتاح مفقود."
+        ],
+        [
+          "die Uhr",
+          "الساعة",
+          "دي أور",
+          "Die Uhr ist kaputt.",
+          "الساعة معطلة."
+        ],
+        [
+          "die Brille",
+          "النظارة",
+          "دي بريله",
+          "Die Brille ist groß.",
+          "النظارة كبيرة."
+        ]
+      ]
+    },
+    {
+      "topic": "المدرسة والتعلم",
+      "words": [
+        [
+          "die Schule",
+          "المدرسة",
+          "دي شولِه",
+          "Die Schule ist groß.",
+          "المدرسة كبيرة."
+        ],
+        [
+          "der Lehrer",
+          "المعلم",
+          "دير ليرر",
+          "Der Lehrer spricht langsam.",
+          "المعلم يتكلم ببطء."
+        ],
+        [
+          "die Lehrerin",
+          "المعلمة",
+          "دي ليريـرِن",
+          "Die Lehrerin ist nett.",
+          "المعلمة لطيفة."
+        ],
+        [
+          "das Heft",
+          "الدفتر",
+          "داس هفت",
+          "Das Heft ist voll.",
+          "الدفتر ممتلئ."
+        ],
+        [
+          "der Stift",
+          "القلم",
+          "دير شتفت",
+          "Der Stift ist blau.",
+          "القلم أزرق."
+        ],
+        [
+          "das Wort",
+          "الكلمة",
+          "داس فورت",
+          "Das Wort ist schwer.",
+          "الكلمة صعبة."
+        ],
+        [
+          "die Aufgabe",
+          "الواجب / المهمة",
+          "دي آوفغابه",
+          "Die Aufgabe ist leicht.",
+          "الواجب سهل."
+        ],
+        [
+          "die Klasse",
+          "الصف",
+          "دي كلاسه",
+          "Die Klasse ist ruhig.",
+          "الصف هادئ."
+        ],
+        [
+          "lesen",
+          "يقرأ",
+          "ليزن",
+          "Ich lese ein Buch.",
+          "أنا أقرأ كتابًا."
+        ],
+        [
+          "lernen",
+          "يتعلم",
+          "ليرنن",
+          "Wir lernen Deutsch.",
+          "نحن نتعلم الألمانية."
+        ]
+      ]
+    },
+    {
+      "topic": "المهن وأماكن العمل",
+      "words": [
+        [
+          "der Arzt",
+          "الطبيب",
+          "دير آرتست",
+          "Der Arzt hilft mir.",
+          "الطبيب يساعدني."
+        ],
+        [
+          "die Krankenschwester",
+          "الممرضة",
+          "دي كرانكنشڤستر",
+          "Die Krankenschwester ist freundlich.",
+          "الممرضة ودودة."
+        ],
+        [
+          "der Bäcker",
+          "الخباز",
+          "دير بيكر",
+          "Der Bäcker arbeitet früh.",
+          "الخباز يعمل مبكرًا."
+        ],
+        [
+          "die Bäckerei",
+          "المخبز",
+          "دي بيكرراي",
+          "Die Bäckerei ist offen.",
+          "المخبز مفتوح."
+        ],
+        [
+          "das Büro",
+          "المكتب",
+          "داس بيورو",
+          "Das Büro ist klein.",
+          "المكتب صغير."
+        ],
+        [
+          "die Fabrik",
+          "المصنع",
+          "دي فابريك",
+          "Die Fabrik ist laut.",
+          "المصنع صاخب."
+        ],
+        [
+          "der Koch",
+          "الطاهي",
+          "دير كوخ",
+          "Der Koch macht Suppe.",
+          "الطاهي يحضر حساءً."
+        ],
+        [
+          "die Arbeit",
+          "العمل",
+          "دي آربايت",
+          "Die Arbeit beginnt um acht.",
+          "العمل يبدأ عند الثامنة."
+        ],
+        [
+          "der Chef",
+          "المدير",
+          "دير شيف",
+          "Der Chef ist streng.",
+          "المدير صارم."
+        ],
+        [
+          "das Geschäft",
+          "المحل",
+          "داس غيشفت",
+          "Das Geschäft ist geschlossen.",
+          "المحل مغلق."
+        ]
+      ]
+    },
+    {
+      "topic": "الطبيعة والحيوانات",
+      "words": [
+        [
+          "der Baum",
+          "الشجرة",
+          "دير باوم",
+          "Der Baum ist hoch.",
+          "الشجرة عالية."
+        ],
+        [
+          "die Blume",
+          "الزهرة",
+          "دي بلومه",
+          "Die Blume ist schön.",
+          "الزهرة جميلة."
+        ],
+        [
+          "der Berg",
+          "الجبل",
+          "دير بيرك",
+          "Der Berg ist weit.",
+          "الجبل بعيد."
+        ],
+        [
+          "der Fluss",
+          "النهر",
+          "دير فلوس",
+          "Der Fluss ist breit.",
+          "النهر عريض."
+        ],
+        [
+          "der See",
+          "البحيرة",
+          "دير زه",
+          "Der See ist ruhig.",
+          "البحيرة هادئة."
+        ],
+        [
+          "der Hund",
+          "الكلب",
+          "دير هونت",
+          "Der Hund ist freundlich.",
+          "الكلب ودود."
+        ],
+        [
+          "die Katze",
+          "القطة",
+          "دي كاتسه",
+          "Die Katze schläft.",
+          "القطة تنام."
+        ],
+        [
+          "das Pferd",
+          "الحصان",
+          "داس بيرد",
+          "Das Pferd läuft schnell.",
+          "الحصان يجري بسرعة."
+        ],
+        [
+          "der Vogel",
+          "الطائر",
+          "دير فوغل",
+          "Der Vogel singt.",
+          "الطائر يغني."
+        ],
+        [
+          "die Wiese",
+          "المروج / العشب",
+          "دي فيزه",
+          "Die Wiese ist grün.",
+          "المروج خضراء."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوايات والرياضة",
+      "words": [
+        [
+          "spielen",
+          "يلعب",
+          "شبيلن",
+          "Ich spiele gern.",
+          "أنا ألعب بسرور."
+        ],
+        [
+          "tanzen",
+          "يرقص",
+          "تانتسن",
+          "Wir tanzen heute.",
+          "نحن نرقص اليوم."
+        ],
+        [
+          "singen",
+          "يغني",
+          "زينغن",
+          "Sie singen laut.",
+          "هم يغنون بصوت عالٍ."
+        ],
+        [
+          "laufen",
+          "يجري / يركض",
+          "لاوفن",
+          "Er läuft schnell.",
+          "هو يجري بسرعة."
+        ],
+        [
+          "schwimmen",
+          "يسبح",
+          "شفيمين",
+          "Ich schwimme im Sommer.",
+          "أنا أسبح في الصيف."
+        ],
+        [
+          "wandern",
+          "يتنزه سيرًا على الأقدام",
+          "فاندِرن",
+          "Wir wandern am Wochenende im Park.",
+          "نحن نتنزه سيرًا على الأقدام في الحديقة في عطلة نهاية الأسبوع."
+        ],
+        [
+          "zeichnen",
+          "يرسم",
+          "تسايخنن",
+          "Das Kind zeichnet ein Haus.",
+          "الطفل يرسم بيتًا."
+        ],
+        [
+          "Rad fahren",
+          "يركب الدراجة",
+          "رات فاّرن",
+          "Wir fahren Rad im Park.",
+          "نركب الدراجة في الحديقة."
+        ],
+        [
+          "Fußball spielen",
+          "يلعب كرة القدم",
+          "فوسبال شبيلن",
+          "Die Kinder spielen Fußball.",
+          "الأطفال يلعبون كرة القدم."
+        ],
+        [
+          "Musik hören",
+          "يستمع إلى الموسيقى",
+          "موزيك هورن",
+          "Ich höre gern Musik.",
+          "أنا أستمع إلى الموسيقى بسرور."
+        ]
+      ]
+    }
+  ]
+}

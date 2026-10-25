@@ -20,3 +20,9 @@ Media transcripts must match the published recording, not automatically include 
 **Why:** A lesson can gain new words while its existing video/WAV continues to narrate only the older phrases. Using the live word list as a transcript would falsely claim those additions are spoken.
 
 **How to apply:** Update narration and its transcript together, invalidate old generation caches when changing the recording, and do not imply timestamp synchronization without real alignment data.
+
+Per-word videos are real narrated instructional text clips, created on first request and reused by content hash. They are not human demonstrations or lip-motion videos.
+
+**Why:** The expanded multilingual curriculum is too large to pre-generate every video responsibly; on-demand creation avoids unnecessary AI charges while supporting every learning entry.
+
+**How to apply:** Keep the first-use cost/loading disclosure and honest media label, preserve native-language audio plus matching written translations, and invalidate cached media when its spoken content changes.

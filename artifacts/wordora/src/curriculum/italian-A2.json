@@ -1,0 +1,983 @@
+{
+  "lessons": [
+    {
+      "topic": "طلب الطعام في المطعم",
+      "words": [
+        [
+          "vorrei ordinare",
+          "أودّ أن أطلب",
+          "فوروئي أورديناري",
+          "Vorrei ordinare una pasta al pomodoro.",
+          "أودّ أن أطلب معكرونة بالطماطم."
+        ],
+        [
+          "il menù",
+          "قائمة الطعام",
+          "إيل مينو",
+          "Posso vedere il menù, per favore?",
+          "هل يمكنني أن أرى قائمة الطعام، من فضلك؟"
+        ],
+        [
+          "il piatto del giorno",
+          "طبق اليوم",
+          "إيل بياتّو دِل جورنو",
+          "Oggi scelgo il piatto del giorno.",
+          "اليوم أختار طبق اليوم."
+        ],
+        [
+          "senza cipolla",
+          "من دون بصل",
+          "سينتسا تشيبولا",
+          "Vorrei il panino senza cipolla.",
+          "أريد الساندويتش من دون بصل."
+        ],
+        [
+          "ben cotto",
+          "مطهو جيدًا",
+          "بِن كوتّو",
+          "Preferisco la carne ben cotta.",
+          "أفضّل اللحم مطهوًّا جيدًا."
+        ],
+        [
+          "un tavolo per due",
+          "طاولة لشخصين",
+          "أون تافولو بير دوه",
+          "Abbiamo bisogno di un tavolo per due.",
+          "نحن بحاجة إلى طاولة لشخصين."
+        ],
+        [
+          "il conto, per favore",
+          "الحساب، من فضلك",
+          "إيل كونتو، بير فافوري",
+          "Il conto, per favore, quando abbiamo finito.",
+          "الحساب، من فضلك، عندما ننتهي."
+        ],
+        [
+          "le posate",
+          "أدوات المائدة",
+          "لي بوساتي",
+          "Le posate sono sul tavolo.",
+          "أدوات المائدة على الطاولة."
+        ],
+        [
+          "il cameriere",
+          "النادل",
+          "إيل كاميرييري",
+          "Il cameriere porta il vino.",
+          "النادل يحضر النبيذ."
+        ],
+        [
+          "acqua frizzante",
+          "ماء غازي",
+          "أكوا فريتسانتي",
+          "Vorrei acqua frizzante, grazie.",
+          "أريد ماءً غازيًا، شكرًا."
+        ],
+        [
+          "un dolce",
+          "حلوى",
+          "أون دولتشِه",
+          "Dopo cena prendiamo un dolce.",
+          "بعد العشاء نأخذ حلوى."
+        ],
+        [
+          "per iniziare",
+          "للبداية",
+          "بير إنيتسْيَارِه",
+          "Per iniziare, scelgo un'insalata.",
+          "للبداية أختار سلطة."
+        ]
+      ]
+    },
+    {
+      "topic": "الإقامة في الفندق",
+      "words": [
+        [
+          "la prenotazione",
+          "الحجز",
+          "لا برينوتاتسيوني",
+          "La prenotazione è a nome di Sara.",
+          "الحجز باسم سارة."
+        ],
+        [
+          "la chiave",
+          "المفتاح",
+          "لا كيave",
+          "Mi dà la chiave della stanza?",
+          "هل تعطيني مفتاح الغرفة؟"
+        ],
+        [
+          "la stanza doppia",
+          "الغرفة المزدوجة",
+          "لا ستانتسا دوبّيا",
+          "Abbiamo una stanza doppia al secondo piano.",
+          "لدينا غرفة مزدوجة في الطابق الثاني."
+        ],
+        [
+          "il bagno privato",
+          "حمّام خاص",
+          "إيل بانيو بريفاتو",
+          "La stanza ha il bagno privato.",
+          "الغرفة فيها حمّام خاص."
+        ],
+        [
+          "la colazione inclusa",
+          "الإفطار مشمول",
+          "لا كولاتسيوني إنكلوسا",
+          "La colazione inclusa è nel prezzo.",
+          "الإفطار المشمول داخل السعر."
+        ],
+        [
+          "il piano terra",
+          "الطابق الأرضي",
+          "إيل بيانو تيرا",
+          "Il ristorante è al piano terra.",
+          "المطعم في الطابق الأرضي."
+        ],
+        [
+          "il check-in",
+          "تسجيل الوصول",
+          "إيل تشيك-إن",
+          "Il check-in è alle tre.",
+          "تسجيل الوصول في الثالثة."
+        ],
+        [
+          "il check-out",
+          "تسجيل المغادرة",
+          "إيل تشيك-أوت",
+          "Il check-out è domani mattina.",
+          "تسجيل المغادرة غدًا صباحًا."
+        ],
+        [
+          "l’ascensore",
+          "المصعد",
+          "لَاسّينسوري",
+          "L’ascensore è vicino alla reception.",
+          "المصعد قريب من الاستقبال."
+        ],
+        [
+          "la reception",
+          "مكتب الاستقبال",
+          "لا ريسيبسيون",
+          "Alla reception chiedono il documento.",
+          "في مكتب الاستقبال يطلبون الوثيقة."
+        ],
+        [
+          "una camera tranquilla",
+          "غرفة هادئة",
+          "أونا كاميرا ترانكويلا",
+          "Vorrei una camera tranquilla.",
+          "أريد غرفة هادئة."
+        ],
+        [
+          "il servizio in camera",
+          "خدمة الغرف",
+          "إيل سيرفيتسيو إن كاميرا",
+          "Il servizio in camera arriva presto.",
+          "خدمة الغرف تصل مبكرًا."
+        ]
+      ]
+    },
+    {
+      "topic": "السؤال عن الاتجاهات",
+      "words": [
+        [
+          "dritto",
+          "مباشرة",
+          "دريتو",
+          "Vai dritto fino al semaforo.",
+          "اذهب مباشرة حتى الإشارة."
+        ],
+        [
+          "a destra",
+          "إلى اليمين",
+          "أ دِسترَا",
+          "Giri a destra dopo il ponte.",
+          "انعطف إلى اليمين بعد الجسر."
+        ],
+        [
+          "a sinistra",
+          "إلى اليسار",
+          "أ سينيسترا",
+          "La farmacia è a sinistra.",
+          "الصيدلية على اليسار."
+        ],
+        [
+          "all’angolo",
+          "عند الزاوية",
+          "ألانغولو",
+          "Il negozio è all’angolo.",
+          "المتجر عند الزاوية."
+        ],
+        [
+          "vicino a",
+          "بالقرب من",
+          "فيتشينو أ",
+          "La banca è vicino a casa mia.",
+          "البنك قريب من بيتي."
+        ],
+        [
+          "lontano da",
+          "بعيد عن",
+          "لونتانُو دا",
+          "Il parco è lontano da qui.",
+          "الحديقة بعيدة عن هنا."
+        ],
+        [
+          "di fronte a",
+          "مقابل",
+          "دي فرونتِه أ",
+          "Il museo è di fronte alla scuola.",
+          "المتحف مقابل المدرسة."
+        ],
+        [
+          "dietro",
+          "خلف",
+          "دييترو",
+          "C’è un bar dietro l’ufficio.",
+          "يوجد مقهى خلف المكتب."
+        ],
+        [
+          "accanto a",
+          "بجانب",
+          "أكانتو أ",
+          "La fermata è accanto al supermercato.",
+          "المحطة بجانب السوبرماركت."
+        ],
+        [
+          "seguire la strada",
+          "اتباع الطريق",
+          "سيغويْرِه لا سترا دا",
+          "Deve seguire la strada principale.",
+          "يجب أن تتبع الطريق الرئيسي."
+        ],
+        [
+          "attraversare la piazza",
+          "عبور الساحة",
+          "أترافيرساره لا بياّتسا",
+          "Attraversiamo la piazza insieme.",
+          "نعبر الساحة معًا."
+        ],
+        [
+          "svoltare",
+          "يَنعطف",
+          "زفولتارِه",
+          "Devi svoltare al semaforo.",
+          "يجب أن تنعطف عند الإشارة."
+        ]
+      ]
+    },
+    {
+      "topic": "الوقت والمواعيد",
+      "words": [
+        [
+          "alle otto",
+          "عند الثامنة",
+          "أليه أوتّو",
+          "La lezione inizia alle otto.",
+          "الدرس يبدأ عند الثامنة."
+        ],
+        [
+          "in ritardo",
+          "متأخر",
+          "إن ريتاردو",
+          "Sono in ritardo per il treno.",
+          "أنا متأخر عن القطار."
+        ],
+        [
+          "in anticipo",
+          "مبكرًا",
+          "إن أَنتيشِبو",
+          "Arrivo in anticipo all’appuntamento.",
+          "أصل مبكرًا إلى الموعد."
+        ],
+        [
+          "la sveglia",
+          "المنبّه",
+          "لا زفيليا",
+          "La sveglia suona alle sei.",
+          "المنبّه يرنّ في السادسة."
+        ],
+        [
+          "il calendario",
+          "التقويم",
+          "إيل كالينداريو",
+          "Controllo il calendario ogni mattina.",
+          "أفحص التقويم كل صباح."
+        ],
+        [
+          "fissare un appuntamento",
+          "تحديد موعد",
+          "فيسّارِه أون أبّونتامنتو",
+          "Dobbiamo fissare un appuntamento.",
+          "يجب أن نحدد موعدًا."
+        ],
+        [
+          "spostare l’orario",
+          "تغيير الوقت",
+          "سبوستارِه لوراريو",
+          "Possiamo spostare l’orario della visita?",
+          "هل يمكننا تغيير وقت الزيارة؟"
+        ],
+        [
+          "la prossima volta",
+          "المرة القادمة",
+          "لا بروسيما فولتا",
+          "La prossima volta arrivo puntuale.",
+          "في المرة القادمة أصل في الوقت المحدد."
+        ],
+        [
+          "entro stasera",
+          "قبل هذا المساء",
+          "أنترو ستازيرا",
+          "Devo finire il lavoro entro stasera.",
+          "يجب أن أنهي العمل قبل هذا المساء."
+        ],
+        [
+          "per tempo",
+          "في الوقت المناسب",
+          "بير تيمبو",
+          "Ho preparato tutto per tempo.",
+          "حضّرت كل شيء في الوقت المناسب."
+        ],
+        [
+          "fino a mezzogiorno",
+          "حتى الظهر",
+          "فينو أ ميدزوجورنو",
+          "Restiamo qui fino a mezzogiorno.",
+          "نبقى هنا حتى الظهر."
+        ],
+        [
+          "la puntualità",
+          "الالتزام بالمواعيد",
+          "لا بونتواليتا",
+          "La puntualità è utile al lavoro.",
+          "الالتزام بالمواعيد مفيد في العمل."
+        ]
+      ]
+    },
+    {
+      "topic": "زيارة الطبيب",
+      "words": [
+        [
+          "ho mal di testa",
+          "لدي صداع",
+          "أو مال دي تستا",
+          "Ho mal di testa da stamattina.",
+          "لدي صداع منذ هذا الصباح."
+        ],
+        [
+          "ho la febbre",
+          "لدي حمى",
+          "أو لا فِبري",
+          "Ho la febbre e sto a casa.",
+          "لدي حمى وأنا أبقى في البيت."
+        ],
+        [
+          "la tosse",
+          "السعال",
+          "لا توسّي",
+          "La tosse mi sveglia di notte.",
+          "السعال يوقظني ليلًا."
+        ],
+        [
+          "il naso chiuso",
+          "أنف مسدود",
+          "إيل نازو كْيُوزو",
+          "Ho il naso chiuso da due giorni.",
+          "أنفي مسدود منذ يومين."
+        ],
+        [
+          "il medico",
+          "الطبيب",
+          "إيل ميديكو",
+          "Il medico mi visita oggi.",
+          "الطبيب يفحصني اليوم."
+        ],
+        [
+          "la ricetta",
+          "الوصفة الطبية",
+          "لا ريشتّا",
+          "La ricetta è per la farmacia.",
+          "الوصفة الطبية للصيدلية."
+        ],
+        [
+          "la sala d’attesa",
+          "غرفة الانتظار",
+          "لا سالا داتّيزا",
+          "Aspetto nella sala d’attesa.",
+          "أنتظر في غرفة الانتظار."
+        ],
+        [
+          "una visita",
+          "فحص/زيارة طبية",
+          "أونا فيزيتا",
+          "Ho una visita alle dieci.",
+          "لدي فحص عند العاشرة."
+        ],
+        [
+          "il dolore",
+          "الألم",
+          "إيل دولوري",
+          "Il dolore è forte al pomeriggio.",
+          "الألم شديد بعد الظهر."
+        ],
+        [
+          "prendere una medicina",
+          "تناول دواء",
+          "برينديري أونا ميديتشينا",
+          "Devo prendere una medicina dopo cena.",
+          "يجب أن أتناول دواء بعد العشاء."
+        ],
+        [
+          "la gola",
+          "الحلق",
+          "لا غولا",
+          "Mi fa male la gola.",
+          "حلقِي يؤلمني."
+        ],
+        [
+          "stare meglio",
+          "أن أتحسن",
+          "ستارِه ميليو",
+          "Dopo il riposo sto meglio.",
+          "بعد الراحة أشعر بتحسن."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل في العمل",
+      "words": [
+        [
+          "la riunione",
+          "الاجتماع",
+          "لا ريونْيوني",
+          "La riunione comincia alle nove.",
+          "الاجتماع يبدأ في التاسعة."
+        ],
+        [
+          "il collega",
+          "الزميل",
+          "إيل كولّيغا",
+          "Il collega parla con il capo.",
+          "الزميل يتحدث مع المدير."
+        ],
+        [
+          "il capo",
+          "المدير",
+          "إيل كابو",
+          "Il capo vuole un rapporto breve.",
+          "المدير يريد تقريرًا قصيرًا."
+        ],
+        [
+          "il rapporto",
+          "التقرير",
+          "إيل رابّورتو",
+          "Devo finire il rapporto oggi.",
+          "يجب أن أنهي التقرير اليوم."
+        ],
+        [
+          "la scadenza",
+          "الموعد النهائي",
+          "لا سكادينتسا",
+          "La scadenza è venerdì.",
+          "الموعد النهائي يوم الجمعة."
+        ],
+        [
+          "mandare una mail",
+          "إرسال بريد إلكتروني",
+          "ماندارِه أونا ميل",
+          "Devo mandare una mail al cliente.",
+          "يجب أن أرسل بريدًا إلكترونيًا إلى الزبون."
+        ],
+        [
+          "rispondere al telefono",
+          "الرد على الهاتف",
+          "ريسبونديري أَل تيليفونو",
+          "Non posso rispondere al telefono adesso.",
+          "لا أستطيع الرد على الهاتف الآن."
+        ],
+        [
+          "l’ufficio",
+          "المكتب",
+          "لُفّيتشو",
+          "L’ufficio è al terzo piano.",
+          "المكتب في الطابق الثالث."
+        ],
+        [
+          "la cartella",
+          "الملف",
+          "لا كارتيللا",
+          "Metto i documenti nella cartella.",
+          "أضع الوثائق في الملف."
+        ],
+        [
+          "il cliente",
+          "الزبون",
+          "إيل كليينتِه",
+          "Il cliente aspetta una risposta.",
+          "الزبون ينتظر جوابًا."
+        ],
+        [
+          "l’orario di lavoro",
+          "ساعات العمل",
+          "لوراريو دي لافورو",
+          "Il mio orario di lavoro cambia domani.",
+          "ساعات عملي تتغير غدًا."
+        ],
+        [
+          "fare una pausa",
+          "أخذ استراحة",
+          "فاره أونا باوزا",
+          "Facciamo una pausa alle tre.",
+          "نأخذ استراحة عند الثالثة."
+        ]
+      ]
+    },
+    {
+      "topic": "الهاتف والرسائل",
+      "words": [
+        [
+          "chiamare",
+          "الاتصال",
+          "كيا مارِه",
+          "Ti chiamo dopo cena.",
+          "سأتصل بك بعد العشاء."
+        ],
+        [
+          "lasciare un messaggio",
+          "ترك رسالة",
+          "لاشياره أون ميسّاجّو",
+          "Lascio un messaggio sul telefono.",
+          "أترك رسالة على الهاتف."
+        ],
+        [
+          "inviare un messaggio",
+          "إرسال رسالة",
+          "إنفياره أون ميسّاجّو",
+          "Invio un messaggio a Marco.",
+          "أرسل رسالة إلى ماركو."
+        ],
+        [
+          "il numero",
+          "الرقم",
+          "إيل نوميرو",
+          "Non ricordo il numero.",
+          "لا أتذكر الرقم."
+        ],
+        [
+          "la chiamata",
+          "المكالمة",
+          "لا كياماتا",
+          "La chiamata dura poco.",
+          "المكالمة تستغرق وقتًا قليلًا."
+        ],
+        [
+          "il segnale",
+          "الإشارة",
+          "إيل سيغنالي",
+          "Il segnale è debole qui.",
+          "الإشارة ضعيفة هنا."
+        ],
+        [
+          "la batteria",
+          "البطارية",
+          "لا باتّيريا",
+          "La batteria del telefono è scarica.",
+          "بطارية الهاتف فارغة."
+        ],
+        [
+          "silenzioso",
+          "صامت",
+          "سيلينتسيوزو",
+          "Metto il telefono silenzioso.",
+          "أضع الهاتف على الصامت."
+        ],
+        [
+          "lo schermo",
+          "الشاشة",
+          "لو سكريمو",
+          "Lo schermo è molto luminoso.",
+          "الشاشة شديدة الإضاءة."
+        ],
+        [
+          "la password",
+          "كلمة المرور",
+          "لا باسسورد",
+          "Ho dimenticato la password.",
+          "نسيت كلمة المرور."
+        ],
+        [
+          "la chat",
+          "المحادثة",
+          "لا شات",
+          "Scrivo nella chat con gli amici.",
+          "أكتب في المحادثة مع الأصدقاء."
+        ],
+        [
+          "telefonare più tardi",
+          "الاتصال لاحقًا",
+          "تيليفونارِه بيو تاردِي",
+          "Puoi telefonare più tardi?",
+          "هل يمكنك الاتصال لاحقًا؟"
+        ]
+      ]
+    },
+    {
+      "topic": "الأنشطة في وقت الفراغ",
+      "words": [
+        [
+          "leggere un romanzo",
+          "قراءة رواية",
+          "ليدجيرِه أون رومانتسو",
+          "La sera leggo un romanzo.",
+          "في المساء أقرأ رواية."
+        ],
+        [
+          "guardare un film",
+          "مشاهدة فيلم",
+          "غواردارِه أون فيلم",
+          "Guardiamo un film insieme.",
+          "نشاهد فيلمًا معًا."
+        ],
+        [
+          "fare sport",
+          "ممارسة الرياضة",
+          "فاره سبورت",
+          "Faccio sport nel pomeriggio.",
+          "أمارس الرياضة بعد الظهر."
+        ],
+        [
+          "andare al parco",
+          "الذهاب إلى الحديقة",
+          "أندارِه أل باركو",
+          "Andiamo al parco dopo pranzo.",
+          "نذهب إلى الحديقة بعد الغداء."
+        ],
+        [
+          "ascoltare musica",
+          "الاستماع إلى الموسيقى",
+          "أسكولتارِه موزيكا",
+          "Ascolto musica mentre cucino.",
+          "أستمع إلى الموسيقى بينما أطبخ."
+        ],
+        [
+          "cucinare",
+          "الطبخ",
+          "كوتشينارِه",
+          "Cucinare mi rilassa.",
+          "الطبخ يريحني."
+        ],
+        [
+          "dipingere",
+          "الرسم",
+          "ديبينجيرِه",
+          "Nel tempo libero mi piace dipingere.",
+          "في وقت الفراغ أحب الرسم."
+        ],
+        [
+          "fare una passeggiata",
+          "القيام بنزهة",
+          "فاره أونا باسّيجّاتا",
+          "Dopo cena faccio una passeggiata.",
+          "بعد العشاء أقوم بنزهة."
+        ],
+        [
+          "incontrare gli amici",
+          "لقاء الأصدقاء",
+          "إنكونترارِه لي أمّيتشي",
+          "Stasera incontro gli amici.",
+          "هذا المساء ألتقي الأصدقاء."
+        ],
+        [
+          "suonare la chitarra",
+          "العزف على الغيتار",
+          "سوانارِه لا كيتّارا",
+          "Suono la chitarra ogni settimana.",
+          "أعزف الغيتار كل أسبوع."
+        ],
+        [
+          "fare fotografie",
+          "التقاط صور",
+          "فاره فوتوغرافية",
+          "Faccio fotografie al mare.",
+          "ألتقط صورًا عند البحر."
+        ],
+        [
+          "il tempo libero",
+          "وقت الفراغ",
+          "إيل تيمبو ليبيرو",
+          "Nel tempo libero studio italiano.",
+          "في وقت الفراغ أدرس الإيطالية."
+        ]
+      ]
+    },
+    {
+      "topic": "الخدمات في المدينة",
+      "words": [
+        [
+          "l’ufficio postale",
+          "مكتب البريد",
+          "لُفّيتشو بوستالي",
+          "L’ufficio postale apre alle otto.",
+          "مكتب البريد يفتح عند الثامنة."
+        ],
+        [
+          "la farmacia",
+          "الصيدلية",
+          "لا فارماشيا",
+          "La farmacia è aperta fino a tardi.",
+          "الصيدلية مفتوحة حتى وقت متأخر."
+        ],
+        [
+          "il municipio",
+          "البلدية",
+          "إيل مونيتشيبّيو",
+          "Il municipio è in centro.",
+          "البلدية في الوسط."
+        ],
+        [
+          "la biblioteca",
+          "المكتبة",
+          "لا بيبليوتيكا",
+          "La biblioteca è molto tranquilla.",
+          "المكتبة هادئة جدًا."
+        ],
+        [
+          "il supermercato",
+          "السوبرماركت",
+          "إيل سوبرميركاتو",
+          "Il supermercato vende frutta fresca.",
+          "السوبرماركت يبيع فاكهة طازجة."
+        ],
+        [
+          "il parcheggio",
+          "موقف السيارات",
+          "إيل باركيجّو",
+          "Il parcheggio è vicino al centro.",
+          "موقف السيارات قريب من الوسط."
+        ],
+        [
+          "la fermata",
+          "المحطة/الموقف",
+          "لا فيرماتا",
+          "La fermata è davanti al bar.",
+          "الموقف أمام المقهى."
+        ],
+        [
+          "il centro città",
+          "وسط المدينة",
+          "إيل تشينترو تشيتا",
+          "Il centro città è molto animato.",
+          "وسط المدينة نشيط جدًا."
+        ],
+        [
+          "il cassonetto",
+          "حاوية النفايات",
+          "إيل كاسّونيتّو",
+          "Butta la carta nel cassonetto.",
+          "ضع الورق في حاوية النفايات."
+        ],
+        [
+          "la piscina",
+          "المسبح",
+          "لا بيسينا",
+          "La piscina comunale è grande.",
+          "المسبح البلدي كبير."
+        ],
+        [
+          "il campanello",
+          "جرس الباب",
+          "إيل كامبانيللو",
+          "Suono il campanello della casa.",
+          "أقرع جرس المنزل."
+        ],
+        [
+          "la posta",
+          "البريد",
+          "لا بوستا",
+          "Passo alla posta dopo il lavoro.",
+          "أمرّ على البريد بعد العمل."
+        ]
+      ]
+    },
+    {
+      "topic": "الدفع والمصروفات",
+      "words": [
+        [
+          "il portafoglio",
+          "المحفظة",
+          "إيل بورتافوليو",
+          "Il portafoglio è nella borsa.",
+          "المحفظة في الحقيبة."
+        ],
+        [
+          "lo scontrino",
+          "الإيصال",
+          "لو سكانترينو",
+          "Conservo lo scontrino della spesa.",
+          "أحتفظ بإيصال المشتريات."
+        ],
+        [
+          "la spesa",
+          "المشتريات",
+          "لا سبيزا",
+          "La spesa di oggi è alta.",
+          "مشتريات اليوم مرتفعة."
+        ],
+        [
+          "risparmiare",
+          "الادخار",
+          "ريسبارميارِه",
+          "Devo risparmiare per il viaggio.",
+          "يجب أن أوفر للسفر."
+        ],
+        [
+          "spendere troppo",
+          "إنفاق الكثير",
+          "سبينديري تروبو",
+          "Non voglio spendere troppo.",
+          "لا أريد أن أنفق كثيرًا."
+        ],
+        [
+          "pagare in contanti",
+          "الدفع نقدًا",
+          "با جاري إن كونتانتِي",
+          "Pago in contanti al negozio.",
+          "أدفع نقدًا في المتجر."
+        ],
+        [
+          "il resto",
+          "الباقي من المال",
+          "إيل ريستو",
+          "Il resto è nel portafoglio.",
+          "الباقي من المال في المحفظة."
+        ],
+        [
+          "il bancomat",
+          "الصراف الآلي",
+          "إيل بانكومات",
+          "Il bancomat è fuori dalla banca.",
+          "الصراف الآلي خارج البنك."
+        ],
+        [
+          "la bolletta",
+          "الفاتورة",
+          "لا بولليتّا",
+          "La bolletta arriva ogni mese.",
+          "الفاتورة تصل كل شهر."
+        ],
+        [
+          "l’affitto",
+          "الإيجار",
+          "لافّيتّو",
+          "L’affitto è alto questo mese.",
+          "الإيجار مرتفع هذا الشهر."
+        ],
+        [
+          "la tariffa",
+          "التعرفة",
+          "لا تريفّا",
+          "La tariffa del telefono cambia.",
+          "تعرفة الهاتف تتغير."
+        ],
+        [
+          "fare i conti",
+          "حساب المصروفات",
+          "فاره إي كونتي",
+          "Devo fare i conti alla fine del mese.",
+          "يجب أن أحسب المصروفات في نهاية الشهر."
+        ]
+      ]
+    },
+    {
+      "topic": "الطلبات والاقتراحات المهذبة",
+      "words": [
+        [
+          "mi piacerebbe",
+          "يُعجبني أن",
+          "مي بياتشيريبّيه",
+          "Mi piacerebbe provare quel piatto.",
+          "أود أن أجرّب ذلك الطبق."
+        ],
+        [
+          "potrebbe",
+          "هل يمكنه/يمكنك",
+          "بوتّريبه",
+          "Potrebbe parlare più lentamente?",
+          "هل يمكن أن تتكلم أبطأ؟"
+        ],
+        [
+          "avrebbe",
+          "هل يمكنك أن",
+          "أفريبّيه",
+          "Avrebbe un momento?",
+          "هل لديك لحظة؟"
+        ],
+        [
+          "potresti",
+          "هل يمكنكِ/يمكنك",
+          "بوتريستي",
+          "Potresti chiudere la finestra?",
+          "هل يمكنك إغلاق النافذة؟"
+        ],
+        [
+          "dare una mano",
+          "تقديم مساعدة",
+          "داره أونا مانو",
+          "Puoi darmi una mano con la valigia?",
+          "هل يمكنك مساعدتي في الحقيبة؟"
+        ],
+        [
+          "fare attenzione",
+          "الانتباه",
+          "فاره أتّنتسيوني",
+          "Fai attenzione al gradino.",
+          "انتبه للدرجة."
+        ],
+        [
+          "se vuole",
+          "إذا أردت/إذا شئت",
+          "سِه فولو",
+          "Se vuole, può sedersi qui.",
+          "إذا أردت، يمكنك الجلوس هنا."
+        ],
+        [
+          "un attimo",
+          "لحظة",
+          "أون أتّيمو",
+          "Aspetti un attimo, per favore.",
+          "انتظر لحظة، من فضلك."
+        ],
+        [
+          "con calma",
+          "بهدوء",
+          "كون كالمّا",
+          "Parli con calma, per favore.",
+          "تكلّم بهدوء، من فضلك."
+        ],
+        [
+          "se è possibile",
+          "إذا كان ممكنًا",
+          "سِه إه بوسّيبيله",
+          "Se è possibile, vorrei cambiare posto.",
+          "إذا كان ممكنًا، أود تغيير المكان."
+        ],
+        [
+          "un favore",
+          "معروف/خدمة",
+          "أون فافوري",
+          "Posso chiederti un favore?",
+          "هل يمكنني أن أطلب منك خدمة؟"
+        ],
+        [
+          "mi farebbe piacere",
+          "يسرّني أن",
+          "مي فاريبّيه بيتشيري",
+          "Mi farebbe piacere vederla domani.",
+          "يسرّني أن أراها غدًا."
+        ]
+      ]
+    }
+  ]
+}

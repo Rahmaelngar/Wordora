@@ -1,0 +1,1344 @@
+{
+  "lessons": [
+    {
+      "topic": "شرح الأسباب والنتائج",
+      "words": [
+        [
+          "Llegué tarde al trabajo porque el autobús se retrasó.",
+          "وصلتُ متأخرًا إلى العمل لأن الحافلة تأخرت.",
+          "ليغيي تاردي آيل تراباخو بوركي إيل أوتوبوس سي ريتراسّو",
+          "Llegué tarde al trabajo porque el autobús se retrasó.",
+          "وصلتُ متأخرًا إلى العمل لأن الحافلة تأخرت."
+        ],
+        [
+          "Como llovía mucho, cancelamos el paseo.",
+          "لأن المطر كان غزيرًا، ألغينا النزهة.",
+          "كومو يوڤيا موشو، كانسيلاموس إيل باسيو",
+          "Como llovía mucho, cancelamos el paseo.",
+          "لأن المطر كان غزيرًا، ألغينا النزهة."
+        ],
+        [
+          "Estudié más para aprobar el examen.",
+          "درست أكثر لكي أنجح في الامتحان.",
+          "استوديي ماس بارا أبرُبار إيل إكسامِن",
+          "Estudié más para aprobar el examen.",
+          "درست أكثر لكي أنجح في الامتحان."
+        ],
+        [
+          "La calle estaba cerrada, así que tomamos otro camino.",
+          "كان الشارع مغلقًا، لذلك سلكنا طريقًا آخر.",
+          "لا كايي إستابا سيرّادا، آسي كيه توماموس أوترُ كامينو",
+          "La calle estaba cerrada, así que tomamos otro camino.",
+          "كان الشارع مغلقًا، لذلك سلكنا طريقًا آخر."
+        ],
+        [
+          "Hablé más bajo para no despertar al bebé.",
+          "تحدثت بصوت أخفض كي لا أوقظ الطفل.",
+          "هبلِي ماس باخو بارا نو دي سبيرطار آيل بيبي",
+          "Hablé más bajo para no despertar al bebé.",
+          "تحدثت بصوت أخفض كي لا أوقظ الطفل."
+        ],
+        [
+          "No fui a la fiesta porque estaba cansado.",
+          "لم أذهب إلى الحفلة لأنني كنت متعبًا.",
+          "نو فوي آ لا فييستا بوركي إستابا كانسادو",
+          "No fui a la fiesta porque estaba cansado.",
+          "لم أذهب إلى الحفلة لأنني كنت متعبًا."
+        ],
+        [
+          "Ahorré dinero para comprar una computadora.",
+          "وفرت المال لشراء حاسوب.",
+          "أورّيي دينيرو بارا كومبرار أونا كومبيوترادورا",
+          "Ahorré dinero para comprar una computadora.",
+          "وفرت المال لشراء حاسوب."
+        ],
+        [
+          "Perdimos el tren, por eso llegamos tarde.",
+          "فاتنا القطار، لهذا وصلنا متأخرين.",
+          "برديموس إيل ترين، بور إيسو ليغاموس تاردي",
+          "Perdimos el tren, por eso llegamos tarde.",
+          "فاتنا القطار، لهذا وصلنا متأخرين."
+        ],
+        [
+          "Trabajé de noche y por eso dormí poco.",
+          "عملت ليلًا ولذلك نمت قليلًا.",
+          "تراباخيي دي نوشي إي بور إيسو دورمي بوكو",
+          "Trabajé de noche y por eso dormí poco.",
+          "عملت ليلًا ولذلك نمت قليلًا."
+        ],
+        [
+          "Encendí la calefacción porque hacía frío.",
+          "شغلت التدفئة لأن الجو كان باردًا.",
+          "إينسنديي لا كالياكثيون بوركي هاسيا فرّيو",
+          "Encendí la calefacción porque hacía frío.",
+          "شغلت التدفئة لأن الجو كان باردًا."
+        ],
+        [
+          "Se rió tanto que empezó a toser.",
+          "ضحك كثيرًا حتى بدأ يسعل.",
+          "سي ريّيو تانتو كيه إمبيثو آ توسير",
+          "Se rió tanto que empezó a toser.",
+          "ضحك كثيرًا حتى بدأ يسعل."
+        ],
+        [
+          "Estudié con calma para entender mejor.",
+          "درست بهدوء لكي أفهم بشكل أفضل.",
+          "استوديي كون كالما بارا إنتيندير ميخور",
+          "Estudié con calma para entender mejor.",
+          "درست بهدوء لكي أفهم بشكل أفضل."
+        ],
+        [
+          "Llegó tan tarde que ya estaba cerrado.",
+          "وصل متأخرًا جدًا حتى كان المكان قد أُغلق.",
+          "ليغو تان تاردي كيه يا إستابا سيرّادو",
+          "Llegó tan tarde que ya estaba cerrado.",
+          "وصل متأخرًا جدًا حتى كان المكان قد أُغلق."
+        ],
+        [
+          "Había mucho ruido y no pude concentrarme.",
+          "كان هناك ضجيج كثير ولم أستطع التركيز.",
+          "هاڤيا موشو رويديو إي نو بودي كونسينترارمي",
+          "Había mucho ruido y no pude concentrarme.",
+          "كان هناك ضجيج كثير ولم أستطع التركيز."
+        ]
+      ]
+    },
+    {
+      "topic": "الشرط والاحتمالات",
+      "words": [
+        [
+          "Si llueve, me quedaré en casa.",
+          "إذا أمطرت، فسأبقى في البيت.",
+          "سي يوفي، مي كيداريي إن كاسا",
+          "Si llueve, me quedaré en casa.",
+          "إذا أمطرت، فسأبقى في البيت."
+        ],
+        [
+          "Si tengo tiempo, te llamo.",
+          "إذا كان لدي وقت، سأتصل بك.",
+          "سي تينغو تييمبو، تي يامو",
+          "Si tengo tiempo, te llamo.",
+          "إذا كان لدي وقت، سأتصل بك."
+        ],
+        [
+          "Si estudias más, aprobarás.",
+          "إذا درست أكثر، ستنجح.",
+          "سي استودياس ماس، أبرُباراس",
+          "Si estudias más, aprobarás.",
+          "إذا درست أكثر، ستنجح."
+        ],
+        [
+          "Si hubiera dinero, viajaríamos.",
+          "لو كان لدينا مال، لسافرنا.",
+          "سي يوڤييرا دينيرو، ڤياخارياموس",
+          "Si hubiera dinero, viajaríamos.",
+          "لو كان لدينا مال، لسافرنا."
+        ],
+        [
+          "Si me ayudas, termino antes.",
+          "إذا ساعدتني، أنتهي أبكر.",
+          "سي مي أيوداس، تيرمينو أنتيِس",
+          "Si me ayudas, termino antes.",
+          "إذا ساعدتني، أنتهي أبكر."
+        ],
+        [
+          "Si llega temprano, iremos juntos.",
+          "إذا وصل باكرًا، سنذهب معًا.",
+          "سي ييغا تِمبرانو، إيريموس خونتوس",
+          "Si llega temprano, iremos juntos.",
+          "إذا وصل باكرًا، سنذهب معًا."
+        ],
+        [
+          "Quizá salga más tarde.",
+          "ربما أخرج لاحقًا.",
+          "كيسا سالغا ماس تاردي",
+          "Quizá salga más tarde.",
+          "ربما أخرج لاحقًا."
+        ],
+        [
+          "Probablemente mañana haga frío.",
+          "على الأرجح سيكون الجو باردًا غدًا.",
+          "برُبابليمنتي مانانا هاغا فرّيو",
+          "Probablemente mañana haga frío.",
+          "على الأرجح سيكون الجو باردًا غدًا."
+        ],
+        [
+          "Tal vez no venga esta noche.",
+          "ربما لا يأتي الليلة.",
+          "تال ڤيس نو ڤينغا إيستا نوشي",
+          "Tal vez no venga esta noche.",
+          "ربما لا يأتي الليلة."
+        ],
+        [
+          "Es posible que cambien la hora.",
+          "من الممكن أن يغيّروا الموعد.",
+          "إس بوسيبل كيه كامبين لا أورا",
+          "Es posible que cambien la hora.",
+          "من الممكن أن يغيّروا الموعد."
+        ],
+        [
+          "Puede que el autobús llegue tarde.",
+          "قد تصل الحافلة متأخرة.",
+          "بويدي كيه إيل أوتوبوس ييغي تاردي",
+          "Puede que el autobús llegue tarde.",
+          "قد تصل الحافلة متأخرة."
+        ],
+        [
+          "Si no llueve, saldremos a caminar.",
+          "إذا لم تمطر، سنخرج لنمشي.",
+          "سي نو يوفي، سالدريموس آ كامينار",
+          "Si no llueve, saldremos a caminar.",
+          "إذا لم تمطر، سنخرج لنمشي."
+        ],
+        [
+          "A menos que cambie el plan, iremos.",
+          "إلا إذا تغيّر المخطط، سنذهب.",
+          "آ مينوس كيه كامبيي إيل بلان، إيريموس",
+          "A menos que cambie el plan, iremos.",
+          "إلا إذا تغيّر المخطط، سنذهب."
+        ],
+        [
+          "Saldré mañana, salvo que me necesiten aquí.",
+          "سأخرج غدًا، إلا إذا احتاجوني هنا.",
+          "سالدري مانانا، سالڤو كيه مي نيسيسيتين أكي",
+          "Saldré mañana, salvo que me necesiten aquí.",
+          "سأخرج غدًا، إلا إذا احتاجوني هنا."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة والتباين",
+      "words": [
+        [
+          "Mi apartamento es más amplio que el tuyo.",
+          "شقتي أوسع من شقتك.",
+          "مي أبارتامينتو إس ماس أمبليو كيه إيل تيو",
+          "Mi apartamento es más amplio que el tuyo.",
+          "شقتي أوسع من شقتك."
+        ],
+        [
+          "Este café está menos dulce que el anterior.",
+          "هذا القهوة أقل حلاوة من السابق.",
+          "إستي كافيي إستا مينوس دولثي كيه إيل أنتيّور",
+          "Este café está menos dulce que el anterior.",
+          "هذا القهوة أقل حلاوة من السابق."
+        ],
+        [
+          "Ella corre tan rápido como su hermano.",
+          "هي تركض بسرعة مثل أخيها.",
+          "إيّا كورّي تان رابيذو كومو سو إيرمانو",
+          "Ella corre tan rápido como su hermano.",
+          "هي تركض بسرعة مثل أخيها."
+        ],
+        [
+          "El invierno aquí es más largo que en mi país.",
+          "الشتاء هنا أطول من بلدي.",
+          "إيل إنڤييرنو آكي إس ماس لارخو كيه إن مي باييس",
+          "El invierno aquí es más largo que en mi país.",
+          "الشتاء هنا أطول من بلدي."
+        ],
+        [
+          "Prefiero el tren porque es más cómodo que el bus.",
+          "أفضل القطار لأنه أكثر راحة من الحافلة.",
+          "بريفيرو إيل ترين بوركي إس ماس كومودو كيه إيل بوس",
+          "Prefiero el tren porque es más cómodo que el bus.",
+          "أفضل القطار لأنه أكثر راحة من الحافلة."
+        ],
+        [
+          "Tu explicación fue clara, pero la mía fue más breve.",
+          "شرحك كان واضحًا، لكن شرحي كان أقصر.",
+          "تو إكسبليكاثيون فوئي كلارا، برو لا ميا فوئي ماس بريفي",
+          "Tu explicación fue clara, pero la mía fue más breve.",
+          "شرحك كان واضحًا، لكن شرحي كان أقصر."
+        ],
+        [
+          "Este libro es tan interesante como aquel.",
+          "هذا الكتاب ممتع مثل ذاك.",
+          "إستي ليبرو إس تان إنتيريّسانتي كومو أكييل",
+          "Este libro es tan interesante como aquel.",
+          "هذا الكتاب ممتع مثل ذاك."
+        ],
+        [
+          "Mi opinión es distinta de la tuya.",
+          "رأيي مختلف عن رأيك.",
+          "مي أوبينيون إس ديستينتا دي لا تويا",
+          "Mi opinión es distinta de la tuya.",
+          "رأيي مختلف عن رأيك."
+        ],
+        [
+          "La casa vieja era pequeña, mientras que la nueva es luminosa.",
+          "كان المنزل القديم صغيرًا، بينما الجديد مضيء.",
+          "لا كاسا ييڤيا إيرا بيكينا، مينتراس كيه لا نويڤا إس لومينوسا",
+          "La casa vieja era pequeña, mientras que la nueva es luminosa.",
+          "كان المنزل القديم صغيرًا، بينما الجديد مضيء."
+        ],
+        [
+          "Trabaja igual que antes, aunque con menos estrés.",
+          "يعمل كما كان من قبل، لكن مع توتر أقل.",
+          "تراباخا إيغال كيه أنتيِس، آونكه كون مينوس إستريس",
+          "Trabaja igual que antes, aunque con menos estrés.",
+          "يعمل كما كان من قبل، لكن مع توتر أقل."
+        ],
+        [
+          "Este camino es mejor que el que tomamos ayer.",
+          "هذا الطريق أفضل من الذي سلكناه أمس.",
+          "إستي كامينو إس ميخور كيه إيل كيه توماموس آيير",
+          "Este camino es mejor que el que tomamos ayer.",
+          "هذا الطريق أفضل من الذي سلكناه أمس."
+        ],
+        [
+          "El ruido aquí es peor que en la biblioteca.",
+          "الضجيج هنا أسوأ من المكتبة.",
+          "إيل رويدو آكي إس بيور كيه إن لا بيبليوتيكا",
+          "El ruido aquí es peor que en la biblioteca.",
+          "الضجيج هنا أسوأ من المكتبة."
+        ],
+        [
+          "Parece sencillo, sin embargo requiere paciencia.",
+          "يبدو بسيطًا، ومع ذلك يحتاج إلى صبر.",
+          "باريسي سينثيو، سين إمبرغو ريكييري باسيينثيا",
+          "Parece sencillo, sin embargo requiere paciencia.",
+          "يبدو بسيطًا، ومع ذلك يحتاج إلى صبر."
+        ],
+        [
+          "Mi trabajo es distinto, aunque la meta sea la misma.",
+          "عملي مختلف، رغم أن الهدف هو نفسه.",
+          "مي تراباخو إس ديستينتو، آونكه لا ميتا سيا لا ميِسما",
+          "Mi trabajo es distinto, aunque la meta sea la misma.",
+          "عملي مختلف، رغم أن الهدف هو نفسه."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب الشخصية",
+      "words": [
+        [
+          "Aprendí a nadar cuando era niño.",
+          "تعلمت السباحة عندما كنت طفلًا.",
+          "أبريندي آ نادار كواندو إيرا نينيّو",
+          "Aprendí a nadar cuando era niño.",
+          "تعلمت السباحة عندما كنت طفلًا."
+        ],
+        [
+          "Nunca había viajado solo hasta el año pasado.",
+          "لم أكن قد سافرت وحدي قط حتى العام الماضي.",
+          "نُنكا هاڤيا ڤياخادو سولو أستا إيل آنو باسادو",
+          "Nunca había viajado solo hasta el año pasado.",
+          "لم أكن قد سافرت وحدي قط حتى العام الماضي."
+        ],
+        [
+          "Una vez perdí mi cartera en el autobús.",
+          "مرة واحدة أضعت محفظتي في الحافلة.",
+          "أونا ڤيس بردي مي كارتيرا إن إيل أوتوبوس",
+          "Una vez perdí mi cartera en el autobús.",
+          "مرة واحدة أضعت محفظتي في الحافلة."
+        ],
+        [
+          "Recuerdo que mi primera clase fue difícil.",
+          "أتذكر أن أول حصة لي كانت صعبة.",
+          "ريكويردو كيه مي بريمييرا كلاسي فوئي ديثيل",
+          "Recuerdo que mi primera clase fue difícil.",
+          "أتذكر أن أول حصة لي كانت صعبة."
+        ],
+        [
+          "Me emocioné mucho el día de mi graduación.",
+          "تحمست كثيرًا يوم تخرجي.",
+          "مي إيموسيوني موشو إيل ديا دي مي غرادواسيون",
+          "Me emocioné mucho el día de mi graduación.",
+          "تحمست كثيرًا يوم تخرجي."
+        ],
+        [
+          "De pequeño me costaba hablar en público.",
+          "عندما كنت صغيرًا كان يصعب عليّ التحدث أمام الناس.",
+          "دي بيكيينو مي كوستابا هبلار إن بوليكو",
+          "De pequeño me costaba hablar en público.",
+          "عندما كنت صغيرًا كان يصعب عليّ التحدث أمام الناس."
+        ],
+        [
+          "He vivido en tres ciudades distintas.",
+          "عشت في ثلاث مدن مختلفة.",
+          "هي ڤيڤيدو إن تريس سيوداديِس ديستينتيس",
+          "He vivido en tres ciudades distintas.",
+          "عشت في ثلاث مدن مختلفة."
+        ],
+        [
+          "Me sorprendió lo rápido que pasó el tiempo.",
+          "فاجأني مدى سرعة مرور الوقت.",
+          "مي سُربرينديو لو رابيذو كيه باسو إيل تييمبو",
+          "Me sorprendió lo rápido que pasó el tiempo.",
+          "فاجأني مدى سرعة مرور الوقت."
+        ],
+        [
+          "Aprendí mucho después de equivocarme varias veces.",
+          "تعلمت كثيرًا بعد أن أخطأت عدة مرات.",
+          "أبريندي موشو ديسبويِس دي إكيڤوكارمي ڤارياس ڤيثيس",
+          "Aprendí mucho después de equivocarme varias veces.",
+          "تعلمت كثيرًا بعد أن أخطأت عدة مرات."
+        ],
+        [
+          "Cuando era joven, leía por las noches.",
+          "عندما كنت صغيرًا، كنت أقرأ في الليل.",
+          "كواندو إيرا خوڤين، لييا بور لاش نوشيِس",
+          "Cuando era joven, leía por las noches.",
+          "عندما كنت صغيرًا، كنت أقرأ في الليل."
+        ],
+        [
+          "Me costó adaptarme, pero al final lo logré.",
+          "كان من الصعب أن أتأقلم، لكنني نجحت في النهاية.",
+          "مي كوستو أداپتارمي، بيرو آل فينال لو لغرَي",
+          "Me costó adaptarme, pero al final lo logré.",
+          "كان من الصعب أن أتأقلم، لكنني نجحت في النهاية."
+        ],
+        [
+          "Esa experiencia me cambió la manera de pensar.",
+          "تلك التجربة غيّرت طريقة تفكيري.",
+          "إيسا إكسبيريينثيا مي كامبيو لا مانيرا دي بينثار",
+          "Esa experiencia me cambió la manera de pensar.",
+          "تلك التجربة غيّرت طريقة تفكيري."
+        ],
+        [
+          "Siempre recordaré el apoyo de mis compañeros.",
+          "سأذكر دائمًا دعم زملائي.",
+          "سييمبري ريكورداريي إيل أبايو دي مي كومبانيروس",
+          "Siempre recordaré el apoyo de mis compañeros.",
+          "سأذكر دائمًا دعم زملائي."
+        ],
+        [
+          "Me di cuenta de que necesitaba descansar más.",
+          "أدركت أنني كنت بحاجة إلى مزيد من الراحة.",
+          "مي دي كوينتا دي كيه نيسيسيتابا دي سكانثار ماس",
+          "Me di cuenta de que necesitaba descansar más.",
+          "أدركت أنني كنت بحاجة إلى مزيد من الراحة."
+        ]
+      ]
+    },
+    {
+      "topic": "اختيار طريقة التعلم",
+      "words": [
+        [
+          "Prefiero aprender con ejemplos claros.",
+          "أفضل أن أتعلم بأمثلة واضحة.",
+          "بريفيرو أبريندير كون إخيملوس كلاروس",
+          "Prefiero aprender con ejemplos claros.",
+          "أفضل أن أتعلم بأمثلة واضحة."
+        ],
+        [
+          "Aprendo mejor si escucho y repito.",
+          "أتعلم بشكل أفضل إذا استمعت وكررت.",
+          "أبريندو ميخور سي إيسكوشو إي ريبيتو",
+          "Aprendo mejor si escucho y repito.",
+          "أتعلم بشكل أفضل إذا استمعت وكررت."
+        ],
+        [
+          "Me ayuda tomar notas durante la clase.",
+          "يساعدني تدوين الملاحظات أثناء الدرس.",
+          "مي أيودا تومار نوتاس دورانتي لا كلاسي",
+          "Me ayuda tomar notas durante la clase.",
+          "يساعدني تدوين الملاحظات أثناء الدرس."
+        ],
+        [
+          "Estudiar en grupo me resulta útil.",
+          "الدراسة في مجموعة مفيدة لي.",
+          "استودييار إن غروبو مي ريسولتَا أوتيل",
+          "Estudiar en grupo me resulta útil.",
+          "الدراسة في مجموعة مفيدة لي."
+        ],
+        [
+          "Cuando leo en voz alta, recuerdo más.",
+          "عندما أقرأ بصوت عالٍ، أتذكر أكثر.",
+          "كواندو ليو إن بوث ألتا، ريكوردو ماس",
+          "Cuando leo en voz alta, recuerdo más.",
+          "عندما أقرأ بصوت عالٍ، أتذكر أكثر."
+        ],
+        [
+          "Necesito practicar más para sentirme seguro.",
+          "أحتاج إلى التمرن أكثر لكي أشعر بالثقة.",
+          "نيسيسيتو بركتيكار ماس بارا سينتيرمي سيغورو",
+          "Necesito practicar más para sentirme seguro.",
+          "أحتاج إلى التمرن أكثر لكي أشعر بالثقة."
+        ],
+        [
+          "Uso tarjetas para memorizar palabras nuevas.",
+          "أستخدم بطاقات لحفظ الكلمات الجديدة.",
+          "أوسو تارخييتاس بارا مينوريسار بالاڤراس نويڤاس",
+          "Uso tarjetas para memorizar palabras nuevas.",
+          "أستخدم بطاقات لحفظ الكلمات الجديدة."
+        ],
+        [
+          "Me distraigo menos cuando estudio sin el móvil.",
+          "أشتت أقل عندما أدرس من دون الهاتف.",
+          "مي دِسترايغو مينوس كواندو استوديو سين إيل موڤيل",
+          "Me distraigo menos cuando estudio sin el móvil.",
+          "أشتت أقل عندما أدرس من دون الهاتف."
+        ],
+        [
+          "Prefiero las explicaciones cortas y directas.",
+          "أفضل الشروح القصيرة والمباشرة.",
+          "بريفيرو لاس إكسبليكاسيونيس كورتاس إي ديريكتاس",
+          "Prefiero las explicaciones cortas y directas.",
+          "أفضل الشروح القصيرة والمباشرة."
+        ],
+        [
+          "Me sirve ver vídeos y luego resumirlos.",
+          "ينفعني مشاهدة الفيديوهات ثم تلخيصها.",
+          "مي سيرڤي ڤير ڤيديوس إي لوغو ريموسيرلوس",
+          "Me sirve ver vídeos y luego resumirlos.",
+          "ينفعني مشاهدة الفيديوهات ثم تلخيصها."
+        ],
+        [
+          "Aprender con ejercicios me parece más eficaz.",
+          "التعلم بالتمارين يبدو لي أكثر فاعلية.",
+          "أبريندير كون إخيرثيثيوس مي باريسي ماس إفّيكاث",
+          "Aprender con ejercicios me parece más eficaz.",
+          "التعلم بالتمارين يبدو لي أكثر فاعلية."
+        ],
+        [
+          "Si dudo, pregunto enseguida.",
+          "إذا شككت، أسأل فورًا.",
+          "سي دودو، برِكونتو إنسيغيدا",
+          "Si dudo, pregunto enseguida.",
+          "إذا شككت، أسأل فورًا."
+        ],
+        [
+          "Me cuesta concentrarme si hay música fuerte.",
+          "يصعب عليّ التركيز إذا كانت هناك موسيقى عالية.",
+          "مي كوستا كونسينترارمي سي آي موسيكا فويرتي",
+          "Me cuesta concentrarme si hay música fuerte.",
+          "يصعب عليّ التركيز إذا كانت هناك موسيقى عالية."
+        ],
+        [
+          "Aprendo más rápido cuando practico cada día.",
+          "أتعلم أسرع عندما أتدرب كل يوم.",
+          "أبريندو ماس رابيذو كواندو بركتيكو كادا ديا",
+          "Aprendo más rápido cuando practico cada día.",
+          "أتعلم أسرع عندما أتدرب كل يوم."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ قرارات العمل",
+      "words": [
+        [
+          "Acepté el puesto porque ofrecía más estabilidad.",
+          "قبلت المنصب لأنه كان يوفر استقرارًا أكبر.",
+          "أثبتي إيل بوستو بوركي أفرِثيا ماس إستابليداد",
+          "Acepté el puesto porque ofrecía más estabilidad.",
+          "قبلت المنصب لأنه كان يوفر استقرارًا أكبر."
+        ],
+        [
+          "Rechazó la oferta para buscar algo mejor.",
+          "رفض العرض لكي يبحث عن شيء أفضل.",
+          "ريخاثو لا أوفيرتا بارا بوسكار آلغو ميخور",
+          "Rechazó la oferta para buscar algo mejor.",
+          "رفض العرض لكي يبحث عن شيء أفضل."
+        ],
+        [
+          "El gerente pidió más tiempo antes de decidir.",
+          "طلب المدير مزيدًا من الوقت قبل أن يقرر.",
+          "إيل خيرينتي بييديو ماس تييمبو أنتيِس دي ديسيدير",
+          "El gerente pidió más tiempo antes de decidir.",
+          "طلب المدير مزيدًا من الوقت قبل أن يقرر."
+        ],
+        [
+          "Si contratamos a otra persona, bajará la carga.",
+          "إذا وظفنا شخصًا آخر، سينخفض العبء.",
+          "سي كونتراتاموس آ أوترَا بيرسونا، باخارا لا كارغا",
+          "Si contratamos a otra persona, bajará la carga.",
+          "إذا وظفنا شخصًا آخر، سينخفض العبء."
+        ],
+        [
+          "Opté por trabajar desde casa algunos días.",
+          "اخترت العمل من المنزل بعض الأيام.",
+          "أوبتي بور تراباخار ديزدِي كاسا ألغونوس دِياز",
+          "Opté por trabajar desde casa algunos días.",
+          "اخترت العمل من المنزل بعض الأيام."
+        ],
+        [
+          "Conviene revisar el contrato con calma.",
+          "من الأفضل مراجعة العقد بهدوء.",
+          "كونڤيينِي ريفيثار إيل كونتراتّو كون كالما",
+          "Conviene revisar el contrato con calma.",
+          "من الأفضل مراجعة العقد بهدوء."
+        ],
+        [
+          "El equipo sugirió cambiar la fecha.",
+          "اقترح الفريق تغيير التاريخ.",
+          "إيل إكويبو سوخيريّو كامبيار لا فِيخا",
+          "El equipo sugirió cambiar la fecha.",
+          "اقترح الفريق تغيير التاريخ."
+        ],
+        [
+          "Me preocupa aceptar un trabajo sin horario fijo.",
+          "يقلقني قبول عمل بلا دوام ثابت.",
+          "مي بريسوكوبا أَثِپتار أون تراباخو سين أوراريو فيخو",
+          "Me preocupa aceptar un trabajo sin horario fijo.",
+          "يقلقني قبول عمل بلا دوام ثابت."
+        ],
+        [
+          "Decidí esperar porque faltaban datos.",
+          "قررت الانتظار لأن البيانات كانت ناقصة.",
+          "ديدِيي إسبيرار بوركي فالطابان داتوس",
+          "Decidí esperar porque faltaban datos.",
+          "قررت الانتظار لأن البيانات كانت ناقصة."
+        ],
+        [
+          "El jefe aprobó el cambio rápidamente.",
+          "وافق المدير على التغيير بسرعة.",
+          "إيل خيفي أبرُبو إيل كامبيو رابيذامنتي",
+          "El jefe aprobó el cambio rápidamente.",
+          "وافق المدير على التغيير بسرعة."
+        ],
+        [
+          "Si el proyecto funciona, crecerá la empresa.",
+          "إذا نجح المشروع، ستنمو الشركة.",
+          "سي إيل بروييكتو فونثيونا، كريسيرا لا إمبيرسا",
+          "Si el proyecto funciona, crecerá la empresa.",
+          "إذا نجح المشروع، ستنمو الشركة."
+        ],
+        [
+          "Busco un empleo que me permita aprender.",
+          "أبحث عن عمل يسمح لي بالتعلم.",
+          "بوسكو أون إمبييّو كيه مي بريمِتا أبريندير",
+          "Busco un empleo que me permita aprender.",
+          "أبحث عن عمل يسمح لي بالتعلم."
+        ],
+        [
+          "Analizaron los riesgos antes de firmar.",
+          "حللوا المخاطر قبل التوقيع.",
+          "أناليثارون لوس ريسغوس أنتيِس دي فرمّار",
+          "Analizaron los riesgos antes de firmar.",
+          "حللوا المخاطر قبل التوقيع."
+        ],
+        [
+          "Prefiero una decisión rápida pero bien pensada.",
+          "أفضل قرارًا سريعًا لكنه مدروس جيدًا.",
+          "بريفيرو أونا ديسيثيون رابيذا بيرو بيان بينسادا",
+          "Prefiero una decisión rápida pero bien pensada.",
+          "أفضل قرارًا سريعًا لكنه مدروس جيدًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الثقافة والمجتمع",
+      "words": [
+        [
+          "En mi barrio se saludan todos.",
+          "في حيي يحيي الجميع بعضهم بعضًا.",
+          "إن مي بارّيو سي سالودان توذوس",
+          "En mi barrio se saludan todos.",
+          "في حيي يحيي الجميع بعضهم بعضًا."
+        ],
+        [
+          "Respetamos las costumbres de los mayores.",
+          "نحترم عادات الكبار.",
+          "ريسبيتاموس لاس كوستومبريس دي لوس ميخوريس",
+          "Respetamos las costumbres de los mayores.",
+          "نحترم عادات الكبار."
+        ],
+        [
+          "La diversidad enriquece a la sociedad.",
+          "التنوع يثري المجتمع.",
+          "لا ديڤيرسيداد إينريكيثي آ لا سوثييداد",
+          "La diversidad enriquece a la sociedad.",
+          "التنوع يثري المجتمع."
+        ],
+        [
+          "Participé en una celebración local.",
+          "شاركت في احتفال محلي.",
+          "بارتيثيبي إن أونا ثليبراسيون لوكال",
+          "Participé en una celebración local.",
+          "شاركت في احتفال محلي."
+        ],
+        [
+          "Muchas familias cenan juntas los domingos.",
+          "تتناول كثير من العائلات العشاء معًا أيام الأحد.",
+          "موشاس فاميلياس سينان خونتاس لوس دومينغوس",
+          "Muchas familias cenan juntas los domingos.",
+          "تتناول كثير من العائلات العشاء معًا أيام الأحد."
+        ],
+        [
+          "Me parece importante escuchar a los vecinos.",
+          "أرى أن من المهم الاستماع إلى الجيران.",
+          "مي باريسي إمبرتانتِ إسكوشار آ لوس بيثينوس",
+          "Me parece importante escuchar a los vecinos.",
+          "أرى أن من المهم الاستماع إلى الجيران."
+        ],
+        [
+          "Hay normas que cambian según la región.",
+          "هناك عادات تتغير بحسب المنطقة.",
+          "آي نورماس كيه كامبيان سيغون لا ريجون",
+          "Hay normas que cambian según la región.",
+          "هناك عادات تتغير بحسب المنطقة."
+        ],
+        [
+          "Asistí a una reunión del barrio.",
+          "حضرت اجتماع الحي.",
+          "أستيثي آ أونا ريونيون ديل بارّيو",
+          "Asistí a una reunión del barrio.",
+          "حضرت اجتماع الحي."
+        ],
+        [
+          "Los jóvenes suelen opinar con libertad.",
+          "غالبًا ما يبدي الشباب رأيهم بحرية.",
+          "لوس خوڤينيس سويين أوبينار كون ليبيرتاد",
+          "Los jóvenes suelen opinar con libertad.",
+          "غالبًا ما يبدي الشباب رأيهم بحرية."
+        ],
+        [
+          "Aprender idiomas ayuda a entender otras culturas.",
+          "تعلم اللغات يساعد على فهم ثقافات أخرى.",
+          "أبريندير إديوماس أيودا آ إنتيندير أوتراث كولتوراس",
+          "Aprender idiomas ayuda a entender otras culturas.",
+          "تعلم اللغات يساعد على فهم ثقافات أخرى."
+        ],
+        [
+          "Las fiestas tradicionales reúnen a mucha gente.",
+          "تجمع الأعياد التقليدية كثيرًا من الناس.",
+          "لاس فييستاس تراديثيوناليس ريونيِن آ موشا خينتي",
+          "Las fiestas tradicionales reúnen a mucha gente.",
+          "تجمع الأعياد التقليدية كثيرًا من الناس."
+        ],
+        [
+          "Cada comunidad organiza actividades distintas.",
+          "كل مجتمع ينظم أنشطة مختلفة.",
+          "كادا كومونيداد أُرغانيثا أكتيڤيداديس ديستينتيس",
+          "Cada comunidad organiza actividades distintas.",
+          "كل مجتمع ينظم أنشطة مختلفة."
+        ],
+        [
+          "Nos turnamos para hablar sin interrumpir.",
+          "نتناوب على الحديث من دون مقاطعة.",
+          "نوس تورناموس بارا هبلار سين إنتيرّومبير",
+          "Nos turnamos para hablar sin interrumpir.",
+          "نتناوب على الحديث من دون مقاطعة."
+        ],
+        [
+          "La solidaridad mejora la convivencia.",
+          "التضامن يحسن العيش المشترك.",
+          "لا سوليداريداد ميخورَا لا كونڤيڤينثيا",
+          "La solidaridad mejora la convivencia.",
+          "التضامن يحسن العيش المشترك."
+        ]
+      ]
+    },
+    {
+      "topic": "التكنولوجيا في حياتنا",
+      "words": [
+        [
+          "Mi móvil se quedó sin batería.",
+          "نفد شحن هاتفي.",
+          "مي موڤيل سي كيدو سين باتيريا",
+          "Mi móvil se quedó sin batería.",
+          "نفد شحن هاتفي."
+        ],
+        [
+          "Actualicé la aplicación para corregir errores.",
+          "قمت بتحديث التطبيق لتصحيح الأخطاء.",
+          "أكتواليسيي لا أپليكاتيون بارا كورّيخير إيرّوريس",
+          "Actualicé la aplicación para corregir errores.",
+          "قمت بتحديث التطبيق لتصحيح الأخطاء."
+        ],
+        [
+          "Uso la cámara del portátil para las reuniones.",
+          "أستخدم كاميرا الحاسوب المحمول للاجتماعات.",
+          "أوسو لا كامارا ديل بورطاطيل بارا لاس ريونيونيس",
+          "Uso la cámara del portátil para las reuniones.",
+          "أستخدم كاميرا الحاسوب المحمول للاجتماعات."
+        ],
+        [
+          "Si la conexión falla, reinicio el router.",
+          "إذا فشل الاتصال، أعيد تشغيل الموجّه.",
+          "سي لا كونكثيون فايا، ريينيسيو إيل روتر",
+          "Si la conexión falla, reinicio el router.",
+          "إذا فشل الاتصال، أعيد تشغيل الموجّه."
+        ],
+        [
+          "Me avisó el calendario del teléfono.",
+          "أخبرني التقويم في الهاتف.",
+          "مي أڤيثو إيل كالينداريو ديل تليفونو",
+          "Me avisó el calendario del teléfono.",
+          "أخبرني التقويم في الهاتف."
+        ],
+        [
+          "Descargué el archivo antes de salir.",
+          "حمّلت الملف قبل أن أخرج.",
+          "ديسكارغي إيل أرخيڤو أنتيِس دي سالير",
+          "Descargué el archivo antes de salir.",
+          "حمّلت الملف قبل أن أخرج."
+        ],
+        [
+          "Prefiero pagar con la tarjeta virtual.",
+          "أفضل الدفع بالبطاقة الافتراضية.",
+          "بريفيرو باغار كون لا تارخييتا ڤيرتوال",
+          "Prefiero pagar con la tarjeta virtual.",
+          "أفضل الدفع بالبطاقة الافتراضية."
+        ],
+        [
+          "La pantalla tiene mejor resolución que antes.",
+          "الشاشة ذات دقة أفضل من قبل.",
+          "لا بانتايا تييني ميخور رسولوسيّون كيه أنتيِس",
+          "La pantalla tiene mejor resolución que antes.",
+          "الشاشة ذات دقة أفضل من قبل."
+        ],
+        [
+          "Compartí el documento por correo electrónico.",
+          "شاركت المستند عبر البريد الإلكتروني.",
+          "كومبارتي إيل دوكومينتو بور كورّيو إليكترونيكو",
+          "Compartí el documento por correo electrónico.",
+          "شاركت المستند عبر البريد الإلكتروني."
+        ],
+        [
+          "La contraseña debe tener más seguridad.",
+          "يجب أن تكون كلمة المرور أكثر أمانًا.",
+          "لا كونتراسينيا ديبي تينير ماس سيغوريداد",
+          "La contraseña debe tener más seguridad.",
+          "يجب أن تكون كلمة المرور أكثر أمانًا."
+        ],
+        [
+          "Me distraen las notificaciones constantes.",
+          "تشتتني الإشعارات المستمرة.",
+          "مي دِسترايين لاس نوتيفيكاسيونيس كونستانتيس",
+          "Me distraen las notificaciones constantes.",
+          "تشتتني الإشعارات المستمرة."
+        ],
+        [
+          "Descubrí una forma más rápida de enviar mensajes.",
+          "اكتشفت طريقة أسرع لإرسال الرسائل.",
+          "ديسكوبرى أونا فورما ماس رابيذا دي إنڤيار مِنساخيس",
+          "Descubrí una forma más rápida de enviar mensajes.",
+          "اكتشفت طريقة أسرع لإرسال الرسائل."
+        ],
+        [
+          "Mi ordenador tarda cuando hay demasiados programas.",
+          "جهازي يتباطأ عندما تكون هناك برامج كثيرة جدًا.",
+          "مي أوردينادور تاردا كواندو آي ديماثيادوس برناماس",
+          "Mi ordenador tarda cuando hay demasiados programas.",
+          "جهازي يتباطأ عندما تكون هناك برامج كثيرة جدًا."
+        ],
+        [
+          "La tecnología nos facilita muchas tareas.",
+          "التكنولوجيا تسهّل علينا كثيرًا من المهام.",
+          "لا تكنولوجيا نوس فاثيليتا موشاس تاريفاس",
+          "La tecnología nos facilita muchas tareas.",
+          "التكنولوجيا تسهّل علينا كثيرًا من المهام."
+        ]
+      ]
+    },
+    {
+      "topic": "البيئة والعادات اليومية",
+      "words": [
+        [
+          "Apago las luces al salir de una habitación.",
+          "أطفئ الأضواء عند مغادرة الغرفة.",
+          "أپاغو لاس لوثيس آل سالير دي أونا هابيتاسيون",
+          "Apago las luces al salir de una habitación.",
+          "أطفئ الأضواء عند مغادرة الغرفة."
+        ],
+        [
+          "Separo el plástico del papel.",
+          "أفصل البلاستيك عن الورق.",
+          "سيبارو إيل بلاستيكو ديل بابيل",
+          "Separo el plástico del papel.",
+          "أفصل البلاستيك عن الورق."
+        ],
+        [
+          "Camino al trabajo para contaminar menos.",
+          "أذهب إلى العمل مشيًا كي أقلل التلوث.",
+          "كامينو آل تراباخو بارا كونتامينار مينوس",
+          "Camino al trabajo para contaminar menos.",
+          "أذهب إلى العمل مشيًا كي أقلل التلوث."
+        ],
+        [
+          "Riego las plantas por la mañana.",
+          "أسقي النباتات في الصباح.",
+          "رييو لاس بلانتاس بور لا مانانا",
+          "Riego las plantas por la mañana.",
+          "أسقي النباتات في الصباح."
+        ],
+        [
+          "Llevo una botella reutilizable.",
+          "أحمل زجاجة قابلة لإعادة الاستخدام.",
+          "ييڤو أونا بوتييا ريؤتيليذابلي",
+          "Llevo una botella reutilizable.",
+          "أحمل زجاجة قابلة لإعادة الاستخدام."
+        ],
+        [
+          "Ventilo la casa después de cocinar.",
+          "أهوّي البيت بعد الطبخ.",
+          "ڤينتيلو لا كاسا ديسبويِس دي كوثينار",
+          "Ventilo la casa después de cocinar.",
+          "أهوّي البيت بعد الطبخ."
+        ],
+        [
+          "Compro productos locales cuando puedo.",
+          "أشتري المنتجات المحلية عندما أستطيع.",
+          "كومبرو برودوكتوس لوكاليس كواندو بويِدو",
+          "Compro productos locales cuando puedo.",
+          "أشتري المنتجات المحلية عندما أستطيع."
+        ],
+        [
+          "Duermo mejor cuando ceno ligero.",
+          "أنام أفضل عندما أتناول عشاءً خفيفًا.",
+          "دورمو ميخور كواندو سينو ليخييرو",
+          "Duermo mejor cuando ceno ligero.",
+          "أنام أفضل عندما أتناول عشاءً خفيفًا."
+        ],
+        [
+          "Uso menos agua al ducharme.",
+          "أستخدم ماءً أقل عندما أستحم.",
+          "أوسو مينوس أغوا آل دوشارمي",
+          "Uso menos agua al ducharme.",
+          "أستخدم ماءً أقل عندما أستحم."
+        ],
+        [
+          "Limpio la mesa después de comer.",
+          "أنظف الطاولة بعد الأكل.",
+          "ليمبيو لا ميسا ديسبويِس دي كومير",
+          "Limpio la mesa después de comer.",
+          "أنظف الطاولة بعد الأكل."
+        ],
+        [
+          "Reciclo las latas y las botellas.",
+          "أعيد تدوير العلب والزجاجات.",
+          "ريثيكلو لاس لاتاس إي لاس بوتيياس",
+          "Reciclo las latas y las botellas.",
+          "أعيد تدوير العلب والزجاجات."
+        ],
+        [
+          "Prefiero caminar en lugar de ir en coche.",
+          "أفضل المشي بدل الذهاب بالسيارة.",
+          "بريفيرو كامينار إن لوغار دي إير إن كوشيي",
+          "Prefiero caminar en lugar de ir en coche.",
+          "أفضل المشي بدل الذهاب بالسيارة."
+        ],
+        [
+          "Abro la ventana para que entre aire fresco.",
+          "أفتح النافذة ليدخل هواء نقي.",
+          "أبرو لا ونثانا بارا كيه إنتري آيرِه فريسكو",
+          "Abro la ventana para que entre aire fresco.",
+          "أفتح النافذة ليدخل هواء نقي."
+        ],
+        [
+          "Cuido el barrio manteniendo limpio el portal.",
+          "أحافظ على الحي بإبقاء المدخل نظيفًا.",
+          "كويدو إيل بارّيو مانتينييِندو لييمبيو إيل بورطال",
+          "Cuido el barrio manteniendo limpio el portal.",
+          "أحافظ على الحي بإبقاء المدخل نظيفًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الأهداف والتطور الشخصي",
+      "words": [
+        [
+          "Quiero mejorar mi vocabulario este año.",
+          "أريد تحسين مفرداتي هذا العام.",
+          "كيرو ميخورار مي بوكابولاريو إيستي آنو",
+          "Quiero mejorar mi vocabulario este año.",
+          "أريد تحسين مفرداتي هذا العام."
+        ],
+        [
+          "Me propuse leer un libro al mes.",
+          "قررت أن أقرأ كتابًا كل شهر.",
+          "مي بروبووسي لِير أون ليبرو آل ميس",
+          "Me propuse leer un libro al mes.",
+          "قررت أن أقرأ كتابًا كل شهر."
+        ],
+        [
+          "Si sigo practicando, avanzaré más rápido.",
+          "إذا واصلت التمرن، فسأتقدم أسرع.",
+          "سي سيغو بركتيثاندو، أفانثارَي ماس رابيذو",
+          "Si sigo practicando, avanzaré más rápido.",
+          "إذا واصلت التمرن، فسأتقدم أسرع."
+        ],
+        [
+          "Trabajo para sentirme más independiente.",
+          "أعمل لكي أشعر بمزيد من الاستقلال.",
+          "تراباخو بارا سينتيرمي ماس إينديبينديينتي",
+          "Trabajo para sentirme más independiente.",
+          "أعمل لكي أشعر بمزيد من الاستقلال."
+        ],
+        [
+          "Necesito tener más disciplina.",
+          "أحتاج إلى أن أكون أكثر انضباطًا.",
+          "نيسيسيتو تينير ماس ديثيبلينا",
+          "Necesito tener más disciplina.",
+          "أحتاج إلى أن أكون أكثر انضباطًا."
+        ],
+        [
+          "Cada error me enseña algo nuevo.",
+          "كل خطأ يعلمني شيئًا جديدًا.",
+          "كادا إيرّور مي إنسينيا آلغو نويڤو",
+          "Cada error me enseña algo nuevo.",
+          "كل خطأ يعلمني شيئًا جديدًا."
+        ],
+        [
+          "Me siento orgulloso de mi progreso.",
+          "أشعر بالفخر بتقدمي.",
+          "مي سينتو أُرغوليوسو دي مي بروغريسو",
+          "Me siento orgulloso de mi progreso.",
+          "أشعر بالفخر بتقدمي."
+        ],
+        [
+          "Empecé a hacer ejercicio por salud.",
+          "بدأت ممارسة الرياضة من أجل الصحة.",
+          "إمبيثيي آ هاثير إجيرثيثيو بور سالود",
+          "Empecé a hacer ejercicio por salud.",
+          "بدأت ممارسة الرياضة من أجل الصحة."
+        ],
+        [
+          "Quiero superar mi miedo a hablar.",
+          "أريد التغلب على خوفي من الكلام.",
+          "كيرو سوبيرار مي ميديو آ هبلار",
+          "Quiero superar mi miedo a hablar.",
+          "أريد التغلب على خوفي من الكلام."
+        ],
+        [
+          "Apunto mis metas para no olvidarlas.",
+          "أسجل أهدافي كي لا أنساها.",
+          "أبونتو ميس ميتاس بارا نو أُلفيدارلاس",
+          "Apunto mis metas para no olvidarlas.",
+          "أسجل أهدافي كي لا أنساها."
+        ],
+        [
+          "Me esfuerzo aunque esté cansado.",
+          "أبذل جهدي حتى عندما أكون متعبًا.",
+          "مي إيسفويرثو آونكه إستي كانسادو",
+          "Me esfuerzo aunque esté cansado.",
+          "أبذل جهدي حتى عندما أكون متعبًا."
+        ],
+        [
+          "Quiero aprender de mis errores.",
+          "أريد أن أتعلم من أخطائي.",
+          "كيرو أبريندير دي ميس إيرّوريس",
+          "Quiero aprender de mis errores.",
+          "أريد أن أتعلم من أخطائي."
+        ],
+        [
+          "Si mantengo el ritmo, lograré mi objetivo.",
+          "إذا حافظت على الوتيرة، فسأحقق هدفي.",
+          "سي مانتينغو إيل ريتّمو، لغرا ري مي أوبخيتيڤو",
+          "Si mantengo el ritmo, lograré mi objetivo.",
+          "إذا حافظت على الوتيرة، فسأحقق هدفي."
+        ],
+        [
+          "Me anima ver que avanzo poco a poco.",
+          "يشجعني أن أرى أنني أتقدم خطوة خطوة.",
+          "مي أنيما ڤير كيه أفانثو بوكو آ بوكو",
+          "Me anima ver que avanzo poco a poco.",
+          "يشجعني أن أرى أنني أتقدم خطوة خطوة."
+        ]
+      ]
+    },
+    {
+      "topic": "حل المشكلات",
+      "words": [
+        [
+          "Busqué una solución antes de que empeorara.",
+          "بحثت عن حل قبل أن تسوء الأمور.",
+          "بوسكي أونا سولوسيّون أنتيِس دي كيه إمبيورارا",
+          "Busqué una solución antes de que empeorara.",
+          "بحثت عن حل قبل أن تسوء الأمور."
+        ],
+        [
+          "Si no funciona, probaremos otra opción.",
+          "إذا لم ينجح، سنجرب خيارًا آخر.",
+          "سي نو فونثيونا، بروباريموس أوترَا أوبثيون",
+          "Si no funciona, probaremos otra opción.",
+          "إذا لم ينجح، سنجرب خيارًا آخر."
+        ],
+        [
+          "Hablé con calma para evitar discusiones.",
+          "تحدثت بهدوء لتجنب الجدال.",
+          "هبلِيه كون كالما بارا إڤيتار ديثكوسيونيس",
+          "Hablé con calma para evitar discusiones.",
+          "تحدثت بهدوء لتجنب الجدال."
+        ],
+        [
+          "Dividimos la tarea para terminar antes.",
+          "قسمنا المهمة لكي ننهي أبكر.",
+          "ديڤيديموس لا تاريا بارا تيرمينار أنتيِس",
+          "Dividimos la tarea para terminar antes.",
+          "قسمنا المهمة لكي ننهي أبكر."
+        ],
+        [
+          "Pedí ayuda porque no podía solo.",
+          "طلبت المساعدة لأنني لم أستطع وحدي.",
+          "بيديي أيودا بوركي نو بوديا سولُ",
+          "Pedí ayuda porque no podía solo.",
+          "طلبت المساعدة لأنني لم أستطع وحدي."
+        ],
+        [
+          "Revisé el problema paso a paso.",
+          "راجعت المشكلة خطوة خطوة.",
+          "ريفيثيي إيل بروبليما باسو آ باسو",
+          "Revisé el problema paso a paso.",
+          "راجعت المشكلة خطوة خطوة."
+        ],
+        [
+          "Cambiamos de plan cuando vimos el error.",
+          "غيّرنا الخطة عندما رأينا الخطأ.",
+          "كامبيا موس دي بلان كواندو ڤيموس إيل إيرّور",
+          "Cambiamos de plan cuando vimos el error.",
+          "غيّرنا الخطة عندما رأينا الخطأ."
+        ],
+        [
+          "Me faltaba información para decidir.",
+          "كانت تنقصني معلومات كي أقرر.",
+          "مي فالطابا إينفورماثيون بارا ديسيدير",
+          "Me faltaba información para decidir.",
+          "كانت تنقصني معلومات كي أقرر."
+        ],
+        [
+          "Intenté reparar la puerta yo mismo.",
+          "حاولت إصلاح الباب بنفسي.",
+          "إينتيِنتيي ريبارار لا بويرتا يو ميِسّمو",
+          "Intenté reparar la puerta yo mismo.",
+          "حاولت إصلاح الباب بنفسي."
+        ],
+        [
+          "Si se complica, llamaremos a un técnico.",
+          "إذا تعقد الأمر، سنتصل بفني.",
+          "سي سي كومبليكا، ياماريموس آ أون تِكنيكو",
+          "Si se complica, llamaremos a un técnico.",
+          "إذا تعقد الأمر، سنتصل بفني."
+        ],
+        [
+          "No conviene ignorar el problema.",
+          "من غير المناسب تجاهل المشكلة.",
+          "نو كونڤيينِه إينورار إيل بروبليما",
+          "No conviene ignorar el problema.",
+          "من غير المناسب تجاهل المشكلة."
+        ],
+        [
+          "Encontré una salida gracias a un consejo.",
+          "وجدت مخرجًا بفضل نصيحة.",
+          "إينكونتريي أونا ساليدا غراسياس آ أون كونسيخو",
+          "Encontré una salida gracias a un consejo.",
+          "وجدت مخرجًا بفضل نصيحة."
+        ],
+        [
+          "Traté de mantener la calma.",
+          "حاولت أن أحتفظ بهدوئي.",
+          "تراتي دي مانتينير لا كالما",
+          "Traté de mantener la calma.",
+          "حاولت أن أحتفظ بهدوئي."
+        ],
+        [
+          "Al final, el grupo resolvió el conflicto.",
+          "في النهاية، حلّت المجموعة الخلاف.",
+          "آل فينال، إيل غروبو ريسولڤيو إيل كونفليكتو",
+          "Al final, el grupo resolvió el conflicto.",
+          "في النهاية، حلّت المجموعة الخلاف."
+        ]
+      ]
+    },
+    {
+      "topic": "حكاية موقف من الماضي",
+      "words": [
+        [
+          "Ayer me perdí camino al centro.",
+          "أمس ضللت طريقي إلى المركز.",
+          "آيير مي بردي كامينو آل ثينترو",
+          "Ayer me perdí camino al centro.",
+          "أمس ضللت طريقي إلى المركز."
+        ],
+        [
+          "Cuando era estudiante, trabajaba por las tardes.",
+          "عندما كنت طالبًا، كنت أعمل بعد الظهر.",
+          "كواندو إيرا إستوديانتِ، تراباخابا بور لاس تارديِس",
+          "Cuando era estudiante, trabajaba por las tardes.",
+          "عندما كنت طالبًا، كنت أعمل بعد الظهر."
+        ],
+        [
+          "El verano pasado visité a unos primos.",
+          "زرت بعض الأقارب الصيف الماضي.",
+          "إيل ڤيرانو باسادو ڤيثيتيي آ أونوس بريثيموس",
+          "El verano pasado visité a unos primos.",
+          "زرت بعض الأقارب الصيف الماضي."
+        ],
+        [
+          "Una vez llovió tanto que no salimos.",
+          "مرة واحدة هطل المطر كثيرًا جدًا فلم نخرج.",
+          "أونا ڤيس يوڤيو تانتو كيه نو ساليموس",
+          "Una vez llovió tanto que no salimos.",
+          "مرة واحدة هطل المطر كثيرًا جدًا فلم نخرج."
+        ],
+        [
+          "Antes vivía más cerca del mar.",
+          "كنت أعيش سابقًا أقرب إلى البحر.",
+          "أنتيس ڤيڤيا ماس ثيركا ديل مار",
+          "Antes vivía más cerca del mar.",
+          "كنت أعيش سابقًا أقرب إلى البحر."
+        ],
+        [
+          "Me mudé después de encontrar trabajo.",
+          "انتقلت بعد أن وجدت عملاً.",
+          "مي موديه ديسبويِس دي إينكونترار تراباخو",
+          "Me mudé después de encontrar trabajo.",
+          "انتقلت بعد أن وجدت عملاً."
+        ],
+        [
+          "Recuerdo que cenamos tarde aquella noche.",
+          "أتذكر أننا تناولنا العشاء متأخرًا تلك الليلة.",
+          "ريكوردو كيه سيناموس تاردي أكييا نوشي",
+          "Recuerdo que cenamos tarde aquella noche.",
+          "أتذكر أننا تناولنا العشاء متأخرًا تلك الليلة."
+        ],
+        [
+          "Ese día aprendí a confiar más en mí.",
+          "في ذلك اليوم تعلمت أن أثق بنفسي أكثر.",
+          "إيسي ديا أبريندي آ كونفيار ماس إن مي",
+          "Ese día aprendí a confiar más en mí.",
+          "في ذلك اليوم تعلمت أن أثق بنفسي أكثر."
+        ],
+        [
+          "Me llamó mi jefe mientras estaba viajando.",
+          "اتصل بي مديري بينما كنت أسافر.",
+          "مي يامو مي خيفي مينتراس إستابا ڤياخاندو",
+          "Me llamó mi jefe mientras estaba viajando.",
+          "اتصل بي مديري بينما كنت أسافر."
+        ],
+        [
+          "Llegué a tiempo gracias a que salí temprano.",
+          "وصلت في الوقت المناسب بفضل خروجي مبكرًا.",
+          "ليغي آ تييمبو غراسياس آ كيه ساليي تِمبرانو",
+          "Llegué a tiempo gracias a que salí temprano.",
+          "وصلت في الوقت المناسب بفضل خروجي مبكرًا."
+        ],
+        [
+          "Cuando terminó la lluvia, salimos a la calle.",
+          "عندما انتهى المطر، خرجنا إلى الشارع.",
+          "كواندو تيرمينو لا لوڤيا، ساليموس آ لا كايي",
+          "Cuando terminó la lluvia, salimos a la calle.",
+          "عندما انتهى المطر، خرجنا إلى الشارع."
+        ],
+        [
+          "Ese invierno hacía frío todos los días.",
+          "كان ذلك الشتاء باردًا في كل الأيام.",
+          "إيسي إنڤييرنو هاثيا فرّيو توذوس لوس دياز",
+          "Ese invierno hacía frío todos los días.",
+          "كان ذلك الشتاء باردًا في كل الأيام."
+        ],
+        [
+          "Por entonces todavía no tenía coche.",
+          "في ذلك الوقت لم أكن أملك سيارة بعد.",
+          "بور إنتونثيس توذاڤيا نو تينيا كوچيي",
+          "Por entonces todavía no tenía coche.",
+          "في ذلك الوقت لم أكن أملك سيارة بعد."
+        ],
+        [
+          "Al cabo de un año, mejoró todo.",
+          "بعد سنة تحسن كل شيء.",
+          "آل كابو دي أون آنو، ميخورو توذو",
+          "Al cabo de un año, mejoró todo.",
+          "بعد سنة تحسن كل شيء."
+        ]
+      ]
+    },
+    {
+      "topic": "التعاون وتبادل الاقتراحات",
+      "words": [
+        [
+          "Podemos repartir las tareas entre todos.",
+          "يمكننا توزيع المهام بين الجميع.",
+          "بوديموس ريبارتير لاس تاريفاس إنتري توذوس",
+          "Podemos repartir las tareas entre todos.",
+          "يمكننا توزيع المهام بين الجميع."
+        ],
+        [
+          "Te sugiero que revises el texto otra vez.",
+          "أنصحك بأن تراجع النص مرة أخرى.",
+          "تي سوخييرو كيه ريفيثيس إيل تيكستو أوترا ڤيس",
+          "Te sugiero que revises el texto otra vez.",
+          "أنصحك بأن تراجع النص مرة أخرى."
+        ],
+        [
+          "Si quieres, yo me encargo de la comida.",
+          "إذا أردت، أتكفل أنا بالطعام.",
+          "سي كييِريس، يو مي إنكارغو دي لا كوميدا",
+          "Si quieres, yo me encargo de la comida.",
+          "إذا أردت، أتكفل أنا بالطعام."
+        ],
+        [
+          "Podemos escucharnos sin interrumpir.",
+          "يمكننا أن نصغي لبعضنا من دون مقاطعة.",
+          "بوديموس إيسكوشار موس سين إنتيرّومبير",
+          "Podemos escucharnos sin interrumpir.",
+          "يمكننا أن نصغي لبعضنا من دون مقاطعة."
+        ],
+        [
+          "Me parece buena idea empezar antes.",
+          "أرى أن البدء أبكر فكرة جيدة.",
+          "مي باريسي بوينا إيديا إمبيثار أنتيِس",
+          "Me parece buena idea empezar antes.",
+          "أرى أن البدء أبكر فكرة جيدة."
+        ],
+        [
+          "¿Te parece si hacemos una lista?",
+          "ما رأيك أن نعدّ قائمة؟",
+          "تي باريسي سي هاثيموس أونا ليستا",
+          "¿Te parece si hacemos una lista?",
+          "ما رأيك أن نعدّ قائمة؟"
+        ],
+        [
+          "Propongo que dividamos el trabajo.",
+          "أقترح أن نقسم العمل.",
+          "بروبوونغو كيه ديڤيداموس إيل تراباخو",
+          "Propongo que dividamos el trabajo.",
+          "أقترح أن نقسم العمل."
+        ],
+        [
+          "Convendría pedir más información.",
+          "من الأنسب طلب مزيد من المعلومات.",
+          "كونڤيندريا بيدير ماس إينفورماثيون",
+          "Convendría pedir más información.",
+          "من الأنسب طلب مزيد من المعلومات."
+        ],
+        [
+          "Si estás de acuerdo, lo hacemos hoy.",
+          "إذا كنت موافقًا، فلنفعله اليوم.",
+          "سي إستاس دي أكويردو، لو هاثيموس هوي",
+          "Si estás de acuerdo, lo hacemos hoy.",
+          "إذا كنت موافقًا، فلنفعله اليوم."
+        ],
+        [
+          "Gracias por tu ayuda con el informe.",
+          "شكرًا لمساعدتك في التقرير.",
+          "غراسياس بور تو أيودا كون إيل إينفورمي",
+          "Gracias por tu ayuda con el informe.",
+          "شكرًا لمساعدتك في التقرير."
+        ],
+        [
+          "Tal vez podamos terminar más tarde.",
+          "ربما نستطيع الانتهاء لاحقًا.",
+          "تال ڤيس بوداموس تيرمينار ماس تاردي",
+          "Tal vez podamos terminar más tarde.",
+          "ربما نستطيع الانتهاء لاحقًا."
+        ],
+        [
+          "Escuché tu propuesta y me convenció.",
+          "استمعت إلى اقتراحك وأقنعني.",
+          "إيسكوشي تو بروبوستا إي مي كونڤينثيو",
+          "Escuché tu propuesta y me convenció.",
+          "استمعت إلى اقتراحك وأقنعني."
+        ],
+        [
+          "Si trabajamos juntos, saldrá mejor.",
+          "إذا عملنا معًا، فسيكون أفضل.",
+          "سي تراباخاموس خونتوس، سالدرا ميخور",
+          "Si trabajamos juntos, saldrá mejor.",
+          "إذا عملنا معًا، فسيكون أفضل."
+        ],
+        [
+          "Podemos buscar otra solución entre los dos.",
+          "يمكننا أن نبحث عن حل آخر بيننا.",
+          "بوديموس بوسكار أوترَا سولوسيّون إنتري لوس دوس",
+          "Podemos buscar otra solución entre los dos.",
+          "يمكننا أن نبحث عن حل آخر بيننا."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

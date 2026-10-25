@@ -60,14 +60,27 @@ by identity. If storage or cloud sync fails, show the learner the actual status.
 
 `features/learning/study.ts` defines level locks and study helpers;
 `study-persistence.ts` normalizes and merges checkpoints; `lesson-video.tsx`
-provides the matched greetings-group video and explicit unavailable-video state.
+provides the matched greetings-group video. `word-video.tsx` provides an actual
+content-matched narrated clip for every entry, generated on first request.
 `intro.tsx` shows the original logo briefly at each app load, with a skip button,
 without replaying the introduction on in-app navigation.
 
-The curriculum now has 55 lessons with six entries each (330 words/phrases).
+The curriculum has 210 short lessons and 2250 learning entries across five languages:
+100 A1, 150 A2 and 200 B1 entries per language. The original 55 lessons/IDs remain
+intact. `src/curriculum/*.json` contains the additions; B1 additions use complete
+sentences with matching full-sentence Arabic meanings and approximate pronunciation.
 When a four-word summary checkpoint is loaded after this expansion, the learner
 resumes at the first new word; saved words, points and completed-lesson IDs stay
 unchanged. Completion rewards are not granted again for previously completed lessons.
+
+`features/learning/daily.ts` records distinct correct answers, completed quizzes
+and correctly reviewed words by local calendar day. Activity is language-specific,
+saved in the existing cloud JSON progress, and available locally for guests.
+Estimated daily plans (5/10/15/20 minutes) are not measured usage time.
+Opening a lesson, navigating words, replaying a quiz or watching media never
+earns additional completion points. Review requires actual correct answers.
+`daily-plan.tsx`, `review-challenge.tsx` and `celebration.tsx` implement the plan,
+three-word review, weekly activity and encouragement based on actual results.
 
 After activating example audio, its written sentence and Arabic translation stay
 visible beside the control. The existing word card already supplies the word and
@@ -109,3 +122,24 @@ This calls billed AI audio, renders MP4s with FFmpeg, and uploads them to the
 provisioned App Storage public directory. Existing local WAVs are reused.
 Generated working files are excluded from Git and deployment; durable assets
 are served from App Storage.
+
+## Expanded curriculum and per-entry video
+
+`POST /api/wordora/video` accepts a known `wordId`, generates a narrated text clip
+using that exact word/example in its language, and returns WebM/MP4 asset URLs.
+It caches by content hash, limits simultaneous rendering and cleans up temporary
+files. These are AI-narrated teaching cards, not real humans or lip-motion footage.
+The first-use cost/time notice is visible before generation. System dependencies
+`ffmpeg`, `fontconfig`, and `dejavu_fonts` are configured for runtime rendering.
+The API build derives its minimal video catalog from the same curriculum source;
+rebuild/restart the API as well as the frontend after changing learning content.
+
+Run curriculum/progress regression checks without AI charges:
+
+```sh
+pnpm --filter @workspace/scripts exec tsx ./check-wordora.ts
+```
+
+`artifacts/api-server/scripts/expand-curriculum.ts` is an optional resumable,
+billed AI content-authoring script, not needed to start the app. Do not rerun
+generation to merely launch or test the application.

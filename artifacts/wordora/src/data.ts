@@ -1,4 +1,5 @@
 import { additionalWords } from './extra-vocabulary';
+import { expandedCurriculum } from './expanded-curriculum';
 
 export type LanguageId = 'english' | 'french' | 'spanish' | 'german' | 'italian';
 export type Level = 'A1' | 'A2' | 'B1';
@@ -275,7 +276,11 @@ const advancedLessons: Lesson[] = languages.flatMap((language) => advancedTopics
     exampleArabic: topic.examplesArabic[wordIndex],
   })),
 })));
-export const lessons: Lesson[] = [...starterLessons, ...advancedLessons].map(lesson => ({
+const originalLessons: Lesson[] = [...starterLessons, ...advancedLessons].map(lesson => ({
   ...lesson, words: [...lesson.words, ...additionalWords(lesson)],
 }));
+export const lessons: Lesson[] = [...originalLessons, ...expandedCurriculum].sort((a, b) =>
+  languages.findIndex(language => language.id === a.languageId) - languages.findIndex(language => language.id === b.languageId)
+  || ['A1', 'A2', 'B1'].indexOf(a.level) - ['A1', 'A2', 'B1'].indexOf(b.level),
+);
 export const lessonById = (id: string) => lessons.find((lesson) => lesson.id === id);

@@ -8,6 +8,20 @@
 import * as zod from 'zod';
 
 
+export const createWordoraVideoBodyWordIdMax = 100;
+
+
+
+export const CreateWordoraVideoBody = zod.object({
+  "wordId": zod.string().min(1).max(createWordoraVideoBodyWordIdMax)
+})
+
+export const CreateWordoraVideoResponse = zod.object({
+  "url": zod.string(),
+  "mp4Url": zod.string()
+})
+
+
 export const sendWordoraChatBodyMessagesItemContentMax = 1600;
 
 export const sendWordoraChatBodyMessagesMax = 20;
@@ -73,6 +87,18 @@ export const getWordoraProgressResponseLessonStudyStudiedWordIdsItemMax = 100;
 
 export const getWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
 
+export const getWordoraProgressResponseDailyActivityCorrectWordIdsItemMax = 100;
+
+export const getWordoraProgressResponseDailyActivityCorrectWordIdsMax = 3000;
+
+export const getWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax = 100;
+
+export const getWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 500;
+
+export const getWordoraProgressResponseDailyActivityReviewedWordIdsItemMax = 100;
+
+export const getWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
+
 
 
 export const GetWordoraProgressResponse = zod.object({
@@ -88,6 +114,11 @@ export const GetWordoraProgressResponse = zod.object({
   "studiedWordIds": zod.array(zod.string().max(getWordoraProgressResponseLessonStudyStudiedWordIdsItemMax)).max(getWordoraProgressResponseLessonStudyStudiedWordIdsMax),
   "stage": zod.enum(['words', 'summary']),
   "updatedAt": zod.coerce.date()
+})).optional(),
+  "dailyActivity": zod.record(zod.string(), zod.object({
+  "correctWordIds": zod.array(zod.string().max(getWordoraProgressResponseDailyActivityCorrectWordIdsItemMax)).max(getWordoraProgressResponseDailyActivityCorrectWordIdsMax),
+  "completedLessonIds": zod.array(zod.string().max(getWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax)).max(getWordoraProgressResponseDailyActivityCompletedLessonIdsMax),
+  "reviewedWordIds": zod.array(zod.string().max(getWordoraProgressResponseDailyActivityReviewedWordIdsItemMax)).max(getWordoraProgressResponseDailyActivityReviewedWordIdsMax)
 })).optional()
 })
 
@@ -108,6 +139,18 @@ export const saveWordoraProgressBodyLessonStudyStudiedWordIdsItemMax = 100;
 
 export const saveWordoraProgressBodyLessonStudyStudiedWordIdsMax = 200;
 
+export const saveWordoraProgressBodyDailyActivityCorrectWordIdsItemMax = 100;
+
+export const saveWordoraProgressBodyDailyActivityCorrectWordIdsMax = 3000;
+
+export const saveWordoraProgressBodyDailyActivityCompletedLessonIdsItemMax = 100;
+
+export const saveWordoraProgressBodyDailyActivityCompletedLessonIdsMax = 500;
+
+export const saveWordoraProgressBodyDailyActivityReviewedWordIdsItemMax = 100;
+
+export const saveWordoraProgressBodyDailyActivityReviewedWordIdsMax = 3000;
+
 
 
 export const SaveWordoraProgressBody = zod.object({
@@ -123,6 +166,11 @@ export const SaveWordoraProgressBody = zod.object({
   "studiedWordIds": zod.array(zod.string().max(saveWordoraProgressBodyLessonStudyStudiedWordIdsItemMax)).max(saveWordoraProgressBodyLessonStudyStudiedWordIdsMax),
   "stage": zod.enum(['words', 'summary']),
   "updatedAt": zod.coerce.date()
+})).optional(),
+  "dailyActivity": zod.record(zod.string(), zod.object({
+  "correctWordIds": zod.array(zod.string().max(saveWordoraProgressBodyDailyActivityCorrectWordIdsItemMax)).max(saveWordoraProgressBodyDailyActivityCorrectWordIdsMax),
+  "completedLessonIds": zod.array(zod.string().max(saveWordoraProgressBodyDailyActivityCompletedLessonIdsItemMax)).max(saveWordoraProgressBodyDailyActivityCompletedLessonIdsMax),
+  "reviewedWordIds": zod.array(zod.string().max(saveWordoraProgressBodyDailyActivityReviewedWordIdsItemMax)).max(saveWordoraProgressBodyDailyActivityReviewedWordIdsMax)
 })).optional()
 })
 
@@ -139,6 +187,18 @@ export const saveWordoraProgressResponseLessonStudyStudiedWordIdsItemMax = 100;
 
 export const saveWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
 
+export const saveWordoraProgressResponseDailyActivityCorrectWordIdsItemMax = 100;
+
+export const saveWordoraProgressResponseDailyActivityCorrectWordIdsMax = 3000;
+
+export const saveWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax = 100;
+
+export const saveWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 500;
+
+export const saveWordoraProgressResponseDailyActivityReviewedWordIdsItemMax = 100;
+
+export const saveWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
+
 
 
 export const SaveWordoraProgressResponse = zod.object({
@@ -154,6 +214,11 @@ export const SaveWordoraProgressResponse = zod.object({
   "studiedWordIds": zod.array(zod.string().max(saveWordoraProgressResponseLessonStudyStudiedWordIdsItemMax)).max(saveWordoraProgressResponseLessonStudyStudiedWordIdsMax),
   "stage": zod.enum(['words', 'summary']),
   "updatedAt": zod.coerce.date()
+})).optional(),
+  "dailyActivity": zod.record(zod.string(), zod.object({
+  "correctWordIds": zod.array(zod.string().max(saveWordoraProgressResponseDailyActivityCorrectWordIdsItemMax)).max(saveWordoraProgressResponseDailyActivityCorrectWordIdsMax),
+  "completedLessonIds": zod.array(zod.string().max(saveWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax)).max(saveWordoraProgressResponseDailyActivityCompletedLessonIdsMax),
+  "reviewedWordIds": zod.array(zod.string().max(saveWordoraProgressResponseDailyActivityReviewedWordIdsItemMax)).max(saveWordoraProgressResponseDailyActivityReviewedWordIdsMax)
 })).optional()
 })
 

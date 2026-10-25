@@ -1,0 +1,529 @@
+{
+  "lessons": [
+    {
+      "topic": "المنزل والأثاث",
+      "words": [
+        [
+          "casa",
+          "منزل",
+          "كازا",
+          "La casa è grande.",
+          "المنزل كبير."
+        ],
+        [
+          "porta",
+          "باب",
+          "بورتا",
+          "La porta è aperta.",
+          "الباب مفتوح."
+        ],
+        [
+          "finestra",
+          "نافذة",
+          "فينِسترا",
+          "La finestra è chiusa.",
+          "النافذة مغلقة."
+        ],
+        [
+          "tavolo",
+          "طاولة",
+          "تافولو",
+          "Il tavolo è pulito.",
+          "الطاولة نظيفة."
+        ],
+        [
+          "sedia",
+          "كرسي",
+          "سيديا",
+          "La sedia è vicino al tavolo.",
+          "الكرسي قريب من الطاولة."
+        ],
+        [
+          "letto",
+          "سرير",
+          "ليتو",
+          "Il letto è comodo.",
+          "السرير مريح."
+        ],
+        [
+          "armadio",
+          "خزانة",
+          "أرماديو",
+          "L'armadio è grande.",
+          "الخزانة كبيرة."
+        ],
+        [
+          "divano",
+          "أريكة",
+          "ديفانو",
+          "Il divano è nel salotto.",
+          "الأريكة في غرفة الجلوس."
+        ],
+        [
+          "lampada",
+          "مصباح",
+          "لامبادا",
+          "La lampada è accesa.",
+          "المصباح مضاء."
+        ],
+        [
+          "cucina",
+          "مطبخ",
+          "كوتشينا",
+          "La cucina è pulita.",
+          "المطبخ نظيف."
+        ]
+      ]
+    },
+    {
+      "topic": "الجسم والصحة",
+      "words": [
+        [
+          "testa",
+          "رأس",
+          "تيستا",
+          "Mi fa male la testa.",
+          "رأسي يؤلمني."
+        ],
+        [
+          "mano",
+          "يد",
+          "مانو",
+          "La mia mano è fredda.",
+          "يدي باردة."
+        ],
+        [
+          "piede",
+          "قدم",
+          "بييده",
+          "Il piede è gonfio.",
+          "القدم متورمة."
+        ],
+        [
+          "occhio",
+          "عين",
+          "أوكيو",
+          "Ho un occhio stanco.",
+          "لدي عين متعبة."
+        ],
+        [
+          "naso",
+          "أنف",
+          "نازو",
+          "Il naso è piccolo.",
+          "الأنف صغير."
+        ],
+        [
+          "dente",
+          "سن",
+          "دينتي",
+          "Il dente fa male.",
+          "السن يؤلمني."
+        ],
+        [
+          "gola",
+          "حلق",
+          "غولا",
+          "La gola è irritata.",
+          "الحلق متهيج."
+        ],
+        [
+          "febbre",
+          "حمى",
+          "فيفبره",
+          "Ho la febbre.",
+          "لدي حمى."
+        ],
+        [
+          "medicina",
+          "دواء",
+          "ميديتشينا",
+          "Prendo la medicina.",
+          "آخذ الدواء."
+        ],
+        [
+          "ospedale",
+          "مستشفى",
+          "أوسبيدالي",
+          "L'ospedale è vicino.",
+          "المستشفى قريب."
+        ]
+      ]
+    },
+    {
+      "topic": "الملابس والأغراض",
+      "words": [
+        [
+          "maglietta",
+          "قميص تيشيرت",
+          "ماجلييتا",
+          "La maglietta è bianca.",
+          "القميص التيشيرت أبيض."
+        ],
+        [
+          "pantaloni",
+          "بنطال",
+          "بانتالوني",
+          "I pantaloni sono lunghi.",
+          "البنطال طويل."
+        ],
+        [
+          "scarpe",
+          "أحذية",
+          "سكاربه",
+          "Le scarpe sono nuove.",
+          "الأحذية جديدة."
+        ],
+        [
+          "calze",
+          "جوارب",
+          "كالزه",
+          "Le calze sono calde.",
+          "الجوارب دافئة."
+        ],
+        [
+          "giacca",
+          "سترة",
+          "جاكا",
+          "La giacca è pesante.",
+          "السترة ثقيلة."
+        ],
+        [
+          "cappello",
+          "قبعة",
+          "كابيلو",
+          "Il cappello è sulla sedia.",
+          "القبعة على الكرسي."
+        ],
+        [
+          "orologio",
+          "ساعة",
+          "أورولوچو",
+          "L'orologio è piccolo.",
+          "الساعة صغيرة."
+        ],
+        [
+          "chiavi",
+          "مفاتيح",
+          "كيافي",
+          "Le chiavi sono sul tavolo.",
+          "المفاتيح على الطاولة."
+        ],
+        [
+          "zaino",
+          "حقيبة ظهر",
+          "تزاينو",
+          "Lo zaino è pieno.",
+          "حقيبة الظهر ممتلئة."
+        ],
+        [
+          "occhiali",
+          "نظارات",
+          "أوككيالي",
+          "Gli occhiali sono sul letto.",
+          "النظارات على السرير."
+        ]
+      ]
+    },
+    {
+      "topic": "المدرسة والتعلم",
+      "words": [
+        [
+          "scuola",
+          "مدرسة",
+          "سكوولا",
+          "La scuola è vicino a casa.",
+          "المدرسة قريبة من البيت."
+        ],
+        [
+          "classe",
+          "صف",
+          "كلاسه",
+          "La classe è silenziosa.",
+          "الصف هادئ."
+        ],
+        [
+          "maestra",
+          "معلمة",
+          "مايسترا",
+          "La maestra parla piano.",
+          "المعلمة تتكلم بهدوء."
+        ],
+        [
+          "compito",
+          "واجب",
+          "كومبيتو",
+          "Il compito è facile.",
+          "الواجب سهل."
+        ],
+        [
+          "penna",
+          "قلم",
+          "بينا",
+          "La penna è sul banco.",
+          "القلم على الطاولة المدرسية."
+        ],
+        [
+          "quaderno",
+          "دفتر",
+          "كواديرنو",
+          "Il quaderno è nuovo.",
+          "الدفتر جديد."
+        ],
+        [
+          "lezione",
+          "درس",
+          "ليتسيونه",
+          "La lezione inizia adesso.",
+          "الدرس يبدأ الآن."
+        ],
+        [
+          "studente",
+          "طالب",
+          "ستودينتي",
+          "Lo studente è attento.",
+          "الطالب منتبه."
+        ],
+        [
+          "libro",
+          "كتاب",
+          "ليبرو",
+          "Il libro è interessante.",
+          "الكتاب ممتع."
+        ],
+        [
+          "lavagna",
+          "سبورة",
+          "لاڤانيا",
+          "La lavagna è nera.",
+          "السبورة سوداء."
+        ]
+      ]
+    },
+    {
+      "topic": "المهن وأماكن العمل",
+      "words": [
+        [
+          "medico",
+          "طبيب",
+          "ميديكو",
+          "Il medico è gentile.",
+          "الطبيب لطيف."
+        ],
+        [
+          "insegnante",
+          "معلم",
+          "إنسينيانتِه",
+          "L'insegnante spiega bene.",
+          "المعلم يشرح جيدًا."
+        ],
+        [
+          "cuoco",
+          "طاهٍ",
+          "كوكو",
+          "Il cuoco prepara la cena.",
+          "الطاهي يجهز العشاء."
+        ],
+        [
+          "negozio",
+          "متجر",
+          "نيغوتسيو",
+          "Il negozio apre alle otto.",
+          "المتجر يفتح الساعة الثامنة."
+        ],
+        [
+          "ufficio",
+          "مكتب",
+          "أوفيتشيو",
+          "L'ufficio è tranquillo.",
+          "المكتب هادئ."
+        ],
+        [
+          "fabbrica",
+          "مصنع",
+          "فابريكا",
+          "La fabbrica è grande.",
+          "المصنع كبير."
+        ],
+        [
+          "farmacia",
+          "صيدلية",
+          "فارماچيا",
+          "La farmacia apre alle otto.",
+          "تفتح الصيدلية الساعة الثامنة."
+        ],
+        [
+          "poliziotto",
+          "شرطي",
+          "بوليتسيوتو",
+          "Il poliziotto parla con me.",
+          "الشرطي يتحدث معي."
+        ],
+        [
+          "autista",
+          "سائق",
+          "أوتيستا",
+          "L'autista guida piano.",
+          "السائق يقود ببطء."
+        ],
+        [
+          "dottore",
+          "طبيب",
+          "دوتّوري",
+          "Il dottore visita un bambino.",
+          "الطبيب يفحص طفلًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الطبيعة والحيوانات",
+      "words": [
+        [
+          "albero",
+          "شجرة",
+          "ألبيرو",
+          "L'albero è alto.",
+          "الشجرة عالية."
+        ],
+        [
+          "fiore",
+          "زهرة",
+          "فيوري",
+          "Il fiore è rosso.",
+          "الزهرة حمراء."
+        ],
+        [
+          "montagna",
+          "جبل",
+          "مونتانيا",
+          "La montagna è lontana.",
+          "الجبل بعيد."
+        ],
+        [
+          "mare",
+          "بحر",
+          "ماري",
+          "Il mare è calmo.",
+          "البحر هادئ."
+        ],
+        [
+          "lago",
+          "بحيرة",
+          "لاگو",
+          "Il lago è blu.",
+          "البحيرة زرقاء."
+        ],
+        [
+          "sole",
+          "شمس",
+          "سولي",
+          "Il sole è caldo.",
+          "الشمس دافئة."
+        ],
+        [
+          "pioggia",
+          "مطر",
+          "بيوجيا",
+          "La pioggia è forte.",
+          "المطر غزير."
+        ],
+        [
+          "cane",
+          "كلب",
+          "كاني",
+          "Il cane corre nel giardino.",
+          "الكلب يركض في الحديقة."
+        ],
+        [
+          "gatto",
+          "قط",
+          "غاتّو",
+          "Il gatto dorme sul divano.",
+          "القط ينام على الأريكة."
+        ],
+        [
+          "uccello",
+          "طائر",
+          "أوتشيللو",
+          "L'uccello canta al mattino.",
+          "الطائر يغني في الصباح."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوايات والرياضة",
+      "words": [
+        [
+          "gioco",
+          "لعبة",
+          "جيّوكو",
+          "Il gioco è divertente.",
+          "اللعبة ممتعة."
+        ],
+        [
+          "sport",
+          "رياضة",
+          "سبورت",
+          "Lo sport è importante per me.",
+          "الرياضة مهمة بالنسبة لي."
+        ],
+        [
+          "calcio",
+          "كرة القدم",
+          "كالتشو",
+          "Il calcio è molto popolare.",
+          "كرة القدم شائعة جدًا."
+        ],
+        [
+          "corsa",
+          "جري",
+          "كورسا",
+          "La corsa mi piace.",
+          "أحب الجري."
+        ],
+        [
+          "nuoto",
+          "سباحة",
+          "نوتو",
+          "Il nuoto è utile.",
+          "السباحة مفيدة."
+        ],
+        [
+          "ballo",
+          "رقص",
+          "بالّو",
+          "Il ballo è bello.",
+          "الرقص جميل."
+        ],
+        [
+          "musica",
+          "موسيقى",
+          "موزيكا",
+          "La musica è forte.",
+          "الموسيقى عالية."
+        ],
+        [
+          "lettura",
+          "قراءة",
+          "ليتّورا",
+          "La lettura è rilassante.",
+          "القراءة مريحة."
+        ],
+        [
+          "bicicletta",
+          "دراجة هوائية",
+          "بيتشيكليتّا",
+          "La bicicletta è nel garage.",
+          "الدراجة الهوائية في المرآب."
+        ],
+        [
+          "partita",
+          "مباراة",
+          "بارتيتا",
+          "La partita inizia alle tre.",
+          "المباراة تبدأ الساعة الثالثة."
+        ]
+      ]
+    }
+  ]
+}

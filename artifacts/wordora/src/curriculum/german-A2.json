@@ -1,0 +1,983 @@
+{
+  "lessons": [
+    {
+      "topic": "طلب الطعام في المطعم",
+      "words": [
+        [
+          "die Speisekarte",
+          "قائمة الطعام",
+          "دي شبايزيكارتِه",
+          "Haben Sie eine Speisekarte?",
+          "هل لديكم قائمة طعام؟"
+        ],
+        [
+          "bestellen",
+          "يطلب",
+          "بِشْتِلِن",
+          "Ich möchte bestellen.",
+          "أريد أن أطلب."
+        ],
+        [
+          "die Vorspeise",
+          "طبق مقبلات",
+          "دي فورزبايزِه",
+          "Die Vorspeise schmeckt gut.",
+          "المقبلات طعمها لذيذ."
+        ],
+        [
+          "das Hauptgericht",
+          "الطبق الرئيسي",
+          "داس هاوبتغيريشْت",
+          "Das Hauptgericht ist sehr lecker.",
+          "الطبق الرئيسي لذيذ جدًا."
+        ],
+        [
+          "die Suppe",
+          "حساء",
+          "دي زوبه",
+          "Die Suppe ist heiß.",
+          "الحساء ساخن."
+        ],
+        [
+          "das Menü",
+          "قائمة الوجبات",
+          "داس مِنيُو",
+          "Das Menü ist heute günstig.",
+          "قائمة الوجبات اليوم مناسبة الثمن."
+        ],
+        [
+          "ohne Zwiebeln",
+          "بدون بصل",
+          "أونه تسفيبْلِن",
+          "Ich möchte das ohne Zwiebeln.",
+          "أريد هذا بدون بصل."
+        ],
+        [
+          "mit Soße",
+          "مع صلصة",
+          "ميت زوزِه",
+          "Bitte das Gericht mit Soße.",
+          "من فضلك هذا الطبق مع صلصة."
+        ],
+        [
+          "der Tisch",
+          "طاولة",
+          "دير تِيش",
+          "Der Tisch ist dort frei.",
+          "الطاولة هناك شاغرة."
+        ],
+        [
+          "satt sein",
+          "أن يكون شبعان",
+          "زات زاين",
+          "Ich bin jetzt satt.",
+          "أنا الآن شبعان."
+        ],
+        [
+          "das Glas",
+          "كأس",
+          "داس غلاس",
+          "Das Glas ist leer.",
+          "الكأس فارغ."
+        ],
+        [
+          "gemischt",
+          "مخلوط",
+          "غِمِشْت",
+          "Der Salat ist gemischt.",
+          "السلطة مخلوطة."
+        ]
+      ]
+    },
+    {
+      "topic": "الإقامة في الفندق",
+      "words": [
+        [
+          "das Zimmer",
+          "غرفة",
+          "داس تْسِمَر",
+          "Das Zimmer ist im dritten Stock.",
+          "الغرفة في الطابق الثالث."
+        ],
+        [
+          "die Reservierung",
+          "حجز",
+          "دي ريزرفييرونغ",
+          "Meine Reservierung ist bestätigt.",
+          "حجزي مؤكد."
+        ],
+        [
+          "einchecken",
+          "يسجل الدخول",
+          "آينشِكِن",
+          "Wir können jetzt einchecken.",
+          "يمكننا الآن تسجيل الدخول."
+        ],
+        [
+          "auschecken",
+          "يسجل الخروج",
+          "آوسشِكِن",
+          "Ich möchte morgen auschecken.",
+          "أريد تسجيل الخروج غدًا."
+        ],
+        [
+          "die Rezeption",
+          "الاستقبال",
+          "دي رِتْسِپْتسيون",
+          "An der Rezeption bekomme ich Hilfe.",
+          "في الاستقبال أحصل على المساعدة."
+        ],
+        [
+          "der Schlüssel",
+          "مفتاح",
+          "دير شلوسِل",
+          "Ich habe den Schlüssel vergessen.",
+          "لقد نسيت المفتاح."
+        ],
+        [
+          "das Bett",
+          "سرير",
+          "داس بِت",
+          "Das Bett ist bequem.",
+          "السرير مريح."
+        ],
+        [
+          "das Bad",
+          "حمام",
+          "داس باد",
+          "Das Bad ist sauber.",
+          "الحمام نظيف."
+        ],
+        [
+          "die Nacht",
+          "ليل",
+          "دي ناخت",
+          "Eine Nacht kostet nicht viel.",
+          "ليلة واحدة لا تكلف كثيرًا."
+        ],
+        [
+          "ruhig",
+          "هادئ",
+          "رويغ",
+          "Das Hotel ist ruhig.",
+          "الفندق هادئ."
+        ],
+        [
+          "frühstücken",
+          "يتناول الفطور",
+          "فْرويشْتيكن",
+          "Wir frühstücken unten.",
+          "نحن نتناول الفطور في الأسفل."
+        ],
+        [
+          "das Gepäck",
+          "أمتعة",
+          "داس غِبِك",
+          "Mein Gepäck ist schwer.",
+          "أمتعتي ثقيلة."
+        ]
+      ]
+    },
+    {
+      "topic": "السؤال عن الاتجاهات",
+      "words": [
+        [
+          "geradeaus",
+          "مباشرة",
+          "غيراده آوس",
+          "Gehen Sie geradeaus.",
+          "اذهب مباشرة."
+        ],
+        [
+          "rechts",
+          "يمين",
+          "رِختس",
+          "Dann rechts abbiegen.",
+          "ثم انعطف يمينًا."
+        ],
+        [
+          "links",
+          "يسار",
+          "لينكس",
+          "Links ist die Apotheke.",
+          "إلى اليسار توجد الصيدلية."
+        ],
+        [
+          "an der Ecke",
+          "عند الزاوية",
+          "آن دير إكه",
+          "Das Café ist an der Ecke.",
+          "المقهى عند الزاوية."
+        ],
+        [
+          "gegenüber",
+          "مقابل",
+          "غِغِنأوبَر",
+          "Die Post ist gegenüber vom Park.",
+          "البريد مقابل الحديقة."
+        ],
+        [
+          "die Kreuzung",
+          "تقاطع",
+          "دي كرويستونغ",
+          "An der Kreuzung ist viel Verkehr.",
+          "عند التقاطع توجد حركة مرور كثيرة."
+        ],
+        [
+          "in der Nähe",
+          "بالقرب",
+          "إن دير نيهِه",
+          "Ist der Supermarkt in der Nähe?",
+          "هل السوبرماركت قريب؟"
+        ],
+        [
+          "weit entfernt",
+          "بعيد",
+          "فايت إنتفِرنْت",
+          "Das Museum ist weit entfernt.",
+          "المتحف بعيد."
+        ],
+        [
+          "der Weg",
+          "طريق",
+          "دير فِك",
+          "Der Weg ist einfach.",
+          "الطريق سهل."
+        ],
+        [
+          "die Straße",
+          "شارع",
+          "دي شتراسه",
+          "Diese Straße ist lang.",
+          "هذا الشارع طويل."
+        ],
+        [
+          "die Ampel",
+          "إشارة المرور",
+          "دي أمبِل",
+          "Bei der Ampel warten wir.",
+          "عند إشارة المرور ننتظر."
+        ],
+        [
+          "finden",
+          "يجد",
+          "فيندن",
+          "Ich kann das Hotel nicht finden.",
+          "لا أستطيع أن أجد الفندق."
+        ]
+      ]
+    },
+    {
+      "topic": "الوقت والمواعيد",
+      "words": [
+        [
+          "der Termin",
+          "موعد",
+          "دير تِرْمين",
+          "Ich habe um acht Uhr einen Termin.",
+          "لدي موعد الساعة الثامنة."
+        ],
+        [
+          "pünktlich",
+          "في الموعد",
+          "بونكتليخ",
+          "Bitte seien Sie pünktlich.",
+          "من فضلك كن في الموعد."
+        ],
+        [
+          "zu spät",
+          "متأخر",
+          "تسو شْپيت",
+          "Ich bin heute zu spät.",
+          "أنا متأخر اليوم."
+        ],
+        [
+          "früh",
+          "مبكر",
+          "فْرُو",
+          "Wir kommen früh an.",
+          "سنصل مبكرًا."
+        ],
+        [
+          "später",
+          "لاحقًا",
+          "شْپيتَر",
+          "Ich rufe später an.",
+          "سأتصل لاحقًا."
+        ],
+        [
+          "vorher",
+          "قبل ذلك",
+          "فوَرْهير",
+          "Ich muss vorher arbeiten.",
+          "يجب أن أعمل قبل ذلك."
+        ],
+        [
+          "nachher",
+          "بعد ذلك",
+          "ناخْهير",
+          "Nachher habe ich Zeit.",
+          "بعد ذلك لدي وقت."
+        ],
+        [
+          "der Kalender",
+          "التقويم",
+          "دير كالِندَر",
+          "Mein Kalender ist voll.",
+          "تقويمي ممتلئ."
+        ],
+        [
+          "die Uhrzeit",
+          "الوقت",
+          "دي أورتسايت",
+          "Wie ist die Uhrzeit?",
+          "كم الوقت؟"
+        ],
+        [
+          "verabreden",
+          "يحدد موعدًا",
+          "فِرآبْرِيدِن",
+          "Wir verabreden uns für Samstag.",
+          "نحدد موعدًا ليوم السبت."
+        ],
+        [
+          "dauern",
+          "يستغرق",
+          "داوْرن",
+          "Das Meeting dauert eine Stunde.",
+          "الاجتماع يستغرق ساعة."
+        ],
+        [
+          "verlängern",
+          "يمدد",
+          "فِرْلينغِرن",
+          "Kannst du die Frist verlängern?",
+          "هل يمكنك تمديد الموعد النهائي؟"
+        ]
+      ]
+    },
+    {
+      "topic": "زيارة الطبيب",
+      "words": [
+        [
+          "der Arzt",
+          "طبيب",
+          "دير آرتست",
+          "Der Arzt untersucht mich.",
+          "الطبيب يفحصني."
+        ],
+        [
+          "die Ärztin",
+          "طبيبة",
+          "دي إرتستِن",
+          "Die Ärztin hört mir zu.",
+          "الطبيبة تستمع إلي."
+        ],
+        [
+          "der Schmerz",
+          "ألم",
+          "دير شْمِرتس",
+          "Ich habe starke Schmerzen.",
+          "لدي آلام شديدة."
+        ],
+        [
+          "die Grippe",
+          "إنفلونزا",
+          "دي غريبِه",
+          "Vielleicht habe ich die Grippe.",
+          "ربما لدي إنفلونزا."
+        ],
+        [
+          "das Fieber",
+          "حمى",
+          "داس فيبَر",
+          "Ich habe Fieber.",
+          "لدي حمى."
+        ],
+        [
+          "husten",
+          "يسعل",
+          "هوستن",
+          "Ich muss oft husten.",
+          "أضطر إلى السعال كثيرًا."
+        ],
+        [
+          "sich ausruhen",
+          "يرتاح",
+          "زيخ آوسرُوهن",
+          "Ich muss mich ausruhen.",
+          "يجب أن أرتاح."
+        ],
+        [
+          "das Rezept",
+          "وصفة طبية",
+          "داس رِتسِپت",
+          "Der Arzt gibt mir ein Rezept.",
+          "الطبيب يعطيني وصفة طبية."
+        ],
+        [
+          "die Apotheke",
+          "صيدلية",
+          "دي أپوتيكِه",
+          "Die Apotheke ist geöffnet.",
+          "الصيدلية مفتوحة."
+        ],
+        [
+          "schwach",
+          "ضعيف",
+          "شفاخ",
+          "Ich fühle mich schwach.",
+          "أشعر بالضعف."
+        ],
+        [
+          "untersuchen",
+          "يفحص",
+          "أونترزوشِن",
+          "Der Arzt will mich untersuchen.",
+          "الطبيب يريد أن يفحصني."
+        ],
+        [
+          "gesund werden",
+          "يتعافى",
+          "غِزونت فِردِن",
+          "Ich will schnell gesund werden.",
+          "أريد أن أتعافى بسرعة."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل في العمل",
+      "words": [
+        [
+          "die Kollegin",
+          "زميلة",
+          "دي كولِغين",
+          "Meine Kollegin arbeitet heute hier.",
+          "زميلتي تعمل هنا اليوم."
+        ],
+        [
+          "der Kollege",
+          "زميل",
+          "دير كولِغِه",
+          "Der Kollege sitzt neben mir.",
+          "الزميل يجلس بجانبي."
+        ],
+        [
+          "die Aufgabe",
+          "مهمة",
+          "دي آوفغابه",
+          "Diese Aufgabe ist wichtig.",
+          "هذه المهمة مهمة."
+        ],
+        [
+          "die Besprechung",
+          "اجتماع",
+          "دي بِشْپْرِخوڭ",
+          "Die Besprechung beginnt um neun.",
+          "الاجتماع يبدأ عند التاسعة."
+        ],
+        [
+          "der Chef",
+          "المدير",
+          "دير شيف",
+          "Der Chef ist heute zufrieden.",
+          "المدير راضٍ اليوم."
+        ],
+        [
+          "berichten",
+          "يبلغ/يخبر",
+          "بِرِختِن",
+          "Ich berichte kurz über den Stand.",
+          "أُبلغ باختصار عن الوضع."
+        ],
+        [
+          "erklären",
+          "يشرح",
+          "إرکليرِن",
+          "Kannst du mir das erklären?",
+          "هل يمكنك أن تشرح لي هذا؟"
+        ],
+        [
+          "die Datei",
+          "ملف",
+          "دي داتاِي",
+          "Die Datei ist schon fertig.",
+          "الملف جاهز بالفعل."
+        ],
+        [
+          "die Frist",
+          "مهلة",
+          "دي فْرِست",
+          "Die Frist endet morgen.",
+          "المهلة تنتهي غدًا."
+        ],
+        [
+          "zusammenarbeiten",
+          "يتعاون",
+          "تسوزامِنأربايتِن",
+          "Wir arbeiten gut zusammen.",
+          "نحن نتعاون جيدًا."
+        ],
+        [
+          "erledigen",
+          "ينجز",
+          "إرليدِغِن",
+          "Ich erledige die Arbeit heute.",
+          "أنجز العمل اليوم."
+        ],
+        [
+          "zuständig",
+          "مسؤول عن",
+          "تسوشتِندِيخ",
+          "Wer ist dafür zuständig?",
+          "من المسؤول عن ذلك؟"
+        ]
+      ]
+    },
+    {
+      "topic": "الهاتف والرسائل",
+      "words": [
+        [
+          "anrufen",
+          "يتصل هاتفيًا",
+          "آنروفِن",
+          "Ich rufe dich später an.",
+          "سأتصل بك لاحقًا."
+        ],
+        [
+          "die Nachricht",
+          "رسالة",
+          "دي ناخْرِخت",
+          "Ich habe deine Nachricht gelesen.",
+          "قرأت رسالتك."
+        ],
+        [
+          "die SMS",
+          "رسالة نصية",
+          "دي إس إم إس",
+          "Schick mir bitte eine SMS.",
+          "أرسل لي رسالة نصية من فضلك."
+        ],
+        [
+          "das Handy",
+          "هاتف محمول",
+          "داس هاندي",
+          "Mein Handy ist aus.",
+          "هاتفي مغلق."
+        ],
+        [
+          "die Nummer",
+          "رقم",
+          "دي نُمَر",
+          "Ich habe die Nummer nicht.",
+          "ليس لدي الرقم."
+        ],
+        [
+          "besetzt",
+          "مشغول",
+          "بِزِتْت",
+          "Die Leitung ist besetzt.",
+          "الخط مشغول."
+        ],
+        [
+          "melden",
+          "يبلغ",
+          "ميلدن",
+          "Ich melde mich heute Abend.",
+          "سأتواصل معك هذا المساء."
+        ],
+        [
+          "weiterleiten",
+          "يحوّل",
+          "فايتَرلايتن",
+          "Bitte leiten Sie den Anruf weiter.",
+          "من فضلك حوّل المكالمة."
+        ],
+        [
+          "zurückrufen",
+          "يعاود الاتصال",
+          "تسوروكروفِن",
+          "Ich rufe später zurück.",
+          "سأتصل مرة أخرى لاحقًا."
+        ],
+        [
+          "erreichen",
+          "يصل إلى/يتواصل مع",
+          "إرايشن",
+          "Ich kann ihn nicht erreichen.",
+          "لا أستطيع الوصول إليه."
+        ],
+        [
+          "senden",
+          "يرسل",
+          "زِندن",
+          "Ich sende dir die Adresse.",
+          "أرسل لك العنوان."
+        ],
+        [
+          "laden",
+          "يشحن",
+          "لادن",
+          "Mein Handy muss laden.",
+          "هاتفـي يجب أن يشحن."
+        ]
+      ]
+    },
+    {
+      "topic": "الأنشطة في وقت الفراغ",
+      "words": [
+        [
+          "spazieren gehen",
+          "يمشي للتنزه",
+          "شْپاتسيرِن غيهِن",
+          "Am Abend gehe ich spazieren.",
+          "في المساء أذهب للتنزه."
+        ],
+        [
+          "lesen",
+          "يقرأ",
+          "ليزِن",
+          "Ich lese ein Buch.",
+          "أنا أقرأ كتابًا."
+        ],
+        [
+          "fernsehen",
+          "يشاهد التلفاز",
+          "فِرنزين",
+          "Wir sehen heute fern.",
+          "نشاهد التلفاز اليوم."
+        ],
+        [
+          "spielen",
+          "يلعب",
+          "شپيلِن",
+          "Die Kinder spielen draußen.",
+          "الأطفال يلعبون في الخارج."
+        ],
+        [
+          "malen",
+          "يرسم",
+          "مالِن",
+          "Ich male gern.",
+          "أحب أن أرسم."
+        ],
+        [
+          "Musik hören",
+          "يستمع إلى الموسيقى",
+          "موزيك هوَرِن",
+          "Ich höre Musik im Bus.",
+          "أستمع إلى الموسيقى في الحافلة."
+        ],
+        [
+          "radfahren",
+          "يركب الدراجة",
+          "راتفايرِن",
+          "Im Park radfahren macht Spaß.",
+          "ركوب الدراجة في الحديقة ممتع."
+        ],
+        [
+          "schwimmen",
+          "يسبح",
+          "شْفيمين",
+          "Im Sommer schwimme ich oft.",
+          "في الصيف أسبح كثيرًا."
+        ],
+        [
+          "kochen",
+          "يطهو",
+          "كُوخِن",
+          "Ich koche gern zu Hause.",
+          "أحب الطبخ في البيت."
+        ],
+        [
+          "sich treffen",
+          "يلتقي",
+          "زيخ تْرِفِن",
+          "Wir treffen uns im Café.",
+          "نلتقي في المقهى."
+        ],
+        [
+          "entspannen",
+          "يسترخي",
+          "إنتشْپانِن",
+          "Ich will mich am Wochenende entspannen.",
+          "أريد أن أسترخي في عطلة الأسبوع."
+        ],
+        [
+          "das Hobby",
+          "هواية",
+          "داس هوبّي",
+          "Mein Hobby ist Musik.",
+          "هوايتي هي الموسيقى."
+        ]
+      ]
+    },
+    {
+      "topic": "الخدمات في المدينة",
+      "words": [
+        [
+          "das Amt",
+          "دائرة حكومية",
+          "داس أمت",
+          "Das Amt ist heute geschlossen.",
+          "الدائرة الحكومية مغلقة اليوم."
+        ],
+        [
+          "die Bibliothek",
+          "مكتبة",
+          "دي بليوتيك",
+          "Die Bibliothek hat viele Bücher.",
+          "المكتبة فيها كتب كثيرة."
+        ],
+        [
+          "das Krankenhaus",
+          "مستشفى",
+          "داس كرانكنهاوس",
+          "Das Krankenhaus ist nicht weit.",
+          "المستشفى ليس بعيدًا."
+        ],
+        [
+          "die Polizei",
+          "شرطة",
+          "دي بوليتساي",
+          "Die Polizei hilft bei Problemen.",
+          "الشرطة تساعد في المشاكل."
+        ],
+        [
+          "die Müllabfuhr",
+          "جمع القمامة",
+          "دي مولأبفوور",
+          "Die Müllabfuhr kommt am Morgen.",
+          "شاحنة القمامة تأتي صباحًا."
+        ],
+        [
+          "die Post",
+          "بريد",
+          "دي بوست",
+          "Ich gehe zur Post.",
+          "أنا أذهب إلى البريد."
+        ],
+        [
+          "die Bank",
+          "بنك",
+          "دي بنك",
+          "Die Bank ist neben dem Markt.",
+          "البنك بجانب السوق."
+        ],
+        [
+          "die Bushaltestelle",
+          "موقف الحافلة",
+          "دي بوسهالتِشْتِلِه",
+          "Die Bushaltestelle ist dort.",
+          "موقف الحافلة هناك."
+        ],
+        [
+          "der Fahrstuhl",
+          "مصعد",
+          "دير فاارشْتول",
+          "Der Fahrstuhl ist kaputt.",
+          "المصعد معطل."
+        ],
+        [
+          "die Straßenbahn",
+          "ترام",
+          "دي شتراسنبان",
+          "Die Straßenbahn fährt gleich ab.",
+          "الترام ينطلق بعد قليل."
+        ],
+        [
+          "das Rathaus",
+          "مبنى البلدية",
+          "داس راوتهآوس",
+          "Das Rathaus ist in der Innenstadt.",
+          "مبنى البلدية في وسط المدينة."
+        ],
+        [
+          "öffnen",
+          "يفتح",
+          "أوفنِن",
+          "Die Bibliothek öffnet um zehn.",
+          "المكتبة تفتح عند العاشرة."
+        ]
+      ]
+    },
+    {
+      "topic": "الدفع والمصروفات",
+      "words": [
+        [
+          "bezahlen",
+          "يدفع",
+          "بِتْسالِن",
+          "Ich bezahle bar.",
+          "أدفع نقدًا."
+        ],
+        [
+          "bar",
+          "نقدًا",
+          "بار",
+          "Ich habe nur bar bezahlt.",
+          "لقد دفعت نقدًا فقط."
+        ],
+        [
+          "der Preis",
+          "السعر",
+          "دير برايس",
+          "Der Preis ist heute niedrig.",
+          "السعر منخفض اليوم."
+        ],
+        [
+          "die Rechnung",
+          "فاتورة",
+          "دي رِخنونغ",
+          "Die Rechnung bitte.",
+          "الفاتورة من فضلك."
+        ],
+        [
+          "das Geld",
+          "مال",
+          "داس غِلد",
+          "Ich habe kein Geld dabei.",
+          "ليس معي مال."
+        ],
+        [
+          "die Münze",
+          "عملة معدنية",
+          "دي مونتسِه",
+          "Ich habe nur eine Münze.",
+          "عندي قطعة نقدية واحدة فقط."
+        ],
+        [
+          "sparen",
+          "يوفر",
+          "شپارن",
+          "Ich möchte Geld sparen.",
+          "أريد أن أوفر المال."
+        ],
+        [
+          "ausgeben",
+          "ينفق",
+          "آوسغيبِن",
+          "Ich will nicht zu viel ausgeben.",
+          "لا أريد أن أنفق كثيرًا."
+        ],
+        [
+          "wechseln",
+          "يبدل/يصرف",
+          "فِكْسِلن",
+          "Können Sie Geld wechseln?",
+          "هل يمكنكم صرف المال؟"
+        ],
+        [
+          "billig",
+          "رخيص",
+          "بِليخ",
+          "Der Markt ist billig.",
+          "السوق رخيص."
+        ],
+        [
+          "teurer",
+          "أغلى",
+          "تويرَر",
+          "Dieses Taxi ist teurer.",
+          "هذا التاكسي أغلى."
+        ],
+        [
+          "das Budget",
+          "الميزانية",
+          "داس بيوتشيه",
+          "Mein Budget ist klein.",
+          "ميزانيتي صغيرة."
+        ]
+      ]
+    },
+    {
+      "topic": "الطلبات والاقتراحات المهذبة",
+      "words": [
+        [
+          "könnten Sie",
+          "هل يمكنكم",
+          "كونتن زي",
+          "Könnten Sie mir helfen?",
+          "هل يمكنكم مساعدتي؟"
+        ],
+        [
+          "würden Sie bitte",
+          "هل من الممكن أن",
+          "فوردِن زي بِتّه",
+          "Würden Sie bitte langsam sprechen?",
+          "هل من الممكن أن تتكلم ببطء؟"
+        ],
+        [
+          "dürfte ich",
+          "هل يمكنني",
+          "دورفتِ إيش",
+          "Dürfte ich hereinkommen?",
+          "هل يمكنني الدخول؟"
+        ],
+        [
+          "bitte warten",
+          "الرجاء الانتظار",
+          "بِتّه فارتِن",
+          "Bitte warten Sie hier.",
+          "يرجى الانتظار هنا."
+        ],
+        [
+          "ein bisschen",
+          "قليلاً",
+          "آين بِشِن",
+          "Kannst du langsamer sprechen, ein bisschen?",
+          "هل يمكنك أن تتكلم أبطأ قليلًا؟"
+        ],
+        [
+          "vorschlagen",
+          "يقترح",
+          "فوُرشلاغِن",
+          "Ich schlage einen anderen Weg vor.",
+          "أقترح طريقًا آخر."
+        ],
+        [
+          "möchten",
+          "يرغب",
+          "موختِن",
+          "Möchten Sie noch etwas?",
+          "هل ترغبون في شيء آخر؟"
+        ],
+        [
+          "setzen",
+          "يجلس",
+          "زِتسِن",
+          "Bitte setzen Sie sich.",
+          "من فضلك اجلس."
+        ],
+        [
+          "bleiben",
+          "يبقى",
+          "بلايبِن",
+          "Bleiben Sie bitte kurz hier.",
+          "من فضلك ابقَ هنا قليلًا."
+        ],
+        [
+          "mitkommen",
+          "يأتي مع",
+          "ميتكوْمِن",
+          "Können Sie mitkommen?",
+          "هل يمكنكم أن تأتوا معنا؟"
+        ],
+        [
+          "helfen",
+          "يساعد",
+          "هِلْفِن",
+          "Kannst du mir bitte helfen?",
+          "هل يمكنك مساعدتي من فضلك؟"
+        ],
+        [
+          "nachsehen",
+          "يتحقق",
+          "ناخْزين",
+          "Könnten Sie bitte nachsehen?",
+          "هل يمكنكم التحقق من فضلكم؟"
+        ]
+      ]
+    }
+  ]
+}

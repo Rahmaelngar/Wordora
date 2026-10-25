@@ -1,0 +1,1344 @@
+{
+  "lessons": [
+    {
+      "topic": "شرح الأسباب والنتائج",
+      "words": [
+        [
+          "Ich bin zu Hause geblieben, weil ich krank war.",
+          "بقيت في البيت لأنني كنت مريضًا.",
+          "إيش بين تسو هاوزه غِبليبِن، فايل إيش كرانك فار.",
+          "Ich bin zu Hause geblieben, weil ich krank war.",
+          "بقيت في البيت لأنني كنت مريضًا."
+        ],
+        [
+          "Es hat geregnet, deshalb sind wir früher gegangen.",
+          "هطل المطر، لذلك غادرنا مبكرًا.",
+          "إس هات غِرِگنِت، ديسهالب زِند فير فروير غِغانغِن.",
+          "Es hat geregnet, deshalb sind wir früher gegangen.",
+          "هطل المطر، لذلك غادرنا مبكرًا."
+        ],
+        [
+          "Er hat viel geübt, dadurch wurde er sicherer.",
+          "لقد تدرب كثيرًا، وبذلك أصبح أكثر ثقة.",
+          "إر هات فيل غِأوبت، دعودوخ فورده إر زِشِرَر.",
+          "Er hat viel geübt, dadurch wurde er sicherer.",
+          "لقد تدرب كثيرًا، وبذلك أصبح أكثر ثقة."
+        ],
+        [
+          "Aus diesem Grund habe ich den Termin verschoben.",
+          "لهذا السبب أجلت الموعد.",
+          "آوس ديزم غروند هابِ إيش دين تِرمين فِرشوبن.",
+          "Aus diesem Grund habe ich den Termin verschoben.",
+          "لهذا السبب أجلت الموعد."
+        ],
+        [
+          "Wir kamen zu spät, weil der Zug verspätet war.",
+          "وصلنا متأخرين لأن القطار كان متأخرًا.",
+          "فير كامِن تسو شبات، فايل دير تسوغ فِرشبويتِت فار.",
+          "Wir kamen zu spät, weil der Zug verspätet war.",
+          "وصلنا متأخرين لأن القطار كان متأخرًا."
+        ],
+        [
+          "Wenn man zu wenig schläft, ist man am nächsten Tag müde.",
+          "إذا نام المرء قليلًا، يكون متعبًا في اليوم التالي.",
+          "فِن مان تسو فِنِگ شلَفت، إست مان أم ناخستن تاغ مودِه.",
+          "Wenn man zu wenig schläft, ist man am nächsten Tag müde.",
+          "إذا نام المرء قليلًا، يكون متعبًا في اليوم التالي."
+        ],
+        [
+          "Sie hat die Einladung vergessen, deswegen rief sie an.",
+          "لقد نسيت الدعوة، لذلك اتصلت.",
+          "زي هات دي أين لادونگ فِرگِسن، ديسفِغِن ريف زي آن.",
+          "Sie hat die Einladung vergessen, deswegen rief sie an.",
+          "لقد نسيت الدعوة، لذلك اتصلت."
+        ],
+        [
+          "Er hat nicht trainiert, folglich war er im Spiel langsamer.",
+          "لم يتدرب، وبالتالي كان أبطأ في المباراة.",
+          "إر هات نشت تْرَينِرت، فولglich فار إر إم شبيل لنگزامَر.",
+          "Er hat nicht trainiert, folglich war er im Spiel langsamer.",
+          "لم يتدرب، وبالتالي كان أبطأ في المباراة."
+        ],
+        [
+          "Aufgrund des Wetters blieb das Festival im Freien aus.",
+          "بسبب الطقس لم يُقم المهرجان في الخارج.",
+          "آوفغروند ديس فِتِرس بليب داس فيستيڤال إم فْراين آوس.",
+          "Aufgrund des Wetters blieb das Festival im Freien aus.",
+          "بسبب الطقس لم يُقم المهرجان في الخارج."
+        ],
+        [
+          "Je mehr man liest, desto mehr versteht man den Text.",
+          "كلما قرأ المرء أكثر فهم النص أكثر.",
+          "يه مير مان ليست، دِستو مير فِرشتِت مان دين تِكست.",
+          "Je mehr man liest, desto mehr versteht man den Text.",
+          "كلما قرأ المرء أكثر فهم النص أكثر."
+        ],
+        [
+          "Sie sprach langsam, so dass alle sie verstehen konnten.",
+          "تحدثت ببطء بحيث تمكن الجميع من فهمها.",
+          "زي شبراخ لانگزام، زو داس ألا زي فِرشتِهن كونتن.",
+          "Sie sprach langsam, so dass alle sie verstehen konnten.",
+          "تحدثت ببطء بحيث تمكن الجميع من فهمها."
+        ],
+        [
+          "Ich war müde, darum ging ich früh ins Bett.",
+          "كنت متعبًا، لذلك ذهبت إلى السرير مبكرًا.",
+          "إيش فار مودِه، داروم غينغ إيش فروي إيم بْت.",
+          "Ich war müde, darum ging ich früh ins Bett.",
+          "كنت متعبًا، لذلك ذهبت إلى السرير مبكرًا."
+        ],
+        [
+          "Die Straße war gesperrt, infolgedessen mussten wir umkehren.",
+          "كان الطريق مغلقًا، وبناءً على ذلك اضطررنا إلى العودة.",
+          "دي شتراسه فار گِشبريت، إينفولگِدِسن موستن فير أمكيفرن.",
+          "Die Straße war gesperrt, infolgedessen mussten wir umkehren.",
+          "كان الطريق مغلقًا، وبناءً على ذلك اضطررنا إلى العودة."
+        ],
+        [
+          "Er hat viel gelesen, daher kennt er das Thema gut.",
+          "لقد قرأ كثيرًا، لذلك يعرف الموضوع جيدًا.",
+          "إر هات فيل غِليزن، داهر كينت إر داس تيما گوت.",
+          "Er hat viel gelesen, daher kennt er das Thema gut.",
+          "لقد قرأ كثيرًا، لذلك يعرف الموضوع جيدًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الشرط والاحتمالات",
+      "words": [
+        [
+          "Wenn ich Zeit hätte, würde ich dich besuchen.",
+          "لو كان لدي وقت، لزُرتك.",
+          "فِن إيش تسايت هِتِه، فوردِه إيش ديخ بيزوخِن.",
+          "Wenn ich Zeit hätte, würde ich dich besuchen.",
+          "لو كان لدي وقت، لزُرتك."
+        ],
+        [
+          "Falls es regnet, bleiben wir drinnen.",
+          "إذا أمطرت، سنبقى في الداخل.",
+          "فالِس إس رِگنت، بليبِن فير درينِن.",
+          "Falls es regnet, bleiben wir drinnen.",
+          "إذا أمطرت، سنبقى في الداخل."
+        ],
+        [
+          "Vielleicht komme ich später vorbei.",
+          "ربما أمرُّ لاحقًا.",
+          "فِليهخت كومي إيش شبَتَر فورباي.",
+          "Vielleicht komme ich später vorbei.",
+          "ربما أمرُّ لاحقًا."
+        ],
+        [
+          "Möglicherweise hat er den Zug verpasst.",
+          "من المحتمل أنه فاته القطار.",
+          "مُغلِشرڤايسِه هات إر دين تسوغ فِرفاست.",
+          "Möglicherweise hat er den Zug verpasst.",
+          "من المحتمل أنه فاته القطار."
+        ],
+        [
+          "Ich helfe dir, unter der Bedingung, dass du pünktlich bist.",
+          "سأساعدك بشرط أن تكون دقيقًا في الموعد.",
+          "إيش هِلفِه دير، أونتر ديه بيدينگونگ، داس دو بونكتليش بِيست.",
+          "Ich helfe dir, unter der Bedingung, dass du pünktlich bist.",
+          "سأساعدك بشرط أن تكون دقيقًا في الموعد."
+        ],
+        [
+          "Es könnte sein, dass die Sitzung länger dauert.",
+          "قد يكون أن الاجتماع سيستغرق وقتًا أطول.",
+          "إس كۆنتِه زاین، داس دي زِتسونگ لِنكر دَورت.",
+          "Es könnte sein, dass die Sitzung länger dauert.",
+          "قد يكون أن الاجتماع سيستغرق وقتًا أطول."
+        ],
+        [
+          "Im Fall dass etwas passiert, ruf mich sofort an.",
+          "في حال حدث شيء، اتصل بي فورًا.",
+          "إم فال داس إتواس پَسيِرت، رُوف ميخ زوفورت آن.",
+          "Im Fall dass etwas passiert, ruf mich sofort an.",
+          "في حال حدث شيء، اتصل بي فورًا."
+        ],
+        [
+          "Wahrscheinlich treffen wir uns erst morgen.",
+          "على الأرجح سنلتقي غدًا فقط.",
+          "ڤارشاينليش تريفِن فير أونز إرشت مورغن.",
+          "Wahrscheinlich treffen wir uns erst morgen.",
+          "على الأرجح سنلتقي غدًا فقط."
+        ],
+        [
+          "Sofern du willst, begleite ich dich nach Hause.",
+          "بشرط أن تريد، سأرافقك إلى البيت.",
+          "زوفرن دو ڤيلست، بغلايتِه إيش ديخ ناخ هاوزه.",
+          "Sofern du willst, begleite ich dich nach Hause.",
+          "بشرط أن تريد، سأرافقك إلى البيت."
+        ],
+        [
+          "Du musst dich beeilen, ansonsten verpasst du den Anfang.",
+          "عليك أن تسرع، وإلا ستفوتك البداية.",
+          "دو موست ديخ بِيهين، آنستونسن فِرپاست دو دين آنفانگ.",
+          "Du musst dich beeilen, ansonsten verpasst du den Anfang.",
+          "عليك أن تسرع، وإلا ستفوتك البداية."
+        ],
+        [
+          "Es wäre besser, wenn wir heute früher anfangen.",
+          "سيكون من الأفضل لو بدأنا اليوم أبكر.",
+          "إس ڤاره بيسر، فِن فير هويته فروير آنفانگِن.",
+          "Es wäre besser, wenn wir heute früher anfangen.",
+          "سيكون من الأفضل لو بدأنا اليوم أبكر."
+        ],
+        [
+          "Notfalls nehmen wir ein Taxi.",
+          "عند الضرورة سنأخذ سيارة أجرة.",
+          "نوتفالِس نِمن فير آين تاكسي.",
+          "Notfalls nehmen wir ein Taxi.",
+          "عند الضرورة سنأخذ سيارة أجرة."
+        ],
+        [
+          "Ich komme eventuell etwas später.",
+          "قد آتي متأخرًا قليلًا.",
+          "إيش كومي إفِنتويل إتواس شباتَر.",
+          "Ich komme eventuell etwas später.",
+          "قد آتي متأخرًا قليلًا."
+        ],
+        [
+          "Es ist unwahrscheinlich, dass der Zug noch pünktlich ist.",
+          "من غير المحتمل أن يكون القطار ما يزال في الموعد.",
+          "إس إِست أونڤارشاينليش، داس دير تسوغ نُخ بونكتليش إِست.",
+          "Es ist unwahrscheinlich, dass der Zug noch pünktlich ist.",
+          "من غير المحتمل أن يكون القطار ما يزال في الموعد."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة والتباين",
+      "words": [
+        [
+          "Im Vergleich zu früher arbeite ich schneller.",
+          "بالمقارنة مع السابق أعمل أسرع.",
+          "إم فِرغلايش تسو فروير آربايتِه إيش شنِلَر.",
+          "Im Vergleich zu früher arbeite ich schneller.",
+          "بالمقارنة مع السابق أعمل أسرع."
+        ],
+        [
+          "Sie ist genauso zuverlässig wie ihre Kollegin.",
+          "هي موثوقة بنفس قدر زميلتها.",
+          "زي إِست گينتسوو ڤِرلائڤدليش ڤي آيرِه كولِگِن.",
+          "Sie ist genauso zuverlässig wie ihre Kollegin.",
+          "هي موثوقة بنفس قدر زميلتها."
+        ],
+        [
+          "Anders als sein Bruder liest er gern.",
+          "على عكس أخيه، يحب القراءة.",
+          "آندرِس آلس زَين برودر ليست إر غيرن.",
+          "Anders als sein Bruder liest er gern.",
+          "على عكس أخيه، يحب القراءة."
+        ],
+        [
+          "Ich koche, während die Kinder Hausaufgaben machen.",
+          "أنا أطبخ بينما يقوم الأطفال بالواجبات.",
+          "إيش كوخِه، ڤارند دي كيندر هاوسآوفگابن ماخِن.",
+          "Ich koche, während die Kinder Hausaufgaben machen.",
+          "أنا أطبخ بينما يقوم الأطفال بالواجبات."
+        ],
+        [
+          "Dein Plan ist meinem sehr ähnlich.",
+          "خطتك مشابهة جدًا لخطتي.",
+          "دين بلان إِست ماينِم زاير آهِنليش.",
+          "Dein Plan ist meinem sehr ähnlich.",
+          "خطتك مشابهة جدًا لخطتي."
+        ],
+        [
+          "Dieses Modell ist besser als das alte.",
+          "هذا الطراز أفضل من القديم.",
+          "ديسِس مودِل إِست بيسر آلس داس آلتِه.",
+          "Dieses Modell ist besser als das alte.",
+          "هذا الطراز أفضل من القديم."
+        ],
+        [
+          "Heute fühle ich mich schlechter als gestern.",
+          "أشعر اليوم أسوأ من أمس.",
+          "هويتِه فيله إيش ميخ شلِشر آلس گِسْتِرن.",
+          "Heute fühle ich mich schlechter als gestern.",
+          "أشعر اليوم أسوأ من أمس."
+        ],
+        [
+          "Sowohl der Preis als auch die Qualität sind wichtig.",
+          "كل من السعر والجودة مهمان.",
+          "زوڤول دِر برايس آلس أوخ دي كڤاليتات زِند ڤِشتِش.",
+          "Sowohl der Preis als auch die Qualität sind wichtig.",
+          "كل من السعر والجودة مهمان."
+        ],
+        [
+          "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+          "هو لا يتحدث الألمانية فقط بل الإنجليزية أيضًا.",
+          "إر شبريشت نشت نور دويتش، زوندرن أوخ إنگليش.",
+          "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+          "هو لا يتحدث الألمانية فقط بل الإنجليزية أيضًا."
+        ],
+        [
+          "Je früher wir anfangen, desto früher sind wir fertig.",
+          "كلما بدأنا أبكر، انتهينا أبكر.",
+          "يه فروير فير آنڤانگِن، دِستو فروير زِند فير فِرتِش.",
+          "Je früher wir anfangen, desto früher sind wir fertig.",
+          "كلما بدأنا أبكر، انتهينا أبكر."
+        ],
+        [
+          "Meine Wohnung ist größer als deine.",
+          "شقتي أكبر من شقتك.",
+          "ماينه ڤونونگ إِست غرؤسر آلس داينه.",
+          "Meine Wohnung ist größer als deine.",
+          "شقتي أكبر من شقتك."
+        ],
+        [
+          "Der Tisch ist kleiner als ich dachte.",
+          "الطاولة أصغر مما كنت أظن.",
+          "دير تيش إِست كلينا آلس إيش تَختِه.",
+          "Der Tisch ist kleiner als ich dachte.",
+          "الطاولة أصغر مما كنت أظن."
+        ],
+        [
+          "Der Unterschied zwischen den beiden Plänen ist deutlich.",
+          "الفرق بين الخطتين واضح.",
+          "دِر أونترشيد تسڤيشِن دين بايدِن بلانِن إِست ديشتليخ.",
+          "Der Unterschied zwischen den beiden Plänen ist deutlich.",
+          "الفرق بين الخطتين واضح."
+        ],
+        [
+          "Im Gegensatz zu ihm mag ich laute Musik nicht.",
+          "على النقيض منه، أنا لا أحب الموسيقى الصاخبة.",
+          "إم گِگنتساست تسو إيم ماخ إيش لاؤتِه موزيك نشت.",
+          "Im Gegensatz zu ihm mag ich laute Musik nicht.",
+          "على النقيض منه، أنا لا أحب الموسيقى الصاخبة."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب الشخصية",
+      "words": [
+        [
+          "Ich habe erlebt, dass Geduld oft hilft.",
+          "لقد عشت أن الصبر يفيد غالبًا.",
+          "إيش هابه إِرلِبت، داس گِدوْلت أوفت هِلفت.",
+          "Ich habe erlebt, dass Geduld oft hilft.",
+          "لقد عشت أن الصبر يفيد غالبًا."
+        ],
+        [
+          "Ich bin zum ersten Mal allein geflogen.",
+          "سافرت وحدي لأول مرة.",
+          "إيش بين تسوم إرستن مال ألاين غِفلوغِن.",
+          "Ich bin zum ersten Mal allein geflogen.",
+          "سافرت وحدي لأول مرة."
+        ],
+        [
+          "Früher habe ich in einer kleinen Stadt gewohnt.",
+          "كنت أعيش سابقًا في مدينة صغيرة.",
+          "فروير هابِ إيش إن آينر كلاینِن شتات غِڤونت.",
+          "Früher habe ich in einer kleinen Stadt gewohnt.",
+          "كنت أعيش سابقًا في مدينة صغيرة."
+        ],
+        [
+          "Als ich jünger war, spielte ich jeden Tag Fußball.",
+          "عندما كنت أصغر سنًا، كنت ألعب كرة القدم كل يوم.",
+          "آلس إيش يونگر فار، شبلتِه إيش ييدِن تاغ فوسبال.",
+          "Als ich jünger war, spielte ich jeden Tag Fußball.",
+          "عندما كنت أصغر سنًا، كنت ألعب كرة القدم كل يوم."
+        ],
+        [
+          "Ich erinnere mich daran, dass es damals sehr kalt war.",
+          "أتذكر أن الجو كان باردًا جدًا آنذاك.",
+          "إيش إرِنِرِه ميخ دارآن، داس إس دامالس زير كالت فار.",
+          "Ich erinnere mich daran, dass es damals sehr kalt war.",
+          "أتذكر أن الجو كان باردًا جدًا آنذاك."
+        ],
+        [
+          "Ich habe zum ersten Mal selbst gekocht.",
+          "طبختُ بنفسي لأول مرة.",
+          "إيش هابِه تسوم إرستن مال زلبست گِكوخت.",
+          "Ich habe zum ersten Mal selbst gekocht.",
+          "طبختُ بنفسي لأول مرة."
+        ],
+        [
+          "Damals hatte ich noch kein eigenes Zimmer.",
+          "آنذاك لم يكن لدي غرفة خاصة بي.",
+          "دامالس هاتِه إيش نُخ كاين آيگِنِس تسِمَر.",
+          "Damals hatte ich noch kein eigenes Zimmer.",
+          "آنذاك لم يكن لدي غرفة خاصة بي."
+        ],
+        [
+          "Vor ein paar Jahren bin ich nach Berlin gezogen.",
+          "قبل بضع سنوات انتقلت إلى برلين.",
+          "فور آين باار يارن بين إيش ناخ برلين گِتسوجِن.",
+          "Vor ein paar Jahren bin ich nach Berlin gezogen.",
+          "قبل بضع سنوات انتقلت إلى برلين."
+        ],
+        [
+          "Ich war überrascht, als ich die Nachricht gelesen habe.",
+          "فوجئت عندما قرأت الخبر.",
+          "إيش فار أوسغِراختِت، آلس إيش دي ناخريخت گِليزن هابِه.",
+          "Ich war überrascht, als ich die Nachricht gelesen habe.",
+          "فوجئت عندما قرأت الخبر."
+        ],
+        [
+          "Ich hatte Angst, dass ich den Weg nicht finde.",
+          "كنت أخشى ألا أجد الطريق.",
+          "إيش هاتِه آنغست، داس إيش دين فيگ نشت فِينده.",
+          "Ich hatte Angst, dass ich den Weg nicht finde.",
+          "كنت أخشى ألا أجد الطريق."
+        ],
+        [
+          "Später merkte ich, dass ich einen Fehler gemacht hatte.",
+          "لاحقًا أدركت أنني ارتكبت خطأ.",
+          "شبَتَر مِركتِه إيش، داس إيش آينِن فورشهِر گِماخت هاتِه.",
+          "Später merkte ich, dass ich einen Fehler gemacht hatte.",
+          "لاحقًا أدركت أنني ارتكبت خطأ."
+        ],
+        [
+          "Es hat mir gefallen, dass alle so freundlich waren.",
+          "أعجبني أن الجميع كانوا ودودين جدًا.",
+          "إس هات مير گِڤالِن، داس أَله زو فروينتليش فارِن.",
+          "Es hat mir gefallen, dass alle so freundlich waren.",
+          "أعجبني أن الجميع كانوا ودودين جدًا."
+        ],
+        [
+          "Ich habe daran gedacht, dass heute ein Termin ist.",
+          "تذكرت أن هناك موعدًا اليوم.",
+          "إيش هابِه دارآن گِدَخت، داس هويتِه آين تِرمين إِست.",
+          "Ich habe daran gedacht, dass heute ein Termin ist.",
+          "تذكرت أن هناك موعدًا اليوم."
+        ],
+        [
+          "Dabei habe ich viel gelernt.",
+          "أثناء ذلك تعلمت الكثير.",
+          "دَباي هابِه إيش فيل گِلِرت.",
+          "Dabei habe ich viel gelernt.",
+          "أثناء ذلك تعلمت الكثير."
+        ]
+      ]
+    },
+    {
+      "topic": "اختيار طريقة التعلم",
+      "words": [
+        [
+          "Ich lerne besser, wenn ich Beispiele schreibe.",
+          "أتعلم بشكل أفضل عندما أكتب أمثلة.",
+          "إيش ليرِن بيسر، فِن إيش بَيْشْبِيله شرايبه.",
+          "Ich lerne besser, wenn ich Beispiele schreibe.",
+          "أتعلم بشكل أفضل عندما أكتب أمثلة."
+        ],
+        [
+          "Manchmal muss ich Wörter auswendig lernen.",
+          "أحيانًا يجب عليَّ حفظ الكلمات عن ظهر قلب.",
+          "مانخمال موست إيش ڤيرتَر آوسڤِنتِش ليرِن.",
+          "Manchmal muss ich Wörter auswendig lernen.",
+          "أحيانًا يجب عليَّ حفظ الكلمات عن ظهر قلب."
+        ],
+        [
+          "Ich möchte selbstständig lernen, damit ich schneller vorankomme.",
+          "أريد أن أتعلم بشكل مستقل كي أتقدم أسرع.",
+          "إيش موختِه زلبستشتِندِش ليرِن، دَميت إيش شنِلَر فورانكومِه.",
+          "Ich möchte selbstständig lernen, damit ich schneller vorankomme.",
+          "أريد أن أتعلم بشكل مستقل كي أتقدم أسرع."
+        ],
+        [
+          "Ich lese den Text lieber in Ruhe.",
+          "أفضل قراءة النص بهدوء.",
+          "إيش ليزِه دين تِكست ليبر إن روهه.",
+          "Ich lese den Text lieber in Ruhe.",
+          "أفضل قراءة النص بهدوء."
+        ],
+        [
+          "Mit Beispielen verstehe ich die Grammatik besser.",
+          "مع الأمثلة أفهم القواعد بشكل أفضل.",
+          "ميت بايشفيلن فِرشتِهِه إيش دي غراماتيك بيسر.",
+          "Mit Beispielen verstehe ich die Grammatik besser.",
+          "مع الأمثلة أفهم القواعد بشكل أفضل."
+        ],
+        [
+          "Wiederholung hilft mir, neue Wörter nicht zu vergessen.",
+          "المراجعة تساعدني على ألا أنسى الكلمات الجديدة.",
+          "ڤيدِرخولونگ هِلفت مير، نويِه ڤيرتَر نشت تسو فِرغِسن.",
+          "Wiederholung hilft mir, neue Wörter nicht zu vergessen.",
+          "المراجعة تساعدني على ألا أنسى الكلمات الجديدة."
+        ],
+        [
+          "Ich suche eine Lernmethode, die zu mir passt.",
+          "أبحث عن طريقة تعلم تناسبني.",
+          "إيش زوخِه آينِه ليرنميتوده، دي تسو مير باست.",
+          "Ich suche eine Lernmethode, die zu mir passt.",
+          "أبحث عن طريقة تعلم تناسبني."
+        ],
+        [
+          "Wenn ich laut lese, merke ich mir den Text besser.",
+          "عندما أقرأ بصوت عال أتذكر النص أفضل.",
+          "فِن إيش لاوت ليزِه، مركِه إيش مير دين تِكست بيسر.",
+          "Wenn ich laut lese, merke ich mir den Text besser.",
+          "عندما أقرأ بصوت عال أتذكر النص أفضل."
+        ],
+        [
+          "Ich mache beim Lernen Notizen.",
+          "أدوّن ملاحظات أثناء التعلم.",
+          "إيش ماخِه باي ليرنِن نوتيتسن.",
+          "Ich mache beim Lernen Notizen.",
+          "أدوّن ملاحظات أثناء التعلم."
+        ],
+        [
+          "Ich muss regelmäßig üben, sonst vergesse ich alles schnell.",
+          "يجب أن أتدرب بانتظام، وإلا أنسى كل شيء بسرعة.",
+          "إيش موست ڤِرگرِكلِش أوبِن، زونست فِرغِسه إيش آلس شنِل.",
+          "Ich muss regelmäßig üben, sonst vergesse ich alles schnell.",
+          "يجب أن أتدرب بانتظام، وإلا أنسى كل شيء بسرعة."
+        ],
+        [
+          "Wir lernen gemeinsam und erklären uns die Wörter.",
+          "نتعلم معًا ونشرح الكلمات لبعضنا.",
+          "فير ليرنِن گِماينزام أوند إركليرِن أونز دي ڤيرتَر.",
+          "Wir lernen gemeinsam und erklären uns die Wörter.",
+          "نتعلم معًا ونشرح الكلمات لبعضنا."
+        ],
+        [
+          "Mein Lernziel ist, flüssiger zu sprechen.",
+          "هدفي في التعلم هو أن أتحدث بطلاقة أكبر.",
+          "ماين ليرنتسيل إِست، فلوسِكر تسو شبريخِن.",
+          "Mein Lernziel ist, flüssiger zu sprechen.",
+          "هدفي في التعلم هو أن أتحدث بطلاقة أكبر."
+        ],
+        [
+          "Ich kann mich besser konzentrieren, wenn es ruhig ist.",
+          "أستطيع التركيز بشكل أفضل عندما يكون المكان هادئًا.",
+          "إيش كان ميخ بيسر كونتسنتريرِن، فِن إس روهِگ إِست.",
+          "Ich kann mich besser konzentrieren, wenn es ruhig ist.",
+          "أستطيع التركيز بشكل أفضل عندما يكون المكان هادئًا."
+        ],
+        [
+          "Mein Fortschritt ist langsam, aber deutlich.",
+          "تقدمي بطيء، لكنه واضح.",
+          "ماين فورشريت إِست لانگزام، آبر ديشتليخ.",
+          "Mein Fortschritt ist langsam, aber deutlich.",
+          "تقدمي بطيء، لكنه واضح."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ قرارات العمل",
+      "words": [
+        [
+          "Ich habe mich entschieden, den Job anzunehmen.",
+          "لقد قررت أن أقبل الوظيفة.",
+          "إيش هابِه ميخ إنتشيدِن، دين جوب آنتسونيمِن.",
+          "Ich habe mich entschieden, den Job anzunehmen.",
+          "لقد قررت أن أقبل الوظيفة."
+        ],
+        [
+          "Die Stelle passt gut zu meinen Fähigkeiten.",
+          "الوظيفة تناسب قدراتي جيدًا.",
+          "دي شتيلِه باست گوت تسو ماينِن فِرماگِن.",
+          "Die Stelle passt gut zu meinen Fähigkeiten.",
+          "الوظيفة تناسب قدراتي جيدًا."
+        ],
+        [
+          "Das Gehalt ist wichtig, aber nicht alles.",
+          "الراتب مهم، لكنه ليس كل شيء.",
+          "داس غِهالت إِست ڤِشتِش، آبر نشت آلس.",
+          "Das Gehalt ist wichtig, aber nicht alles.",
+          "الراتب مهم، لكنه ليس كل شيء."
+        ],
+        [
+          "Beruflich möchte ich mich weiterentwickeln.",
+          "مهنيًا أريد أن أتطور.",
+          "بِروفليش موختِه إيش ميخ ڤايتَرِنتڤيكِلِن.",
+          "Beruflich möchte ich mich weiterentwickeln.",
+          "مهنيًا أريد أن أتطور."
+        ],
+        [
+          "Für diese Arbeit brauche ich mehr Erfahrung.",
+          "لهذا العمل أحتاج إلى خبرة أكبر.",
+          "فور ديزه آربايت براوخِه إيش مير إرفارونگ.",
+          "Für diese Arbeit brauche ich mehr Erfahrung.",
+          "لهذا العمل أحتاج إلى خبرة أكبر."
+        ],
+        [
+          "Der Arbeitsalltag ist dort sehr stressig.",
+          "روتين العمل هناك مرهق جدًا.",
+          "دِر آربايتسآلتاغ إِست دورت زير شتريسِگ.",
+          "Der Arbeitsalltag ist dort sehr stressig.",
+          "روتين العمل هناك مرهق جدًا."
+        ],
+        [
+          "Ich muss heute eine Bewerbung schreiben.",
+          "يجب أن أكتب اليوم طلب توظيف.",
+          "إيش موست هويتِه آينِه بيفيربونگ شرايبه.",
+          "Ich muss heute eine Bewerbung schreiben.",
+          "يجب أن أكتب اليوم طلب توظيف."
+        ],
+        [
+          "Morgen gehe ich zum Vorstellungsgespräch.",
+          "غدًا أذهب إلى مقابلة العمل.",
+          "مورغن غِهِه إيش تسوم فورشتِلونگسگِشبريخ.",
+          "Morgen gehe ich zum Vorstellungsgespräch.",
+          "غدًا أذهب إلى مقابلة العمل."
+        ],
+        [
+          "Ich suche eine flexible Arbeitszeit.",
+          "أبحث عن وقت عمل مرن.",
+          "إيش زوخِه آينِه فليكسِبِلِه آربايتستايت.",
+          "Ich suche eine flexible Arbeitszeit.",
+          "أبحث عن وقت عمل مرن."
+        ],
+        [
+          "In diesem Team bin ich für die Planung verantwortlich.",
+          "في هذا الفريق أنا مسؤول عن التخطيط.",
+          "إن ديسِم تيم بين إيش فور دي بلانونگ فِرآنتڤورتليش.",
+          "In diesem Team bin ich für die Planung verantwortlich.",
+          "في هذا الفريق أنا مسؤول عن التخطيط."
+        ],
+        [
+          "Wenn mir die Arbeit nicht mehr gefällt, werde ich kündigen.",
+          "إذا لم تعد الوظيفة تعجبني، سأستقيل.",
+          "فِن مير دي آربايت نشت مير گِفالت، ڤِردِه إيش كوندِگِن.",
+          "Wenn mir die Arbeit nicht mehr gefällt, werde ich kündigen.",
+          "إذا لم تعد الوظيفة تعجبني، سأستقيل."
+        ],
+        [
+          "Diese Woche muss ich Überstunden machen.",
+          "هذا الأسبوع يجب أن أعمل ساعات إضافية.",
+          "ديزه ڤوشِه موست إيش أوبِرشْتوندِن ماخِن.",
+          "Diese Woche muss ich Überstunden machen.",
+          "هذا الأسبوع يجب أن أعمل ساعات إضافية."
+        ],
+        [
+          "Ich denke langfristig an meine Karriere.",
+          "أفكر على المدى الطويل في مساري المهني.",
+          "إيش دنكِه لانگفْرِستِش آن ماينه كاريرِه.",
+          "Ich denke langfristig an meine Karriere.",
+          "أفكر على المدى الطويل في مساري المهني."
+        ],
+        [
+          "Eine gute Zusammenarbeit ist im Büro sehr wichtig.",
+          "التعاون الجيد مهم جدًا في المكتب.",
+          "آينِه گوتِه تزامِنآربايت إِست إم بيورو زير ڤِشتِش.",
+          "Eine gute Zusammenarbeit ist im Büro sehr wichtig.",
+          "التعاون الجيد مهم جدًا في المكتب."
+        ]
+      ]
+    },
+    {
+      "topic": "الثقافة والمجتمع",
+      "words": [
+        [
+          "In unserer Stadt ist die Tradition sehr lebendig.",
+          "في مدينتنا التقاليد حية جدًا.",
+          "إن أونزِرِه شتات إِست دي تراديتسون زير لِبِندِگ.",
+          "In unserer Stadt ist die Tradition sehr lebendig.",
+          "في مدينتنا التقاليد حية جدًا."
+        ],
+        [
+          "Das Brauchtum wird dort von vielen Menschen gepflegt.",
+          "العادات الشعبية تُحافظ عليها هناك كثير من الناس.",
+          "داس براوختوم ڤيرد دورت فون فِيليِن منتشن گِپفلِگت.",
+          "Das Brauchtum wird dort von vielen Menschen gepflegt.",
+          "العادات الشعبية تُحافظ عليها هناك كثير من الناس."
+        ],
+        [
+          "An Feiertagen besuchen wir oft die Familie.",
+          "في الأعياد نزور العائلة كثيرًا.",
+          "آن فولتاگِن بيزوخِن فير أوفت دي فامِليِه.",
+          "An Feiertagen besuchen wir oft die Familie.",
+          "في الأعياد نزور العائلة كثيرًا."
+        ],
+        [
+          "In unserer Nachbarschaft kennen sich viele Leute.",
+          "في حيّنا يعرف كثير من الناس بعضهم.",
+          "إن أونزِرِه ناخبارشافت كينِن زِخ فِيليِه لويته.",
+          "In unserer Nachbarschaft kennen sich viele Leute.",
+          "في حيّنا يعرف كثير من الناس بعضهم."
+        ],
+        [
+          "Mein Freund macht ein Ehrenamt im Jugendzentrum.",
+          "صديقي يقوم بعمل تطوعي في مركز الشباب.",
+          "ماين فروينت ماخت آين إرنامت إم يوجِنتسنتروم.",
+          "Mein Freund macht ein Ehrenamt im Jugendzentrum.",
+          "صديقي يقوم بعمل تطوعي في مركز الشباب."
+        ],
+        [
+          "Die Vielfalt macht unsere Gesellschaft interessant.",
+          "التنوع يجعل مجتمعنا مثيرًا للاهتمام.",
+          "دي ڤيلفالت ماخت أونزِرِه گِزِلشافت إنتِرسانت.",
+          "Die Vielfalt macht unsere Gesellschaft interessant.",
+          "التنوع يجعل مجتمعنا مثيرًا للاهتمام."
+        ],
+        [
+          "Wir sollten einander respektvoll behandeln.",
+          "يجب أن نعامل بعضنا باحترام.",
+          "فير زولتن آيناندر رِسبِكتفول بِيهاנדلن.",
+          "Wir sollten einander respektvoll behandeln.",
+          "يجب أن نعامل بعضنا باحترام."
+        ],
+        [
+          "Jede Meinung sollte ernst genommen werden.",
+          "يجب أخذ كل رأي على محمل الجد.",
+          "ييده مينونگ زولتِه إرِست گِنومِن ڤِردِن.",
+          "Jede Meinung sollte ernst genommen werden.",
+          "يجب أخذ كل رأي على محمل الجد."
+        ],
+        [
+          "Das Zusammenleben in der Stadt erfordert Rücksicht.",
+          "التعايش في المدينة يتطلب مراعاة الآخرين.",
+          "داس تزامِنليبِن إن دِر شتات إرفورتِهت روكزشْت.",
+          "Das Zusammenleben in der Stadt erfordert Rücksicht.",
+          "التعايش في المدينة يتطلب مراعاة الآخرين."
+        ],
+        [
+          "Die Gesellschaft verändert sich ständig.",
+          "المجتمع يتغير باستمرار.",
+          "دي گِزِلشافت فِرندرْت زِخ شتِندِش.",
+          "Die Gesellschaft verändert sich ständig.",
+          "المجتمع يتغير باستمرار."
+        ],
+        [
+          "Viele Menschen nehmen an dem Fest teil.",
+          "يشارك كثير من الناس في الاحتفال.",
+          "فِيلي منتشن نِمن آن ديم فِست تيل.",
+          "Viele Menschen nehmen an dem Fest teil.",
+          "يشارك كثير من الناس في الاحتفال."
+        ],
+        [
+          "Respekt ist für ein gutes Miteinander wichtig.",
+          "الاحترام مهم لعيشٍ مشترك جيد.",
+          "رِسبِكت إِست فور آين گوتِس ميتاناندر ڤِشتِش.",
+          "Respekt ist für ein gutes Miteinander wichtig.",
+          "الاحترام مهم لعيشٍ مشترك جيد."
+        ],
+        [
+          "Es ist eine gute Gewohnheit, pünktlich zu sein.",
+          "من العادات الجيدة أن تكون دقيقًا في الموعد.",
+          "إس إِست آينه گوتِه گِڤونهايت، بونكتليش تسو زاین.",
+          "Es ist eine gute Gewohnheit, pünktlich zu sein.",
+          "من العادات الجيدة أن تكون دقيقًا في الموعد."
+        ],
+        [
+          "Wir feiern den Erfolg zusammen.",
+          "نحتفل بالنجاح معًا.",
+          "فير فاييرن دين إرفولگ تزامِن.",
+          "Wir feiern den Erfolg zusammen.",
+          "نحتفل بالنجاح معًا."
+        ]
+      ]
+    },
+    {
+      "topic": "التكنولوجيا في حياتنا",
+      "words": [
+        [
+          "Ich habe mein Smartphone den ganzen Tag dabei.",
+          "أحمل هاتفي الذكي معي طوال اليوم.",
+          "إيش هابِه ماين سمارتفون دين غانسن تاغ داباي.",
+          "Ich habe mein Smartphone den ganzen Tag dabei.",
+          "أحمل هاتفي الذكي معي طوال اليوم."
+        ],
+        [
+          "Diese App hilft mir beim Lernen.",
+          "هذا التطبيق يساعدني في التعلم.",
+          "ديزه آب هِلفت مير بايم ليرنِن.",
+          "Diese App hilft mir beim Lernen.",
+          "هذا التطبيق يساعدني في التعلم."
+        ],
+        [
+          "Abends bin ich oft online.",
+          "في المساء أكون غالبًا متصلًا بالإنترنت.",
+          "آبِندس بين إيش أوفت أونلاين.",
+          "Abends bin ich oft online.",
+          "في المساء أكون غالبًا متصلًا بالإنترنت."
+        ],
+        [
+          "Ich habe die Datei gestern heruntergeladen.",
+          "حمّلت الملف أمس.",
+          "إيش هابِه دي دايتي گِسترن هِرونترلادِن.",
+          "Ich habe die Datei gestern heruntergeladen.",
+          "حمّلت الملف أمس."
+        ],
+        [
+          "Mein Passwort ist zu kurz.",
+          "كلمة مروري قصيرة جدًا.",
+          "ماين پاسڤورت إِست تسو كورتس.",
+          "Mein Passwort ist zu kurz.",
+          "كلمة مروري قصيرة جدًا."
+        ],
+        [
+          "Die Daten wurden automatisch gespeichert.",
+          "تم حفظ البيانات تلقائيًا.",
+          "دي داتِن فوردِن آوتوماتيش گِسپايتِرت.",
+          "Die Daten wurden automatisch gespeichert.",
+          "تم حفظ البيانات تلقائيًا."
+        ],
+        [
+          "Vergiss nicht, die Änderungen zu speichern.",
+          "لا تنسَ حفظ التغييرات.",
+          "فِرغِس نشت، دي أندِرونگِن تسو شبايشرن.",
+          "Vergiss nicht, die Änderungen zu speichern.",
+          "لا تنسَ حفظ التغييرات."
+        ],
+        [
+          "Ich richte das neue Gerät heute Abend ein.",
+          "سأضبط الجهاز الجديد هذا المساء.",
+          "إيش رِختِه داس نويه گِريت هويتِه آبِند آين.",
+          "Ich richte das neue Gerät heute Abend ein.",
+          "سأضبط الجهاز الجديد هذا المساء."
+        ],
+        [
+          "Die Verbindung ist heute sehr langsam.",
+          "الاتصال بطيء جدًا اليوم.",
+          "دي فِربيندونگ إِست هويتِه زير لانگزام.",
+          "Die Verbindung ist heute sehr langsam.",
+          "الاتصال بطيء جدًا اليوم."
+        ],
+        [
+          "Digitale Medien sind für viele Kinder selbstverständlich.",
+          "الوسائط الرقمية أصبحت بديهية لكثير من الأطفال.",
+          "ديتاليه مِديِن زِند فور فِيلي كيندِر زلبستفِرشتِندليش.",
+          "Digitale Medien sind für viele Kinder selbstverständlich.",
+          "الوسائط الرقمية أصبحت بديهية لكثير من الأطفال."
+        ],
+        [
+          "Ich sitze zu lange vor dem Bildschirm.",
+          "أجلس أمام الشاشة مدة طويلة.",
+          "إيش زِتسه تسو لانگِه فور ديم بيلدشِرم.",
+          "Ich sitze zu lange vor dem Bildschirm.",
+          "أجلس أمام الشاشة مدة طويلة."
+        ],
+        [
+          "Bitte aktualisiere die Seite.",
+          "من فضلك حدّث الصفحة.",
+          "بيتِه آكتواليزيرِه دي زايتِه.",
+          "Bitte aktualisiere die Seite.",
+          "من فضلك حدّث الصفحة."
+        ],
+        [
+          "Ich muss das Problem dem Support melden.",
+          "يجب أن أبلغ الدعم عن المشكلة.",
+          "إيش موست داس بروبليم ديم سبورت ملدِن.",
+          "Ich muss das Problem dem Support melden.",
+          "يجب أن أبلغ الدعم عن المشكلة."
+        ],
+        [
+          "Ohne Technik wäre vieles viel komplizierter.",
+          "من دون التقنية سيكون كثير من الأشياء أكثر تعقيدًا بكثير.",
+          "أونه تكنيك ڤاره فيلهس فيل كومپليتسيرتر.",
+          "Ohne Technik wäre vieles viel komplizierter.",
+          "من دون التقنية سيكون كثير من الأشياء أكثر تعقيدًا بكثير."
+        ]
+      ]
+    },
+    {
+      "topic": "البيئة والعادات اليومية",
+      "words": [
+        [
+          "Die Mülltrennung ist in unserer Straße Pflicht.",
+          "فرز النفايات إلزامي في شارعنا.",
+          "دي مولترنتسونگ إِست إن أونزِرِه شتراسه فْلِشت.",
+          "Die Mülltrennung ist in unserer Straße Pflicht.",
+          "فرز النفايات إلزامي في شارعنا."
+        ],
+        [
+          "Wir recyceln Glas und Papier.",
+          "نعيد تدوير الزجاج والورق.",
+          "فير ريسايكلن غلاس أوند پاپير.",
+          "Wir recyceln Glas und Papier.",
+          "نعيد تدوير الزجاج والورق."
+        ],
+        [
+          "Ich kaufe lieber umweltfreundliche Produkte.",
+          "أفضل شراء منتجات صديقة للبيئة.",
+          "إيش كاوفه ليبر أومڤِلتفْروندليخِه برودوكتِه.",
+          "Ich kaufe lieber umweltfreundliche Produkte.",
+          "أفضل شراء منتجات صديقة للبيئة."
+        ],
+        [
+          "Ich gehe meistens zu Fuß zur Arbeit.",
+          "أذهب غالبًا إلى العمل مشيًا على الأقدام.",
+          "إيش غيِه مايستِنس تسو فوس تسور آربايت.",
+          "Ich gehe meistens zu Fuß zur Arbeit.",
+          "أذهب غالبًا إلى العمل مشيًا على الأقدام."
+        ],
+        [
+          "Mit dem Fahrrad bin ich schneller im Zentrum.",
+          "بالدراجة أصل إلى المركز أسرع.",
+          "ميت ديم فََراد بين إيش شنِلر إم تسِنتْروم.",
+          "Mit dem Fahrrad bin ich schneller im Zentrum.",
+          "بالدراجة أصل إلى المركز أسرع."
+        ],
+        [
+          "Wir trinken zu Hause Leitungswasser.",
+          "نشرب في البيت ماء الحنفية.",
+          "فير ترينكِن تسو هاوزه لايتونگزڤاسِر.",
+          "Wir trinken zu Hause Leitungswasser.",
+          "نشرب في البيت ماء الحنفية."
+        ],
+        [
+          "Der Stromverbrauch ist diesen Monat höher.",
+          "استهلاك الكهرباء هذا الشهر أعلى.",
+          "دِر شتْرومفِر براوخ إِست ديزِن مونات هوهر.",
+          "Der Stromverbrauch ist diesen Monat höher.",
+          "استهلاك الكهرباء هذا الشهر أعلى."
+        ],
+        [
+          "Ich versuche abfallarm zu leben.",
+          "أحاول أن أعيش مع نفايات أقل.",
+          "إيش فِرزوخِه أڤفالآرم تسو ليبن.",
+          "Ich versuche abfallarm zu leben.",
+          "أحاول أن أعيش مع نفايات أقل."
+        ],
+        [
+          "Viele Menschen wollen bewusster leben.",
+          "كثير من الناس يريدون أن يعيشوا بوعي أكبر.",
+          "فِيلي منتشن ڤولن بْفوسْتَر ليبن.",
+          "Viele Menschen wollen bewusster leben.",
+          "كثير من الناس يريدون أن يعيشوا بوعي أكبر."
+        ],
+        [
+          "Ich trenne den Müll jeden Tag in der Küche.",
+          "أنا أفصل النفايات كل يوم في المطبخ.",
+          "إيش ترِنِّه دين مول ييدِن تاغ إن دِر كويخِه.",
+          "Ich trenne den Müll jeden Tag in der Küche.",
+          "أنا أفصل النفايات كل يوم في المطبخ."
+        ],
+        [
+          "Ich packe mein Essen in eine Dose ein.",
+          "أضع طعامي في علبة.",
+          "إيش باكِه ماين إيسِن إن آينِه دوسِه آين.",
+          "Ich packe mein Essen in eine Dose ein.",
+          "أضع طعامي في علبة."
+        ],
+        [
+          "Wir sparen Energie, wenn wir das Licht ausschalten.",
+          "نوفر الطاقة عندما نطفئ الضوء.",
+          "فير شبارِن إينِرگي، فِن فير داس ليخت أوشالتِن.",
+          "Wir sparen Energie, wenn wir das Licht ausschalten.",
+          "نوفر الطاقة عندما نطفئ الضوء."
+        ],
+        [
+          "Im Haushalt helfen alle mit.",
+          "الجميع يساعد في أعمال البيت.",
+          "إم هاوسهالت هلفِن أله ميت.",
+          "Im Haushalt helfen alle mit.",
+          "الجميع يساعد في أعمال البيت."
+        ],
+        [
+          "Wir halten den Park sauber.",
+          "نحافظ على نظافة الحديقة.",
+          "فير هالتِن دين بارك زاؤبر.",
+          "Wir halten den Park sauber.",
+          "نحافظ على نظافة الحديقة."
+        ]
+      ]
+    },
+    {
+      "topic": "الأهداف والتطور الشخصي",
+      "words": [
+        [
+          "Mein Ziel ist es, im Herbst eine Prüfung zu bestehen.",
+          "هدفي هو أن أنجح في امتحان في الخريف.",
+          "ماين تسيل إِست إس، إم هِربست آينه پْرُوفيونگ تسو بيشتاين.",
+          "Mein Ziel ist es, im Herbst eine Prüfung zu bestehen.",
+          "هدفي هو أن أنجح في امتحان في الخريف."
+        ],
+        [
+          "Ich will mich beim Sprechen verbessern.",
+          "أريد أن أتحسن في التحدث.",
+          "إيش ڤيل ميخ بايم شبريخِن فِربِسِرن.",
+          "Ich will mich beim Sprechen verbessern.",
+          "أريد أن أتحسن في التحدث."
+        ],
+        [
+          "Viele Menschen bilden sich beruflich weiter.",
+          "كثير من الناس يواصلون التعلم مهنيًا.",
+          "فِيلي منتشن بيلدن زِخ بِيروفليش ڤايتَر.",
+          "Viele Menschen bilden sich beruflich weiter.",
+          "كثير من الناس يواصلون التعلم مهنيًا."
+        ],
+        [
+          "Wenn ich dranbleibe, erreiche ich mein Ziel.",
+          "إذا واصلت، أصل إلى هدفي.",
+          "فِن إيش درانبايليبه، إررايشِه إيش ماين تسيل.",
+          "Wenn ich dranbleibe, erreiche ich mein Ziel.",
+          "إذا واصلت، أصل إلى هدفي."
+        ],
+        [
+          "Du musst dir mehr Mühe geben.",
+          "عليك أن تبذل جهدًا أكبر.",
+          "دو موست دير مير موهه گِبن.",
+          "Du musst dir mehr Mühe geben.",
+          "عليك أن تبذل جهدًا أكبر."
+        ],
+        [
+          "Er arbeitet sehr diszipliniert.",
+          "هو يعمل بانضباط كبير.",
+          "إر آربايتِت زير ديسِپلينيرت.",
+          "Er arbeitet sehr diszipliniert.",
+          "هو يعمل بانضباط كبير."
+        ],
+        [
+          "Ich lerne schrittweise neue Inhalte.",
+          "أتعلم محتويات جديدة تدريجيًا.",
+          "إيش ليرِه شريټڤايزِه نويِه إينهالتِه.",
+          "Ich lerne schrittweise neue Inhalte.",
+          "أتعلم محتويات جديدة تدريجيًا."
+        ],
+        [
+          "Es war mutig, die Meinung offen zu sagen.",
+          "كان من الشجاع أن يعبّر عن رأيه بصراحة.",
+          "إس فار موتِش، دي مينونگ أُفِن تسو زاوِن.",
+          "Es war mutig, die Meinung offen zu sagen.",
+          "كان من الشجاع أن يعبّر عن رأيه بصراحة."
+        ],
+        [
+          "Jeder hat eigene Stärken.",
+          "لكل شخص نقاط قوته الخاصة.",
+          "ييدِر هات آيگِنِه شتيركِن.",
+          "Jeder hat eigene Stärken.",
+          "لكل شخص نقاط قوته الخاصة."
+        ],
+        [
+          "Meine Lehrerin ist für mich ein Vorbild.",
+          "معلمتي قدوة لي.",
+          "ماينه ليريرِن إِست فور ميخ آين فوربيلد.",
+          "Meine Lehrerin ist für mich ein Vorbild.",
+          "معلمتي قدوة لي."
+        ],
+        [
+          "Ich habe mir vorgenommen, jeden Tag zu üben.",
+          "قررت أن أتمرن كل يوم.",
+          "إيش هابِه مير فورغِنومِن، ييدِن تاغ تسو أوبِن.",
+          "Ich habe mir vorgenommen, jeden Tag zu üben.",
+          "قررت أن أتمرن كل يوم."
+        ],
+        [
+          "Man muss manchmal durchhalten, auch wenn es schwer ist.",
+          "أحيانًا يجب أن يثابر المرء حتى لو كان الأمر صعبًا.",
+          "مان موست مانشمال دورخالتِن، أوخ فِن إس شفير إِست.",
+          "Man muss manchmal durchhalten, auch wenn es schwer ist.",
+          "أحيانًا يجب أن يثابر المرء حتى لو كان الأمر صعبًا."
+        ],
+        [
+          "Nach dem Kurs fühle ich mich selbstbewusster.",
+          "بعد الدورة أشعر بثقة أكبر بنفسي.",
+          "ناخ ديم كورس فيله إيش ميخ زلبستبِفوستِر.",
+          "Nach dem Kurs fühle ich mich selbstbewusster.",
+          "بعد الدورة أشعر بثقة أكبر بنفسي."
+        ],
+        [
+          "Mein Ziel ist es, dieses Jahr sicherer Deutsch zu sprechen.",
+          "هدفي هو أن أتحدث الألمانية بثقة أكبر هذا العام.",
+          "ماين تسيل إِست إس، ديزِس يار زِخرَر دويتش تسو شبريخِن.",
+          "Mein Ziel ist es, dieses Jahr sicherer Deutsch zu sprechen.",
+          "هدفي هو أن أتحدث الألمانية بثقة أكبر هذا العام."
+        ]
+      ]
+    },
+    {
+      "topic": "حل المشكلات",
+      "words": [
+        [
+          "Wir müssen schnell eine Lösung finden.",
+          "يجب أن نجد حلاً بسرعة.",
+          "فير موستِن شنِل آينه لوزونگ فيندن.",
+          "Wir müssen schnell eine Lösung finden.",
+          "يجب أن نجد حلاً بسرعة."
+        ],
+        [
+          "Das Problem ist kleiner als erwartet.",
+          "المشكلة أصغر مما توقعت.",
+          "داس بْروبليم إِست كلينا آلس إرفارتِت.",
+          "Das Problem ist kleiner als erwartet.",
+          "المشكلة أصغر مما توقعت."
+        ],
+        [
+          "Er hat sich über den Lärm beschwert.",
+          "اشتكى من الضجيج.",
+          "إر هات زِخ أوبر دين ليرم بِشڤِرت.",
+          "Er hat sich über den Lärm beschwert.",
+          "اشتكى من الضجيج."
+        ],
+        [
+          "Ich spreche die Nachbarin morgen an.",
+          "سأخاطب الجارة غدًا.",
+          "إيش شبريخِه دي ناخبارِن مورغن آن.",
+          "Ich spreche die Nachbarin morgen an.",
+          "سأخاطب الجارة غدًا."
+        ],
+        [
+          "Wenn etwas unklar ist, frage ich nach.",
+          "عندما يكون شيء غير واضح، أسأل للتوضيح.",
+          "فِن إتواس أونكلار إِست، فراگِه إيش ناخ.",
+          "Wenn etwas unklar ist, frage ich nach.",
+          "عندما يكون شيء غير واضح، أسأل للتوضيح."
+        ],
+        [
+          "Der Fehler liegt in der Rechnung.",
+          "الخطأ موجود في الحساب.",
+          "دِر فورشهِر ليخت إن دِر رِخنونگ.",
+          "Der Fehler liegt in der Rechnung.",
+          "الخطأ موجود في الحساب."
+        ],
+        [
+          "Kannst du das Handy reparieren?",
+          "هل تستطيع إصلاح الهاتف؟",
+          "كانست دو داس هاندي ريباريرِن؟",
+          "Kannst du das Handy reparieren?",
+          "هل تستطيع إصلاح الهاتف؟"
+        ],
+        [
+          "Wir konnten uns auf einen Termin einigen.",
+          "استطعنا الاتفاق على موعد.",
+          "فير كونتن أونز آوف آينِن تِرمين آينِگِن.",
+          "Wir konnten uns auf einen Termin einigen.",
+          "استطعنا الاتفاق على موعد."
+        ],
+        [
+          "Wenn ein Problem entsteht, bleibe ich ruhig.",
+          "عندما تظهر مشكلة، أبقى هادئًا.",
+          "فِن آين بروبليم إنتشتِهت، بلايبه إيش روهِگ.",
+          "Wenn ein Problem entsteht, bleibe ich ruhig.",
+          "عندما تظهر مشكلة، أبقى هادئًا."
+        ],
+        [
+          "Wir brauchen eine Alternative.",
+          "نحتاج إلى بديل.",
+          "فير براوخِن آينه آلتِرناتيڤِه.",
+          "Wir brauchen eine Alternative.",
+          "نحتاج إلى بديل."
+        ],
+        [
+          "Dein Vorschlag ist praktisch.",
+          "اقتراحك عملي.",
+          "داين فورشْلاغ إِست براكتيش.",
+          "Dein Vorschlag ist praktisch.",
+          "اقتراحك عملي."
+        ],
+        [
+          "Wir verbessern den Plan Schritt für Schritt.",
+          "نحسّن الخطة خطوة خطوة.",
+          "فير فِربِسِرن دين بلان شريت فور شريت.",
+          "Wir verbessern den Plan Schritt für Schritt.",
+          "نحسّن الخطة خطوة خطوة."
+        ],
+        [
+          "Ich passe den Termin an die Arbeit an.",
+          "أعدّل الموعد بما يناسب العمل.",
+          "إيش پاسِه دين تِرمين آن دي آربايت آن.",
+          "Ich passe den Termin an die Arbeit an.",
+          "أعدّل الموعد بما يناسب العمل."
+        ],
+        [
+          "Wir suchen gemeinsam nach einer Lösung.",
+          "نبحث معًا عن حل.",
+          "فير زوخِن گِماينزام ناخ آينه لوزونگ.",
+          "Wir suchen gemeinsam nach einer Lösung.",
+          "نبحث معًا عن حل."
+        ]
+      ]
+    },
+    {
+      "topic": "حكاية موقف من الماضي",
+      "words": [
+        [
+          "Einst lebte ich in einer kleinen Stadt am Meer.",
+          "في الماضي كنت أعيش في مدينة صغيرة على البحر.",
+          "آينْست لبتِه إيش إن آينِر كلاينِن شتات آم مير.",
+          "Einst lebte ich in einer kleinen Stadt am Meer.",
+          "في الماضي كنت أعيش في مدينة صغيرة على البحر."
+        ],
+        [
+          "Früher am Tag hatte ich keine Zeit.",
+          "في وقت سابق من اليوم لم يكن لدي وقت.",
+          "فروير آم تاغ هاتِه إيش كاينِه تسايت.",
+          "Früher am Tag hatte ich keine Zeit.",
+          "في وقت سابق من اليوم لم يكن لدي وقت."
+        ],
+        [
+          "Plötzlich begann es stark zu regnen.",
+          "فجأة بدأ المطر يهطل بغزارة.",
+          "پلاتستلِخ بِنغِن إس شتارك تسو رِگنِن.",
+          "Plötzlich begann es stark zu regnen.",
+          "فجأة بدأ المطر يهطل بغزارة."
+        ],
+        [
+          "Zuerst dachte ich, dass alles einfach wäre.",
+          "أولًا ظننت أن كل شيء سيكون سهلًا.",
+          "تسوئرست دَختِه إيش، داس آلس آينفاخ ڤاره.",
+          "Zuerst dachte ich, dass alles einfach wäre.",
+          "أولًا ظننت أن كل شيء سيكون سهلًا."
+        ],
+        [
+          "Danach bin ich nach Hause gegangen.",
+          "بعد ذلك ذهبت إلى البيت.",
+          "داناخ بين إيش ناخ هاوزه گِغانگِن.",
+          "Danach bin ich nach Hause gegangen.",
+          "بعد ذلك ذهبت إلى البيت."
+        ],
+        [
+          "Inzwischen war es schon dunkel.",
+          "في هذه الأثناء كان قد أظلم بالفعل.",
+          "إنذڤیشِن فار إس شون دونكل.",
+          "Inzwischen war es schon dunkel.",
+          "في هذه الأثناء كان قد أظلم بالفعل."
+        ],
+        [
+          "Nachher haben wir noch zusammen gegessen.",
+          "لاحقًا أكلنا معًا أيضًا.",
+          "ناخر هابِن فير نُخ تزامِن گِغيسِن.",
+          "Nachher haben wir noch zusammen gegessen.",
+          "لاحقًا أكلنا معًا أيضًا."
+        ],
+        [
+          "Der Abend war unvergesslich.",
+          "كان ذلك المساء لا يُنسى.",
+          "دِر آبِند فار أونفِرگِسلِخ.",
+          "Der Abend war unvergesslich.",
+          "كان ذلك المساء لا يُنسى."
+        ],
+        [
+          "Mir war die Situation sehr peinlich.",
+          "كان الموقف محرجًا جدًا لي.",
+          "مير فار دي زيتواسیون زير پَينليش.",
+          "Mir war die Situation sehr peinlich.",
+          "كان الموقف محرجًا جدًا لي."
+        ],
+        [
+          "Dieser Tag wird mir lange in Erinnerung bleiben.",
+          "سيبقى هذا اليوم في ذاكرتي طويلًا.",
+          "ديزِر تاغ ڤِرد مير لانگِه إن إرِنِرونگ بليبِن.",
+          "Dieser Tag wird mir lange in Erinnerung bleiben.",
+          "سيبقى هذا اليوم في ذاكرتي طويلًا."
+        ],
+        [
+          "Ich dachte, dass der Zug später kommen würde.",
+          "ظننت أن القطار سيأتي لاحقًا.",
+          "إيش دَختِه، داس دِر تسوغ شبتَر كومِن ڤورده.",
+          "Ich dachte, dass der Zug später kommen würde.",
+          "ظننت أن القطار سيأتي لاحقًا."
+        ],
+        [
+          "Ich musste lange warten.",
+          "كان عليَّ أن أنتظر طويلًا.",
+          "إيش موستِه لانگِه ڤارتِن.",
+          "Ich musste lange warten.",
+          "كان عليَّ أن أنتظر طويلًا."
+        ],
+        [
+          "Ich konnte nicht schlafen.",
+          "لم أستطع النوم.",
+          "إيش كونتِه نشت شبلفِن.",
+          "Ich konnte nicht schlafen.",
+          "لم أستطع النوم."
+        ],
+        [
+          "Am Ende haben wir gelacht.",
+          "في النهاية ضحكنا.",
+          "آم إنده هابِن فير گِلاخت.",
+          "Am Ende haben wir gelacht.",
+          "في النهاية ضحكنا."
+        ]
+      ]
+    },
+    {
+      "topic": "التعاون وتبادل الاقتراحات",
+      "words": [
+        [
+          "Wir sollten früher anfangen.",
+          "ينبغي أن نبدأ أبكر.",
+          "فير زولتن فروير آنفانگِن.",
+          "Wir sollten früher anfangen.",
+          "ينبغي أن نبدأ أبكر."
+        ],
+        [
+          "Ich schlage vor, dass wir eine Pause machen.",
+          "أقترح أن نأخذ استراحة.",
+          "إيش شبلاگه فور، داس فير آينه باوزِه ماخِن.",
+          "Ich schlage vor, dass wir eine Pause machen.",
+          "أقترح أن نأخذ استراحة."
+        ],
+        [
+          "Was hältst du von diesem Plan?",
+          "ما رأيك في هذه الخطة؟",
+          "ڤاس هالتست دو فون ديزِم بلان؟",
+          "Was hältst du von diesem Plan?",
+          "ما رأيك في هذه الخطة؟"
+        ],
+        [
+          "Lass uns heute gemeinsam einkaufen.",
+          "دعنا نتسوق معًا اليوم.",
+          "لاس أونز هويتِه گِماينزام آينكاوفِن.",
+          "Lass uns heute gemeinsam einkaufen.",
+          "دعنا نتسوق معًا اليوم."
+        ],
+        [
+          "Könnten wir den Termin verschieben?",
+          "هل يمكننا تأجيل الموعد؟",
+          "كونتن فير دين تِرمين فِرشوبِن؟",
+          "Könnten wir den Termin verschieben?",
+          "هل يمكننا تأجيل الموعد؟"
+        ],
+        [
+          "Wir lösen das gemeinsam.",
+          "سنحل هذا معًا.",
+          "فير لوزِن داس گِماينزام.",
+          "Wir lösen das gemeinsam.",
+          "سنحل هذا معًا."
+        ],
+        [
+          "Kannst du mir dabei helfen?",
+          "هل تستطيع مساعدتي في ذلك؟",
+          "كانست دو مير دَباي هلفِن؟",
+          "Kannst du mir dabei helfen?",
+          "هل تستطيع مساعدتي في ذلك؟"
+        ],
+        [
+          "Wir tauschen uns nach dem Kurs aus.",
+          "نتبادل الآراء بعد الدورة.",
+          "فير تاؤشن أونز ناخ ديم كورس آوس.",
+          "Wir tauschen uns nach dem Kurs aus.",
+          "نتبادل الآراء بعد الدورة."
+        ],
+        [
+          "Ich mache dir einen Vorschlag.",
+          "أقدّم لك اقتراحًا.",
+          "إيش ماخِه دير آينِن فورشْلاغ.",
+          "Ich mache dir einen Vorschlag.",
+          "أقدّم لك اقتراحًا."
+        ],
+        [
+          "Ich bin mit dem Plan einverstanden.",
+          "أنا موافق على الخطة.",
+          "إيش بين ميت ديم بلان أينفِرشتاندِن.",
+          "Ich bin mit dem Plan einverstanden.",
+          "أنا موافق على الخطة."
+        ],
+        [
+          "Wir arbeiten gut zusammen.",
+          "نحن نتعاون جيدًا.",
+          "فير آربايتِن گوت تزامِن.",
+          "Wir arbeiten gut zusammen.",
+          "نحن نتعاون جيدًا."
+        ],
+        [
+          "Ich stimme dir zu.",
+          "أوافقك الرأي.",
+          "إيش شتيمِه دير تسو.",
+          "Ich stimme dir zu.",
+          "أوافقك الرأي."
+        ],
+        [
+          "Die Idee gefällt mir gut.",
+          "الفكرة تعجبني كثيرًا.",
+          "دي آيده گِفالت مير گوت.",
+          "Die Idee gefällt mir gut.",
+          "الفكرة تعجبني كثيرًا."
+        ],
+        [
+          "Sag bitte offen, was du denkst.",
+          "قل بصراحة ما تفكر به.",
+          "زاغ بِتِه أوفِن، فاس دو دنكتست.",
+          "Sag bitte offen, was du denkst.",
+          "قل بصراحة ما تفكر به."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

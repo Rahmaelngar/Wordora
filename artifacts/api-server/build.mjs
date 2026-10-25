@@ -14,6 +14,17 @@ async function buildAll() {
   const distDir = path.resolve(artifactDir, "dist");
   await rm(distDir, { recursive: true, force: true });
 
+  // Read the single curriculum source at build time without importing frontend
+  // TypeScript into the API's src/rootDir or maintaining a second vocabulary.
+  const contentBuild = await esbuild({
+    entryPoints: [path.resolve(artifactDir, "../wordora/src/data.ts")],
+    platform: "node", format: "esm", bundle: true, write: false,
+  });
+  const { lessons } = await import(`data:text/javascript;base64,${Buffer.from(contentBuild.outputFiles[0].text).toString("base64")}`);
+  const videoCatalog = lessons.flatMap(lesson => lesson.words.map(word => ({
+    languageId: lesson.languageId, level: lesson.level,
+    word: { id: word.id, term: word.term, example: word.example },
+  })));
   await esbuild({
     entryPoints: [path.resolve(artifactDir, "src/index.ts")],
     platform: "node",
@@ -22,6 +33,7 @@ async function buildAll() {
     outdir: distDir,
     outExtension: { ".js": ".mjs" },
     logLevel: "info",
+    define: { __WORDORA_VIDEO_CATALOG__: JSON.stringify(videoCatalog) },
     // Some packages may not be bundleable, so we externalize them, we can add more here as needed.
     // Some of the packages below may not be imported or installed, but we're adding them in case they are in the future.
     // Examples of unbundleable packages:

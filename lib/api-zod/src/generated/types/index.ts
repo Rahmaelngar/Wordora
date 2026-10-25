@@ -6,10 +6,13 @@
  * OpenAPI spec version: 0.1.0
  */
 
+export * from './dailyLearningActivity';
 export * from './healthStatus';
 export * from './learningAudio';
 export * from './learningAudioInput';
 export * from './learningAudioInputLanguage';
+export * from './learningVideo';
+export * from './learningVideoInput';
 export * from './lessonStudyState';
 export * from './lessonStudyStateStage';
 export * from './tutorChatInput';
@@ -18,7 +21,9 @@ export * from './tutorChatReply';
 export * from './tutorMessage';
 export * from './tutorMessageRole';
 export * from './wordoraProgress';
+export * from './wordoraProgressDailyActivity';
 export * from './wordoraProgressInput';
+export * from './wordoraProgressInputDailyActivity';
 export * from './wordoraProgressInputLessonStudy';
 export * from './wordoraProgressInputQuizAttempts';
 export * from './wordoraProgressInputSelectedLanguage';

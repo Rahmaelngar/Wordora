@@ -1,6 +1,7 @@
 import { Router, type IRouter } from "express";
 import { openai } from "@workspace/integrations-openai-ai-server";
-import { SendWordoraChatBody, CreateWordoraAudioBody } from "@workspace/api-zod";
+import { SendWordoraChatBody, CreateWordoraAudioBody, CreateWordoraVideoBody } from "@workspace/api-zod";
+import { hasVideoWord, learningVideo } from "../lib/learning-video";
 import { languageNames, pronunciationUrl, publicMediaFile } from "../lib/learning-ai";
 
 const router: IRouter = Router();
@@ -43,6 +44,16 @@ router.post("/wordora/chat", async (req, res) => {
     req.log.error({ error: error instanceof Error ? error.message : "unknown" }, "Tutor request failed");
     res.status(502).json({ error: "تعذّر الاتصال بالمساعد الآن. حاول مرة أخرى." });
   } finally { activeChats--; }
+});
+router.post("/wordora/video", async (req, res) => {
+  const input = CreateWordoraVideoBody.safeParse(req.body);
+  if (!input.success || !hasVideoWord(input.data.wordId)) { res.status(400).json({ error: "اختر كلمة صالحة من الدرس." }); return; }
+  try { res.json(await learningVideo(input.data.wordId)); }
+  catch (error) {
+    const busy = error instanceof Error && error.message === "VIDEO_BUSY";
+    req.log.warn({ error: error instanceof Error ? error.message : "unknown" }, "Learning video failed");
+    res.status(busy ? 429 : 502).json({ error: busy ? "تجهيز الفيديو مشغول الآن؛ حاول بعد قليل." : "تعذّر تجهيز الفيديو. يمكنك استخدام الصوت والمثال المكتوب ثم المحاولة مجددًا." });
+  }
 });
 router.post("/wordora/audio", async (req, res) => {
   const input = CreateWordoraAudioBody.safeParse(req.body);

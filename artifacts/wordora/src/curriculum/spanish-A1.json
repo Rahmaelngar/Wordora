@@ -1,0 +1,529 @@
+{
+  "lessons": [
+    {
+      "topic": "المنزل والأثاث",
+      "words": [
+        [
+          "casa",
+          "بيت",
+          "كاسا",
+          "La casa es grande.",
+          "البيت كبير."
+        ],
+        [
+          "puerta",
+          "باب",
+          "بويرتا",
+          "La puerta está abierta.",
+          "الباب مفتوح."
+        ],
+        [
+          "ventana",
+          "نافذة",
+          "بنتانا",
+          "La ventana está limpia.",
+          "النافذة نظيفة."
+        ],
+        [
+          "mesa",
+          "طاولة",
+          "مِسا",
+          "La mesa está en la cocina.",
+          "الطاولة في المطبخ."
+        ],
+        [
+          "silla",
+          "كرسي",
+          "سيّا",
+          "La silla es cómoda.",
+          "الكرسي مريح."
+        ],
+        [
+          "sofá",
+          "أريكة",
+          "سوفا",
+          "El sofá es azul.",
+          "الأريكة زرقاء."
+        ],
+        [
+          "cama",
+          "سرير",
+          "كاما",
+          "La cama es nueva.",
+          "السرير جديد."
+        ],
+        [
+          "armario",
+          "خزانة",
+          "أرماريو",
+          "El armario está lleno.",
+          "الخزانة ممتلئة."
+        ],
+        [
+          "cocina",
+          "مطبخ",
+          "كوسينا",
+          "La cocina está limpia.",
+          "المطبخ نظيف."
+        ],
+        [
+          "baño",
+          "حمّام",
+          "باينيو",
+          "El baño está cerca.",
+          "الحمّام قريب."
+        ]
+      ]
+    },
+    {
+      "topic": "الجسم والصحة",
+      "words": [
+        [
+          "cabeza",
+          "رأس",
+          "كابيذا",
+          "Me duele la cabeza.",
+          "رأسي يؤلمني."
+        ],
+        [
+          "ojo",
+          "عين",
+          "أوخّو",
+          "Tengo un ojo rojo.",
+          "لديّ عين حمراء."
+        ],
+        [
+          "mano",
+          "يد",
+          "مانو",
+          "Lavo mi mano.",
+          "أغسل يدي."
+        ],
+        [
+          "pie",
+          "قدم",
+          "بيي",
+          "Mi pie está cansado.",
+          "قدمي متعبة."
+        ],
+        [
+          "boca",
+          "فم",
+          "بوكا",
+          "Abro la boca.",
+          "أفتح فمي."
+        ],
+        [
+          "nariz",
+          "أنف",
+          "ناريس",
+          "Mi nariz está fría.",
+          "أنفي بارد."
+        ],
+        [
+          "diente",
+          "سن",
+          "ديينتي",
+          "Me duele un diente.",
+          "يؤلمني سنّ."
+        ],
+        [
+          "brazo",
+          "ذراع",
+          "براسو",
+          "Levanto el brazo.",
+          "أرفع الذراع."
+        ],
+        [
+          "cuerpo",
+          "جسم",
+          "كوربو",
+          "Mi cuerpo está fuerte.",
+          "جسمي قوي."
+        ],
+        [
+          "médico",
+          "طبيب",
+          "ميديكو",
+          "El médico trabaja aquí.",
+          "الطبيب يعمل هنا."
+        ]
+      ]
+    },
+    {
+      "topic": "الملابس والأغراض",
+      "words": [
+        [
+          "camisa",
+          "قميص",
+          "كاميسا",
+          "La camisa es blanca.",
+          "القميص أبيض."
+        ],
+        [
+          "pantalón",
+          "بنطال",
+          "بانتالون",
+          "Mis pantalones son largos.",
+          "بنطالي طويل."
+        ],
+        [
+          "zapato",
+          "حذاء",
+          "ساباتو",
+          "Este zapato es nuevo.",
+          "هذا الحذاء جديد."
+        ],
+        [
+          "calcetín",
+          "جورب",
+          "كالسيتين",
+          "El calcetín está seco.",
+          "الجورب جاف."
+        ],
+        [
+          "abrigo",
+          "معطف",
+          "أبريغو",
+          "Llevo un abrigo negro.",
+          "أرتدي معطفًا أسود."
+        ],
+        [
+          "sombrero",
+          "قبعة",
+          "سومبيرو",
+          "El sombrero está en la mesa.",
+          "القبعة على الطاولة."
+        ],
+        [
+          "bolso",
+          "حقيبة يد",
+          "بولسو",
+          "Mi bolso es pequeño.",
+          "حقيبتي صغيرة."
+        ],
+        [
+          "llave",
+          "مفتاح",
+          "يافي",
+          "Tengo una llave.",
+          "لديّ مفتاح."
+        ],
+        [
+          "reloj",
+          "ساعة",
+          "ريلوث",
+          "El reloj es viejo.",
+          "الساعة قديمة."
+        ],
+        [
+          "gafas",
+          "نظارات",
+          "غافاس",
+          "Uso gafas cada día.",
+          "أستعمل النظارات كل يوم."
+        ]
+      ]
+    },
+    {
+      "topic": "المدرسة والتعلم",
+      "words": [
+        [
+          "escuela",
+          "مدرسة",
+          "إسكويلا",
+          "La escuela empieza temprano.",
+          "المدرسة تبدأ مبكرًا."
+        ],
+        [
+          "clase",
+          "درس",
+          "كلاسي",
+          "La clase es pequeña.",
+          "الصف صغير."
+        ],
+        [
+          "profesor",
+          "معلّم",
+          "بروفيسور",
+          "El profesor habla despacio.",
+          "المعلّم يتحدث ببطء."
+        ],
+        [
+          "alumno",
+          "تلميذ",
+          "ألومنو",
+          "El alumno escribe.",
+          "التلميذ يكتب."
+        ],
+        [
+          "libreta",
+          "دفتر",
+          "ليبريتا",
+          "Tengo una libreta azul.",
+          "لديّ دفتر أزرق."
+        ],
+        [
+          "lapicero",
+          "قلم رصاص",
+          "لابيسيرو",
+          "El lapicero está en mi mano.",
+          "قلم الرصاص في يدي."
+        ],
+        [
+          "pizarra",
+          "سبورة",
+          "بيثارا",
+          "La pizarra es blanca.",
+          "السبورة بيضاء."
+        ],
+        [
+          "tarea",
+          "واجب",
+          "تاريا",
+          "Hago la tarea por la tarde.",
+          "أقوم بالواجب في المساء."
+        ],
+        [
+          "pregunta",
+          "سؤال",
+          "بريغونتا",
+          "Tengo una pregunta.",
+          "لديّ سؤال."
+        ],
+        [
+          "respuesta",
+          "إجابة",
+          "ريسبيستا",
+          "La respuesta es correcta.",
+          "الإجابة صحيحة."
+        ]
+      ]
+    },
+    {
+      "topic": "المهن وأماكن العمل",
+      "words": [
+        [
+          "trabajo",
+          "عمل",
+          "تراباخو",
+          "Busco trabajo.",
+          "أبحث عن عمل."
+        ],
+        [
+          "oficina",
+          "مكتب",
+          "أوفيسينا",
+          "La oficina está cerca.",
+          "المكتب قريب."
+        ],
+        [
+          "tienda",
+          "متجر",
+          "تييندا",
+          "Trabajo en una tienda.",
+          "أعمل في متجر."
+        ],
+        [
+          "hospital",
+          "مستشفى",
+          "أوسبيتال",
+          "El hospital es grande.",
+          "المستشفى كبير."
+        ],
+        [
+          "panadero",
+          "خبّاز",
+          "باناديرو",
+          "El panadero hace pan.",
+          "الخباز يصنع الخبز."
+        ],
+        [
+          "enfermera",
+          "ممرضة",
+          "إنفيرميرا",
+          "La enfermera ayuda al médico.",
+          "الممرضة تساعد الطبيب."
+        ],
+        [
+          "cocinero",
+          "طاهٍ",
+          "كوسينيرو",
+          "El cocinero prepara sopa.",
+          "الطاهي يحضّر الحساء."
+        ],
+        [
+          "chofer",
+          "سائق",
+          "تشوفر",
+          "El chofer conduce el autobús.",
+          "السائق يقود الحافلة."
+        ],
+        [
+          "jefe",
+          "مدير",
+          "خيفي",
+          "Mi jefe habla conmigo.",
+          "مديري يتحدث معي."
+        ],
+        [
+          "cliente",
+          "زبون",
+          "كليينتي",
+          "El cliente espera su turno.",
+          "الزبون ينتظر دوره."
+        ]
+      ]
+    },
+    {
+      "topic": "الطبيعة والحيوانات",
+      "words": [
+        [
+          "árbol",
+          "شجرة",
+          "أر بول",
+          "El árbol es alto.",
+          "الشجرة طويلة."
+        ],
+        [
+          "flor",
+          "زهرة",
+          "فلور",
+          "La flor es roja.",
+          "الزهرة حمراء."
+        ],
+        [
+          "río",
+          "نهر",
+          "ريو",
+          "El río va al mar.",
+          "النهر يذهب إلى البحر."
+        ],
+        [
+          "montaña",
+          "جبل",
+          "مونتانيا",
+          "La montaña es alta.",
+          "الجبل مرتفع."
+        ],
+        [
+          "mar",
+          "بحر",
+          "مار",
+          "El mar está tranquilo.",
+          "البحر هادئ."
+        ],
+        [
+          "cielo",
+          "سماء",
+          "سييلو",
+          "El cielo está azul.",
+          "السماء زرقاء."
+        ],
+        [
+          "sol",
+          "شمس",
+          "سول",
+          "El sol calienta mucho.",
+          "الشمس دافئة جدًا."
+        ],
+        [
+          "perro",
+          "كلب",
+          "بيررو",
+          "El perro corre rápido.",
+          "الكلب يركض بسرعة."
+        ],
+        [
+          "gato",
+          "قط",
+          "غاتّو",
+          "El gato duerme en la casa.",
+          "القط ينام في البيت."
+        ],
+        [
+          "pájaro",
+          "طائر",
+          "باهارو",
+          "El pájaro canta por la mañana.",
+          "الطائر يغني في الصباح."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوايات والرياضة",
+      "words": [
+        [
+          "leer",
+          "يقرأ",
+          "ليير",
+          "Me gusta leer por la noche.",
+          "أحب القراءة في الليل."
+        ],
+        [
+          "cantar",
+          "يغني",
+          "كانتار",
+          "Ella quiere cantar hoy.",
+          "هي تريد أن تغني اليوم."
+        ],
+        [
+          "bailar",
+          "يرقص",
+          "باي لار",
+          "Nos gusta bailar en casa.",
+          "نحب الرقص في البيت."
+        ],
+        [
+          "correr",
+          "يجري",
+          "كورير",
+          "Yo salgo a correr temprano.",
+          "أخرج للجري مبكرًا."
+        ],
+        [
+          "nadar",
+          "يسبح",
+          "نادار",
+          "Sé nadar en el mar.",
+          "أعرف السباحة في البحر."
+        ],
+        [
+          "jugar",
+          "يلعب",
+          "خوغار",
+          "Los niños van a jugar.",
+          "الأطفال سيذهبون للعب."
+        ],
+        [
+          "fútbol",
+          "كرة القدم",
+          "فوتبول",
+          "Juego al fútbol con mis amigos.",
+          "ألعب كرة القدم مع أصدقائي."
+        ],
+        [
+          "balón",
+          "كرة",
+          "بالون",
+          "El balón está en el patio.",
+          "الكرة في الفناء."
+        ],
+        [
+          "bicicleta",
+          "دراجة",
+          "بيسيكليتا",
+          "Tengo una bicicleta roja.",
+          "لديّ دراجة حمراء."
+        ],
+        [
+          "deporte",
+          "رياضة",
+          "دي بورتي",
+          "El deporte es bueno para la salud.",
+          "الرياضة مفيدة للصحة."
+        ]
+      ]
+    }
+  ]
+}

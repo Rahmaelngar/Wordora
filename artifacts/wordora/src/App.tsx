@@ -1,4 +1,4 @@
-import { type ReactNode, createContext, useContext, useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { type ReactNode, type KeyboardEvent as ReactKeyboardEvent, createContext, useContext, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ClerkProvider, SignIn, SignUp, useClerk, useUser } from '@clerk/react';
 import { publishableKeyFromHost } from '@clerk/react/internal';
@@ -13,22 +13,28 @@ import NotFound from '@/pages/not-found';
 import { AudioButton, stopAllLearningAudio } from './features/learning/audio';
 import { PronunciationPractice } from './features/learning/pronunciation';
 import { assetUrl } from './features/learning/media';
-import { GreetingVideo, VideoUnavailable } from './features/learning/lesson-video';
+import { GreetingVideo } from './features/learning/lesson-video';
+import { WordVideo } from './features/learning/word-video';
+import { getClozeTarget, maskCloze as maskTarget } from './features/learning/quiz-cloze';
 import { IntroCover, useIntroGate } from './features/learning/intro';
 import { isGreetingLesson, isLessonUnlocked, isLevelUnlocked, levelRules, nextLessonFor, readStudy, requiredFor, writeStudy } from './features/learning/study';
 import { GptIeon } from './features/learning/chat';
 import { mergeLessonStudy } from './features/learning/study-persistence';
+import { dailyDate, getDailyPlan, mergeDailyActivity, recordDailyActivity } from './features/learning/daily';
+import { DailyPlan } from './features/learning/daily-plan';
+import { QuizCelebration } from './features/learning/celebration';
+import { preferencesKey, readPreferences, type Preferences } from './features/learning/preferences';
 
 const queryClient = new QueryClient();
 const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 const clerkPubKey = publishableKeyFromHost(window.location.hostname, import.meta.env.VITE_CLERK_PUBLISHABLE_KEY);
 const clerkProxyUrl = import.meta.env.VITE_CLERK_PROXY_URL;
 type ProgressData = WordoraProgress;
-const emptyProgress = (): ProgressData => ({ selectedLanguage: null, completedLessons: [], savedWords: [], points: 0, streak: 0, lastActiveDate: null, quizAttempts: {}, lessonStudy: {} });
+const emptyProgress = (): ProgressData => ({ selectedLanguage: null, completedLessons: [], savedWords: [], points: 0, streak: 0, lastActiveDate: null, quizAttempts: {}, lessonStudy: {}, dailyActivity: {} });
 const localKey = 'wordora-progress-v1';
 const progressStorageKey = (userId?: string | null) => userId ? `${localKey}:user:${userId}` : localKey;
 const readLocal = (key = localKey): ProgressData => {
-  try { const raw = localStorage.getItem(key); const parsed = raw ? JSON.parse(raw) : {}; return { ...emptyProgress(), ...parsed, lessonStudy: mergeLessonStudy(parsed?.lessonStudy) }; } catch { return emptyProgress(); }
+  try { const raw = localStorage.getItem(key); const parsed = raw ? JSON.parse(raw) : {}; return { ...emptyProgress(), ...parsed, lessonStudy: mergeLessonStudy(parsed?.lessonStudy), dailyActivity: mergeDailyActivity(parsed?.dailyActivity) }; } catch { return emptyProgress(); }
 };
 type AppContextType = { progress: ProgressData; updateProgress: (fn: (old: ProgressData) => ProgressData) => void; localOnly: boolean; cloudError: boolean; ready: boolean };
 const AppContext = createContext<AppContextType | null>(null);
@@ -114,6 +120,7 @@ function WordoraRoot() {
       lastActiveDate: cloud.lastActiveDate ?? userLocal.lastActiveDate ?? local.lastActiveDate,
       quizAttempts: { ...local.quizAttempts, ...userLocal.quizAttempts, ...cloud.quizAttempts },
       lessonStudy: mergeLessonStudy(cloud.lessonStudy, local.lessonStudy, userLocal.lessonStudy),
+      dailyActivity: mergeDailyActivity(cloud.dailyActivity, userLocal.dailyActivity, local.dailyActivity),
     };
     progressRef.current = merged;
     setProgress(merged);
@@ -241,14 +248,38 @@ function LearnPage() {
   return <main className="page-wrap app-main">
     <div className="welcome-banner"><div><div className="hero-kicker">مساحة التعلّم</div><h1>أهلاً بك في رحلتك.</h1><p>درس واحد قصير يكفي لتبدأ اليوم.</p></div><SelectLanguage/></div>
     {cloudError && !localOnly && <div className="notice" style={{marginBottom:16}}>تعذّر تحميل المزامنة الآن. سيبقى تقدّمك على هذا الجهاز، وسنحاول مرة أخرى لاحقاً.</div>}
-    <div className="stat-strip"><div className="stat"><strong data-testid="text-points">{progress.points}</strong><span>نقطة تعلّم</span></div><div className="stat"><strong data-testid="text-streak">{progress.streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-completed-count">{progress.completedLessons.length}</strong><span>درس مكتمل</span></div></div>
+    <DailyPlan progress={progress} language={lang} updateProgress={updateProgress}/>
+    <div className="stat-strip"><div className="stat"><strong data-testid="text-points">{progress.points}</strong><span>نقطة تعلّم</span></div><div className="stat"><strong data-testid="text-streak">{getDailyPlan(progress,lang).streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-completed-count">{progress.completedLessons.length}</strong><span>درس مكتمل</span></div></div>
     <div className="learn-photo"><img src={assetUrl('wordora-conversation.jpg')} alt="متعلّمان يتدرّبان على محادثة بلغة جديدة" loading="lazy" onError={e=>{(e.currentTarget.parentElement as HTMLElement).style.display='none';}}/><span className="ai-label">صورة مُولّدة بالذكاء الاصطناعي</span></div>
     <GptIeon language={lang}/>
     <Link href={`/lesson/${lang}-1`} className="video-teaser" data-testid="link-greeting-video"><span className="lesson-video-icon"><Film size={18}/></span><span><b>فيديو درس التحية</b><small>متاح داخل أول درس A1 «التحية والتعارف» — افتحه من شاشة الدرس.</small></span><ChevronLeft size={17}/></Link>
-    <div style={{display:'flex',justifyContent:'space-between',gap:12,alignItems:'center',flexWrap:'wrap'}}><div><h2 style={{margin:'0 0 5px',color:'#36256e'}}>دروس {language.arabicName}</h2><div style={{color:'#888293'}}>اختر موضوعاً وابدأ بالمفردات الأساسية.</div></div><span className="badge" dir="ltr">{language.name} · A1</span></div>
-    {levelRules.map(({level,title,required})=>{const unlocked=isLevelUnlocked(progress.completedLessons,lang,level);const list=lessons.filter(l=>l.languageId===lang&&l.level===level);return <section key={level}><div className="level-head"><span className="level-pill">{level}</span><h2>{title}</h2>{!unlocked&&<p>أكمل {required} دروس من المستوى السابق لفتح هذا المستوى</p>}</div><div className="lesson-grid">{list.map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!unlocked} completed={progress.completedLessons.includes(lesson.id)} number={index+1}/>)}</div></section>;})}
+    <div style={{display:'flex',justifyContent:'space-between',gap:12,alignItems:'center',flexWrap:'wrap'}}><div><h2 style={{margin:'0 0 5px',color:'#36256e'}}>دروس {language.arabicName}</h2><div style={{color:'#888293'}}>اختر موضوعاً وابدأ بالمفردات الأساسية.</div></div><span className="badge" dir="ltr">{language.name} · {lessons.filter(l=>l.languageId===lang).length}</span></div>
+    <LevelTabs key={lang} lang={lang} completed={progress.completedLessons}/>
     <div style={{marginTop:28,color:'#928b9e',fontSize:'.86rem'}}>{localOnly?'ملف محلي: تقدّمك محفوظ على هذا الجهاز فقط. أنشئ حساباً لمزامنته.':'تقدّمك محفوظ في حسابك.'}{localOnly&&<Link href="/sign-up" style={{color:'#704cce',fontWeight:700,marginRight:6}} data-testid="link-sync-account">إنشاء حساب</Link>}</div>
   </main>;
+}
+const levelLabels:Record<Level,string>={A1:'مفردات أساسية',A2:'عبارات حياتية',B1:'جمل ومواقف'};
+const arNum=(n:number)=>n.toLocaleString('ar-EG');
+function LevelTabs({lang,completed}:{lang:LanguageId;completed:string[]}) {
+  const [active,setActive]=useState<Level>('A1');
+  const tabRefs=useRef<(HTMLButtonElement|null)[]>([]);
+  const info=levelRules.map(r=>{const list=lessons.filter(l=>l.languageId===lang&&l.level===r.level);return {...r,list,entries:list.reduce((n,l)=>n+l.words.length,0),done:list.filter(l=>completed.includes(l.id)).length,unlocked:isLevelUnlocked(completed,lang,r.level)};});
+  const cur=info.find(i=>i.level===active)!;
+  const prevLevel=info[info.findIndex(i=>i.level===active)-1];
+  const onKey=(e:ReactKeyboardEvent,i:number)=>{const d=e.key==='ArrowLeft'?1:e.key==='ArrowRight'?-1:0;let n=e.key==='Home'?0:e.key==='End'?info.length-1:d?(i+d+info.length)%info.length:-1;if(n<0)return;e.preventDefault();setActive(info[n].level);tabRefs.current[n]?.focus();};
+  return <section className="lv" data-testid="section-level-tabs">
+    <div className="lv-tabs" role="tablist" aria-label="مستويات الدروس">{info.map((t,i)=><button key={t.level} ref={el=>{tabRefs.current[i]=el;}} role="tab" id={`lv-tab-${t.level}`} aria-selected={active===t.level} aria-controls={`lv-panel-${t.level}`} tabIndex={active===t.level?0:-1} className={`lv-tab ${active===t.level?'on':''} ${t.unlocked?'':'locked'}`} onClick={()=>setActive(t.level)} onKeyDown={e=>onKey(e,i)} data-testid={`tab-level-${t.level}`}>
+      <span className="lv-top"><b className="level-pill">{t.level}</b>{!t.unlocked&&<LockKeyhole size={14} aria-label="مقفل"/>}</span>
+      <strong data-testid={`text-level-entries-${t.level}`}>{arNum(t.entries)}</strong>
+      <span className="lv-label">{levelLabels[t.level]}</span>
+      <small>{arNum(t.list.length)} درسًا · أنجزت {arNum(t.done)}</small>
+    </button>)}</div>
+    <div role="tabpanel" id={`lv-panel-${active}`} aria-labelledby={`lv-tab-${active}`} className="lv-panel">
+      <div className="level-head"><h2>{cur.title} — {levelLabels[cur.level]}</h2><span className="badge" data-testid={`text-level-summary-${cur.level}`}>{arNum(cur.entries)} كلمة وتعبير • {arNum(cur.list.length)} درسًا</span><span className="badge lv-done" data-testid={`text-level-count-${cur.level}`}>{arNum(cur.done)}/{arNum(cur.list.length)} مكتمل</span></div>
+      {!cur.unlocked&&<div className="notice lv-lock" data-testid={`status-level-locked-${cur.level}`}><LockKeyhole size={16}/> هذا المستوى مقفل. أكمل {arNum(cur.required)} دروس من المستوى {prevLevel?.level} لفتحه (أنجزت {arNum(prevLevel?.done??0)} حتى الآن). يمكنك تصفّح المواضيع أدناه.</div>}
+      <div className="lesson-grid">{cur.list.map((lesson,index)=><LessonTile key={lesson.id} lesson={lesson} locked={!cur.unlocked} completed={completed.includes(lesson.id)} number={index+1}/>)}</div>
+    </div>
+  </section>;
 }
 function LessonTile({lesson,locked,completed,number}:{lesson:Lesson;locked:boolean;completed:boolean;number:number}) {
   return locked?<div className="lesson-card locked" aria-disabled="true" data-testid={`card-locked-lesson-${lesson.id}`}><div className="lesson-meta"><span>{lesson.level} · {String(number).padStart(2,'0')}</span><LockKeyhole size={16}/></div><h3>{lesson.topic}</h3><p>أكمل الدروس السابقة لفتح هذا الموضوع</p><span className="lesson-go" style={{color:'#a09ba8'}}>مقفل حالياً</span></div>:
@@ -272,7 +303,7 @@ function LessonSession({lesson}:{lesson:Lesson}) {
   const [resumed,setResumed]=useState(!!initial && (initial.stage==='summary' || initial.wordIndex>0));
   const [savedToast,setSavedToast]=useState(false);
   const [lockedNote,setLockedNote]=useState(false);
-  const [quizResult,setQuizResult]=useState<{score:number;total:number}|null>(null);
+  const [quizResult,setQuizResult]=useState<{score:number;total:number;first:boolean;points:number}|null>(null);
   const total=lesson.words.length;
   const word=lesson.words[Math.min(index,total-1)];
   const language=languages.find(l=>l.id===lesson.languageId)!;
@@ -294,14 +325,16 @@ function LessonSession({lesson}:{lesson:Lesson}) {
     <div className="lesson-top"><Link className="btn btn-quiet" href="/learn" data-testid="link-exit-lesson"><ChevronRight size={18}/>كل الدروس</Link><span style={{color:'#7e788b',fontWeight:700}}>{phase==='words'?'تعلّم الكلمات':phase==='summary'?'ملخّص الدرس':phase==='quiz'?'اختبر نفسك':'أحسنت!'}</span><span style={{color:'#8f899a',fontSize:'.88rem'}} data-testid="text-word-counter">{phase==='words'?`${index+1} من ${total}`:phase==='summary'?`${studiedCount} من ${total}`:''}</span></div>
     <div className="progress-track" role="progressbar" aria-label="تقدّم الدرس" aria-valuemin={0} aria-valuemax={100} aria-valuenow={pct} data-testid="progress-lesson"><span style={{width:`${pct}%`}}/></div>
     <div style={{marginTop:18,color:'#8c8599',fontSize:'.89rem'}}>{lesson.topic} · {language.name} · {lesson.level}</div>
+    <p className="study-storage-note">درس قصير ضمن {lessons.filter(item=>item.languageId===lesson.languageId&&item.level===lesson.level).reduce((count,item)=>count+item.words.length,0)} كلمة وتعبيرًا في هذا المستوى.</p>
     <p className="study-storage-note" data-testid="status-study-storage">{localOnly?'يُحفظ مكانك في الدرس على هذا الجهاز. الحساب يتيح مزامنته بين الأجهزة.':cloudError?'تعذّرت المزامنة حاليًا؛ يُحفظ مكانك محليًا حتى استعادة الاتصال.':'يُحفظ مكانك محليًا وتتم مزامنته مع حسابك عند الاتصال.'}</p>
     {resumed&&<div className="notice resume-note" data-testid="status-lesson-resumed">{phase==='summary'?'عدت إلى ملخّص الدرس حيث توقفت.':`تابعت من حيث توقفت: الكلمة ${index+1} من ${total}.`}<button className="btn btn-quiet btn-small" onClick={review} data-testid="button-resume-restart">ابدأ من الأول</button></div>}
     {phase==='words'&&<>
-      <article className="panel word-card" key={word.id} data-testid="card-current-word"><div style={{color:'#958fa0',fontSize:'.83rem'}}>الكلمة {index+1} من {total}</div><h1 dir="ltr" lang={lesson.languageId} data-testid={`text-word-${word.id}`}>{word.term}</h1><div className="arabic-meaning" data-testid={`text-meaning-${word.id}`}>{word.arabicMeaning}</div><div className="pronunciation"><small>النطق التقريبي</small><span dir="auto">{word.pronunciation}</span></div><div className="example-line"><span lang={lesson.languageId}>{word.example}</span><small>{word.exampleArabic}</small></div><div style={{position:'absolute',top:14,left:14}}><AudioButton key={word.id} compact language={lesson.languageId} text={word.term} translation={word.arabicMeaning} label="استمع إلى نطق الكلمة" testId={`button-speak-word-${word.id}`}/></div></article>
+      <article className={`panel word-card ${word.term.length>65?'sentence-card':''}`} key={word.id} data-testid="card-current-word"><div style={{color:'#958fa0',fontSize:'.83rem'}}>{lesson.level==='B1'?'العبارة':'الكلمة'} {index+1} من {total}</div><h1 dir="ltr" lang={language.code} data-testid={`text-word-${word.id}`}>{word.term}</h1><div className="arabic-meaning" data-testid={`text-meaning-${word.id}`}>{word.arabicMeaning}</div><div className="pronunciation"><small>النطق التقريبي</small><span dir="auto">{word.pronunciation}</span></div>{word.example!==word.term&&<div className="example-line"><span lang={language.code}>{word.example}</span><small>{word.exampleArabic}</small></div>}<div style={{position:'absolute',top:14,left:14}}><AudioButton key={word.id} compact language={lesson.languageId} text={word.term} translation={word.arabicMeaning} label="استمع إلى نطق الكلمة" testId={`button-speak-word-${word.id}`}/></div></article>
       <div className="word-actions"><AudioButton key={`ex-${word.id}`} language={lesson.languageId} text={word.example} translation={word.exampleArabic} label="استمع إلى المثال" testId={`button-speak-example-${word.id}`}/><button className="btn btn-outline" onClick={toggleSave} data-testid={`button-save-word-${word.id}`}><Bookmark size={17} fill={saved?'currentColor':'none'}/>{saved?'إزالة من كلماتي':'احفظ الكلمة'}</button></div>{savedToast&&<div style={{textAlign:'center',color:'#43846c',marginTop:9}} data-testid="status-save-feedback">{saved?'أُضيفت إلى كلماتك المحفوظة':'أُزيلت من كلماتك المحفوظة'}</div>}
       <div className="word-nav"><button className="btn btn-outline" disabled={index===0} onClick={prev} data-testid="button-previous-word"><ChevronRight size={17}/> السابقة</button>{index<total-1?<button className="btn btn-primary" onClick={next} data-testid="button-next-word">الكلمة التالية <ChevronLeft size={17}/></button>:<button className="btn btn-primary" onClick={finish} data-testid="button-finish-words">أنهيت الكلمات <ChevronLeft size={17}/></button>}</div>
       <PronunciationPractice key={`practice-${word.id}`} language={lesson.languageId} target={word.term} testId="pronunciation-word"/>
-      {isGreetingLesson(lesson)?<GreetingVideo language={lesson.languageId} languageName={language.arabicName} pauseKey={word.id}/>:<VideoUnavailable/>}
+      <WordVideo key={`video-${word.id}`} word={word} language={lesson.languageId}/>
+      {isGreetingLesson(lesson)&&<GreetingVideo language={lesson.languageId} languageName={language.arabicName} pauseKey={word.id}/>}
     </>}
     {phase==='summary'&&<section className="panel lesson-summary" data-testid="section-lesson-summary">
       <div className="summary-head"><span className="empty-icon"><ListChecks size={26}/></span><div><h2>راجعت كلمات الدرس</h2><p data-testid="text-summary-studied">أكملت {studiedCount} من {total} كلمات. الاختبار هو ما يُكمل الدرس ويمنح النقاط.</p></div></div>
@@ -313,8 +346,8 @@ function LessonSession({lesson}:{lesson:Lesson}) {
       </div>
       {lockedNote&&<p className="notice" style={{marginTop:14}} data-testid="status-next-lesson-locked">{nextLesson?`الدرس التالي «${nextLesson.topic}» في المستوى ${nextLesson.level} مقفل. أكمل ${requiredFor(nextLesson.level)} دروس من المستوى السابق لفتحه.`:'هذا آخر درس متاح في هذه اللغة.'}</p>}
     </section>}
-    {phase==='quiz'&&<Quiz lesson={lesson} onComplete={(score,total)=>{setQuizResult({score,total});const complete=progress.completedLessons.includes(lesson.id);updateProgress(old=>{const next=touch({...old,completedLessons:old.completedLessons.includes(lesson.id)?old.completedLessons:[...old.completedLessons,lesson.id],points:old.points+(complete?0:20+score*5),quizAttempts:{...old.quizAttempts,[lesson.id]:(old.quizAttempts[lesson.id]||0)+1}});return next;});setPhase('done');}}/>}
-     {phase==='done'&&<div className="panel empty-state" style={{marginTop:23}}><div className="empty-icon"><Trophy size={28}/></div><h3>أكملت الدرس!</h3><p data-testid="text-quiz-score">إجابات صحيحة: {quizResult?.score ?? 0} · إجابات غير صحيحة: {(quizResult?.total ?? 0)-(quizResult?.score ?? 0)}</p><p style={{color:'#7355c8'}}>تقدّم رائع. كل كلمة جديدة تفتح لك باباً.</p><div style={{display:'flex',justifyContent:'center',gap:11,flexWrap:'wrap',marginTop:19}}><button className="btn btn-outline" onClick={()=>setPhase('summary')} data-testid="button-done-summary">العودة للملخّص</button><Link href="/learn" className="btn btn-primary" data-testid="link-completion-lessons">تابع الدروس <ChevronLeft size={17}/></Link><Link href="/progress" className="btn btn-outline" data-testid="link-completion-progress">عرض إنجازي</Link></div></div>}
+    {phase==='quiz'&&<Quiz lesson={lesson} onComplete={(score,total,correctWordIds)=>{let first=false;let earned=0;updateProgress(old=>{const already=old.completedLessons.includes(lesson.id);first=!already;earned=already?0:20+score*5;const next=touch({...old,completedLessons:already?old.completedLessons:[...old.completedLessons,lesson.id],points:old.points+earned,quizAttempts:{...old.quizAttempts,[lesson.id]:(old.quizAttempts[lesson.id]||0)+1}});return recordDailyActivity(next,{completedLessonId:lesson.id,correctWordIds});});setQuizResult({score,total,first,points:earned});setPhase('done');}}/>}
+     {phase==='done'&&<QuizCelebration score={quizResult?.score ?? 0} total={quizResult?.total ?? 0} firstCompletion={!!quizResult?.first} pointsEarned={quizResult?.points ?? 0} nextHref={nextLesson&&!nextLocked?`/lesson/${nextLesson.id}`:null} nextTitle={nextLesson?.topic} dailyDone={getDailyPlan(progress,lesson.languageId,readPreferences().dailyGoal).completed} onSummary={()=>setPhase('summary')}/>}
   </main>;
 }
 function useParamsSafe(){ const [path]=useLocation(); const id=path.split('/').filter(Boolean).pop()||''; return {lessonId:id}; }
@@ -327,29 +360,26 @@ function buildQuiz(lesson:Lesson):QuizQuestion[] {
     const word=shuffled[i % shuffled.length];
     const kind=kinds[i];
     const pair=kind==='مطابقة'?shuffled[(i+1)%shuffled.length]:undefined;
-    const choices=kind==='اختيار من متعدد'||kind==='مطابقة'
+    const clozeTerm=getClozeTarget(word);
+    const choices=kind==='أكمل العبارة'
+      ? [...new Set(lesson.words.map(getClozeTarget))].sort(()=>Math.random()-.5)
+      : kind==='اختيار من متعدد'||kind==='مطابقة'
       ? [...new Set(lesson.words.map(w=>w.arabicMeaning))].sort(()=>Math.random()-.5)
       : [...new Set(lesson.words.map(w=>w.term))].sort(()=>Math.random()-.5);
-    const answer=kind==='اختيار من متعدد'?word.arabicMeaning:word.term;
+    const answer=kind==='اختيار من متعدد'?word.arabicMeaning:kind==='أكمل العبارة'?clozeTerm:word.term;
     const prompt=kind==='اختيار من متعدد'?'ما معنى هذه الكلمة؟':kind==='اختيار الترجمة الصحيحة'?'اختر الترجمة الصحيحة لهذه الكلمة':kind==='مطابقة'?'صِل كل كلمة بمعناها':kind==='أكمل العبارة'?'أكمل الجملة بالكلمة المناسبة':'اكتب ترجمة الكلمة إلى اللغة التي تتعلّمها';
     return {word,pair,kind,choices,answer,prompt};
   });
 }
 const normalizeAnswer=(value:string)=>value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^\p{L}\p{N}\s]/gu,'').trim().toLocaleLowerCase();
-function maskTarget(sentence:string,target:string) {
-  const escape=(value:string)=>value.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
-  const exact=new RegExp(escape(target),'i');
-  if(exact.test(sentence)) return sentence.replace(exact,'______');
-  const lastWord=target.trim().split(/\s+/).at(-1)||target;
-  return sentence.replace(new RegExp(escape(lastWord),'i'),'______');
-}
-function Quiz({lesson,onComplete}:{lesson:Lesson;onComplete:(score:number,total:number)=>void}) {
+function Quiz({lesson,onComplete}:{lesson:Lesson;onComplete:(score:number,total:number,correctWordIds:string[])=>void}) {
   const questions=useMemo(()=>buildQuiz(lesson),[lesson.id]);
   const [qIndex,setQIndex]=useState(0);
   const [answer,setAnswer]=useState('');
   const [matchingAnswers,setMatchingAnswers]=useState<[string,string]>(['','']);
   const [checked,setChecked]=useState(false);
   const [score,setScore]=useState(0);
+  const correctIds=useRef<string[]>([]);
   const q=questions[qIndex];
   const correct= q.kind==='مطابقة'
     ? normalizeAnswer(matchingAnswers[0])===normalizeAnswer(q.word.arabicMeaning)&&normalizeAnswer(matchingAnswers[1])===normalizeAnswer(q.pair?.arabicMeaning||'')
@@ -361,18 +391,18 @@ function Quiz({lesson,onComplete}:{lesson:Lesson;onComplete:(score:number,total:
     const isCorrect=q.kind==='مطابقة'
       ? normalizeAnswer(matchingAnswers[0])===normalizeAnswer(q.word.arabicMeaning)&&normalizeAnswer(matchingAnswers[1])===normalizeAnswer(q.pair?.arabicMeaning||'')
       : normalizeAnswer(value)===normalizeAnswer(q.answer);
-    setAnswer(value);setChecked(true);if(isCorrect)setScore(s=>s+1);
+    setAnswer(value);setChecked(true);if(isCorrect){setScore(s=>s+1);for(const id of [q.word.id,...(q.kind==='مطابقة'&&q.pair?[q.pair.id]:[])])if(!correctIds.current.includes(id))correctIds.current.push(id);}
   };
-  const next=()=>{if(qIndex===questions.length-1){onComplete(score,questions.length);return;}setQIndex(i=>i+1);setAnswer('');setMatchingAnswers(['','']);setChecked(false);};
-  const fillSentence=maskTarget(q.word.example,q.word.term);
+  const next=()=>{if(qIndex===questions.length-1){onComplete(score,questions.length,[...correctIds.current]);return;}setQIndex(i=>i+1);setAnswer('');setMatchingAnswers(['','']);setChecked(false);};
+  const fillSentence=maskTarget(q.word.example,q.answer);
   return <section className="panel" style={{marginTop:22,maxWidth:700,marginInline:'auto'}}><div style={{display:'flex',justifyContent:'space-between',color:'#898395',fontSize:'.88rem'}}><span>{q.kind}</span><span>السؤال {qIndex+1} من {questions.length}</span></div><h2 style={{color:'#3d2c72',margin:'17px 0 7px'}}>{q.prompt}</h2>
      {q.kind==='اختيار من متعدد'&&<div dir="ltr" style={{fontSize:'1.35rem',fontWeight:800,color:'#6045a9',marginBottom:18}}>{q.word.term}</div>}
      {q.kind==='اختيار من متعدد'&&q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.word.arabicMeaning)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}
      {q.kind==='اختيار الترجمة الصحيحة'&&<><div style={{fontSize:'1.25rem',fontWeight:800,color:'#4c8a75',marginBottom:18}}>{q.word.arabicMeaning}</div>{q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.word.term)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} dir="ltr" data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}</>}
      {q.kind==='مطابقة'&&<div className="matching-list">{[q.word,q.pair!].map((item,i)=><label className="matching-row" key={item.id}><b dir="ltr">{item.term}</b><select value={matchingAnswers[i]} onChange={e=>setMatchingAnswers(old=>{const next:[string,string]=[...old];next[i]=e.target.value;return next;})} disabled={checked} data-testid={`select-match-${qIndex}-${i}`}><option value="">اختاري المعنى</option>{q.choices.map(choice=><option key={choice} value={choice}>{choice}</option>)}</select></label>)}<button className="btn btn-primary" onClick={()=>submit()} disabled={checked||!matchingAnswers[0]||!matchingAnswers[1]} data-testid="button-check-matching">تحقّقي من المطابقة <Check size={17}/></button></div>}
-     {q.kind==='أكمل العبارة'&&<><div className="example-line quiz-sentence" dir="ltr">{fillSentence}</div>{q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.word.term)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} dir="ltr" data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}</>}
+     {q.kind==='أكمل العبارة'&&<><div className="example-line quiz-sentence" dir="ltr">{fillSentence}</div>{q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.answer)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} dir="ltr" data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}</>}
      {q.kind==='ترجمة كتابية'&&<form onSubmit={e=>{e.preventDefault();submit();}}><div style={{fontSize:'1.25rem',fontWeight:800,color:'#4c8a75',marginBottom:12}}>{q.word.arabicMeaning}</div><label className="field"><span>اكتب الكلمة باللغة التي تتعلّمها</span><input value={answer} onChange={e=>setAnswer(e.target.value)} disabled={checked} placeholder="اكتب الترجمة هنا" dir="auto" data-testid={`input-quiz-answer-${qIndex}`}/></label><button type="submit" className="btn btn-primary" disabled={checked||!answer.trim()} data-testid="button-check-answer">تحقّق من الإجابة <Check size={17}/></button></form>}
-     {checked&&<div className={`feedback ${correct?'ok':'no'}`} data-testid={`status-quiz-feedback-${qIndex}`}>{correct?'إجابة صحيحة، أحسنت!':q.kind==='مطابقة'?<>ليست المطابقة صحيحة. الإجابات: <strong>{q.word.term} — {q.word.arabicMeaning}، {q.pair?.term} — {q.pair?.arabicMeaning}</strong></>:<>ليست هذه الإجابة. الإجابة الصحيحة: <strong>{q.kind==='اختيار من متعدد'?q.word.arabicMeaning:q.word.term}</strong></>}</div>}
+     {checked&&<div className={`feedback ${correct?'ok':'no'}`} data-testid={`status-quiz-feedback-${qIndex}`}>{correct?'إجابة صحيحة، أحسنت!':q.kind==='مطابقة'?<>ليست المطابقة صحيحة. الإجابات: <strong>{q.word.term} — {q.word.arabicMeaning}، {q.pair?.term} — {q.pair?.arabicMeaning}</strong></>:<>ليست هذه الإجابة. الإجابة الصحيحة: <strong>{q.answer}</strong></>}</div>}
     {checked&&<button className="btn btn-primary" style={{marginTop:18}} onClick={next} data-testid="button-next-question">{qIndex===questions.length-1?'إنهاء الاختبار':'السؤال التالي'} <ChevronLeft size={16}/></button>}
   </section>;
 }
@@ -395,7 +425,8 @@ function ProgressPage() {
   ];
   const earnedBadges=badges.filter(b=>b.earned);
   return <main className="page-wrap app-main"><h1 className="page-title">إنجازك يكبر</h1><p className="page-subtitle">كل درس أنهيته وكل كلمة احتفظت بها — هذا تقدّمك الحقيقي.</p>
-    <div className="stat-strip"><div className="stat"><strong data-testid="text-progress-points">{progress.points}</strong><span>نقطة</span></div><div className="stat"><strong data-testid="text-progress-streak">{progress.streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-progress-lessons">{completed.length}</strong><span>دروس مكتملة</span></div></div>
+    <div className="stat-strip"><div className="stat"><strong data-testid="text-progress-points">{progress.points}</strong><span>نقطة</span></div><div className="stat"><strong data-testid="text-progress-streak">{progress.selectedLanguage?getDailyPlan(progress,progress.selectedLanguage).streak:progress.streak}</strong><span>أيام متتالية</span></div><div className="stat"><strong data-testid="text-progress-lessons">{completed.length}</strong><span>دروس مكتملة</span></div></div>
+    {(()=>{const day=progress.dailyActivity?.[dailyDate()];const days=Object.values(progress.dailyActivity??{}).filter(d=>(d.correctWordIds?.length||0)+(d.completedLessonIds?.length||0)+(d.reviewedWordIds?.length||0)>0).length;return <section className="panel progress-overview" data-testid="section-progress-today"><div className="hero-kicker">اليوم</div><div className="stat-strip" style={{margin:'14px 0 0'}}><div className="stat"><strong data-testid="text-today-correct">{day?.correctWordIds?.length??0}</strong><span>كلمات صحيحة اليوم</span></div><div className="stat"><strong data-testid="text-today-reviews">{day?.reviewedWordIds?.length??0}</strong><span>مراجعات اليوم</span></div><div className="stat"><strong data-testid="text-active-days">{days}</strong><span>أيام نشاط مسجّلة</span></div></div></section>;})()}
     <section className="panel progress-overview"><div className="progress-overview-head"><div><div className="hero-kicker">مسارك الآن</div><h2 data-testid="text-progress-language">{language?`${language.arabicName} · ${language.name}`:'لم تختر لغة بعد'}</h2></div><span className="level-pill" data-testid="text-current-level">{language?`المستوى ${currentLevel}`:'ابدئي باختيار لغة'}</span></div>
       <div className="progress-label"><span>التقدّم في اللغة المختارة</span><strong data-testid="text-progress-percent">{language?`${progressPercent}%`:'—'}</strong></div><div className="progress-track"><span style={{width:`${progressPercent}%`}}/></div>
       <div className="progress-foot"><span>{language?`${languageCompleted.length} من ${languageLessons.length} درساً`:'اختاري لغة لبدء احتساب التقدّم'}</span><span>{progress.savedWords.length} كلمة محفوظة</span></div>
@@ -427,9 +458,6 @@ function ProfilePage() {
     <div className="stat-strip"><div className="stat"><strong>{progress.points}</strong><span>نقطة</span></div><div className="stat"><strong>{progress.completedLessons.length}</strong><span>درس مكتمل</span></div><div className="stat"><strong>{progress.savedWords.length}</strong><span>كلمة محفوظة</span></div></div><Link href="/settings" className="btn btn-outline" data-testid="link-profile-settings"><Settings size={17}/> إعدادات التعلّم</Link>
   </main>;
 }
-type Preferences={dailyGoal:number; sound:boolean; darkMode:boolean};
-const preferencesKey='wordora-preferences-v1';
-const readPreferences=():Preferences=>{try{return {...{dailyGoal:10,sound:true,darkMode:false},...JSON.parse(localStorage.getItem(preferencesKey)||'{}')};}catch{return {dailyGoal:10,sound:true,darkMode:false};}};
 function SettingsPage() {
   const [prefs,setPrefs]=useState<Preferences>(readPreferences);
   useEffect(()=>{document.documentElement.classList.toggle('dark',prefs.darkMode);localStorage.setItem(preferencesKey,JSON.stringify(prefs));},[prefs]);

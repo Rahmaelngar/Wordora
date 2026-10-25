@@ -18,8 +18,15 @@ export function GreetingVideo({ language, languageName, pauseKey }: { language: 
   const audioRef = useRef<HTMLAudioElement>(null);
   const enabled = soundOn();
   const pauseAll = () => { videoRef.current?.pause(); audioRef.current?.pause(); };
+  useEffect(() => {
+    const video = videoRef.current, audio = audioRef.current;
+    return () => { video?.pause(); audio?.pause(); };
+  }, [open, attempt]);
   useEffect(() => { pauseAll(); }, [pauseKey]);
-  useEffect(() => { const h = () => pauseAll(); window.addEventListener(LEARNING_AUDIO_EVENT, h); return () => { window.removeEventListener(LEARNING_AUDIO_EVENT, h); pauseAll(); }; }, []);
+  useEffect(() => { const h = (event: Event) => {
+    const source = (event as CustomEvent).detail?.source;
+    if (source !== videoRef.current && source !== audioRef.current) pauseAll();
+  }; window.addEventListener(LEARNING_AUDIO_EVENT, h); return () => { window.removeEventListener(LEARNING_AUDIO_EVENT, h); pauseAll(); }; }, []);
   const retry = () => { setStatus('loading'); setAttempt(a => a + 1); };
   return <section className="lesson-video" data-testid="section-lesson-video">
     <div className="lesson-video-head">
@@ -31,7 +38,7 @@ export function GreetingVideo({ language, languageName, pauseKey }: { language: 
       <div className="lesson-video-frame">
         <video key={attempt} ref={videoRef} controls muted={!enabled} preload="metadata" playsInline
           onLoadedData={() => setStatus('ready')} onCanPlay={() => setStatus('ready')} onError={() => setStatus('error')}
-          onPlay={() => { audioRef.current?.pause(); stopAllLearningAudio(); }}
+          onPlay={() => { audioRef.current?.pause(); stopAllLearningAudio(); window.dispatchEvent(new CustomEvent(LEARNING_AUDIO_EVENT, { detail: { source: videoRef.current } })); }}
           data-testid={`video-lesson-${language}`} aria-label={`فيديو درس التحية باللغة ${languageName}`}>
           <source src={assetUrl(`lesson-${language}.webm`)} type='video/webm; codecs="vp9, opus"' />
           <source src={assetUrl(`lesson-${language}.mp4`)} type="video/mp4" onError={() => setStatus('error')} />
@@ -44,7 +51,7 @@ export function GreetingVideo({ language, languageName, pauseKey }: { language: 
         {!enabled && <small>الصوت مُعطّل من الإعدادات، لذلك يعمل الفيديو بلا صوت.</small>}
       </div>
       {enabled && <div className="audio-row"><Headphones size={17} /><span>الصوت فقط (اختياري)</span>
-        <audio ref={audioRef} controls preload="none" onError={() => setAudioError(true)} onPlay={() => { videoRef.current?.pause(); stopAllLearningAudio(); }} src={assetUrl(`lesson-${language}.wav`)} data-testid={`audio-lesson-${language}`} />
+        <audio ref={audioRef} controls preload="none" onError={() => setAudioError(true)} onPlay={() => { videoRef.current?.pause(); stopAllLearningAudio(); window.dispatchEvent(new CustomEvent(LEARNING_AUDIO_EVENT, { detail: { source: audioRef.current } })); }} src={assetUrl(`lesson-${language}.wav`)} data-testid={`audio-lesson-${language}`} />
       </div>}
       {audioError && <p className="pron-note err" role="alert">تعذّر تحميل الملف الصوتي.</p>}
       <MediaTranscript language={language} show={showText} onToggle={() => setShowText(v => !v)} />
