@@ -1,7 +1,9 @@
 import { additionalWords } from './extra-vocabulary';
 import { expandedCurriculum } from './expanded-curriculum';
+import { contentCorrections } from './content-corrections';
 
-export type LanguageId = 'english' | 'french' | 'spanish' | 'german' | 'italian';
+export type LanguageId = 'english' | 'french' | 'spanish' | 'german' | 'italian' | 'turkish';
+export type LegacyLanguageId = Exclude<LanguageId, 'turkish'>;
 export type Level = 'A1' | 'A2' | 'B1';
 export type Word = { id: string; term: string; arabicMeaning: string; pronunciation: string; example: string; exampleArabic: string };
 export type Lesson = { id: string; languageId: LanguageId; level: Level; topic: string; words: Word[] };
@@ -12,8 +14,10 @@ export const languages: Language[] = [
   { id: 'spanish', name: 'Spanish', arabicName: 'الإسبانية', code: 'ES', flag: 'ES' },
   { id: 'german', name: 'German', arabicName: 'الألمانية', code: 'DE', flag: 'DE' },
   { id: 'italian', name: 'Italian', arabicName: 'الإيطالية', code: 'IT', flag: 'IT' },
+  { id: 'turkish', name: 'Türkçe', arabicName: 'التركية', code: 'TR', flag: 'TR' },
 ];
-type TopicData = { title: string; group: string; phrases: Record<LanguageId, [string, string, string, string]> };
+const legacyLanguages = languages.filter((language): language is Language & { id: LegacyLanguageId } => language.id !== 'turkish');
+type TopicData = { title: string; group: string; phrases: Record<LegacyLanguageId, [string, string, string, string]> };
 const topics: TopicData[] = [
   { title: 'التحية والتعارف', group: 'Greetings', phrases: {
     english: ['Hello', 'Good morning', 'How are you?', 'My name is…'], french: ['Bonjour', 'Salut', 'Comment ça va ?', 'Je m’appelle…'],
@@ -59,14 +63,14 @@ const meanings: Record<string, string[]> = {
   'Travel & transport': ['المحطة', 'تذكرة', 'أين الحافلة؟', 'انعطف يساراً'],
   'Everyday conversation': ['من فضلك', 'شكراً', 'أنا أفهم', 'هل يمكنك مساعدتي؟'],
 };
-const pronunciation: Record<LanguageId, string[]> = {
+const pronunciation: Record<LegacyLanguageId, string[]> = {
   english: ['هِلّو', 'جُد مورنينغ', 'هاو آر يو؟', 'ماي نيم إز'],
   french: ['بونجور', 'سالو', 'كومون تا ڤا؟', 'جُ مابيل'],
   spanish: ['أولا', 'بوينوس دياس', 'كومو إستاس؟', 'مي يامو'],
   german: ['هالو', 'غوتن مورغن', 'ڤي غيت إس دير؟', 'إش هايسه'],
   italian: ['تشاو', 'بونجورنو', 'كومه ستاي؟', 'مي كيامو'],
 };
-const pronunciationHints: Record<LanguageId, Record<string, [string, string, string, string]>> = {
+const pronunciationHints: Record<LegacyLanguageId, Record<string, [string, string, string, string]>> = {
   english: {
     'Numbers & days':['وَن','تو','تُداي','تُمورو'],'Colors & things':['رِد','بلو','أ بُك','ماي باگ'],
     'Food & drinks':['ووتر','كوفي','بريد','آي آم هَنجري'],'Family & friends':['ماي فاميلي','أ فرِند','ماي مَذَر','ماي برَذَر'],
@@ -98,7 +102,7 @@ const pronunciationHints: Record<LanguageId, Record<string, [string, string, str
     'Everyday conversation':['بير فاڤوري','غراتسيه','كاپيسكو','پووي آيوتارمي؟'],
   },
 };
-const examples: Record<LanguageId, string[]> = {
+const examples: Record<LegacyLanguageId, string[]> = {
   english: ['Hello, welcome!', 'Good morning, Sara.', 'I am doing well, thank you.', 'My name is Lina.'],
   french: ['Bonjour, bienvenue !', 'Salut, Sara.', 'Je vais bien, merci.', 'Je m’appelle Lina.'],
   spanish: ['¡Hola, bienvenida!', 'Buenos días, Sara.', 'Estoy bien, gracias.', 'Me llamo Lina.'],
@@ -106,7 +110,7 @@ const examples: Record<LanguageId, string[]> = {
   italian: ['Ciao, benvenuta!', 'Buongiorno, Sara.', 'Sto bene, grazie.', 'Mi chiamo Lina.'],
 };
 const examplesAr = ['مرحباً، أهلاً بك!', 'صباح الخير يا سارة.', 'أنا بخير، شكراً لك.', 'اسمي لينا.'];
-const exampleSentences: Record<LanguageId, Record<string, [string, string, string, string]>> = {
+const exampleSentences: Record<LegacyLanguageId, Record<string, [string, string, string, string]>> = {
   english: {
     'Numbers & days': ['One apple, please.', 'Two tickets, please.', 'Today is sunny.', 'We travel tomorrow.'],
     'Colors & things': ['The apple is red.', 'The sky is blue.', 'A book is on the table.', 'My bag is here.'],
@@ -162,7 +166,7 @@ const exampleTranslations: Record<string, [string, string, string, string]> = {
   'Travel & transport': ['المحطة قريبة.', 'لدي تذكرة.', 'أين الحافلة؟', 'انعطف يسارًا هنا.'],
   'Everyday conversation': ['تفضل بالدخول.', 'شكرًا على مساعدتك.', 'أفهم السؤال.', 'هل يمكنك مساعدتي؟'],
 };
-const starterLessons: Lesson[] = languages.flatMap((language) => topics.map((topic, topicIndex) => ({
+const starterLessons: Lesson[] = legacyLanguages.flatMap((language) => topics.map((topic, topicIndex) => ({
   id: `${language.id}-${topicIndex + 1}`, languageId: language.id, level: topicIndex < 5 ? 'A1' : 'A2',
   topic: topic.title,
   words: topic.phrases[language.id].map((term, wordIndex) => ({
@@ -176,10 +180,10 @@ const starterLessons: Lesson[] = languages.flatMap((language) => topics.map((top
 type Four = [string, string, string, string];
 type AdvancedTopic = {
   title: string;
-  phrases: Record<LanguageId, Four>;
+  phrases: Record<LegacyLanguageId, Four>;
   meanings: Four;
-  examples: Record<LanguageId, Four>;
-  pronunciations: Record<LanguageId, Four>;
+  examples: Record<LegacyLanguageId, Four>;
+  pronunciations: Record<LegacyLanguageId, Four>;
   examplesArabic: Four;
 };
 const advancedTopics: AdvancedTopic[] = [
@@ -262,7 +266,7 @@ const advancedTopics: AdvancedTopic[] = [
     examplesArabic: ['أخطط لزيارة روما العام القادم.', 'الأسبوع القادم لدي وقت أكثر.', 'أود أن أتعلم لغة جديدة.', 'لنلتقِ غدًا بعد العمل.'],
   },
 ];
-const advancedLessons: Lesson[] = languages.flatMap((language) => advancedTopics.map((topic, topicIndex) => ({
+const advancedLessons: Lesson[] = legacyLanguages.flatMap((language) => advancedTopics.map((topic, topicIndex) => ({
   id: `${language.id}-b1-${topicIndex+1}`,
   languageId: language.id,
   level: 'B1' as Level,
@@ -279,7 +283,9 @@ const advancedLessons: Lesson[] = languages.flatMap((language) => advancedTopics
 const originalLessons: Lesson[] = [...starterLessons, ...advancedLessons].map(lesson => ({
   ...lesson, words: [...lesson.words, ...additionalWords(lesson)],
 }));
-export const lessons: Lesson[] = [...originalLessons, ...expandedCurriculum].sort((a, b) =>
+export const lessons: Lesson[] = [...originalLessons, ...expandedCurriculum].map(lesson => ({
+  ...lesson, words: lesson.words.map(word => ({ ...word, ...contentCorrections[word.id] })),
+})).sort((a, b) =>
   languages.findIndex(language => language.id === a.languageId) - languages.findIndex(language => language.id === b.languageId)
   || ['A1', 'A2', 'B1'].indexOf(a.level) - ['A1', 'A2', 'B1'].indexOf(b.level),
 );

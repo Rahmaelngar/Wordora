@@ -4,6 +4,8 @@ type TranscriptLine = { wordId: string; term: string; arabicMeaning: string; sen
 // Frozen to the published four-phrase narration. Appending vocabulary must NOT
 // imply that the unchanged video/WAV already teaches the additional words.
 export const greetingTranscript: Record<LanguageId, TranscriptLine[]> = {
+  // Turkish uses the content-matched per-entry videos; no legacy recording.
+  turkish: [],
   english: [
     { wordId: 'english-1-1', term: 'Hello', arabicMeaning: 'مرحبًا', sentence: 'Hello, welcome!', sentenceArabic: 'مرحبًا، أهلًا بك!' },
     { wordId: 'english-1-2', term: 'Good morning', arabicMeaning: 'صباح الخير', sentence: 'Good morning, Sara.', sentenceArabic: 'صباح الخير يا سارة.' },

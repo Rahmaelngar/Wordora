@@ -1,0 +1,1505 @@
+{
+  "lessons": [
+    {
+      "topic": "شرح الأسباب والنتائج",
+      "words": [
+        [
+          "Geç kaldığım için toplantıyı kaçırdım.",
+          "فاتني الاجتماع لأنني تأخرت.",
+          "غت كالديم إчин توپلانتييي كاچيرديم.",
+          "Geç kaldığım için toplantıyı kaçırdım.",
+          "فاتني الاجتماع لأنني تأخرت."
+        ],
+        [
+          "Yağmur yağdığı için pikniği erteledik.",
+          "أرجأنا النزهة لأن المطر هطل.",
+          "ياغمور ياغدغي إچين بيكنيغي إرْتَلَدِك.",
+          "Yağmur yağdığı için pikniği erteledik.",
+          "أرجأنا النزهة لأن المطر هطل."
+        ],
+        [
+          "Ders çalışmadığım için sınavda zorlandım.",
+          "واجهت صعوبة في الامتحان لأنني لم أدرس.",
+          "درس چاليشمادغيم إچين سنفدا زورلانديم.",
+          "Ders çalışmadığım için sınavda zorlandım.",
+          "واجهت صعوبة في الامتحان لأنني لم أدرس."
+        ],
+        [
+          "Uygulama yanlış çalıştığı için bilgisayarı yeniden başlattım.",
+          "أعدت تشغيل الحاسوب لأن التطبيق كان يعمل بشكل خاطئ.",
+          "أوغولاما يانليش چاليشتغو إچين بيلجيساياري ينيـدن باشلَتْتِم.",
+          "Uygulama yanlış çalıştığı için bilgisayarı yeniden başlattım.",
+          "أعدت تشغيل الحاسوب لأن التطبيق كان يعمل بشكل خاطئ."
+        ],
+        [
+          "Erken çıktığım için trafiğe yakalanmadım.",
+          "لم أعلق في الازدحام لأنني خرجت مبكرًا.",
+          "إرکن چِکتغيم إچين ترافيغه ياكالانماديم.",
+          "Erken çıktığım için trafiğe yakalanmadım.",
+          "لم أعلق في الازدحام لأنني خرجت مبكرًا."
+        ],
+        [
+          "Sözünü tutmadığı için ona güvendim diyemem.",
+          "لا أستطيع أن أقول إنني وثقت به لأنه لم يفِ بوعده.",
+          "سوزونو توتمادغو إچين أونا غوڤنديم ديايمم.",
+          "Sözünü tutmadığı için ona güvendim diyemem.",
+          "لا أستطيع أن أقول إنني وثقت به لأنه لم يفِ بوعده."
+        ],
+        [
+          "Daha çok dinlediğim için arkadaşlarımı daha iyi anladım.",
+          "فهمت أصدقائي بشكل أفضل لأنني استمعت أكثر.",
+          "داحا چوك دينلدغيم إچين آركاداشلاريمي داحا إيى آنلادم.",
+          "Daha çok dinlediğim için arkadaşlarımı daha iyi anladım.",
+          "فهمت أصدقائي بشكل أفضل لأنني استمعت أكثر."
+        ],
+        [
+          "İşleri planladığım için akşam sakin geçti.",
+          "مضى المساء بهدوء لأنني خططت للأمور.",
+          "إشْلَري پلانلادغيم إچين أكشام ساكين جِچتي.",
+          "İşleri planladığım için akşam sakin geçti.",
+          "مضى المساء بهدوء لأنني خططت للأمور."
+        ],
+        [
+          "Hata yaptığım için özür diledim.",
+          "اعتذرت لأنني ارتكبت خطأ.",
+          "حاتا ياپتغيم إچين أوزور ديلديم.",
+          "Hata yaptığım için özür diledim.",
+          "اعتذرت لأنني ارتكبت خطأ."
+        ],
+        [
+          "Daha fazla uyuduğum için bugün kendimi iyi hissediyorum.",
+          "أشعر أنني أفضل اليوم لأنني نمت أكثر.",
+          "داحا فازلا أويوغودوغم إچين بوجون كينديمي إيى هِسّدييُوروم.",
+          "Daha fazla uyuduğum için bugün kendimi iyi hissediyorum.",
+          "أشعر أنني أفضل اليوم لأنني نمت أكثر."
+        ]
+      ]
+    },
+    {
+      "topic": "الشرط والاحتمالات",
+      "words": [
+        [
+          "Vaktim olursa seni ararım.",
+          "إذا كان لدي وقت فسأتصل بك.",
+          "فقتيم أولورسا سني أرارم.",
+          "Vaktim olursa seni ararım.",
+          "إذا كان لدي وقت فسأتصل بك."
+        ],
+        [
+          "Yağmur yağarsa evde kalırız.",
+          "إذا هطل المطر فسنمكث في البيت.",
+          "ياغمور ياغارسا إڤده كاليريز.",
+          "Yağmur yağarsa evde kalırız.",
+          "إذا هطل المطر فسنمكث في البيت."
+        ],
+        [
+          "Bu kitabı bitirirsem sana ödünç veririm.",
+          "إذا أنهيت هذا الكتاب فسأعيره لك.",
+          "بو كتابي بيتيريرسم سانا أودونچ ڤريريم.",
+          "Bu kitabı bitirirsem sana ödünç veririm.",
+          "إذا أنهيت هذا الكتاب فسأعيره لك."
+        ],
+        [
+          "Erken gelirsen birlikte kahvaltı ederiz.",
+          "إذا جئت مبكرًا فنتناول الإفطار معًا.",
+          "إرکن غليرسن بيرليكته كاحفالتي إدَريز.",
+          "Erken gelirsen birlikte kahvaltı ederiz.",
+          "إذا جئت مبكرًا فنتناول الإفطار معًا."
+        ],
+        [
+          "Daha dikkatli olursan hata yapmazsın.",
+          "إذا كنت أكثر انتباهًا فلن ترتكب خطأ.",
+          "داحا دِققَتلي أولورسن حاتا يابمازسن.",
+          "Daha dikkatli olursan hata yapmazsın.",
+          "إذا كنت أكثر انتباهًا فلن ترتكب خطأ."
+        ],
+        [
+          "Telefonumu bulamazsam yenisini almak zorunda kalırım.",
+          "إذا لم أجد هاتفي فسأضطر إلى شراء واحد جديد.",
+          "تلفونومو بولامازسام ينيسيني آلمك زوروندا كاليرم.",
+          "Telefonumu bulamazsam yenisini almak zorunda kalırım.",
+          "إذا لم أجد هاتفي فسأضطر إلى شراء واحد جديد."
+        ],
+        [
+          "İzin verirlerse hafta sonu gelebiliriz.",
+          "إذا سمحوا لنا فيمكننا المجيء في عطلة نهاية الأسبوع.",
+          "إزِن ڤريرلسه هافتا سونو غلَبيليروز.",
+          "İzin verirlerse hafta sonu gelebiliriz.",
+          "إذا سمحوا لنا فيمكننا المجيء في عطلة نهاية الأسبوع."
+        ],
+        [
+          "Sorunu çözemezsek yardım isteriz.",
+          "إذا لم نتمكن من حل المشكلة فسنطلب المساعدة.",
+          "سورو نو چوزمزسك يارديم إستَريز.",
+          "Sorunu çözemezsek yardım isteriz.",
+          "إذا لم نتمكن من حل المشكلة فسنطلب المساعدة."
+        ],
+        [
+          "Daha erken yatarsam sabah dinç olurum.",
+          "إذا نمت أبكر فسأكون نشيطًا صباحًا.",
+          "داحا إرکن ياتارسام صاباح دينچ أولوروم.",
+          "Daha erken yatarsam sabah dinç olurum.",
+          "إذا نمت أبكر فسأكون نشيطًا صباحًا."
+        ],
+        [
+          "Biraz pratik yaparsan bunu rahatça konuşursun.",
+          "إذا تدربت قليلًا فستتحدث بهذا بسهولة.",
+          "بيراز براطيك يپارسان بو نو راحاتجا كونوشورسون.",
+          "Biraz pratik yaparsan bunu rahatça konuşursun.",
+          "إذا تدربت قليلًا فستتحدث بهذا بسهولة."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة والتباين",
+      "words": [
+        [
+          "Bu oda diğerinden daha geniş.",
+          "هذه الغرفة أوسع من الأخرى.",
+          "بو أودا دِيغريندن داحا گِنِش.",
+          "Bu oda diğerinden daha geniş.",
+          "هذه الغرفة أوسع من الأخرى."
+        ],
+        [
+          "Kardeşim benden daha sabırlı.",
+          "أخي أكثر صبرًا مني.",
+          "كاردَشيم بَندِن داحا صابيرلي.",
+          "Kardeşim benden daha sabırlı.",
+          "أخي أكثر صبرًا مني."
+        ],
+        [
+          "Bu iş, düşündüğüm kadar zor değil.",
+          "هذا العمل ليس صعبًا بقدر ما ظننت.",
+          "بو إش، دُشوندوغم كدار زور دييل.",
+          "Bu iş, düşündüğüm kadar zor değil.",
+          "هذا العمل ليس صعبًا بقدر ما ظننت."
+        ],
+        [
+          "Yeni telefonum eskisinden daha hızlı.",
+          "هاتفي الجديد أسرع من القديم.",
+          "يني تلفونوم إسكيسيندن داحا هازلي.",
+          "Yeni telefonum eskisinden daha hızlı.",
+          "هاتفي الجديد أسرع من القديم."
+        ],
+        [
+          "Senaryoyu okuyunca film daha ilginç geldi.",
+          "عندما قرأت السيناريو بدا الفيلم أكثر إثارة.",
+          "سِنارْيُويو أوكويونجا فيلم داحا إلغيرنچ غلدي.",
+          "Senaryoyu okuyunca film daha ilginç geldi.",
+          "عندما قرأت السيناريو بدا الفيلم أكثر إثارة."
+        ],
+        [
+          "Bu sonuç, beklediğimden farklı çıktı.",
+          "هذه النتيجة جاءت مختلفة عما توقعت.",
+          "بو صونوج، بَكْلدغمْدن فَرقلي چِكتِي.",
+          "Bu sonuç, beklediğimden farklı çıktı.",
+          "هذه النتيجة جاءت مختلفة عما توقعت."
+        ],
+        [
+          "Onun fikri benimkinden daha mantıklı.",
+          "فكرته أكثر منطقية من فكرتي.",
+          "أونون فِكري بِنِمْكِندن داحا مانتِقلي.",
+          "Onun fikri benimkinden daha mantıklı.",
+          "فكرته أكثر منطقية من فكرتي."
+        ],
+        [
+          "Bugün dünden çok daha sıcak.",
+          "اليوم أشد حرارة بكثير من الأمس.",
+          "بوغون دوندن چوخ داحا صِجاك.",
+          "Bugün dünden çok daha sıcak.",
+          "اليوم أشد حرارة بكثير من الأمس."
+        ],
+        [
+          "Bu yol kısa ama daha kalabalık.",
+          "هذا الطريق قصير لكنه أكثر ازدحامًا.",
+          "بو يول كِصا أما داحا كالبالِق.",
+          "Bu yol kısa ama daha kalabalık.",
+          "هذا الطريق قصير لكنه أكثر ازدحامًا."
+        ],
+        [
+          "Senin çözümün benimkinden iyi olsa da daha pahalı.",
+          "رغم أن حلك أفضل من حلي، إلا أنه أغلى.",
+          "سِنِن چوزومون بِنِمْكِندن إيى أولسا دا داحا پاهالي.",
+          "Senin çözümün benimkinden iyi olsa da daha pahalı.",
+          "رغم أن حلك أفضل من حلي، إلا أنه أغلى."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب الشخصية",
+      "words": [
+        [
+          "Geçen yaz ilk kez denize girdim.",
+          "دخلت البحر لأول مرة في الصيف الماضي.",
+          "غچَن ياز إلك كَز دنِزه غِرديم.",
+          "Geçen yaz ilk kez denize girdim.",
+          "دخلت البحر لأول مرة في الصيف الماضي."
+        ],
+        [
+          "Taşındığımda yeni bir şehirde yaşamanın zor olduğunu anladım.",
+          "عندما انتقلت فهمت أن العيش في مدينة جديدة صعب.",
+          "تاشيندغيمدا يني بير شِهرده ياشامانِن زور أولدوغونو آنلادم.",
+          "Taşındığımda yeni bir şehirde yaşamanın zor olduğunu anladım.",
+          "عندما انتقلت فهمت أن العيش في مدينة جديدة صعب."
+        ],
+        [
+          "İlk iş günümde çok heyecanlandım.",
+          "شعرت بحماس كبير في يوم عملي الأول.",
+          "إلك إش غونومده چوخ هَيَجانلانْدِم.",
+          "İlk iş günümde çok heyecanlandım.",
+          "شعرت بحماس كبير في يوم عملي الأول."
+        ],
+        [
+          "O yemeği tattığımda çocukluğumu hatırladım.",
+          "عندما تذوقت ذلك الطبق تذكرت طفولتي.",
+          "أو يِمَغي طاطغيمدا چوجوكلوغومو هاطرْلادم.",
+          "O yemeği tattığımda çocukluğumu hatırladım.",
+          "عندما تذوقت ذلك الطبق تذكرت طفولتي."
+        ],
+        [
+          "Sınavı geçince kendime daha çok güvendim.",
+          "عندما نجحت في الامتحان أصبحت أثق بنفسي أكثر.",
+          "صينافي غچِنجه كنديمي داحا چوخ غوڤَنديم.",
+          "Sınavı geçince kendime daha çok güvendim.",
+          "عندما نجحت في الامتحان أصبحت أثق بنفسي أكثر."
+        ],
+        [
+          "Seyahat ederken yeni insanlarla tanıştım.",
+          "تعرفت إلى أشخاص جدد أثناء السفر.",
+          "سَيَحَت إدرکن يني إنسانلارلا تانشتيم.",
+          "Seyahat ederken yeni insanlarla tanıştım.",
+          "تعرفت إلى أشخاص جدد أثناء السفر."
+        ],
+        [
+          "Küçükken kitap okumayı pek sevmezdim.",
+          "في صغري لم أكن أحب القراءة كثيرًا.",
+          "كوجوكن كيتاب أوقومايي پِك سڤمزْديم.",
+          "Küçükken kitap okumayı pek sevmezdim.",
+          "في صغري لم أكن أحب القراءة كثيرًا."
+        ],
+        [
+          "İlk defa tek başıma yurt dışına çıktım.",
+          "سافرت إلى الخارج وحدي لأول مرة.",
+          "إلك دَفا تك باشيمَا يورد دييشنا چِكتيم.",
+          "İlk defa tek başıma yurt dışına çıktım.",
+          "سافرت إلى الخارج وحدي لأول مرة."
+        ],
+        [
+          "O dönemde fazla param olmadığı için dikkatli harcadım.",
+          "لأنني لم يكن لدي مال كثير في تلك الفترة أنفقت بحذر.",
+          "أو دُّنَمده فازلا پارام أولمادغو إچين دِققَتلي هارچاديم.",
+          "O dönemde fazla param olmadığı için dikkatli harcadım.",
+          "لأنني لم يكن لدي مال كثير في تلك الفترة أنفقت بحذر."
+        ],
+        [
+          "Bu hatayı yaptığımda çok utandım.",
+          "عندما ارتكبت هذا الخطأ شعرت بإحراج كبير.",
+          "بو هاتايي ياپتغيمدا چوخ أُتانديم.",
+          "Bu hatayı yaptığımda çok utandım.",
+          "عندما ارتكبت هذا الخطأ شعرت بإحراج كبير."
+        ]
+      ]
+    },
+    {
+      "topic": "اختيار طريقة التعلم",
+      "words": [
+        [
+          "Not alarak daha iyi öğreniyorum.",
+          "أتعلم بشكل أفضل عندما أدوّن الملاحظات.",
+          "نوت آلاراك داها يي أُغرَنييُوروم.",
+          "Not alarak daha iyi öğreniyorum.",
+          "أتعلم بشكل أفضل عندما أدوّن الملاحظات."
+        ],
+        [
+          "Sesli tekrar yapınca kelimeler aklımda kalıyor.",
+          "عندما أكرر بصوت عالٍ تبقى الكلمات في ذهني.",
+          "سِسْلي تكرار ياپِندجا كَلِمەلَر آقلِمدا قالِيور.",
+          "Sesli tekrar yapınca kelimeler aklımda kalıyor.",
+          "عندما أكرر بصوت عالٍ تبقى الكلمات في ذهني."
+        ],
+        [
+          "Dersleri video izleyerek takip etmeyi seviyorum.",
+          "أحب متابعة الدروس بمشاهدة الفيديوهات.",
+          "دَرسْلَري فيديو إزْلَياراك تاكيب إتْمَيِ سَفْيُوروم.",
+          "Dersleri video izleyerek takip etmeyi seviyorum.",
+          "أحب متابعة الدروس بمشاهدة الفيديوهات."
+        ],
+        [
+          "Tek başıma çalışınca daha kolay odaklanıyorum.",
+          "عندما أدرس وحدي أركز بسهولة أكبر.",
+          "تِك باشِيما چالِشِندجا داها كولاي أوداقْلانِيوروم.",
+          "Tek başıma çalışınca daha kolay odaklanıyorum.",
+          "عندما أدرس وحدي أركز بسهولة أكبر."
+        ],
+        [
+          "Grupla çalışmak bana yeni fikirler veriyor.",
+          "العمل ضمن مجموعة يعطيني أفكارًا جديدة.",
+          "غروپلا چالِشمَك بانا ينِي فِكيرلَر فيريور.",
+          "Grupla çalışmak bana yeni fikirler veriyor.",
+          "العمل ضمن مجموعة يعطيني أفكارًا جديدة."
+        ],
+        [
+          "Örnek sorular çözerek sınava hazırlanıyorum.",
+          "أستعد للامتحان بحل أسئلة نموذجية.",
+          "أُرنَك سورولار چوزَرَك سِنافَ هازِرْلانِيوروم.",
+          "Örnek sorular çözerek sınava hazırlanıyorum.",
+          "أستعد للامتحان بحل أسئلة نموذجية."
+        ],
+        [
+          "Renkli kartlar kullanmak bana yardımcı oluyor.",
+          "استخدام البطاقات الملونة يساعدني.",
+          "رِنْكلي كارتلار كوللانْمَك بانا يارْدِمجي أُوليور.",
+          "Renkli kartlar kullanmak bana yardımcı oluyor.",
+          "استخدام البطاقات الملونة يساعدني."
+        ],
+        [
+          "Ders dinlerken kısa notlar alıyorum.",
+          "أدوّن ملاحظات قصيرة أثناء الاستماع إلى الدرس.",
+          "دَرس دِينْلَرْكِن كِصا نوتلار آليوروم.",
+          "Ders dinlerken kısa notlar alıyorum.",
+          "أدوّن ملاحظات قصيرة أثناء الاستماع إلى الدرس."
+        ],
+        [
+          "Her gün az ama düzenli çalışmak benim için daha etkili.",
+          "العمل قليلًا كل يوم بانتظام أكثر فاعلية بالنسبة لي.",
+          "هَر كون آز أما دوزِنلي چالِشمَك بِنِم إچِن داها إتْكِلي.",
+          "Her gün az ama düzenli çalışmak benim için daha etkili.",
+          "العمل قليلًا كل يوم بانتظام أكثر فاعلية بالنسبة لي."
+        ],
+        [
+          "Öğretmenimden geri bildirim almak beni geliştiriyor.",
+          "الحصول على ملاحظات من معلمي يطورني.",
+          "أُغْرَتْمَنِمْدِن غيري بِلْدِرِم آلماك بَني گِلِشْتِريور.",
+          "Öğretmenimden geri bildirim almak beni geliştiriyor.",
+          "الحصول على ملاحظات من معلمي يطورني."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ قرارات العمل",
+      "words": [
+        [
+          "Bu projeyi kabul etmeye karar verdim.",
+          "قررت قبول هذا المشروع.",
+          "بو پروجَيي قبول إتْمَيي كارار فِرديم.",
+          "Bu projeyi kabul etmeye karar verdim.",
+          "قررت قبول هذا المشروع."
+        ],
+        [
+          "Müşteri şikâyetlerini daha hızlı çözmeliyiz.",
+          "يجب أن نحل شكاوى الزبائن بسرعة أكبر.",
+          "مُشْتَري شِكايَتْلَرِني داها هِزْلي چوزْمَلييِز.",
+          "Müşteri şikâyetlerini daha hızlı çözmeliyiz.",
+          "يجب أن نحل شكاوى الزبائن بسرعة أكبر."
+        ],
+        [
+          "Toplantıyı yarına ertelemenin daha iyi olacağını düşünüyorum.",
+          "أعتقد أن تأجيل الاجتماع إلى الغد سيكون أفضل.",
+          "تُپْلانْتِييِي يارِنا أَرْتَلَمينِن داها يي أُلاجاغِينِي دُشُونُيوروم.",
+          "Toplantıyı yarına ertelemenin daha iyi olacağını düşünüyorum.",
+          "أعتقد أن تأجيل الاجتماع إلى الغد سيكون أفضل."
+        ],
+        [
+          "Bu şartlarda yeni eleman almamalıyız.",
+          "لا ينبغي أن نوظف موظفًا جديدًا في هذه الظروف.",
+          "بو شارْتْلاردا ينِي إلانمان آلمامالييِز.",
+          "Bu şartlarda yeni eleman almamalıyız.",
+          "لا ينبغي أن نوظف موظفًا جديدًا في هذه الظروف."
+        ],
+        [
+          "Bütçeyi küçültmek yerine verimi artırmayı seçtik.",
+          "اخترنا زيادة الإنتاجية بدلًا من تقليص الميزانية.",
+          "بوتْچَيِ كوجوكْتْمَك يِرِينَه فيرِمِي آرتِرْمَايي سَچْتِك.",
+          "Bütçeyi küçültmek yerine verimi artırmayı seçtik.",
+          "اخترنا زيادة الإنتاجية بدلًا من تقليص الميزانية."
+        ],
+        [
+          "Bu raporu bugün bitirirsem yarın daha rahat olurum.",
+          "إذا أنهيت هذا التقرير اليوم فسأكون أرتاح غدًا أكثر.",
+          "بو رَپورو بوجون بِتِرِرْسَم يارِن داها راهات أُولُوروم.",
+          "Bu raporu bugün bitirirsem yarın daha rahat olurum.",
+          "إذا أنهيت هذا التقرير اليوم فسأكون أرتاح غدًا أكثر."
+        ],
+        [
+          "Kârı düşünmek kadar ekip uyumunu da önemsemeliyiz.",
+          "علينا أن نهتم بانسجام الفريق بقدر اهتمامنا بالربح.",
+          "كارِي دُشُونْمَك كَدَر إكيب أويومونو دا أُونَمْسَمَلييِز.",
+          "Kârı düşünmek kadar ekip uyumunu da önemsemeliyiz.",
+          "علينا أن نهتم بانسجام الفريق بقدر اهتمامنا بالربح."
+        ],
+        [
+          "Risk çok yüksekse planı değiştirmek gerekir.",
+          "إذا كانت المخاطرة عالية جدًا، فيلزم تغيير الخطة.",
+          "ريسْك چوق يوكْسَكْسَه پلانِي دِغِشْتِرْمَك گَرَكِر.",
+          "Risk çok yüksekse planı değiştirmek gerekir.",
+          "إذا كانت المخاطرة عالية جدًا، فيلزم تغيير الخطة."
+        ],
+        [
+          "Müşterinin geri dönüşüne göre son kararı vereceğim.",
+          "سأتخذ القرار النهائي حسب رد الزبون.",
+          "مُشْتَرِنِن غيري دُونوشُونَه غورِ سون كارارِي فِرِجَييِم.",
+          "Müşterinin geri dönüşüne göre son kararı vereceğim.",
+          "سأتخذ القرار النهائي حسب رد الزبون."
+        ],
+        [
+          "Ekibi bilgilendirmeden hiçbir değişiklik yapmamalıyız.",
+          "لا ينبغي أن نجري أي تغيير من دون إبلاغ الفريق.",
+          "إكِبي بِلْغِلَنْدِرْمَدِن هِچبير دِغِشْكْلِك ياپْمامالييِز.",
+          "Ekibi bilgilendirmeden hiçbir değişiklik yapmamalıyız.",
+          "لا ينبغي أن نجري أي تغيير من دون إبلاغ الفريق."
+        ]
+      ]
+    },
+    {
+      "topic": "الثقافة والمجتمع",
+      "words": [
+        [
+          "Bayramda ailemi ziyaret etmek benim için önemlidir.",
+          "زيارة عائلتي في العيد مهمة بالنسبة لي.",
+          "بايرامدا آيلَمي زياَرَت إتمَك بِنِم إچِن أُونَمْلِدِر.",
+          "Bayramda ailemi ziyaret etmek benim için önemlidir.",
+          "زيارة عائلتي في العيد مهمة بالنسبة لي."
+        ],
+        [
+          "Farklı geleneklere saygı duymayı öğrendim.",
+          "تعلمت احترام التقاليد المختلفة.",
+          "فَركْلي غِلَنَكْلَرَه سَيغِ دويْمَايي أُغرَندِم.",
+          "Farklı geleneklere saygı duymayı öğrendim.",
+          "تعلمت احترام التقاليد المختلفة."
+        ],
+        [
+          "Mahallede dayanışma olunca herkes daha güvende hissediyor.",
+          "عندما يوجد تضامن في الحي يشعر الجميع بمزيد من الأمان.",
+          "مَحَلَّدَه دايانِشْما أولُونْچا هَرْكِس داها غُوْفَنْدَه هِسْسِدييور.",
+          "Mahallede dayanışma olunca herkes daha güvende hissediyor.",
+          "عندما يوجد تضامن في الحي يشعر الجميع بمزيد من الأمان."
+        ],
+        [
+          "Toplu taşımada yaşlılara yer vermek gerekir.",
+          "يجب أن نعطي المقاعد لكبار السن في المواصلات العامة.",
+          "طُپْلو تاشِمادا ياشْلِلارا يَر فِرْمَك گَرَكِر.",
+          "Toplu taşımada yaşlılara yer vermek gerekir.",
+          "يجب أن نعطي المقاعد لكبار السن في المواصلات العامة."
+        ],
+        [
+          "Komşularla iyi ilişkiler kurmak hayatı kolaylaştırır.",
+          "بناء علاقات جيدة مع الجيران يجعل الحياة أسهل.",
+          "كومشولارلا يي إِليشْكِلَر كورْمَك هاياتِي كولايلَشْتِرِر.",
+          "Komşularla iyi ilişkiler kurmak hayatı kolaylaştırır.",
+          "بناء علاقات جيدة مع الجيران يجعل الحياة أسهل."
+        ],
+        [
+          "Farklı fikirleri dinlemek toplum için yararlıdır.",
+          "الاستماع إلى الآراء المختلفة مفيد للمجتمع.",
+          "فَركْلي فِكيرلَري دِينْلَمَك طُپْلوم إچِن يارَرلِدِر.",
+          "Farklı fikirleri dinlemek toplum için yararlıdır.",
+          "الاستماع إلى الآراء المختلفة مفيد للمجتمع."
+        ],
+        [
+          "Birlikte çalışınca sorunlar daha çabuk çözülüyor.",
+          "عندما نعمل معًا تُحل المشكلات أسرع.",
+          "بِرْلِكْتَه چالِشِندجا سورونلار داها چابوك چوزولُيور.",
+          "Birlikte çalışınca sorunlar daha çabuk çözülüyor.",
+          "عندما نعمل معًا تُحل المشكلات أسرع."
+        ],
+        [
+          "Düğünlerde insanlar birbirine daha yakın davranıyor.",
+          "في الأعراس يتصرف الناس بقرب أكبر من بعضهم.",
+          "دوجونْلَرْدَه إِنْسانْلار بِرْبِرِينَه داها يَقِين دافرانِيور.",
+          "Düğünlerde insanlar birbirine daha yakın davranıyor.",
+          "في الأعراس يتصرف الناس بقرب أكبر من بعضهم."
+        ],
+        [
+          "Çocukların güvenli oyun alanlarına ihtiyacı var.",
+          "يحتاج الأطفال إلى أماكن لعب آمنة.",
+          "چوجوكْلارِن غُوْفَنْلِي أويُون ألانْلارِنا إهْتِيَاجِي وار.",
+          "Çocukların güvenli oyun alanlarına ihtiyacı var.",
+          "يحتاج الأطفال إلى أماكن لعب آمنة."
+        ],
+        [
+          "Dil öğrenmek farklı kültürleri anlamama yardım etti.",
+          "تعلّم اللغة ساعدني على فهم ثقافات مختلفة.",
+          "دِل أُغرَنْمَك فَركْلي كولتورْلَري أنْلاماما ياردِم إَتْتِي.",
+          "Dil öğrenmek farklı kültürleri anlamama yardım etti.",
+          "تعلّم اللغة ساعدني على فهم ثقافات مختلفة."
+        ]
+      ]
+    },
+    {
+      "topic": "التكنولوجيا في حياتنا",
+      "words": [
+        [
+          "Telefonumun şarjı çok çabuk bitiyor.",
+          "بطارية هاتفي تنفد بسرعة كبيرة.",
+          "تِلِفونومون شارْجِسِي چوق چابوك بِتِيور.",
+          "Telefonumun şarjı çok çabuk bitiyor.",
+          "بطارية هاتفي تنفد بسرعة كبيرة."
+        ],
+        [
+          "Bu uygulama günlük işlerimi kolaylaştırıyor.",
+          "هذا التطبيق يسهل أعمالي اليومية.",
+          "بو أويْغولاْما گونْلودوك إشلَرْيمي كولايلَشْتِرِيور.",
+          "Bu uygulama günlük işlerimi kolaylaştırıyor.",
+          "هذا التطبيق يسهل أعمالي اليومية."
+        ],
+        [
+          "İnternet kesilince çalışmaya devam edemedim.",
+          "عندما انقطع الإنترنت لم أستطع متابعة العمل.",
+          "إنْتَرْنَت كِسِلِندجَه چالِشْمَايَا دَوام إَدَمديم.",
+          "İnternet kesilince çalışmaya devam edemedim.",
+          "عندما انقطع الإنترنت لم أستطع متابعة العمل."
+        ],
+        [
+          "Yedekleme yapmazsam dosyalarımı kaybedebilirim.",
+          "إذا لم أقم بالنسخ الاحتياطي فقد أفقد ملفاتي.",
+          "يَدَكلَمَه ياپْمازْسام دوسْيَلَرامِي كايْبِدَبيْلِرِم.",
+          "Yedekleme yapmazsam dosyalarımı kaybedebilirim.",
+          "إذا لم أقم بالنسخ الاحتياطي فقد أفقد ملفاتي."
+        ],
+        [
+          "Akıllı saat adımlarımı takip ediyor.",
+          "الساعة الذكية تتابع خطواتي.",
+          "أَقِلْلِي سات شارْتْلارِمِي تاكيب إديور.",
+          "Akıllı saat adımlarımı takip ediyor.",
+          "الساعة الذكية تتابع خطواتي."
+        ],
+        [
+          "Gizlilik ayarlarını kontrol etmelisin.",
+          "يجب أن تتحقق من إعدادات الخصوصية.",
+          "غِزلِيلِك آيارْلارِنِي كونْتْرول إتْمَلِسِين.",
+          "Gizlilik ayarlarını kontrol etmelisin.",
+          "يجب أن تتحقق من إعدادات الخصوصية."
+        ],
+        [
+          "Mesajlaşmak yerine aramayı tercih ettim.",
+          "فضلت أن أتصل بدلًا من المراسلة.",
+          "مِساجلاشْمَك يِرِينَه آرامايي تَرْجِح إتْتِم.",
+          "Mesajlaşmak yerine aramayı tercih ettim.",
+          "فضلت أن أتصل بدلًا من المراسلة."
+        ],
+        [
+          "Güncelleme sonrası telefon biraz yavaşladı.",
+          "بعد التحديث أصبح الهاتف أبطأ قليلًا.",
+          "گونْجَلْمَه سونْراسِي تِلِفون بِيراز يافاشْلادِي.",
+          "Güncelleme sonrası telefon biraz yavaşladı.",
+          "بعد التحديث أصبح الهاتف أبطأ قليلًا."
+        ],
+        [
+          "Fotoğrafları buluta yüklemek güvenli olabilir.",
+          "قد يكون رفع الصور إلى السحابة آمنًا.",
+          "فوطوغْرافْلارِي بُلُوتَا يوكْلَمَك غُوْفَنْلِي أُولَبيْلِر.",
+          "Fotoğrafları buluta yüklemek güvenli olabilir.",
+          "قد يكون رفع الصور إلى السحابة آمنًا."
+        ],
+        [
+          "Teknoloji doğru kullanılırsa zaman kazandırır.",
+          "إذا استُخدمت التكنولوجيا بشكل صحيح فإنها توفر الوقت.",
+          "تِكْنولوجِي دُغْرو كوللانِلِرسَه زمان كازَنْدِرِر.",
+          "Teknoloji doğru kullanılırsa zaman kazandırır.",
+          "إذا استُخدمت التكنولوجيا بشكل صحيح فإنها توفر الوقت."
+        ]
+      ]
+    },
+    {
+      "topic": "البيئة والعادات اليومية",
+      "words": [
+        [
+          "Su tasarrufu yapmak herkesin sorumluluğudur.",
+          "توفير الماء مسؤولية الجميع.",
+          "سو تاسارفو يابمك هيركسين سوروملولوغودور",
+          "Su tasarrufu yapmak herkesin sorumluluğudur.",
+          "توفير الماء مسؤولية الجميع."
+        ],
+        [
+          "Çöpleri ayrıştırarak atıyorum.",
+          "ألقي النفايات بعد فرزها.",
+          "تشۆپلرى آيريشتيراراك أتييوروم",
+          "Çöpleri ayrıştırarak atıyorum.",
+          "ألقي النفايات بعد فرزها."
+        ],
+        [
+          "Sabahları kısa bir yürüyüş yapmak bana iyi geliyor.",
+          "المشي القصير صباحًا يفيدني.",
+          "صباحلارى كيسا بىر يورويۇش يابمك بنا إيي گيليوور",
+          "Sabahları kısa bir yürüyüş yapmak bana iyi geliyor.",
+          "المشي القصير صباحًا يفيدني."
+        ],
+        [
+          "Elektriği boş yere açık bırakmamalıyız.",
+          "لا ينبغي أن نترك الكهرباء مضاءة دون حاجة.",
+          "إلكتريغي بوش يره آتشِق بيراكمارالىيىز",
+          "Elektriği boş yere açık bırakmamalıyız.",
+          "لا ينبغي أن نترك الكهرباء مضاءة دون حاجة."
+        ],
+        [
+          "Market alışverişinde bez çanta kullanıyorum.",
+          "أستخدم حقيبة قماشية في التسوق.",
+          "ماركيت آلِيشفيريشينده بز تشانتا كوللانييوروم",
+          "Market alışverişinde bez çanta kullanıyorum.",
+          "أستخدم حقيبة قماشية في التسوق."
+        ],
+        [
+          "Daha az su kullanmak için duşu kısa tutuyorum.",
+          "أبقي الاستحمام قصيرًا لأستخدم ماءً أقل.",
+          "داها آز سو كوللانيماك إتشين ديوشو كيسا توتييوروم",
+          "Daha az su kullanmak için duşu kısa tutuyorum.",
+          "أبقي الاستحمام قصيرًا لأستخدم ماءً أقل."
+        ],
+        [
+          "Gereksiz tüketim çevreye zarar veriyor.",
+          "الاستهلاك غير الضروري يضر بالبيئة.",
+          "غيركسيز تيكيتيم تشفرىيه زارار فيرييور",
+          "Gereksiz tüketim çevreye zarar veriyor.",
+          "الاستهلاك غير الضروري يضر بالبيئة."
+        ],
+        [
+          "Hafta içi erken kalkmaya çalışıyorum.",
+          "أحاول أن أنهض مبكرًا في أيام الأسبوع.",
+          "هافتا إتشي إركن قلكمايا تشاليشيوروم",
+          "Hafta içi erken kalkmaya çalışıyorum.",
+          "أحاول أن أنهض مبكرًا في أيام الأسبوع."
+        ],
+        [
+          "Pencereleri açınca evin havası yenileniyor.",
+          "عندما نفتح النوافذ يتجدد هواء البيت.",
+          "بنجيرليرى آتشينجا إفين هاۋاسى ينيلنييور",
+          "Pencereleri açınca evin havası yenileniyor.",
+          "عندما نفتح النوافذ يتجدد هواء البيت."
+        ],
+        [
+          "Doğaya karşı daha dikkatli davranmamız gerekiyor.",
+          "علينا أن نتصرف بحذر أكبر تجاه الطبيعة.",
+          "دونيايا كارشى داها دققتلي دافرانمامىز گريكيوور",
+          "Doğaya karşı daha dikkatli davranmamız gerekiyor.",
+          "علينا أن نتصرف بحذر أكبر تجاه الطبيعة."
+        ]
+      ]
+    },
+    {
+      "topic": "الأهداف والتطور الشخصي",
+      "words": [
+        [
+          "Bu yıl düzenli spor yapmayı hedefliyorum.",
+          "أهدف إلى ممارسة الرياضة بانتظام هذا العام.",
+          "بو يىل دوزنلي سبور يابمايى هدفلييوروم",
+          "Bu yıl düzenli spor yapmayı hedefliyorum.",
+          "أهدف إلى ممارسة الرياضة بانتظام هذا العام."
+        ],
+        [
+          "Kendime daha çok güvenmek istiyorum.",
+          "أريد أن أثق بنفسي أكثر.",
+          "كنديمه داها تشوك گوفنْمك استيوريوم",
+          "Kendime daha çok güvenmek istiyorum.",
+          "أريد أن أثق بنفسي أكثر."
+        ],
+        [
+          "Her gün biraz daha iyi olmaya çalışıyorum.",
+          "أحاول أن أتحسن قليلًا كل يوم.",
+          "هير گون بيراز داها يى ئىلمايا تشاليشيوروم",
+          "Her gün biraz daha iyi olmaya çalışıyorum.",
+          "أحاول أن أتحسن قليلًا كل يوم."
+        ],
+        [
+          "Yeni bir beceri öğrenmek beni motive ediyor.",
+          "تعلم مهارة جديدة يحفزني.",
+          "ينى بىر بكتري أوغرينمك بنى موتيوه إديوور",
+          "Yeni bir beceri öğrenmek beni motive ediyor.",
+          "تعلم مهارة جديدة يحفزني."
+        ],
+        [
+          "Başarılı olmak için sabırlı olmak gerekiyor.",
+          "لكي ننجح يجب أن نكون صبورين.",
+          "باشارىلى أولماك إتشين صابيرلى أولماك گريكيوور",
+          "Başarılı olmak için sabırlı olmak gerekiyor.",
+          "لكي ننجح يجب أن نكون صبورين."
+        ],
+        [
+          "Küçük adımlar büyük sonuçlar getirir.",
+          "الخطوات الصغيرة تجلب نتائج كبيرة.",
+          "كوتشوك آدملار بويوك سونوتشلار گيتيرير",
+          "Küçük adımlar büyük sonuçlar getirir.",
+          "الخطوات الصغيرة تجلب نتائج كبيرة."
+        ],
+        [
+          "Hata yaptıkça daha çok öğreniyorum.",
+          "كلما أخطأت أكثر تعلمت أكثر.",
+          "هاتا يابتكتشا داها تشوك أوغرينيوريوم",
+          "Hata yaptıkça daha çok öğreniyorum.",
+          "كلما أخطأت أكثر تعلمت أكثر."
+        ],
+        [
+          "Daha disiplinli olursam planlarımı gerçekleştirebilirim.",
+          "إذا أصبحت أكثر انضباطًا أستطيع تحقيق خططي.",
+          "داها ديسپلينلى أولورسام پلانلاريمى گيرچكلشتيريبليريم",
+          "Daha disiplinli olursam planlarımı gerçekleştirebilirim.",
+          "إذا أصبحت أكثر انضباطًا أستطيع تحقيق خططي."
+        ],
+        [
+          "Kendime uzun vadeli bir plan yaptım.",
+          "وضعت لنفسي خطة طويلة الأمد.",
+          "كنديمه اوزون وادلي بىر پلان يابتىم",
+          "Kendime uzun vadeli bir plan yaptım.",
+          "وضعت لنفسي خطة طويلة الأمد."
+        ],
+        [
+          "Her denemede biraz daha güçleniyorum.",
+          "أصبح أقوى قليلًا في كل محاولة.",
+          "هير دنمميده بيراز داها كوشلنييوريوم",
+          "Her denemede biraz daha güçleniyorum.",
+          "أصبح أقوى قليلًا في كل محاولة."
+        ]
+      ]
+    },
+    {
+      "topic": "حل المشكلات",
+      "words": [
+        [
+          "Sorunu sakin kalarak çözmeye çalıştım.",
+          "حاولت حل المشكلة بهدوء.",
+          "سورونو ساكين كالاراك تشوزمئيه تشاليشتىم",
+          "Sorunu sakin kalarak çözmeye çalıştım.",
+          "حاولت حل المشكلة بهدوء."
+        ],
+        [
+          "Önce nedenini anlamamız lazım.",
+          "يجب أولًا أن نفهم السبب.",
+          "أونجه ندېنىنى أنلامامىز لازم",
+          "Önce nedenini anlamamız lazım.",
+          "يجب أولًا أن نفهم السبب."
+        ],
+        [
+          "Plan değişince hızlıca uyum sağladım.",
+          "عندما تغيرت الخطة تكيفت بسرعة.",
+          "پلان ديغيشنجه هىزليجا أويوم صاحلادىم",
+          "Plan değişince hızlıca uyum sağladım.",
+          "عندما تغيرت الخطة تكيفت بسرعة."
+        ],
+        [
+          "Eksik bilgiyi tamamlamadan karar vermemeliyiz.",
+          "لا ينبغي أن نتخذ قرارًا قبل استكمال المعلومات الناقصة.",
+          "إكسيك بىلگييي تاماملامادان قرار فيرميهملىيييز",
+          "Eksik bilgiyi tamamlamadan karar vermemeliyiz.",
+          "لا ينبغي أن نتخذ قرارًا قبل استكمال المعلومات الناقصة."
+        ],
+        [
+          "Farklı bir yol denemek bazen daha etkili olur.",
+          "أحيانًا يكون تجربة طريق مختلف أكثر فاعلية.",
+          "فارقلى بىر يول دنمك بازن داها أتكلي اولور",
+          "Farklı bir yol denemek bazen daha etkili olur.",
+          "أحيانًا يكون تجربة طريق مختلف أكثر فاعلية."
+        ],
+        [
+          "Sorunu tek başıma değil, ekiple çözmek istiyorum.",
+          "أريد حل المشكلة مع الفريق لا وحدي.",
+          "سورونو تيك باشىما دييل إكيپله تشوزمك استيوريوم",
+          "Sorunu tek başıma değil, ekiple çözmek istiyorum.",
+          "أريد حل المشكلة مع الفريق لا وحدي."
+        ],
+        [
+          "Hata büyümeden müdahale etmek önemli.",
+          "من المهم التدخل قبل أن يكبر الخطأ.",
+          "هاتا بويومدين مداهاله إتْمك أونملي",
+          "Hata büyümeden müdahale etmek önemli.",
+          "من المهم التدخل قبل أن يكبر الخطأ."
+        ],
+        [
+          "Acele etmek yerine seçenekleri değerlendirdik.",
+          "قيّمنا الخيارات بدلًا من التسرع.",
+          "أتشيله إتمك يرهينہ سيچنكليرى دييغلندرديك",
+          "Acele etmek yerine seçenekleri değerlendirdik.",
+          "قيّمنا الخيارات بدلًا من التسرع."
+        ],
+        [
+          "Bilgiler farklı olunca sonuç da değişti.",
+          "عندما اختلفت المعلومات تغيّرت النتيجة أيضًا.",
+          "بيلغير فارقلى أولونجا سونوتش دا ديغيشتى",
+          "Bilgiler farklı olunca sonuç da değişti.",
+          "عندما اختلفت المعلومات تغيّرت النتيجة أيضًا."
+        ],
+        [
+          "Gerekirse yardım istemek zayıflık değildir.",
+          "طلب المساعدة عند الحاجة ليس ضعفًا.",
+          "گركيرسه يارديم استمك زايفلىق ديليلدير",
+          "Gerekirse yardım istemek zayıflık değildir.",
+          "طلب المساعدة عند الحاجة ليس ضعفًا."
+        ]
+      ]
+    },
+    {
+      "topic": "حكاية موقف من الماضي",
+      "words": [
+        [
+          "Geçen hafta eski bir arkadaşımı gördüm.",
+          "رأيت صديقًا قديمًا الأسبوع الماضي.",
+          "چغن هافتا إسكى بىر ئاركاداشيمى گوردوم",
+          "Geçen hafta eski bir arkadaşımı gördüm.",
+          "رأيت صديقًا قديمًا الأسبوع الماضي."
+        ],
+        [
+          "Çocukken her yaz köye giderdik.",
+          "كنا نذهب إلى القرية كل صيف عندما كنا أطفالًا.",
+          "تجوقكن هير ياز كويه گيدرديك",
+          "Çocukken her yaz köye giderdik.",
+          "كنا نذهب إلى القرية كل صيف عندما كنا أطفالًا."
+        ],
+        [
+          "O gün çok yorulduğum için erken uyudum.",
+          "نمت مبكرًا في ذلك اليوم لأنني تعبت جدًا.",
+          "و گون تشوك يورولدوم إتشين إركن أودودوم",
+          "O gün çok yorulduğum için erken uyudum.",
+          "نمت مبكرًا في ذلك اليوم لأنني تعبت جدًا."
+        ],
+        [
+          "İlk maaşımı alınca aileme yemek ısmarladım.",
+          "عندما حصلت على أول راتب لي عزمت عائلتي على الطعام.",
+          "إلك مااشيمى ألنجا آيلمىه ييمك آسمارلادىم",
+          "İlk maaşımı alınca aileme yemek ısmarladım.",
+          "عندما حصلت على أول راتب لي عزمت عائلتي على الطعام."
+        ],
+        [
+          "Sana söyleyeceğim şeyi unutmuştum.",
+          "كنت قد نسيت الشيء الذي كنت سأقوله لك.",
+          "سانا سولِيجييم شىيي اونوتموشتوم",
+          "Sana söyleyeceğim şeyi unutmuştum.",
+          "كنت قد نسيت الشيء الذي كنت سأقوله لك."
+        ],
+        [
+          "Trafik yüzünden toplantıya geç kaldım.",
+          "تأخرت عن الاجتماع بسبب الازدحام.",
+          "ترافيك يوزوندن توپلانتييا گتش كالديم",
+          "Trafik yüzünden toplantıya geç kaldım.",
+          "تأخرت عن الاجتماع بسبب الازدحام."
+        ],
+        [
+          "O şehirde yaşarken çok şey öğrendim.",
+          "تعلمت أشياء كثيرة أثناء عيشي في ذلك المدينة.",
+          "و شهيرده ياشاركن تشوك شيي أوغرندم",
+          "O şehirde yaşarken çok şey öğrendim.",
+          "تعلمت أشياء كثيرة أثناء عيشي في ذلك المدينة."
+        ],
+        [
+          "Beni görünce yüzünde büyük bir şaşkınlık vardı.",
+          "عندما رآني كان على وجهه دهشة كبيرة.",
+          "بنى گورونجه يوزونده بويوك بىر شاشكينلىك واردى",
+          "Beni görünce yüzünde büyük bir şaşkınlık vardı.",
+          "عندما رآني كان على وجهه دهشة كبيرة."
+        ],
+        [
+          "O zamanlar daha çekingen davranıyordum.",
+          "كنت أتصرف بحذر أكبر في ذلك الوقت.",
+          "و زمانلار داها تشكينگن دافرانيوردوم",
+          "O zamanlar daha çekingen davranıyordum.",
+          "كنت أتصرف بحذر أكبر في ذلك الوقت."
+        ],
+        [
+          "Eski defterleri karıştırınca çok anı hatırladım.",
+          "عندما قلّبت الدفاتر القديمة تذكرت ذكريات كثيرة.",
+          "إسكى دفترلرى قاريشتيرينجا تشوك آنى هاترلادىم",
+          "Eski defterleri karıştırınca çok anı hatırladım.",
+          "عندما قلّبت الدفاتر القديمة تذكرت ذكريات كثيرة."
+        ]
+      ]
+    },
+    {
+      "topic": "التعاون وتبادل الاقتراحات",
+      "words": [
+        [
+          "Senin fikrini duymak istiyorum.",
+          "أريد أن أسمع رأيك.",
+          "سينين فيكريني دوماك يستيوروم.",
+          "Senin fikrini duymak istiyorum.",
+          "أريد أن أسمع رأيك."
+        ],
+        [
+          "Bence önce kısa bir plan yapalım.",
+          "برأيي لنضع خطة قصيرة أولًا.",
+          "بينجه أونجه كيسا بير بلان ياپاليم.",
+          "Bence önce kısa bir plan yapalım.",
+          "برأيي لنضع خطة قصيرة أولًا."
+        ],
+        [
+          "İstersen ben listeyi hazırlayayım.",
+          "إذا أردت يمكنني أن أجهز القائمة.",
+          "إيستيرسن بن ليستيغي حازيرلاييم.",
+          "İstersen ben listeyi hazırlayayım.",
+          "إذا أردت يمكنني أن أجهز القائمة."
+        ],
+        [
+          "Birlikte düşünürsek daha iyi bir çözüm bulabiliriz.",
+          "إذا فكرنا معًا يمكننا أن نجد حلًا أفضل.",
+          "بيرليكتي ديشونورسيك دها يي بير جوزوم بولابيليز.",
+          "Birlikte düşünürsek daha iyi bir çözüm bulabiliriz.",
+          "إذا فكرنا معًا يمكننا أن نجد حلًا أفضل."
+        ],
+        [
+          "Bu konuda seninle aynı fikirdeyim.",
+          "أنا أتفق معك في هذا الموضوع.",
+          "بو كونوضه سينينله آيناي فيكيردهييم.",
+          "Bu konuda seninle aynı fikirdeyim.",
+          "أنا أتفق معك في هذا الموضوع."
+        ],
+        [
+          "Sen konuş, ben not alayım.",
+          "تحدث أنت ودعني أدوّن الملاحظات.",
+          "سين كونوش، بن نوت ألاييم.",
+          "Sen konuş, ben not alayım.",
+          "تحدث أنت ودعني أدوّن الملاحظات."
+        ],
+        [
+          "Önerin çok mantıklı görünüyor.",
+          "اقتراحك يبدو منطقيًا جدًا.",
+          "أونيرين تشوك مانتِكلي غورونويوور.",
+          "Önerin çok mantıklı görünüyor.",
+          "اقتراحك يبدو منطقيًا جدًا."
+        ],
+        [
+          "Biraz beklersek herkes katılabilir.",
+          "إذا انتظرنا قليلًا فبإمكان الجميع المشاركة.",
+          "بيراز بكلرسك هركس كاتيلابيلير.",
+          "Biraz beklersek herkes katılabilir.",
+          "إذا انتظرنا قليلًا فبإمكان الجميع المشاركة."
+        ],
+        [
+          "Senin yardımın olmadan bunu yapamam.",
+          "لا أستطيع فعل هذا من دون مساعدتك.",
+          "سينين يارديمين أولمادان بونو يابامام.",
+          "Senin yardımın olmadan bunu yapamam.",
+          "لا أستطيع فعل هذا من دون مساعدتك."
+        ],
+        [
+          "Biriniz başlasın, sonra devam ederiz.",
+          "ليبدأ أحدكم، ثم نتابع.",
+          "بيرينيز باشلاسِن، سونرا دڤام إدرِيز.",
+          "Biriniz başlasın, sonra devam ederiz.",
+          "ليبدأ أحدكم، ثم نتابع."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة ونمط الحياة",
+      "words": [
+        [
+          "Daha sağlıklı beslenmeye çalışıyorum.",
+          "أحاول أن أتغذى بشكل أصح.",
+          "دها ساگلِكلي بسْلينمييه تشاليشيووروم.",
+          "Daha sağlıklı beslenmeye çalışıyorum.",
+          "أحاول أن أتغذى بشكل أصح."
+        ],
+        [
+          "Her gün yeterince su içmek önemli.",
+          "شرب كمية كافية من الماء كل يوم مهم.",
+          "هر جون يترينجه سو إيچمك أهملي.",
+          "Her gün yeterince su içmek önemli.",
+          "شرب كمية كافية من الماء كل يوم مهم."
+        ],
+        [
+          "Geç saatte yemek yemek bana iyi gelmiyor.",
+          "الأكل في وقت متأخر لا يناسبني.",
+          "غيت ساعاتِه يمك يمك بينا يي غلميوور.",
+          "Geç saatte yemek yemek bana iyi gelmiyor.",
+          "الأكل في وقت متأخر لا يناسبني."
+        ],
+        [
+          "Düzenli uyursam gün içinde daha enerjik olurum.",
+          "إذا نمت بانتظام فسأكون أكثر نشاطًا خلال النهار.",
+          "دوزنلي يورسام جون إچينده دها إينرجيك أولوروم.",
+          "Düzenli uyursam gün içinde daha enerjik olurum.",
+          "إذا نمت بانتظام فسأكون أكثر نشاطًا خلال النهار."
+        ],
+        [
+          "Hareket etmek stresimi azaltıyor.",
+          "الحركة تقلل توتري.",
+          "هاركيت إتِمك ستريسِمي أزالتييور.",
+          "Hareket etmek stresimi azaltıyor.",
+          "الحركة تقلل توتري."
+        ],
+        [
+          "Uzun süre oturunca sırtım ağrıyor.",
+          "عندما أجلس مدة طويلة يؤلمني ظهري.",
+          "أوزون سورِه أُتورونجا سيرتِم أغيريوور.",
+          "Uzun süre oturunca sırtım ağrıyor.",
+          "عندما أجلس مدة طويلة يؤلمني ظهري."
+        ],
+        [
+          "Kendimi iyi hissetmiyorsam doktora giderim.",
+          "إذا لم أشعر أنني بخير أذهب إلى الطبيب.",
+          "كنديمي يي هِسّتميوورسام دوكْتورا غيدريم.",
+          "Kendimi iyi hissetmiyorsam doktora giderim.",
+          "إذا لم أشعر أنني بخير أذهب إلى الطبيب."
+        ],
+        [
+          "Abur cuburu azaltmak istiyorum.",
+          "أريد تقليل الوجبات السريعة.",
+          "آبور جوبورۇ أزالتمك يستيوروم.",
+          "Abur cuburu azaltmak istiyorum.",
+          "أريد تقليل الوجبات السريعة."
+        ],
+        [
+          "Sabah yürüyüşü bana iyi geliyor.",
+          "المشي الصباحي يفيدني.",
+          "صباح يورويوشو بينا يي غليوور.",
+          "Sabah yürüyüşü bana iyi geliyor.",
+          "المشي الصباحي يفيدني."
+        ],
+        [
+          "Daha çok dinlenirsem daha iyi odaklanırım.",
+          "إذا استرحت أكثر فسأركز أفضل.",
+          "دها تشوك دينلنيرسم دها يي أوداكلانِرِم.",
+          "Daha çok dinlenirsem daha iyi odaklanırım.",
+          "إذا استرحت أكثر فسأركز أفضل."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط لرحلة",
+      "words": [
+        [
+          "Gidiş dönüş biletlerini önceden aldık.",
+          "اشترينا تذاكر الذهاب والإياب مسبقًا.",
+          "غيديش دونوش بيليتلريني أونجِدن آلدِك.",
+          "Gidiş dönüş biletlerini önceden aldık.",
+          "اشترينا تذاكر الذهاب والإياب مسبقًا."
+        ],
+        [
+          "Konaklayacak uygun bir yer buldum.",
+          "وجدت مكانًا مناسبًا للمبيت.",
+          "كوناكلاياجاك أويغون بير يير بولدوم.",
+          "Konaklayacak uygun bir yer buldum.",
+          "وجدت مكانًا مناسبًا للمبيت."
+        ],
+        [
+          "Hava durumuna bakmadan yola çıkmayalım.",
+          "لا نخرج في الطريق من دون التحقق من حالة الطقس.",
+          "هاوا دورومونا باكمادان يولا چِكمايَلِم.",
+          "Hava durumuna bakmadan yola çıkmayalım.",
+          "لا نخرج في الطريق من دون التحقق من حالة الطقس."
+        ],
+        [
+          "Çantama şemsiye ve rahat ayakkabılar koydum.",
+          "وضعت في حقيبتي مظلة وأحذية مريحة.",
+          "تشانتاما شمسِييه ڤه راحات آياكّابيلر قويْدوم.",
+          "Çantama şemsiye ve rahat ayakkabılar koydum.",
+          "وضعت في حقيبتي مظلة وأحذية مريحة."
+        ],
+        [
+          "Şehri yürüyerek gezmeyi planlıyorum.",
+          "أخطط للتجول في المدينة سيرًا على الأقدام.",
+          "شهري يورويرك جزمَيي بلانلييُوروم.",
+          "Şehri yürüyerek gezmeyi planlıyorum.",
+          "أخطط للتجول في المدينة سيرًا على الأقدام."
+        ],
+        [
+          "Erken rezervasyon yaparsak daha ucuz olur.",
+          "إذا حجزنا مبكرًا فسيكون أرخص.",
+          "أركن رزرفاسيون ياپارسك دها أوجوز أولور.",
+          "Erken rezervasyon yaparsak daha ucuz olur.",
+          "إذا حجزنا مبكرًا فسيكون أرخص."
+        ],
+        [
+          "Yanımıza mutlaka kimlik almalıyız.",
+          "يجب أن نأخذ معنا الهوية بالتأكيد.",
+          "يانِمِزا موتلاكا كيمليك ألمانلِييز.",
+          "Yanımıza mutlaka kimlik almalıyız.",
+          "يجب أن نأخذ معنا الهوية بالتأكيد."
+        ],
+        [
+          "Tarihi yerleri görmek istiyorum.",
+          "أريد رؤية الأماكن التاريخية.",
+          "تاريخي يلري غورمك يستيوروم.",
+          "Tarihi yerleri görmek istiyorum.",
+          "أريد رؤية الأماكن التاريخية."
+        ],
+        [
+          "Bir rota hazırlayınca zaman kaybetmiyoruz.",
+          "عندما نضع مسارًا لا نضيع الوقت.",
+          "بير روتا حازيرلايينجا زمان كايتبتميوروز.",
+          "Bir rota hazırlayınca zaman kaybetmiyoruz.",
+          "عندما نضع مسارًا لا نضيع الوقت."
+        ],
+        [
+          "Daha az eşya götürmek yolculuğu kolaylaştırır.",
+          "أخذ أمتعة أقل يسهل الرحلة.",
+          "دها آز إشيا غوتورمك يولجولوغو كولايلاشتِرِر.",
+          "Daha az eşya götürmek yolculuğu kolaylaştırır.",
+          "أخذ أمتعة أقل يسهل الرحلة."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن الرأي باحترام",
+      "words": [
+        [
+          "Bence bu fikir oldukça iyi.",
+          "برأيي هذه الفكرة جيدة جدًا.",
+          "بينجه بو فيكير أولودجا يي.",
+          "Bence bu fikir oldukça iyi.",
+          "برأيي هذه الفكرة جيدة جدًا."
+        ],
+        [
+          "Sana katılmıyorum ama fikrini anlıyorum.",
+          "أنا لا أوافقك لكنني أفهم رأيك.",
+          "سنا كاتيلميووروم أما فيكريني أنلييوروم.",
+          "Sana katılmıyorum ama fikrini anlıyorum.",
+          "أنا لا أوافقك لكنني أفهم رأيك."
+        ],
+        [
+          "Bu noktada biraz farklı düşünüyorum.",
+          "أفكر بشكل مختلف قليلًا في هذه النقطة.",
+          "بو نوكتادا بيراز فركلي ديشونييوروم.",
+          "Bu noktada biraz farklı düşünüyorum.",
+          "أفكر بشكل مختلف قليلًا في هذه النقطة."
+        ],
+        [
+          "Haklı olabilirsin, bunu tekrar değerlendirelim.",
+          "قد تكون محقًا، فلنُعد تقييم هذا.",
+          "حقلي أولابيليرسين، بونو تكنر ديغيرلنديرلِم.",
+          "Haklı olabilirsin, bunu tekrar değerlendirelim.",
+          "قد تكون محقًا، فلنُعد تقييم هذا."
+        ],
+        [
+          "Sözünü kesmek istemem, devam et lütfen.",
+          "لا أريد مقاطعتك، تفضل أكمل.",
+          "سوزونو كسْمك يستمم، دڤام إت لطفن.",
+          "Sözünü kesmek istemem, devam et lütfen.",
+          "لا أريد مقاطعتك، تفضل أكمل."
+        ],
+        [
+          "Benim görüşümce bu daha uygun.",
+          "من وجهة نظري هذا أنسب.",
+          "بينيم غوروشومجه بو دها أويغون.",
+          "Benim görüşümce bu daha uygun.",
+          "من وجهة نظري هذا أنسب."
+        ],
+        [
+          "Belki de başka bir yol denemeliyiz.",
+          "ربما علينا تجربة طريق آخر.",
+          "بلكي ده باشكا بير يول دنيملييم.",
+          "Belki de başka bir yol denemeliyiz.",
+          "ربما علينا تجربة طريق آخر."
+        ],
+        [
+          "Kişisel olarak buna sıcak bakmıyorum.",
+          "شخصيًا لا أميل إلى هذا.",
+          "كِشيسل أولراك بونا سِجاك باكمييوروم.",
+          "Kişisel olarak buna sıcak bakmıyorum.",
+          "شخصيًا لا أميل إلى هذا."
+        ],
+        [
+          "Düşündüğün mantıklı, ama bazı eksikler var.",
+          "ما تقوله منطقي، لكن هناك بعض النواقص.",
+          "ديشوندوغون مانتِكلي، أما بصِ يكسِكلر وار.",
+          "Düşündüğün mantıklı, ama bazı eksikler var.",
+          "ما تقوله منطقي، لكن هناك بعض النواقص."
+        ],
+        [
+          "Saygı duyarak konuşursak daha iyi anlaşırız.",
+          "إذا تحدثنا باحترام فسنتفاهم بشكل أفضل.",
+          "صايگي دويارك كونوشورسك دها يي أنلاشيرِز.",
+          "Saygı duyarak konuşursak daha iyi anlaşırız.",
+          "إذا تحدثنا باحترام فسنتفاهم بشكل أفضل."
+        ]
+      ]
+    },
+    {
+      "topic": "إدارة الوقت",
+      "words": [
+        [
+          "Bugünkü işleri sabaha bırakmamaya çalışıyorum.",
+          "أحاول ألا أؤجل أعمال اليوم إلى الصباح.",
+          "بوغونكو يشلري ساباحا برقمامايا تشاليشِيوروم.",
+          "Bugünkü işleri sabaha bırakmamaya çalışıyorum.",
+          "أحاول ألا أؤجل أعمال اليوم إلى الصباح."
+        ],
+        [
+          "Öncelik listesi hazırlamak bana çok yardımcı oluyor.",
+          "إعداد قائمة أولويات يساعدني كثيرًا.",
+          "أونجليك ليستَسي هازِرلاماق بنه تشوك ياردِمجِ أولويور.",
+          "Öncelik listesi hazırlamak bana çok yardımcı oluyor.",
+          "إعداد قائمة أولويات يساعدني كثيرًا."
+        ],
+        [
+          "Toplantıdan önce notlarımı gözden geçiriyorum.",
+          "أراجع ملاحظاتي قبل الاجتماع.",
+          "توبلانتي دان أونجه نوتلارِمِ غوزدن غِچِرِيوروم.",
+          "Toplantıdan önce notlarımı gözden geçiriyorum.",
+          "أراجع ملاحظاتي قبل الاجتماع."
+        ],
+        [
+          "İşe zamanında yetişmek için erken çıktım.",
+          "خرجت مبكرًا كي أصل إلى العمل في الوقت المناسب.",
+          "إيشي زمانندا يتشك ميك إچين إركن تشِقتِم.",
+          "İşe zamanında yetişmek için erken çıktım.",
+          "خرجت مبكرًا كي أصل إلى العمل في الوقت المناسب."
+        ],
+        [
+          "Arka arkaya işleri yapınca daha çabuk bitiyor.",
+          "عندما أنجز الأعمال تباعًا تنتهي أسرع.",
+          "أرْكا أركايا يشلري يابِنجا داحا جابوك بتيور.",
+          "Arka arkaya işleri yapınca daha çabuk bitiyor.",
+          "عندما أنجز الأعمال تباعًا تنتهي أسرع."
+        ],
+        [
+          "Sürekli telefonuma bakarsam vaktimi kaybederim.",
+          "إذا واصلت النظر إلى هاتفي فسأضيع وقتي.",
+          "سورِكلي تلفونُما باقارساڤ مَقتِمِ كايبِدَريم.",
+          "Sürekli telefonuma bakarsam vaktimi kaybederim.",
+          "إذا واصلت النظر إلى هاتفي فسأضيع وقتي."
+        ],
+        [
+          "Kısa molalar verince daha verimli çalışıyorum.",
+          "عندما آخذ استراحات قصيرة أعمل بكفاءة أكبر.",
+          "كِصا مولالار فِرِنجه داحا فيرِملي تشاليشِيوروم.",
+          "Kısa molalar verince daha verimli çalışıyorum.",
+          "عندما آخذ استراحات قصيرة أعمل بكفاءة أكبر."
+        ],
+        [
+          "Ödevimi son dakikaya bırakmak istemiyorum.",
+          "لا أريد أن أترك واجبي للحظة الأخيرة.",
+          "أودِڤِمي سون داقِكايه برقماماق إستمِيوروم.",
+          "Ödevimi son dakikaya bırakmak istemiyorum.",
+          "لا أريد أن أترك واجبي للحظة الأخيرة."
+        ],
+        [
+          "Daha planlı olursam boş zamanım artar.",
+          "إذا كنت أكثر تنظيمًا سيزداد وقت فراغي.",
+          "داحا پلانلي أولُرسام بوش زمانِم آرتار.",
+          "Daha planlı olursam boş zamanım artar.",
+          "إذا كنت أكثر تنظيمًا سيزداد وقت فراغي."
+        ],
+        [
+          "Bir işi bitirince diğerine geçiyorum.",
+          "بعد أن أنهي مهمة أنتقل إلى الأخرى.",
+          "بير اِشي بيتِرينجه ديغِرِنيه غِتشِيوروم.",
+          "Bir işi bitirince diğerine geçiyorum.",
+          "بعد أن أنهي مهمة أنتقل إلى الأخرى."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات والمناسبات",
+      "words": [
+        [
+          "Doğum gününde onu aradım.",
+          "اتصلت به في عيد ميلاده.",
+          "دوغوم غونونده أونو آرادِم.",
+          "Doğum gününde onu aradım.",
+          "اتصلت به في عيد ميلاده."
+        ],
+        [
+          "Eski dostlarla yeniden görüşmek çok güzel.",
+          "الالتقاء من جديد بالأصدقاء القدامى جميل جدًا.",
+          "إسكِ دوستلارلا يِنِدن غوروشمك تشوك غوزَل.",
+          "Eski dostlarla yeniden görüşmek çok güzel.",
+          "الالتقاء من جديد بالأصدقاء القدامى جميل جدًا."
+        ],
+        [
+          "Nişana çiçek götürdüm.",
+          "أحضرت زهورًا لخطوبة.",
+          "نيشانا تشيچك غوتوردوم.",
+          "Nişana çiçek götürdüm.",
+          "أحضرت زهورًا لخطوبة."
+        ],
+        [
+          "Tören başlamadan önce herkes toplandı.",
+          "اجتمع الجميع قبل أن يبدأ الحفل.",
+          "تورِن باشلامادان أونجه هِر كِس توبلاندِ.",
+          "Tören başlamadan önce herkes toplandı.",
+          "اجتمع الجميع قبل أن يبدأ الحفل."
+        ],
+        [
+          "Aile yemeğinde herkes birbiriyle ilgilendi.",
+          "في عشاء العائلة اهتم الجميع ببعضهم.",
+          "آيله يِمِيغِنده هِر كِس بيربِرييله إلغيلِندِي.",
+          "Aile yemeğinde herkes birbiriyle ilgilendi.",
+          "في عشاء العائلة اهتم الجميع ببعضهم."
+        ],
+        [
+          "Mesajıma geç cevap verdiği için kırıldım.",
+          "انزعجت لأنه رد على رسالتي متأخرًا.",
+          "مِساجِما غِج جڤاب فِردِغي إچين كِرِلدِم.",
+          "Mesajıma geç cevap verdiği için kırıldım.",
+          "انزعجت لأنه رد على رسالتي متأخرًا."
+        ],
+        [
+          "Onunla daha sık konuşmak istiyorum.",
+          "أريد أن أتحدث معه أكثر.",
+          "أونونلا داحا سِك قونوشمَك إستِيوروم.",
+          "Onunla daha sık konuşmak istiyorum.",
+          "أريد أن أتحدث معه أكثر."
+        ],
+        [
+          "Arkadaşım zor günümde beni yalnız bırakmadı.",
+          "صديقي لم يتركني وحدي في يومي الصعب.",
+          "أركاداشِم زور غونومده بنِي يالنىز برَق مادِ.",
+          "Arkadaşım zor günümde beni yalnız bırakmadı.",
+          "صديقي لم يتركني وحدي في يومي الصعب."
+        ],
+        [
+          "Kutlamaya geç kaldığım için özür diledim.",
+          "اعتذرت لأني تأخرت عن الاحتفال.",
+          "كوتلامايا غِج قالدِغِم إچين أوزور دِلدِم.",
+          "Kutlamaya geç kaldığım için özür diledim.",
+          "اعتذرت لأني تأخرت عن الاحتفال."
+        ],
+        [
+          "Sıcak davranınca aramızdaki mesafe azaldı.",
+          "عندما تعاملت بود تراجعت المسافة بيننا.",
+          "سِجاق دَڤرانِنجا آرامِزداقي مَسافه آزالدِ.",
+          "Sıcak davranınca aramızdaki mesafe azaldı.",
+          "عندما تعاملت بود تراجعت المسافة بيننا."
+        ]
+      ]
+    },
+    {
+      "topic": "التعامل مع التغييرات",
+      "words": [
+        [
+          "Yeni kurallara alışmam biraz zaman aldı.",
+          "احتجت بعض الوقت لأتعود على القواعد الجديدة.",
+          "يِني قوراللارا ألِشمام بِراز زمان آلْدِ.",
+          "Yeni kurallara alışmam biraz zaman aldı.",
+          "احتجت بعض الوقت لأتعود على القواعد الجديدة."
+        ],
+        [
+          "Plan değişince hemen panik yapmadım.",
+          "عندما تغيرت الخطة لم أذعر فورًا.",
+          "پلان ديغِشِنجه هِمن پانِك ياپمادِم.",
+          "Plan değişince hemen panik yapmadım.",
+          "عندما تغيرت الخطة لم أذعر فورًا."
+        ],
+        [
+          "Taşınınca çevreme uyum sağlamak zor oldu.",
+          "كان التكيف مع البيئة صعبًا بعد الانتقال.",
+          "تاشِنينجا چَڤرَمه أُيوم ساغلاماق زور أولدو.",
+          "Taşınınca çevreme uyum sağlamak zor oldu.",
+          "كان التكيف مع البيئة صعبًا بعد الانتقال."
+        ],
+        [
+          "Değişikliğe rağmen hedefimden vazgeçmedim.",
+          "لم أتخلَّ عن هدفي رغم التغيير.",
+          "ديغيشِكليغه رغمَن هدفِمدن فازگت مِدِم.",
+          "Değişikliğe rağmen hedefimden vazgeçmedim.",
+          "لم أتخلَّ عن هدفي رغم التغيير."
+        ],
+        [
+          "Yeni görevler başta beni zorladı ama sonra alıştım.",
+          "أرهقتني المهام الجديدة في البداية لكنني اعتدت عليها لاحقًا.",
+          "يِني غورِڤلَر باشتا بنِي زورلادِ أما سونرا ألِشتِم.",
+          "Yeni görevler başta beni zorladı ama sonra alıştım.",
+          "أرهقتني المهام الجديدة في البداية لكنني اعتدت عليها لاحقًا."
+        ],
+        [
+          "Başlangıçta kararsızdım, sonra doğru karar verdiğimi anladım.",
+          "كنت مترددًا في البداية ثم فهمت أنني اتخذت القرار الصحيح.",
+          "باشلانغِچتا قارارسِزدِم، سونرا دوغرو قارار فَردِغيمي أنلادِم.",
+          "Başlangıçta kararsızdım, sonra doğru karar verdiğimi anladım.",
+          "كنت مترددًا في البداية ثم فهمت أنني اتخذت القرار الصحيح."
+        ],
+        [
+          "Beklenmedik haberler bizi biraz sarstı.",
+          "أربكتنا الأخبار غير المتوقعة قليلًا.",
+          "بِكلَنمِدِك هاڤرلَر بِيزي بِراز سارستِ.",
+          "Beklenmedik haberler bizi biraz sarstı.",
+          "أربكتنا الأخبار غير المتوقعة قليلًا."
+        ],
+        [
+          "Yeni ortama girince daha çok dinlemeyi seçtim.",
+          "عندما دخلت بيئة جديدة اخترت أن أستمع أكثر.",
+          "يِني أورتاما غيرِنجه داحا چوك دينلمَيِ سِچتِم.",
+          "Yeni ortama girince daha çok dinlemeyi seçtim.",
+          "عندما دخلت بيئة جديدة اخترت أن أستمع أكثر."
+        ],
+        [
+          "Bazı şeyler değişse de alışkanlıklarımı korudum.",
+          "حتى لو تغيّرت بعض الأشياء حافظت على عاداتي.",
+          "بازِ شيلر ديغِشسه ده ألِشكانلِكلارِمِ قورودوم.",
+          "Bazı şeyler değişse de alışkanlıklarımı korudum.",
+          "حتى لو تغيّرت بعض الأشياء حافظت على عاداتي."
+        ],
+        [
+          "Değişim kolay olmadı ama sonunda faydasını gördüm.",
+          "لم يكن التغيير سهلًا لكنني رأيت فائدته في النهاية.",
+          "ديغيشِم قولاي أولمادِ أما سونوندا فايداسِني غوردوم.",
+          "Değişim kolay olmadı ama sonunda faydasını gördüm.",
+          "لم يكن التغيير سهلًا لكنني رأيت فائدته في النهاية."
+        ]
+      ]
+    },
+    {
+      "topic": "التعلم من الأخطاء",
+      "words": [
+        [
+          "Hata yapınca nedenini hemen araştırıyorum.",
+          "عندما أخطئ أبحث عن السبب فورًا.",
+          "هاتا ياپِنجا نِدينِني هِمن آراشتِرِيوروم.",
+          "Hata yapınca nedenini hemen araştırıyorum.",
+          "عندما أخطئ أبحث عن السبب فورًا."
+        ],
+        [
+          "Bu ders bana sabırlı olmayı öğretti.",
+          "هذا الدرس علمني أن أكون صبورًا.",
+          "بو درس بانا سَبِرلي أولماءِ اوغْرَتْتي.",
+          "Bu ders bana sabırlı olmayı öğretti.",
+          "هذا الدرس علمني أن أكون صبورًا."
+        ],
+        [
+          "Aynı yanlışı tekrar etmemeye dikkat ediyorum.",
+          "أحرص على ألا أكرر الخطأ نفسه.",
+          "آينِ يانلغشِ تكرار إتmemeye dikkat ediyorum.",
+          "Aynı yanlışı tekrar etmemeye dikkat ediyorum.",
+          "أحرص على ألا أكرر الخطأ نفسه."
+        ],
+        [
+          "Eleştiriyi kişisel almamaya çalışıyorum.",
+          "أحاول ألا آخذ النقد بشكل شخصي.",
+          "إلِشتِريي كِشِسَل آلمامايه تشاليشِيوروم.",
+          "Eleştiriyi kişisel almamaya çalışıyorum.",
+          "أحاول ألا آخذ النقد بشكل شخصي."
+        ],
+        [
+          "Geç kaldığımda bahane üretmek yerine özür dilerim.",
+          "عندما أتأخر أعتذر بدلًا من اختراع الأعذار.",
+          "غِج قالدِغِمدا باهانه أُرِتْمَك يِرِنه أوزور دِلَرِم.",
+          "Geç kaldığımda bahane üretmek yerine özür dilerim.",
+          "عندما أتأخر أعتذر بدلًا من اختراع الأعذار."
+        ],
+        [
+          "Yanlış anlaşılınca açıklama yapmayı seçtim.",
+          "عندما حصل سوء فهم اخترت أن أوضح الأمر.",
+          "يانلغش أنلاشِلنچا آچِقلاما ياپمايِ سِچتِم.",
+          "Yanlış anlaşılınca açıklama yapmayı seçtim.",
+          "عندما حصل سوء فهم اخترت أن أوضح الأمر."
+        ],
+        [
+          "Deneyim kazanmak için hatalarıma bakıyorum.",
+          "أنظر إلى أخطائي لاكتساب الخبرة.",
+          "دِنييِم قازانمَك إچين هاتالارِما باقرِيم.",
+          "Deneyim kazanmak için hatalarıma bakıyorum.",
+          "أنظر إلى أخطائي لاكتساب الخبرة."
+        ],
+        [
+          "Bu kez daha dikkatli davranıp daha iyi sonuç aldım.",
+          "في هذه المرة تصرفت بحذر أكبر وحصلت على نتيجة أفضل.",
+          "بو كِز داحا دَقتلي دَڤرانِپ داحا يِي سونوج آلدِم.",
+          "Bu kez daha dikkatli davranıp daha iyi sonuç aldım.",
+          "في هذه المرة تصرفت بحذر أكبر وحصلت على نتيجة أفضل."
+        ],
+        [
+          "Hata yaptığım için utanmak yerine ders çıkardım.",
+          "بدلًا من أن أخجل من خطئي استفدت منه.",
+          "هاتا ياپتِغِم إچين أوتانمَك يِرِنه درس جِقارْدِم.",
+          "Hata yaptığım için utanmak yerine ders çıkardım.",
+          "بدلًا من أن أخجل من خطئي استفدت منه."
+        ],
+        [
+          "Yanlışımı kabul edince daha hızlı geliştim.",
+          "عندما اعترفت بخطئي تطورت أسرع.",
+          "يانلغشِمِ قَبول إتِنجه داحا حِزلِ غِليشْتِم.",
+          "Yanlışımı kabul edince daha hızlı geliştim.",
+          "عندما اعترفت بخطئي تطورت أسرع."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

@@ -3,7 +3,7 @@ import { useCreateWordoraAudio } from '@workspace/api-client-react';
 import { Loader2, RotateCcw, Square, Volume2 } from 'lucide-react';
 import type { LanguageId } from '../../data';
 
-export const langCode: Record<LanguageId, string> = { english: 'en', french: 'fr', spanish: 'es', german: 'de', italian: 'it' };
+export const langCode: Record<LanguageId, string> = { english: 'en', french: 'fr', spanish: 'es', german: 'de', italian: 'it', turkish: 'tr' };
 const urlCache = new Map<string, string>();
 export const soundOn = () => { try { const raw = localStorage.getItem('wordora-preferences-v1'); if (!raw) return true; const p = JSON.parse(raw); return p.sound !== false; } catch { return true; } };
 let activeAudio: HTMLAudioElement | null = null;

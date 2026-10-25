@@ -44,6 +44,7 @@ export const TutorChatInputLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;
 
 export interface TutorChatInput {
@@ -68,6 +69,7 @@ export const LearningAudioInputLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;
 
 export interface LearningAudioInput {
@@ -140,6 +142,7 @@ export const WordoraProgressSelectedLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;
 
 export type WordoraProgressQuizAttempts = {[key: string]: number};
@@ -176,6 +179,7 @@ export const WordoraProgressInputSelectedLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;
 
 export type WordoraProgressInputQuizAttempts = {[key: string]: number};

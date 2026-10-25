@@ -3,7 +3,7 @@ import { openai } from "@workspace/integrations-openai-ai-server";
 import { objectStorageClient, ObjectStorageService } from "./objectStorage";
 
 export const languageNames: Record<string, string> = {
-  english: "English", french: "French", spanish: "Spanish", german: "German", italian: "Italian",
+  english: "English", french: "French", spanish: "Spanish", german: "German", italian: "Italian", turkish: "Turkish",
 };
 export function publicMediaFile(name: string) {
   const path = new ObjectStorageService().getPublicObjectSearchPaths()[0];

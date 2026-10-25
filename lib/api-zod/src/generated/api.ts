@@ -29,7 +29,7 @@ export const sendWordoraChatBodyMessagesMax = 20;
 
 
 export const SendWordoraChatBody = zod.object({
-  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian']),
+  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian', 'turkish']),
   "messages": zod.array(zod.object({
   "role": zod.enum(['user', 'assistant']),
   "content": zod.string().min(1).max(sendWordoraChatBodyMessagesItemContentMax)
@@ -46,7 +46,7 @@ export const createWordoraAudioBodyTextMax = 400;
 
 
 export const CreateWordoraAudioBody = zod.object({
-  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian']),
+  "language": zod.enum(['english', 'french', 'spanish', 'german', 'italian', 'turkish']),
   "text": zod.string().min(1).max(createWordoraAudioBodyTextMax)
 })
 
@@ -102,7 +102,7 @@ export const getWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
 
 
 export const GetWordoraProgressResponse = zod.object({
-  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal(null)]).nullable(),
+  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal('turkish'),zod.literal(null)]).nullable(),
   "completedLessons": zod.array(zod.string()),
   "savedWords": zod.array(zod.string()),
   "points": zod.number().int().min(getWordoraProgressResponsePointsMin),
@@ -154,7 +154,7 @@ export const saveWordoraProgressBodyDailyActivityReviewedWordIdsMax = 3000;
 
 
 export const SaveWordoraProgressBody = zod.object({
-  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal(null)]).nullable(),
+  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal('turkish'),zod.literal(null)]).nullable(),
   "completedLessons": zod.array(zod.string()),
   "savedWords": zod.array(zod.string()),
   "points": zod.number().int().min(saveWordoraProgressBodyPointsMin),
@@ -202,7 +202,7 @@ export const saveWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
 
 
 export const SaveWordoraProgressResponse = zod.object({
-  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal(null)]).nullable(),
+  "selectedLanguage": zod.union([zod.literal('english'),zod.literal('french'),zod.literal('spanish'),zod.literal('german'),zod.literal('italian'),zod.literal('turkish'),zod.literal(null)]).nullable(),
   "completedLessons": zod.array(zod.string()),
   "savedWords": zod.array(zod.string()),
   "points": zod.number().int().min(saveWordoraProgressResponsePointsMin),

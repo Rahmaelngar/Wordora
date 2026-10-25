@@ -65,10 +65,16 @@ content-matched narrated clip for every entry, generated on first request.
 `intro.tsx` shows the original logo briefly at each app load, with a skip button,
 without replaying the introduction on in-app navigation.
 
-The curriculum has 210 short lessons and 2250 learning entries across five languages:
+The curriculum has 255 short lessons and 2700 learning entries across six languages
+(English, French, Spanish, German, Italian and Turkish):
 100 A1, 150 A2 and 200 B1 entries per language. The original 55 lessons/IDs remain
 intact. `src/curriculum/*.json` contains the additions; B1 additions use complete
 sentences with matching full-sentence Arabic meanings and approximate pronunciation.
+Turkish has 450 entries across 45 short lessons. Recognition uses `tr-TR`;
+written-answer normalization preserves the Turkish dotted/dotless-I distinction.
+Reviewed editorial fixes are applied by `content-corrections.ts`, without changing
+word IDs or saved progress. Automated audit suggestions are reviewed, not applied
+blindly: valid French “je suis” can mean “I follow,” not only “I am.”
 When a four-word summary checkpoint is loaded after this expansion, the learner
 resumes at the first new word; saved words, points and completed-lesson IDs stay
 unchanged. Completion rewards are not granted again for previously completed lessons.

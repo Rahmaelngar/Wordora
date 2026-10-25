@@ -2,11 +2,11 @@ import { useEffect, useRef, useState } from 'react';
 import { Mic, MicOff, TriangleAlert } from 'lucide-react';
 import type { LanguageId } from '../../data';
 
-export const bcp47: Record<LanguageId, string> = { english: 'en-US', french: 'fr-FR', spanish: 'es-ES', german: 'de-DE', italian: 'it-IT' };
+export const bcp47: Record<LanguageId, string> = { english: 'en-US', french: 'fr-FR', spanish: 'es-ES', german: 'de-DE', italian: 'it-IT', turkish: 'tr-TR' };
 type Rec = { lang: string; interimResults: boolean; maxAlternatives: number; continuous: boolean; start(): void; stop(): void; abort(): void;
   onresult: ((e: { results: ArrayLike<ArrayLike<{ transcript: string }>> }) => void) | null; onerror: ((e: { error: string }) => void) | null; onend: (() => void) | null };
 const getCtor = (): (new () => Rec) | null => { const w = window as unknown as Record<string, unknown>; return (w.SpeechRecognition || w.webkitSpeechRecognition || null) as (new () => Rec) | null; };
-const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^\p{L}\p{N}\s]/gu, ' ').toLocaleLowerCase().split(/\s+/).filter(Boolean);
+const norm = (s: string, locale: string) => s.toLocaleLowerCase(locale).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^\p{L}\p{N}\s]/gu, ' ').split(/\s+/).filter(Boolean);
 
 export function PronunciationPractice({ language, target, testId = 'pronunciation' }: { language: LanguageId; target: string; testId?: string }) {
   const Ctor = getCtor();
@@ -29,8 +29,8 @@ export function PronunciationPractice({ language, target, testId = 'pronunciatio
     } catch { setError('تعذّر بدء الاستماع.'); setStatus('error'); cleanup(); }
   };
   const stop = () => { const r = recRef.current; if (r) { try { r.stop(); } catch { cleanup(); } } };
-  const t = norm(target), counts = new Map<string, number>();
-  for (const word of norm(heard)) counts.set(word, (counts.get(word) || 0) + 1);
+  const t = norm(target, bcp47[language]), counts = new Map<string, number>();
+  for (const word of norm(heard, bcp47[language])) counts.set(word, (counts.get(word) || 0) + 1);
   const matched = t.filter(word => { const count = counts.get(word) || 0; if (!count) return false; counts.set(word, count - 1); return true; }).length;
   return <section className="pron-card" data-testid={testId}>
     <div className="pron-head"><span className="pron-icon"><Mic size={17} /></span><div><strong>تدرّب على النطق</strong><small>قل العبارة بصوتك، وسنعرض الكلمات التي التقطها المتصفح.</small></div></div>

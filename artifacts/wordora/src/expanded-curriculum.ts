@@ -14,6 +14,9 @@ import germanB1 from './curriculum/german-B1.json';
 import italianA1 from './curriculum/italian-A1.json';
 import italianA2 from './curriculum/italian-A2.json';
 import italianB1 from './curriculum/italian-B1.json';
+import turkishA1 from './curriculum/turkish-A1.json';
+import turkishA2 from './curriculum/turkish-A2.json';
+import turkishB1 from './curriculum/turkish-B1.json';
 
 const packets: Record<LanguageId, Record<Level, typeof englishA1>> = {
   english: { A1: englishA1, A2: englishA2, B1: englishB1 },
@@ -21,11 +24,13 @@ const packets: Record<LanguageId, Record<Level, typeof englishA1>> = {
   spanish: { A1: spanishA1, A2: spanishA2, B1: spanishB1 },
   german: { A1: germanA1, A2: germanA2, B1: germanB1 },
   italian: { A1: italianA1, A2: italianA2, B1: italianB1 },
+  turkish: { A1: turkishA1, A2: turkishA2, B1: turkishB1 },
 };
 
 export const expandedCurriculum: Lesson[] = Object.entries(packets).flatMap(([language, levels]) =>
   (['A1', 'A2', 'B1'] as const).flatMap(level => levels[level].lessons.map((chapter, index) => {
-    const id = `${language}-${level.toLowerCase()}-expand-${index + 1}`;
+    const id = language === 'turkish' && level === 'A1' && index === 0
+      ? 'turkish-1' : `${language}-${level.toLowerCase()}-expand-${index + 1}`;
     return {
       id, languageId: language as LanguageId, level, topic: chapter.topic,
       words: chapter.words.map(([term, arabicMeaning, pronunciation, example, exampleArabic], wordIndex) => ({

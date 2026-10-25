@@ -16,6 +16,7 @@ export function MediaLesson({ language }: { language: LanguageId }) {
   const [audioError, setAudioError] = useState(false);
   const enabled = soundOn();
   useEffect(() => { for (const el of [videoRef.current, audioRef.current]) if (el) { el.pause(); el.currentTime = 0; el.load(); } }, [language]);
+  if (!transcript.length) return <p className="notice">فيديوهات التركية متاحة داخل شاشة كل كلمة، مع النص والترجمة العربية.</p>;
   return <section className="media-lesson" data-testid="section-media-lesson">
     <div className="media-head"><div><div className="hero-kicker">شاهد واستمع</div><h2>درس التحية المروي — {info.arabicName}</h2></div><span className="ai-label" data-testid="label-ai-media">وسائط مُولّدة بالذكاء الاصطناعي</span></div>
     <div className="media-grid">

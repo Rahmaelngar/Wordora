@@ -1,7 +1,7 @@
 import { pgTable, jsonb, text, timestamp } from "drizzle-orm/pg-core";
 
 export type WordoraProgressData = {
-  selectedLanguage: "english" | "french" | "spanish" | "german" | "italian" | null;
+  selectedLanguage: "english" | "french" | "spanish" | "german" | "italian" | "turkish" | null;
   completedLessons: string[];
   savedWords: string[];
   points: number;

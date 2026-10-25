@@ -1,10 +1,10 @@
-import type { LanguageId, Lesson, Word } from './data';
+import type { LegacyLanguageId, Lesson, Word } from './data';
 
 type Phrase = [term: string, pronunciation: string, example: string];
 type ExtraTopic = {
   meanings: [string, string];
   examplesArabic: [string, string];
-  phrases: Record<LanguageId, [Phrase, Phrase]>;
+  phrases: Record<LegacyLanguageId, [Phrase, Phrase]>;
 };
 
 // Append-only curriculum additions: existing word IDs and ordering stay stable.
@@ -133,6 +133,7 @@ const extraTopics: Record<string, ExtraTopic> = {
 };
 
 export function additionalWords(lesson: Lesson): Word[] {
+  if (lesson.languageId === 'turkish') return [];
   const topic = extraTopics[lesson.id.slice(lesson.languageId.length + 1)];
   if (!topic) return [];
   return topic.phrases[lesson.languageId].map(([term, pronunciation, example], index) => ({

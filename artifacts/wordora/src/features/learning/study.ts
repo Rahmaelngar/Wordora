@@ -24,7 +24,7 @@ export function nextLessonFor(lesson: Lesson, completed: string[]): { next: Less
   return { next, locked: !!next && !isLessonUnlocked(next, completed) };
 }
 
-export const isGreetingLesson = (lesson: Lesson) => lesson.id === `${lesson.languageId}-1` && lesson.level === 'A1';
+export const isGreetingLesson = (lesson: Lesson) => lesson.languageId !== 'turkish' && lesson.id === `${lesson.languageId}-1` && lesson.level === 'A1';
 
 export function readStudy(progress: WordoraProgress, lesson: Lesson): LessonStudy | null {
   return mergeLessonStudy(progress.lessonStudy)[lesson.id] ?? null;

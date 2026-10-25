@@ -3,13 +3,13 @@ name: Wordora audience and learning scope
 description: Product constraints for the Arabic-first language-learning app.
 ---
 
-Wordora serves Arabic-speaking learners. Keep explanations, meanings, and learner-facing guidance in Arabic. The target languages are English, French, Spanish, German, and Italian. A1 starts open; A2 and B1 should unlock through lesson completion.
+Wordora serves Arabic-speaking learners. Keep explanations, meanings, and learner-facing guidance in Arabic. The target languages are English, French, Spanish, German, Italian, and Turkish (explicitly requested). A1 starts open; A2 and B1 should unlock through lesson completion.
 
 **Why:** The user specified these as product requirements; they define the audience and supported learning scope.
 
 **How to apply:** Keep future content and UI Arabic-first. Do not replace the target languages or level progression without an explicit request.
 
-The user explicitly chose **100 learning entries in A1, 150 in A2, and 200 in B1 per language**, not 100 entries per lesson. Keep levels ordered A1 → A2 → B1, with more complete sentences at higher levels, and apply the same scope to all five languages.
+The user explicitly chose **100 learning entries in A1, 150 in A2, and 200 in B1 per language**, not 100 entries per lesson. Keep levels ordered A1 → A2 → B1, with more complete sentences at higher levels, and apply the same scope to all supported languages, including Turkish.
 
 **Why:** The user repeated that a small four/six-word expansion was insufficient, insisted all languages receive the changes, and selected these per-level counts after clarification.
 

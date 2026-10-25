@@ -14,7 +14,7 @@ for (const name of ["wordora-learning", "wordora-conversation"]) {
   console.log(`Uploaded ${name}`);
 }
 const font = execFileSync("fc-match", ["-f", "%{file}", "DejaVu Sans"], { encoding: "utf8" }).trim();
-await batchProcess(languages, async language => {
+await batchProcess(languages.filter(language => greetingTranscript[language.id].length > 0), async language => {
   const transcript = greetingTranscript[language.id];
   const audioPath = resolve(output, `lesson-${language.id}.wav`);
   try { await access(audioPath); } catch {

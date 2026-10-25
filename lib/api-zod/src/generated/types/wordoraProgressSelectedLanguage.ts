@@ -18,4 +18,5 @@ export const WordoraProgressSelectedLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;

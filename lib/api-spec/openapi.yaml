@@ -167,7 +167,7 @@ components:
       properties:
         language:
           type: string
-          enum: [english, french, spanish, german, italian]
+          enum: [english, french, spanish, german, italian, turkish]
         messages:
           type: array
           minItems: 1
@@ -186,7 +186,7 @@ components:
       properties:
         language:
           type: string
-          enum: [english, french, spanish, german, italian]
+          enum: [english, french, spanish, german, italian, turkish]
         text:
           type: string
           minLength: 1
@@ -259,7 +259,7 @@ components:
       properties:
         selectedLanguage:
           type: ["string", "null"]
-          enum: [english, french, spanish, german, italian, null]
+          enum: [english, french, spanish, german, italian, turkish, null]
         completedLessons:
           type: array
           items:
@@ -303,7 +303,7 @@ components:
       properties:
         selectedLanguage:
           type: ["string", "null"]
-          enum: [english, french, spanish, german, italian, null]
+          enum: [english, french, spanish, german, italian, turkish, null]
         completedLessons:
           type: array
           items:

@@ -4,6 +4,8 @@ import { getDailyPlan, getReviewPool, mergeDailyActivity, recordDailyActivity } 
 import { mergeLessonStudy } from '../artifacts/wordora/src/features/learning/study-persistence';
 import { greetingTranscript } from '../artifacts/wordora/src/features/learning/greeting-transcript';
 import { getClozeTarget, maskCloze } from '../artifacts/wordora/src/features/learning/quiz-cloze';
+import { normalizeLearningAnswer } from '../artifacts/wordora/src/features/learning/answer-normalization';
+import { isLevelUnlocked } from '../artifacts/wordora/src/features/learning/study';
 import type { WordoraProgress } from '../lib/api-client-react/src/index';
 
 const normalize = (value: string) => value.normalize('NFD').replace(/\p{M}/gu, '').replace(/[^\p{L}\p{N}]/gu, '').toLowerCase();
@@ -13,8 +15,27 @@ const empty = (): WordoraProgress => ({
   selectedLanguage: null, completedLessons: [], savedWords: [], points: 77, streak: 0,
   lastActiveDate: null, quizAttempts: {}, lessonStudy: {}, dailyActivity: {},
 });
-assert.equal(lessons.length, 210);
+assert.equal(languages.length, 6);
+assert.equal(lessons.length, 255);
+assert.equal(normalizeLearningAnswer('IŞIK', 'turkish'), normalizeLearningAnswer('ışık', 'turkish'));
+assert.equal(normalizeLearningAnswer('İYİ', 'turkish'), normalizeLearningAnswer('iyi', 'turkish'));
+assert.notEqual(normalizeLearningAnswer('I', 'turkish'), normalizeLearningAnswer('İ', 'turkish'));
+assert.equal(normalizeLearningAnswer('STRASSE', 'german'), normalizeLearningAnswer('Straße', 'german'));
+assert.equal(normalizeLearningAnswer('  good   morning ', 'english'), 'good morning');
 for (const language of languages) {
+  const languageLessons = lessons.filter(lesson => lesson.languageId === language.id);
+  const levelOrder = languageLessons.map(lesson => ['A1', 'A2', 'B1'].indexOf(lesson.level));
+  assert.deepEqual(levelOrder, [...levelOrder].sort((a, b) => a - b));
+  const a1 = languageLessons.filter(lesson => lesson.level === 'A1').slice(0, 4).map(lesson => lesson.id);
+  const a2 = languageLessons.filter(lesson => lesson.level === 'A2').slice(0, 2).map(lesson => lesson.id);
+  assert.ok(isLevelUnlocked([], language.id, 'A1'));
+  assert.ok(!isLevelUnlocked(a1.slice(0, 3), language.id, 'A2'));
+  assert.ok(isLevelUnlocked(a1, language.id, 'A2'));
+  assert.ok(!isLevelUnlocked(a1, language.id, 'B1'));
+  assert.ok(isLevelUnlocked([...a1, ...a2], language.id, 'B1'));
+  const foreignIds = lessons.filter(lesson => lesson.languageId !== language.id).map(lesson => lesson.id);
+  assert.ok(!isLevelUnlocked(foreignIds, language.id, 'A2'));
+  assert.ok(!isLevelUnlocked(foreignIds, language.id, 'B1'));
   for (const [level, target] of [['A1', 100], ['A2', 150], ['B1', 200]] as const) {
     const words = lessons.filter(lesson => lesson.languageId === language.id && lesson.level === level).flatMap(lesson => lesson.words);
     assert.equal(words.length, target, `${language.id}/${level}`);
@@ -31,8 +52,8 @@ for (const language of languages) {
     }
   }
   // Every original lesson and its six IDs remains addressable.
-  const original = lessons.filter(lesson => lesson.languageId === language.id && !lesson.id.includes('-expand-'));
-  assert.equal(original.length, 11);
+  const original = lessons.filter(lesson => lesson.languageId === language.id && language.id !== 'turkish' && !lesson.id.includes('-expand-'));
+  assert.equal(original.length, language.id === 'turkish' ? 0 : 11);
   for (const lesson of original) {
     assert.equal(lesson.words.length, 6);
     for (let i = 1; i <= 6; i++) assert.equal(lesson.words[i - 1].id, `${lesson.id}-${i}`);
@@ -68,7 +89,7 @@ for (const language of languages) {
   const merged = mergeDailyActivity(progress.dailyActivity, duplicate.dailyActivity);
   assert.equal(merged['2026-10-25'].reviewedWordIds.length, 3);
 }
-assert.equal(ids.size, 2250);
+assert.equal(ids.size, 2700);
 assert.deepEqual(mergeDailyActivity({ invalid: {}, '2026-02-31': {} }), {});
 for (const [minutes, words] of [[5, 3], [10, 5], [15, 8], [20, 10]]) assert.equal(getDailyPlan(empty(), 'english', minutes, now).wordTarget, words);
-console.log('PASS: 2250 entries / 210 lessons; exact 100/150/200 in all 5 languages; original IDs and checkpoints; real daily activity, unique reviews, streak dates, goal sizes, and no replay points.');
+console.log('PASS: 2700 entries / 255 lessons; exact 100/150/200 in all 6 languages; original IDs and checkpoints; Turkish casing, cloze gaps, real daily activity, unique reviews, streak dates, goals, and no replay points.');

@@ -15,4 +15,5 @@ export const LearningAudioInputLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;

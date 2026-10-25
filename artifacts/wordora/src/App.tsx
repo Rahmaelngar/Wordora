@@ -16,6 +16,7 @@ import { assetUrl } from './features/learning/media';
 import { GreetingVideo } from './features/learning/lesson-video';
 import { WordVideo } from './features/learning/word-video';
 import { getClozeTarget, maskCloze as maskTarget } from './features/learning/quiz-cloze';
+import { normalizeLearningAnswer } from './features/learning/answer-normalization';
 import { IntroCover, useIntroGate } from './features/learning/intro';
 import { isGreetingLesson, isLessonUnlocked, isLevelUnlocked, levelRules, nextLessonFor, readStudy, requiredFor, writeStudy } from './features/learning/study';
 import { GptIeon } from './features/learning/chat';
@@ -32,6 +33,8 @@ const clerkProxyUrl = import.meta.env.VITE_CLERK_PROXY_URL;
 type ProgressData = WordoraProgress;
 const emptyProgress = (): ProgressData => ({ selectedLanguage: null, completedLessons: [], savedWords: [], points: 0, streak: 0, lastActiveDate: null, quizAttempts: {}, lessonStudy: {}, dailyActivity: {} });
 const localKey = 'wordora-progress-v1';
+const validLanguage = (value: unknown): LanguageId | null => languages.find(language => language.id === value)?.id ?? null;
+const languageHint = () => { try { return validLanguage(localStorage.getItem('wordora-language-hint')); } catch { return null; } };
 const progressStorageKey = (userId?: string | null) => userId ? `${localKey}:user:${userId}` : localKey;
 const readLocal = (key = localKey): ProgressData => {
   try { const raw = localStorage.getItem(key); const parsed = raw ? JSON.parse(raw) : {}; return { ...emptyProgress(), ...parsed, lessonStudy: mergeLessonStudy(parsed?.lessonStudy), dailyActivity: mergeDailyActivity(parsed?.dailyActivity) }; } catch { return emptyProgress(); }
@@ -236,13 +239,13 @@ function Landing() {
 }
 function SelectLanguage() {
   const { progress, updateProgress } = useApp();
-  const initialHint = (() => { try { return localStorage.getItem('wordora-language-hint') as LanguageId | null; } catch { return null; } })();
+  const initialHint = languageHint();
   const current = progress.selectedLanguage || initialHint || 'english';
   return <label className="select-language"><span style={{fontWeight:700,color:'#655b77'}}>أتعلّم</span><select aria-label="اختر اللغة" value={current} onChange={(e)=>updateProgress(old=>({...old,selectedLanguage:e.target.value as LanguageId}))} data-testid="select-learning-language">{languages.map(l=><option value={l.id} key={l.id}>{l.arabicName} — {l.name}</option>)}</select></label>;
 }
 function LearnPage() {
   const { progress, updateProgress, localOnly, cloudError } = useApp();
-  const lang = progress.selectedLanguage || (localStorage.getItem('wordora-language-hint') as LanguageId) || 'english';
+  const lang = validLanguage(progress.selectedLanguage) || languageHint() || 'english';
   const language = languages.find(l=>l.id===lang)!;
   useEffect(()=>{if(!progress.selectedLanguage)updateProgress(old=>old.selectedLanguage?old:{...old,selectedLanguage:lang});},[progress.selectedLanguage,lang,updateProgress]);
   return <main className="page-wrap app-main">
@@ -371,8 +374,8 @@ function buildQuiz(lesson:Lesson):QuizQuestion[] {
     return {word,pair,kind,choices,answer,prompt};
   });
 }
-const normalizeAnswer=(value:string)=>value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^\p{L}\p{N}\s]/gu,'').trim().toLocaleLowerCase();
 function Quiz({lesson,onComplete}:{lesson:Lesson;onComplete:(score:number,total:number,correctWordIds:string[])=>void}) {
+  const normalizeAnswer=(value:string)=>normalizeLearningAnswer(value,lesson.languageId);
   const questions=useMemo(()=>buildQuiz(lesson),[lesson.id]);
   const [qIndex,setQIndex]=useState(0);
   const [answer,setAnswer]=useState('');
@@ -465,7 +468,17 @@ function SettingsPage() {
   return <main className="page-wrap app-main"><h1 className="page-title">الإعدادات</h1><p className="page-subtitle">عدّل تجربتك لتناسب يومك. تُحفظ الخيارات على هذا الجهاز.</p><section className="panel" style={{maxWidth:720}}><h2 style={{marginTop:0,color:'#3c2b70'}}>تفضيلات التعلّم</h2><label className="field"><span>هدفك اليومي</span><select value={prefs.dailyGoal} onChange={e=>setPrefs(old=>({...old,dailyGoal:Number(e.target.value)}))} data-testid="select-daily-goal"><option value={5}>٥ دقائق</option><option value={10}>١٠ دقائق</option><option value={15}>١٥ دقيقة</option><option value={20}>٢٠ دقيقة</option></select></label><div className="toggle-row"><div><strong>الصوت</strong><small>إتاحة الاستماع إلى نطق الكلمات والأمثلة</small></div><button className={`toggle ${prefs.sound?'on':''}`} onClick={()=>toggle('sound')} aria-label="تفعيل الصوت" aria-pressed={prefs.sound} data-testid="toggle-sound"><span/></button></div><div className="toggle-row"><div><strong>الوضع الليلي</strong><small>واجهة مريحة للإضاءة المنخفضة</small></div><button className={`toggle ${prefs.darkMode?'on':''}`} onClick={()=>toggle('darkMode')} aria-label="تفعيل الوضع الليلي" aria-pressed={prefs.darkMode} data-testid="toggle-dark-mode"><span/></button></div><div className="notice" style={{marginTop:20}}>تفضيلاتك محفوظة محلياً في متصفحك.</div></section></main>;
 }
 function AboutPage() {
-  return <main className="page-wrap app-main"><div className="hero-kicker">عن Wordora</div><h1 className="page-title" style={{marginTop:10}}>الكلمات تفتح عوالم جديدة.</h1><p className="page-subtitle" style={{maxWidth:720}}>Wordora مساحة تعلّم لغات للناطقين بالعربية، صُممت لتجعل البداية بسيطة ومشجعة. نؤمن أن جملة واحدة تقولها بثقة قد تكون بداية حكاية جديدة.</p><div className="feature-grid"><article className="feature-panel"><BookOpen size={24}/><h3>بدايات واضحة</h3><p>محتوى A1 عملي مقسّم إلى موضوعات مألوفة، من التحية إلى السفر.</p></article><article className="feature-panel alt"><Globe2 size={24}/><h3>خمس لغات، خطوة واحدة</h3><p>الإنجليزية والفرنسية والإسبانية والألمانية والإيطالية — تعلّم من خلال العربية.</p></article></div><div className="panel" style={{marginTop:18,maxWidth:760}}><h2 style={{marginTop:0,color:'#3c2b70'}}>خصوصيتك أولاً</h2><p style={{lineHeight:1.8,color:'#777286',marginBottom:0}}>يمكنك تجربة Wordora دون حساب. يُحفظ تقدّم الملف المحلي على جهازك، وعند إنشاء حساب يمكنك مزامنته. لا نعرض إحصاءات تقديرية؛ إنجازك يعكس ما أنهيته فعلاً.</p></div><Link href="/contact" className="btn btn-primary" style={{marginTop:22}} data-testid="link-about-contact">تواصل معنا</Link></main>;
+  return <main className="page-wrap app-main">
+    <div className="hero-kicker">عن Wordora</div>
+    <h1 className="page-title" style={{marginTop:10}}>الكلمات تفتح عوالم جديدة.</h1>
+    <p className="page-subtitle" style={{maxWidth:720}}>Wordora مساحة تعلّم لغات للناطقين بالعربية، صُممت لتجعل البداية بسيطة ومشجعة. نؤمن أن جملة واحدة تقولها بثقة قد تكون بداية حكاية جديدة.</p>
+    <div className="feature-grid">
+      <article className="feature-panel"><BookOpen size={24}/><h3>مستويات مرتبة وواضحة</h3><p>A1 للمبتدئين، ثم A2، ثم B1: كلمات وعبارات وجمل تتدرّج في الصعوبة، مع النطق والترجمة العربية.</p></article>
+      <article className="feature-panel alt"><Globe2 size={24}/><h3>{languages.length} لغات، خطوة واحدة</h3><p>{languages.map(language=>language.arabicName).join('، ')} — تعلّم من خلال العربية.</p></article>
+    </div>
+    <div className="panel" style={{marginTop:18,maxWidth:760}}><h2 style={{marginTop:0,color:'#3c2b70'}}>خصوصيتك أولاً</h2><p style={{lineHeight:1.8,color:'#777286',marginBottom:0}}>يمكنك تجربة Wordora دون حساب. يُحفظ تقدّم الملف المحلي على جهازك، وعند إنشاء حساب يمكنك مزامنته. لا نعرض إحصاءات تقديرية؛ إنجازك يعكس ما أنهيته فعلاً.</p></div>
+    <Link href="/contact" className="btn btn-primary" style={{marginTop:22}} data-testid="link-about-contact">تواصل معنا</Link>
+  </main>;
 }
 function ContactPage() {
   const [subject,setSubject]=useState('ملاحظة حول Wordora');const [message,setMessage]=useState('');

@@ -15,4 +15,5 @@ export const TutorChatInputLanguage = {
   spanish: 'spanish',
   german: 'german',
   italian: 'italian',
+  turkish: 'turkish',
 } as const;

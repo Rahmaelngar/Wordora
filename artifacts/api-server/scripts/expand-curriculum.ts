@@ -4,19 +4,34 @@ import { openai } from "@workspace/integrations-openai-ai-server";
 import { languages, lessons } from "../../wordora/src/data";
 
 const directory = resolve(import.meta.dirname, "../../wordora/src/curriculum");
-const baseLessons = lessons.filter(lesson => !lesson.id.includes("-expand-"));
+const baseLessons = lessons.filter(lesson => lesson.languageId !== 'turkish' && !lesson.id.includes("-expand-"));
 await mkdir(directory, { recursive: true });
 const plans = [
   { level: "A1", size: 10, topics: ["المنزل والأثاث", "الجسم والصحة", "الملابس والأغراض", "المدرسة والتعلم", "المهن وأماكن العمل", "الطبيعة والحيوانات", "الهوايات والرياضة"] },
   { level: "A2", size: 12, topics: ["طلب الطعام في المطعم", "الإقامة في الفندق", "السؤال عن الاتجاهات", "الوقت والمواعيد", "زيارة الطبيب", "التواصل في العمل", "الهاتف والرسائل", "الأنشطة في وقت الفراغ", "الخدمات في المدينة", "الدفع والمصروفات", "الطلبات والاقتراحات المهذبة"] },
   { level: "B1", size: 14, topics: ["شرح الأسباب والنتائج", "الشرط والاحتمالات", "المقارنة والتباين", "التجارب الشخصية", "اختيار طريقة التعلم", "اتخاذ قرارات العمل", "الثقافة والمجتمع", "التكنولوجيا في حياتنا", "البيئة والعادات اليومية", "الأهداف والتطور الشخصي", "حل المشكلات", "حكاية موقف من الماضي", "التعاون وتبادل الاقتراحات"] },
 ] as const;
+type GenerationPlan = { level: "A1" | "A2" | "B1"; size: number; topics: readonly string[] };
+const turkishPlans: GenerationPlan[] = [
+  { level: "A1", size: 10, topics: ["التحية والتعارف", "الأرقام والأيام", "الألوان والأشكال", "الطعام والشراب", "العائلة والأصدقاء", "المنزل والأثاث", "الملابس والأغراض", "الجسم والصحة", "المدرسة والعمل", "الطبيعة والهوايات"] },
+  { level: "A2", size: 10, topics: [...plans[1].topics, "الطقس والفصول", "التعليم والدورات", "السفر والمواصلات", "تنظيم الحياة اليومية"] },
+  { level: "B1", size: 10, topics: [...plans[2].topics, "الصحة ونمط الحياة", "التخطيط لرحلة", "التعبير عن الرأي باحترام", "إدارة الوقت", "العلاقات والمناسبات", "التعامل مع التغييرات", "التعلم من الأخطاء"] },
+];
 const normalize = (s: string) => s.normalize("NFD").replace(/\p{M}/gu, "").replace(/[^\p{L}\p{N}]/gu, "").toLowerCase();
 type Chapter = { topic: string; words: [string, string, string, string, string][] };
 type Packet = { lessons: Chapter[]; fullSentences?: boolean };
 async function upgradeB1(packet: Packet, language: typeof languages[number]) {
   if (packet.fullSentences) return;
   const rows = packet.lessons.flatMap(chapter => chapter.words);
+  if (rows.length > 40) {
+    const size = Math.max(1, Math.floor(40 / packet.lessons[0].words.length));
+    const chunks = [];
+    for (let start = 0; start < packet.lessons.length; start += size)
+      chunks.push({ lessons: packet.lessons.slice(start, start + size) });
+    await Promise.all(chunks.map(chunk => upgradeB1(chunk, language)));
+    packet.fullSentences = true;
+    return;
+  }
   const response = await openai.chat.completions.create({
     model: "gpt-5.4-mini", reasoning_effort: "low", max_completion_tokens: 16000,
     response_format: { type: "json_schema", json_schema: { name: "pronunciation", strict: true, schema: {
@@ -29,7 +44,15 @@ async function upgradeB1(packet: Packet, language: typeof languages[number]) {
     ],
   }, { timeout: 300000 });
   const { pronunciations } = JSON.parse(response.choices[0]?.message.content ?? "") as { pronunciations: string[] };
-  if (pronunciations.length !== rows.length || pronunciations.some(s => !s || !/\p{Script=Arabic}/u.test(s))) throw new Error("Invalid complete sentence pronunciation");
+  const missing = rows.map((row, index) => ({ index, text: row[3] })).filter(item => !pronunciations[item.index] || !/\p{Script=Arabic}/u.test(pronunciations[item.index]));
+  if (missing.length) {
+    const fixed = await openai.chat.completions.create({
+      model: "gpt-5.4-mini", max_completion_tokens: 12000, response_format: { type: "json_object" },
+      messages: [{ role: "user", content: `Write Arabic-script phonetic pronunciation, NOT translation, for these ${language.name} sentences. Return {"rows":[{"index":0,"pronunciation":"..."}]} with the supplied indices. EVERY pronunciation must use Arabic letters. ${JSON.stringify(missing)}` }],
+    }, { timeout: 180000 });
+    for (const item of JSON.parse(fixed.choices[0]?.message.content ?? "").rows) pronunciations[item.index] = item.pronunciation;
+  }
+  if (rows.some((_, index) => !pronunciations[index] || !/\p{Script=Arabic}/u.test(pronunciations[index]))) throw new Error("Invalid complete sentence pronunciation");
   rows.forEach((row, index) => { row[0] = row[3]; row[1] = row[4]; row[2] = pronunciations[index]; });
   packet.fullSentences = true;
 }
@@ -38,7 +61,9 @@ async function repairDuplicates(packet: Packet, language: typeof languages[numbe
     const seen = new Set(baseLessons.filter(l => l.languageId === language.id).flatMap(l => l.words.map(w => normalize(w.term))));
     const replacements: { chapter: number; index: number; topic: string; row: string[] }[] = [];
     packet.lessons.forEach((chapter, ci) => chapter.words.forEach((row, index) => {
-      if (seen.has(normalize(row[0]))) replacements.push({ chapter: ci, index, topic: chapter.topic, row });
+      if (seen.has(normalize(row[0])) || row.length !== 5 ||
+        ![row[1], row[2], row[4]].every(value => typeof value === "string" && /\p{Script=Arabic}/u.test(value)))
+        replacements.push({ chapter: ci, index, topic: chapter.topic, row });
       seen.add(normalize(row[0]));
     }));
     if (!replacements.length) return;
@@ -46,7 +71,7 @@ async function repairDuplicates(packet: Packet, language: typeof languages[numbe
       model: "gpt-5.4-mini", reasoning_effort: "low", max_completion_tokens: 7000,
       response_format: { type: "json_object" },
       messages: [
-        { role: "system", content: `You are a native ${language.name} curriculum editor for Arabic-speaking ${level} learners. Replace ONLY duplicate rows with DIFFERENT appropriate vocabulary/phrases for the given topic. Return JSON {"replacements":[{"chapter":number,"index":number,"row":["target term","Arabic meaning","Arabic-script approximate pronunciation","target example containing term","Arabic example translation"]}]}. Preserve chapter/index. Five nonempty strings per row. All new terms must be distinct and absent from the excluded set. Do not use article/case/punctuation variations of an excluded word.` },
+        { role: "system", content: `You are a native ${language.name} curriculum editor for Arabic-speaking ${level} learners. Replace ONLY supplied duplicate/invalid rows with DIFFERENT appropriate vocabulary/phrases for the given topic. Return JSON {"replacements":[{"chapter":number,"index":number,"row":["target term","Arabic meaning","Arabic-script approximate pronunciation","target example containing term","Arabic example translation"]}]}. Preserve chapter/index. Five nonempty strings per row. Fields2,3,5 MUST contain Arabic script, not Latin transliteration. All new terms must be distinct and absent from the excluded set. Do not use article/case/punctuation variations of an excluded word.` },
         { role: "user", content: JSON.stringify({ replace: replacements, excluded: [...seen] }) },
       ],
     }, { timeout: 180000 });
@@ -57,7 +82,7 @@ async function repairDuplicates(packet: Packet, language: typeof languages[numbe
     }
   }
 }
-function check(packet: Packet, plan: typeof plans[number], language: string) {
+function check(packet: Packet, plan: GenerationPlan, language: string) {
   if (packet.lessons?.length !== plan.topics.length) throw new Error("Incorrect lesson count");
   const terms = new Set(baseLessons.filter(l => l.languageId === language).flatMap(l => l.words.map(w => normalize(w.term))));
   const topics = new Set<string>();
@@ -75,7 +100,11 @@ function check(packet: Packet, plan: typeof plans[number], language: string) {
     }
   }
 }
-const tasks = languages.flatMap(language => plans.map(plan => ({ language, plan })));
+const requested = process.argv.find(argument => argument.startsWith("--language="))?.split("=")[1];
+const candidates = [...languages, ...(!languages.some(language => String(language.id) === "turkish")
+  ? [{ id: "turkish", name: "Turkish", arabicName: "التركية", code: "TR", flag: "TR" }] : [])] as typeof languages;
+const tasks = candidates.filter(language => !requested || language.id === requested)
+  .flatMap(language => (String(language.id) === "turkish" ? turkishPlans : plans).map(plan => ({ language, plan })));
 let cursor = 0;
 async function worker() {
   while (cursor < tasks.length) {
@@ -116,6 +145,9 @@ async function worker() {
         }, { timeout: 300000 });
         const packet = JSON.parse(response.choices[0]?.message.content ?? "") as Packet;
         await repairDuplicates(packet, language, plan.level);
+        // Preserve generated text if pronunciation needs a retry; never throw
+        // away a whole valid level because a single pronunciation row failed.
+        await writeFile(path, JSON.stringify(packet, null, 2) + "\n");
         if (plan.level === "B1") await upgradeB1(packet, language);
         check(packet, plan, language.id);
         packet.lessons.sort((a, b) => plan.topics.indexOf(a.topic as never) - plan.topics.indexOf(b.topic as never));
@@ -131,4 +163,4 @@ async function worker() {
 }
 const results = await Promise.allSettled(Array.from({ length: 5 }, worker));
 if (results.some(result => result.status === "rejected")) throw new Error("Some curriculum packets failed; rerun to resume valid cached packets.");
-console.log("All 15 language/level content packets validated.");
+console.log(`All ${tasks.length} requested language/level content packets validated.`);
