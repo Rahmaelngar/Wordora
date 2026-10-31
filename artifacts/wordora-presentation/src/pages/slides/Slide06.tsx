@@ -13,17 +13,17 @@ export default function Slide06() {
       @media (prefers-reduced-motion: reduce), print { .motion-slide-06 > .deck-image { animation: none; transform: none; } }
       @media (prefers-reduced-motion: reduce), print { .motion-slide-06 .sound-bar { animation: none; transform: none; } }
     `}</style>
-    <h1 className="deck-title">اسمع الكلمة… وشاهد كيف تُستخدم</h1>
+    <h1 className="deck-title">استمع، وافهم، وشاهد الاستخدام</h1>
     <svg className="deck-image decor-star left-[2vw] top-[20vh]" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 0 40 24 64 32 40 40 32 64 24 40 0 32 24 24Z" fill="currentColor"/></svg>
     <div className="deck-image decor-tile right-[2vw] top-[73vh]" aria-hidden="true"/>
     <div className="decor-zigzag right-[2vw] top-[26vh]" aria-hidden="true"/>
     <div className="organic right-[1vw] top-[26vh] w-[45vw] h-[63vh]"/>
     <img src={`${base}images/audio-listening-cartoon.webp`} crossOrigin="anonymous" alt="شخصية كرتونية تستمع بسماعة رأس بنفسجية وتتابع كتابها" className="deck-image right-[0vw] top-[25vh] w-[48vw] h-[64vh]"/>
     <div className="absolute left-[6vw] top-[32vh] w-[46vw] clean-list">
-      <p>استمع إلى الكلمات والجمل باللغة المختارة</p>
-      <p>أعِد الاستماع حتى يصبح النطق مألوفًا</p>
-      <p>شاهد فيديو تعليميًا مرويًا عند الطلب</p>
-      <p>اقرأ الجملة وترجمتها العربية مع الصوت</p>
+      <p>استمع إلى نطق الكلمات والجمل بلغتك المختارة</p>
+      <p>كرّر الاستماع وتدرّب على النطق</p>
+      <p>فيديو تعليمي مرويّ يُنشأ عند الطلب</p>
+      <p>نصّ الجملة وترجمتها العربية أثناء التعلّم</p>
     </div>
     <div className="absolute left-[10vw] top-[79vh] h-[7vh] flex items-center gap-[.7vw]" aria-hidden="true">
       <div className="sound-bar w-[.55vw] h-[3vh] rounded-full bg-primary"/>

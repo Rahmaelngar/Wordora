@@ -6,16 +6,16 @@ export default function Slide04() {
       .slide .motion-slide-04 .decor-star,.slide .motion-slide-04 .decor-tile { animation: none; transform: none; opacity: 1; }
       @media (prefers-reduced-motion: reduce), print { .motion-slide-04 .decor-star,.motion-slide-04 .decor-tile { animation: none; transform: none; opacity: 1; } }
     `}</style>
-    <h1 className="deck-title">من أول كلمة… إلى مستوى متقدّم</h1>
+    <h1 className="deck-title">ستة مستويات تواكب تقدّمك</h1>
     <svg className="decor-star left-[2vw] top-[21vh]" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 0 40 24 64 32 40 40 32 64 24 40 0 32 24 24Z" fill="currentColor"/></svg>
     <div className="decor-tile right-[2vw] top-[73vh]" aria-hidden="true"/>
     <div className="decor-zigzag left-[2vw] top-[77vh]" aria-hidden="true"/>
     <div className="organic left-[4vw] top-[28vh] w-[41vw] h-[60vh]"/>
     <div className="absolute left-[7vw] top-[34vh] w-[35vw] text-center">
       <p className="text-[11vw] leading-[1.1] font-black text-primary" dir="ltr">1350</p>
-      <p className="text-[2vw] leading-[1.7]">عنصرًا تعليميًا في كل لغة</p>
-      <p className="text-[1.9vw] font-bold leading-[1.7] mt-[1.4vh] text-primary">8100 عنصر عبر اللغات الست</p>
-      <p className="deck-copy mt-[3vh]">تتفتح المستويات تدريجيًا مع إنجازك للدروس.</p>
+      <p className="text-[2vw] leading-[1.7]">عنصرًا تعليميًا لكل لغة</p>
+      <p className="text-[1.9vw] font-bold leading-[1.7] mt-[1.4vh] text-primary">8100 عنصر تعليمي عبر اللغات الست</p>
+      <p className="deck-copy mt-[3vh]">تُفتح المستويات الأعلى تدريجيًا بإنجاز الدروس.</p>
     </div>
     <div className="absolute right-[6vw] top-[29vh] w-[43vw]">
       <div className="level-line"><strong dir="ltr">A1:</strong><p>100 كلمة وتعبير</p></div>

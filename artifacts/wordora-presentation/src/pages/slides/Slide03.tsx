@@ -11,10 +11,10 @@ export default function Slide03() {
       @media (prefers-reduced-motion: reduce), print { .motion-slide-03 > .deck-image { animation: none; transform: none; } }
       @media (prefers-reduced-motion: reduce), print { .motion-slide-03 .language-friend-card .friend-pair { animation: none; transform: none; } }
     `}</style>
-    <h1 className="deck-title">ست لغات… وبداية تناسبك</h1>
+    <h1 className="deck-title">ست لغات، وبداية واحدة واضحة</h1>
     <svg className="deck-image decor-star left-[2vw] top-[20vh]" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 0 40 24 64 32 40 40 32 64 24 40 0 32 24 24Z" fill="currentColor"/></svg>
     <div className="deck-image decor-tile right-[2vw] top-[75vh]" aria-hidden="true"/>
-    <p className="absolute right-[6vw] left-[6vw] top-[22vh] deck-copy">شرح عربي، ومحتوى متدرّج، وتجربة ترافقك على الموبايل والكمبيوتر.</p>
+    <p className="absolute right-[6vw] left-[6vw] top-[22vh] deck-copy">منصة لتعلّم اللغات بشرح عربي ومحتوى متدرّج، على الهاتف والحاسوب.</p>
     <div className="absolute right-[6vw] left-[6vw] top-[33vh] flex gap-[1vw]" dir="ltr">
       <div className="language-friend-card">
         <div className="friend-pair h-[32vh]"><img src={`${base}images/language-friends/english-animated.svg`} alt="شخصية الإنجليزية" className="friend-live" crossOrigin="anonymous"/><img src={`${base}images/language-friends/english.svg`} alt="شخصية الإنجليزية" className="friend-still" crossOrigin="anonymous"/></div>
@@ -41,7 +41,7 @@ export default function Slide03() {
         <p className="text-[1.65vw] font-bold leading-[1.6]" dir="rtl">التركية</p><p className="text-[1.5vw] leading-[1.5] text-primary">Turkish</p>
       </div>
     </div>
-    <p className="absolute right-[6vw] left-[6vw] top-[84vh] text-center text-[1.9vw] font-bold text-primary">اختر لغة واحدة، وابدأ بخطوة صغيرة.</p>
+    <p className="absolute right-[6vw] left-[6vw] top-[84vh] text-center text-[1.9vw] font-bold text-primary">اختر لغتك، وابدأ من مستواك المتاح.</p>
     <div className="deck-footer"><span>Wordora</span><span>03</span></div>
   </div>;
 }
