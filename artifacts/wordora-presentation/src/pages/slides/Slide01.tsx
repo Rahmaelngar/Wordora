@@ -24,6 +24,10 @@ export default function Slide01() {
       <img src={`${base}images/wordora-logo-animated.svg`} crossOrigin="anonymous" alt="لوجو Wordora متحرك بخلفية شفافة" className="wordora-cover-logo wordora-cover-animated w-[48vw] h-[66vh] object-contain"/>
       <img src={`${base}images/wordora-vector.svg`} crossOrigin="anonymous" alt="لوجو Wordora متجهي بخلفية شفافة" className="wordora-cover-logo wordora-cover-static w-[48vw] h-[66vh] object-contain"/>
     </div>
+    <div className="absolute inset-x-0 bottom-[16vh] z-10 flex flex-col items-center gap-[.3vh] text-center">
+      <p className="cover-supervisor-label">إشراف</p>
+      <p dir="ltr" className="cover-supervisor-name">Taha Mahmoud Metwally Nour El-Dein</p>
+    </div>
     <div className="absolute inset-x-[15vw] bottom-[7vh] flex items-center justify-center gap-[5vw]">
       <img src={`${base}images/replit-logo.png`} crossOrigin="anonymous" alt="Replit" className="w-[13vw] h-[7vh] object-contain"/>
       <img src={`${base}images/nordpoints.webp`} crossOrigin="anonymous" alt="Nordpoints" className="w-[21vw] h-[7vh] object-contain"/>

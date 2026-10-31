@@ -19,12 +19,12 @@ export default function Slide12() {
       <p className="deck-copy mt-[1.5vh]">رحلتكم لتعلم اللغة تبدأ هنا</p>
       <div className="mt-[3vh]">
         <div className="closing-credit-block">
-          <p className="closing-credit-label">إعداد</p>
-          <p dir="ltr" className="closing-credit-name">Rahma Magdy Ibrahim Elnaggar</p>
+          <p className="closing-credit-label">إشراف</p>
+          <p dir="ltr" className="closing-credit-name supervisor-name">Taha Mahmoud Metwally Nour El-Dein</p>
         </div>
         <div className="closing-credit-block">
-          <p className="closing-credit-label">إشراف</p>
-          <p dir="ltr" className="closing-credit-name">Taha Mahmoud Metwally Nour El-Dein</p>
+          <p className="closing-credit-label">إعداد</p>
+          <p dir="ltr" className="closing-credit-name">Rahma Magdy Ibrahim Elnaggar</p>
         </div>
       </div>
     </div>
