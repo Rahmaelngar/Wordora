@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" width="360" height="500" role="img" aria-label="Wordora language friend saying Ciao!">
+<defs><linearGradient id="it-skin" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#e0aa84"/><stop offset="1" stop-color="#c48a64"/></linearGradient><linearGradient id="it-hair" x1="0" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#8a3b2a"/><stop offset="1" stop-color="#5c2219"/></linearGradient><linearGradient id="it-top" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#d7b6ff"/><stop offset="1" stop-color="#9c6ae8"/></linearGradient><linearGradient id="it-acc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd15d"/><stop offset="1" stop-color="#ffd15d"/></linearGradient><linearGradient id="it-bub" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#efe2ff"/></linearGradient>
+<radialGradient id="it-shade" cx=".5" cy=".3" r=".7"><stop offset=".6" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#5a2a8a" stop-opacity=".18"/></radialGradient>
+<radialGradient id="it-gnd"><stop offset="0" stop-color="#7a45c8" stop-opacity=".25"/><stop offset="1" stop-color="#7a45c8" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="180" cy="492" rx="120" ry="8" fill="url(#it-gnd)"/>
+<g id="it-body">
+<path d="M78 496C76 410 108 352 180 346C252 352 284 410 282 496Z" fill="url(#it-top)"/>
+<path d="M78 496C76 410 108 352 180 346C252 352 284 410 282 496Z" fill="url(#it-shade)"/>
+<path d="M150 348L180 384L210 348" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="132" cy="430" r="15" fill="#ffd15d"/><path d="M125 430H139M132 423V437" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="236" cy="452" r="5" fill="#fff" opacity=".5"/><circle cx="252" cy="436" r="3.5" fill="#fff" opacity=".4"/><circle cx="222" cy="474" r="4" fill="#fff" opacity=".35"/>
+<path d="M98 382C80 420 80 460 92 488" stroke="url(#it-top)" stroke-width="34" fill="none" stroke-linecap="round"/>
+<circle cx="94" cy="482" r="16" fill="url(#it-skin)"/></g>
+<g id="it-arm"><path d="M256 380C290 360 304 330 304 282" stroke="url(#it-top)" stroke-width="34" fill="none" stroke-linecap="round"/>
+<path d="M286 290H322" stroke="#fff" stroke-opacity=".6" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="304" cy="256" rx="20" ry="22" fill="url(#it-skin)"/>
+<ellipse cx="290" cy="230" rx="5.5" ry="13" transform="rotate(-14 290 230)" fill="url(#it-skin)"/><ellipse cx="301" cy="226" rx="5.5" ry="14" fill="url(#it-skin)"/><ellipse cx="312" cy="228" rx="5.5" ry="13" transform="rotate(10 312 228)" fill="url(#it-skin)"/><ellipse cx="322" cy="236" rx="5" ry="11" transform="rotate(24 322 236)" fill="url(#it-skin)"/><ellipse cx="324" cy="262" rx="5.5" ry="11" transform="rotate(-50 324 262)" fill="url(#it-skin)"/>
+<path d="M330 214l4 -9M338 226l9 -4M316 204l1 -10" stroke="#ffd15d" stroke-width="4" stroke-linecap="round"/></g>
+<g id="it-head"><path fill="url(#it-hair)" d="M106 230C96 150 140 140 180 140C222 140 266 152 256 230L266 340C240 356 120 356 94 340Z"/>
+<rect x="164" y="290" width="32" height="58" rx="14" fill="url(#it-skin)"/><path d="M164 312Q180 324 196 312V300H164Z" fill="#c48a64" opacity=".6"/>
+<ellipse cx="116" cy="240" rx="12" ry="16" fill="#c48a64"/><ellipse cx="244" cy="240" rx="12" ry="16" fill="#c48a64"/>
+<ellipse cx="180" cy="232" rx="64" ry="70" fill="url(#it-skin)"/><ellipse cx="180" cy="232" rx="64" ry="70" fill="url(#it-shade)"/>
+<ellipse cx="146" cy="262" rx="13" ry="8" fill="#ff8fa8" opacity=".45"/><ellipse cx="214" cy="262" rx="13" ry="8" fill="#ff8fa8" opacity=".45"/>
+<g id="it-eyes"><ellipse cx="156" cy="238" rx="11" ry="13" fill="#fff"/><ellipse cx="206" cy="238" rx="11" ry="13" fill="#fff"/><circle cx="158" cy="240" r="8" fill="#3b2167"/><circle cx="208" cy="240" r="8" fill="#3b2167"/><circle cx="161" cy="236" r="3" fill="#fff"/><circle cx="211" cy="236" r="3" fill="#fff"/></g>
+<path d="M142 214Q156 205 168 212M194 212Q206 205 220 214" stroke="#5c2219" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M178 246Q182 256 176 258" stroke="#c48a64" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M158 270Q180 300 202 270Q180 278 158 270Z" fill="#5a1f4a"/><path d="M168 282Q180 294 192 282Q180 278 168 282Z" fill="#ff7f9a"/><path d="M160 271Q180 277 200 271" stroke="#fff" stroke-width="3" fill="none"/>
+<path fill="url(#it-hair)" d="M112 238C104 166 150 148 182 148C226 148 258 172 248 238C240 200 214 178 186 176C168 196 136 206 112 238Z"/><path d="M196 162C220 168 236 186 240 206" stroke="#fff" stroke-opacity=".22" stroke-width="5" fill="none" stroke-linecap="round"/><g transform="rotate(-20 222 176)"><rect x="200" y="168" width="44" height="14" rx="7" fill="#ffd15d"/><circle cx="210" cy="175" r="3" fill="#fff"/><circle cx="222" cy="175" r="3" fill="#fff"/><circle cx="234" cy="175" r="3" fill="#fff"/></g></g>
+<g id="it-bubble"><path d="M168 96L160 124L194 96Z" fill="#efe2ff" stroke="#8b55e8" stroke-width="4" stroke-linejoin="round"/>
+<rect x="90.5" y="20" width="179" height="78" rx="39" fill="url(#it-bub)" stroke="#8b55e8" stroke-width="4"/><path d="M166 94L190 94" stroke="#f3eaff" stroke-width="6"/>
+<path d="M114.5 44Q120.5 32 136.5 30" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="180" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#4b1f8f">Ciao!</text></g>
+<g id="it-spark"><path d="M82.5 30l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#ffd15d"/><circle cx="279.5" cy="88" r="6" fill="#b98cff"/><circle cx="273.5" cy="30" r="4" fill="#ffd15d"/></g>
+</svg>

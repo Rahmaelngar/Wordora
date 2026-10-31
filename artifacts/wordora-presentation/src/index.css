@@ -7,6 +7,7 @@
 @font-face { font-family: 'Manrope'; font-style: normal; font-weight: 600; font-display: swap; src: url('./assets/fonts/manrope-600.ttf') format('truetype'); }
 @font-face { font-family: 'Manrope'; font-style: normal; font-weight: 700; font-display: swap; src: url('./assets/fonts/manrope-700.ttf') format('truetype'); }
 @font-face { font-family: 'Manrope'; font-style: normal; font-weight: 800; font-display: swap; src: url('./assets/fonts/manrope-800.ttf') format('truetype'); }
+@font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 600; font-display: swap; src: url('./assets/fonts/cormorant-garamond-600-italic.ttf') format('truetype'); }
 
 @theme inline {
   --color-primary: var(--slide-primary);
@@ -68,7 +69,7 @@ body {
 .wordora-frame::after { content: ''; position: absolute; pointer-events: none; z-index: -1; right: -9vw; bottom: -19vh; width: 43vw; height: 33vh; border: .12vw solid #b782e4; border-radius: 3vw; transform: rotate(-18deg); background: linear-gradient(120deg, #ead6ff, #cda0ef); opacity: .42; }
 .deck-title { position: absolute; top: 7vh; right: 6vw; left: 6vw; font-size: 3.2vw; font-weight: 800; line-height: 1.5; text-wrap: balance; z-index: 2; color: #5a1f9b; }
 .deck-title::after { content: ''; display: block; width: 6vw; height: .55vh; margin-top: 1.6vh; border-radius: 1vw; background: linear-gradient(90deg, #cca0fa, #7c36c7); }
-.deck-copy { font-size: 1.9vw; line-height: 1.7; text-wrap: pretty; }
+.deck-copy { font-size: 2vw; line-height: 1.7; text-wrap: pretty; }
 .deck-caption { font-size: 1.5vw; line-height: 1.5; color: var(--slide-muted); }
 .organic { position: absolute; pointer-events: none; background: linear-gradient(145deg, #bfa1f0, #dec6fc 65%, #e8d8ff); border-radius: 44% 56% 60% 40% / 58% 39% 61% 42%; }
 .organic-soft { position: absolute; pointer-events: none; background: linear-gradient(135deg, #eed8fb, #d9c8fa); border-radius: 63% 37% 41% 59% / 43% 59% 41% 57%; }
@@ -79,9 +80,24 @@ body {
 .level-line { display: flex; gap: 1.6vw; align-items: baseline; padding: 1vh 0; border-bottom: 0.08vw solid #c7b3eb; }
 .level-line strong { font-size: 3vw; line-height: 1.15; min-width: 6vw; font-weight: 800; color: #742ec0; }
 .level-line p { font-size: 1.9vw; line-height: 1.55; }
-.clean-list { display: flex; flex-direction: column; gap: 2vh; font-size: 1.9vw; line-height: 1.7; }
+.clean-list { display: flex; flex-direction: column; gap: 2vh; font-size: 2vw; line-height: 1.7; }
 .clean-list p { padding-bottom: 1.6vh; border-bottom: 0.08vw solid #dfd2ef; }
 .column-icon { width: 5vw; height: 5vw; color: var(--slide-primary); stroke-width: 1.5; margin-bottom: 2.4vh; }
 .closing-credit-label { font-family: 'Cairo', sans-serif; color: #865aab; font-size: 1.5vw; font-weight: 700; line-height: 1.4; margin-bottom: .4vh; }
-.closing-credit-name { font-family: 'Manrope', sans-serif; color: #432165; font-size: 1.9vw; font-weight: 700; line-height: 1.5; letter-spacing: -.025em; text-align: right; }
+.closing-credit-name { font-family: 'Cormorant Garamond', Georgia, serif; color: #58247f; font-size: 2.55vw; font-weight: 600; font-style: italic; line-height: 1.25; letter-spacing: .005em; text-align: right; }
 .closing-credit-block + .closing-credit-block { margin-top: 1.6vh; }
+.friend-pair { pointer-events: none; }
+.friend-pair > img { width: 100%; height: 100%; object-fit: contain; }
+.friend-live { display: block; }
+.friend-still { display: none; }
+.slide .friend-live { display: none; }
+.slide .friend-still { display: block; }
+@media (prefers-reduced-motion: reduce), print {
+  .friend-live { display: none; }
+  .friend-still { display: block; }
+}
+.language-friend-card { flex: 1; min-width: 0; padding: 1.1vh .7vw 1.5vh; text-align: center; border: .07vw solid #d7b8f1; border-radius: 1.7vw; background: linear-gradient(160deg, #ffffffed, #eee2fbdb); box-shadow: 0 .8vh 1.6vw #6e359510; }
+.language-friend-card:nth-child(even) { background: linear-gradient(160deg, #ffffffed, #e6e7fcdb); }
+.decor-star { position: absolute; width: 3vw; height: 3vw; color: #b77ae0; pointer-events: none; }
+.decor-tile { position: absolute; width: 1.7vw; height: 1.7vw; background: linear-gradient(130deg, #dbb6ff, #8f4ed1); clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%); pointer-events: none; }
+.decor-zigzag { position: absolute; width: 1vw; height: 9vh; border-radius: .3vw; background: repeating-linear-gradient(150deg, #ad74dd 0 .7vh, transparent .7vh 1.6vh); opacity: .55; pointer-events: none; }

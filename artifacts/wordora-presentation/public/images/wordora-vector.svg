@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="951" viewBox="0 0 1012 951">
+<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
+  <defs>
+    <linearGradient id="leftRibbonGradient" x1="226" y1="276" x2="382" y2="553" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bb8cff"/>
+      <stop offset=".47" stop-color="#834bfa"/>
+      <stop offset="1" stop-color="#381598"/>
+    </linearGradient>
+    <linearGradient id="lowerFoldGradient" x1="328" y1="577" x2="456" y2="477" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#aa78ff"/>
+      <stop offset=".52" stop-color="#8853fa"/>
+      <stop offset="1" stop-color="#481fb5"/>
+    </linearGradient>
+    <linearGradient id="rightRibbonGradient" x1="578" y1="475" x2="793" y2="267" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f1c9e"/>
+      <stop offset=".52" stop-color="#6438d6"/>
+      <stop offset="1" stop-color="#713ff4"/>
+    </linearGradient>
+    <linearGradient id="centerRibbonGradient" x1="425" y1="326" x2="626" y2="596" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7948ff"/>
+      <stop offset=".47" stop-color="#9969fb"/>
+      <stop offset="1" stop-color="#b180ff"/>
+    </linearGradient>
+    <linearGradient id="flightTrailGradient" x1="574" y1="332" x2="771" y2="169" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#915cff"/>
+      <stop offset=".55" stop-color="#ac7bff"/>
+      <stop offset="1" stop-color="#c696ff"/>
+    </linearGradient>
+    <linearGradient id="planeTopGradient" x1="739" y1="111" x2="868" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a36cff"/>
+      <stop offset="1" stop-color="#b786ff"/>
+    </linearGradient>
+    <linearGradient id="planeFoldGradient" x1="849" y1="99" x2="793" y2="194" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ad78fc"/>
+      <stop offset=".6" stop-color="#8652f3"/>
+      <stop offset="1" stop-color="#5721cf"/>
+    </linearGradient>
+    <linearGradient id="hiBubbleGradient" x1="314" y1="133" x2="438" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b487ff"/>
+      <stop offset=".6" stop-color="#9463fc"/>
+      <stop offset="1" stop-color="#8050f6"/>
+    </linearGradient>
+    <linearGradient id="bonjourBubbleGradient" x1="483" y1="51" x2="538" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#90e6bc"/>
+      <stop offset=".5" stop-color="#7addaf"/>
+      <stop offset="1" stop-color="#62cea2"/>
+    </linearGradient>
+    <linearGradient id="holaBubbleGradient" x1="637" y1="117" x2="677" y2="222" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd15d"/>
+      <stop offset="1" stop-color="#f9af3e"/>
+    </linearGradient>
+    <linearGradient id="halloBubbleGradient" x1="479" y1="195" x2="569" y2="294" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#559cf6"/>
+      <stop offset=".6" stop-color="#61a9fb"/>
+      <stop offset="1" stop-color="#5aa4fa"/>
+    </linearGradient>
+    <linearGradient id="wordmarkGradient" x1="501" y1="647" x2="515" y2="816" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39217b"/>
+      <stop offset=".6" stop-color="#3b207e"/>
+      <stop offset="1" stop-color="#39207a"/>
+    </linearGradient>
+    <linearGradient id="accentLetterGradient" x1="655" y1="702" x2="726" y2="807" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a170ff"/>
+      <stop offset="1" stop-color="#814dff"/>
+    </linearGradient>
+    <linearGradient id="bubbleShine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="ribbon-emblem">
+    <path id="rising-right-ribbon" fill="url(#rightRibbonGradient)" d="M579 422C584 369 619 339 667 314C717 288 759 254 774 201C769 281 730 385 705 455L676 530C669 548 665 558 653 559C631 555 604 482 579 422Z"/>
+    <path id="left-descending-ribbon" fill="url(#leftRibbonGradient)" d="M201 323C188 297 211 273 237 268C275 259 314 272 333 298C340 308 344 320 350 335L380 411C385 422 388 428 397 431L356 542C345 567 330 584 315 576C304 572 300 562 294 547Z"/>
+    <path id="lower-left-ribbon-fold" fill="url(#lowerFoldGradient)" d="M307 572C318 580 327 568 335 552L394 431C424 429 447 446 462 470L485 501L450 562C431 595 407 603 373 602C344 601 321 592 307 572Z"/>
+    <path id="central-ribbon" fill="url(#centerRibbonGradient)" d="M394 431L435 348C447 325 469 309 490 309C518 309 536 327 550 355L628 520C639 543 652 562 667 545C651 583 626 602 590 602C556 602 532 591 515 560L464 474C446 445 428 430 394 431Z"/>
+    <path id="sweeping-flight-trail" fill="url(#flightTrailGradient)" d="M578 364C570 321 586 283 620 260C645 242 675 238 703 222C725 210 745 194 760 178L746 170C744 169 744 167 747 166L770 158C772 157 774 158 773 161L770 185C770 188 768 189 766 186L763 183C745 231 714 262 673 285C636 306 600 321 578 364Z"/>
+    <g id="paper-airplane">
+      <path id="airplane-upper-wing" fill="url(#planeTopGradient)" d="M745 110L861 77C873 73 877 78 871 89L812 191C807 200 797 202 793 191L789 161C786 146 790 140 801 131L787 139C782 142 777 142 771 140L746 131C735 127 734 116 745 110Z"/>
+      <path id="airplane-folded-wing" fill="url(#planeFoldGradient)" d="M867 88L811 191C807 199 797 203 793 191C791 182 790 170 789 160C787 149 789 141 799 133Z"/>
+    </g>
+  </g>
+  <g id="greeting-speech-bubbles">
+    <g id="hi-speech-bubble">
+      <path fill="url(#hiBubbleGradient)" d="M296 170C299 145 325 132 349 123C379 113 400 118 415 132C438 153 442 180 442 209L440 237C440 241 438 243 434 240C423 233 415 228 406 228C392 228 377 239 355 240C331 241 316 231 305 212C297 198 293 184 296 170Z"/>
+      <path fill="url(#bubbleShine)" d="M301 169C304 154 318 145 333 139C316 151 310 167 312 188C305 194 299 184 301 169Z"/>
+      <text x="371" y="197" transform="rotate(-22 371 177)" fill="#fffefa" stroke="#fffefa" stroke-width="1.1" stroke-linejoin="round" font-family="Arial Rounded MT Bold, Nunito, Arial, sans-serif" font-size="56" font-weight="700" text-anchor="middle">Hi</text>
+    </g>
+    <g id="bonjour-speech-bubble">
+      <path fill="url(#bonjourBubbleGradient)" d="M439 92C443 67 456 60 482 55C506 51 539 49 561 52C580 54 592 60 598 76C606 96 602 120 591 135C576 153 548 154 525 155C513 155 505 161 492 176C490 178 488 179 487 174C484 162 482 155 472 152C450 146 443 134 440 119C438 110 438 101 439 92Z"/>
+      <path fill="url(#bubbleShine)" d="M448 88C453 73 463 68 476 66C456 78 451 91 451 110C446 105 443 99 448 88Z"/>
+      <text x="522" y="111" transform="rotate(-6 522 101)" fill="#fffef7" stroke="#fffef7" stroke-width=".65" stroke-linejoin="round" font-family="Arial Rounded MT Bold, Nunito, Arial, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.3" text-anchor="middle">Bonjour</text>
+    </g>
+    <g id="hola-speech-bubble">
+      <path fill="url(#holaBubbleGradient)" d="M597 153C603 126 624 115 650 117C677 117 699 128 708 147C719 170 711 194 692 204C680 211 667 211 655 211C643 211 636 220 627 226C625 229 622 227 622 224C622 213 623 205 615 199C598 187 593 171 597 153Z"/>
+      <path fill="url(#bubbleShine)" d="M603 151C608 138 618 130 630 129C616 136 610 148 610 164C604 166 601 160 603 151Z"/>
+      <text x="654" y="174" transform="rotate(5 654 163)" fill="#fffef5" stroke="#fffef5" stroke-width=".7" stroke-linejoin="round" font-family="Arial Rounded MT Bold, Nunito, Arial, sans-serif" font-size="33" font-weight="700" letter-spacing="-1.3" text-anchor="middle">Hola</text>
+    </g>
+    <g id="hallo-speech-bubble">
+      <path fill="url(#halloBubbleGradient)" d="M465 227C468 200 488 188 516 185C542 181 565 184 579 195C595 207 601 228 597 246C594 261 585 268 575 275C564 282 563 293 559 305C558 309 556 309 553 305C545 295 540 288 529 287C512 287 495 290 481 279C469 269 463 250 465 227Z"/>
+      <path fill="url(#bubbleShine)" d="M471 221C474 212 480 207 488 205C490 210 484 214 481 219C476 227 475 238 475 244C469 238 468 229 471 221Z"/>
+      <text x="532" y="247" transform="rotate(-7 532 237)" fill="#fffefa" stroke="#fffefa" stroke-width=".7" stroke-linejoin="round" font-family="Arial Rounded MT Bold, Nunito, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.4" text-anchor="middle">Hallo</text>
+    </g>
+  </g>
+  <g id="wordora-wordmark" fill="url(#wordmarkGradient)" aria-label="Wordora">
+    <path id="letter-capital-w" d="M62 651.5H80C87 651.5 90 654 92 660L120 755.5L149 662C151 654 154 651.5 162 651.5H177C184 651.5 187 654 189 661L219 755.5L246 662C248 654 251 651.5 259 651.5H277C285 651.5 290 656 287 664L243 803C241 810 237 812.5 230 812.5H211C204 812.5 200 810 198 803L169.5 713.5L142 802C140 810 136 812.5 128 812.5H109C101 812.5 98 810 96 803L52 665C49 657 53 651.5 62 651.5Z"/>
+    <path id="letter-first-o" fill-rule="evenodd" d="M346 691.5C382 691.5 409 718 409 753.5C409 789.5 383 815.5 346 815.5C309 815.5 283 789.5 283 754C283 718.5 310 691.5 346 691.5ZM346 724C330 724 319 736 319 754C319 772 330 783.5 346 783.5C362 783.5 373.5 771.5 373.5 754C373.5 736.5 362 724 346 724Z"/>
+    <path id="letter-first-r" d="M431 694.5H444C452 694.5 456 698 455.5 708C462.5 698.5 472.5 692.5 483 692.5C490 692.5 493.5 696 493.5 702.5V715.5C493.5 722.5 491.5 725 485 725.5C466 726.5 455.5 737 455.5 755V802C455.5 809 452 812.5 445 812.5H430C423 812.5 419.5 809 419.5 802V705C419.5 698 423 694.5 431 694.5Z"/>
+    <path id="letter-d" fill-rule="evenodd" d="M594 645.5H608C615.5 645.5 619 649 619 656V801.5C619 809 615.5 812.5 608 812.5H595C588 812.5 584 810 583.5 802C575 811.5 564 815.5 551 815.5C519 815.5 495.5 789.5 495.5 753.5C495.5 717.5 520 691.5 552 691.5C565 691.5 575 696.5 583 703.5V657C583 649.5 586.5 645.5 594 645.5ZM557.5 724.5C542 724.5 531 736.5 531 754C531 771 542 783 557.5 783C573 783 584 771 584 753.5C584 736 573 724.5 557.5 724.5Z"/>
+    <path id="letter-accent-o" fill="url(#accentLetterGradient)" fill-rule="evenodd" d="M690.5 691.5C726 691.5 752 718 752 753.5C752 789.5 726 815.5 690.5 815.5C654.5 815.5 628.5 789.5 628.5 753.5C628.5 718 655 691.5 690.5 691.5ZM690.5 724C674.5 724 663.5 736 663.5 753.5C663.5 771.5 674.5 783.5 690.5 783.5C706 783.5 717 771.5 717 753.5C717 736 706 724 690.5 724Z"/>
+    <path id="letter-second-r" d="M773 694.5H786C793.5 694.5 797 698.5 797 708C804 698.5 814 692.5 824.5 692.5C831.5 692.5 835 696 835 703V715.5C835 722.5 833 725 826 725.5C807 726.5 797.5 737 797.5 754.5V801.5C797.5 809 794 812.5 786.5 812.5H772.5C765 812.5 761.5 809 761.5 801.5V705.5C761.5 698 765 694.5 773 694.5Z"/>
+    <path id="letter-a" fill-rule="evenodd" d="M891.5 691.5C905 691.5 917 695.5 926 705C926 697.5 930 694.5 936.5 694.5H951C958 694.5 961.5 698 961.5 705.5V801.5C961.5 809 958 812.5 951 812.5H937C930 812.5 926 809.5 926 802C917 811 905.5 815.5 892 815.5C859 815.5 835.5 789.5 835.5 753.5C835.5 718 859.5 691.5 891.5 691.5ZM899 724.5C883 724.5 871.5 736.5 871.5 753.5C871.5 771 883 783 899 783C915 783 926.5 771 926.5 753.5C926.5 736.5 915 724.5 899 724.5Z"/>
+  </g>
+  <g id="tagline">
+    <path id="left-tagline-rule" d="M63 876.5H123.5" fill="none" stroke="#8c55ff" stroke-width="3.4" stroke-linecap="round"/>
+    <text id="tagline-text" x="511" y="891" text-anchor="middle" fill="#50329b" font-family="Century Gothic, Avenir Next, Avenir, Montserrat, sans-serif" font-size="43" font-weight="300" letter-spacing="7.6" textLength="709" lengthAdjust="spacingAndGlyphs">Words Open New Worlds</text>
+    <path id="right-tagline-rule" d="M894 876.5H955" fill="none" stroke="#8c55ff" stroke-width="3.4" stroke-linecap="round"/>
+  </g>
+</svg>

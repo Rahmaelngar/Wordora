@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" width="360" height="500" role="img" aria-label="Wordora language friend saying Merhaba!">
+<defs><linearGradient id="tr-skin" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#b77b56"/><stop offset="1" stop-color="#95603f"/></linearGradient><linearGradient id="tr-hair" x1="0" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#3a2440"/><stop offset="1" stop-color="#1f1124"/></linearGradient><linearGradient id="tr-top" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#7d4fe0"/><stop offset="1" stop-color="#4f25a8"/></linearGradient><linearGradient id="tr-acc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8fb1"/><stop offset="1" stop-color="#ff8fb1"/></linearGradient><linearGradient id="tr-bub" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#efe2ff"/></linearGradient>
+<radialGradient id="tr-shade" cx=".5" cy=".3" r=".7"><stop offset=".6" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#5a2a8a" stop-opacity=".18"/></radialGradient>
+<radialGradient id="tr-gnd"><stop offset="0" stop-color="#7a45c8" stop-opacity=".25"/><stop offset="1" stop-color="#7a45c8" stop-opacity="0"/></radialGradient></defs><style>
+#tr-arm{transform-box:view-box;transform-origin:258px 372px;animation:tr-wave 1.1s ease-in-out infinite}
+#tr-head{transform-box:view-box;transform-origin:180px 330px;animation:tr-bob 2.4s ease-in-out infinite}
+#tr-bubble{transform-box:view-box;transform-origin:180px 100px;animation:tr-float 2.4s ease-in-out infinite}
+#tr-eyes{transform-box:view-box;transform-origin:180px 236px;animation:tr-blink 4s infinite}
+#tr-spark{animation:tr-twinkle 1.8s ease-in-out infinite}
+#tr-body{transform-box:view-box;transform-origin:180px 496px;animation:tr-breathe 2.4s ease-in-out infinite}
+@keyframes tr-wave{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(14deg)}}
+@keyframes tr-bob{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-6px) rotate(2.5deg)}}
+@keyframes tr-float{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-6px) scale(1.04)}}
+@keyframes tr-blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.15)}}
+@keyframes tr-twinkle{0%,100%{opacity:1}50%{opacity:.45}}
+@keyframes tr-breathe{0%,100%{transform:scale(1,1)}50%{transform:scale(1.015,.99)}}
+@media (prefers-reduced-motion:reduce){#tr-arm,#tr-head,#tr-bubble,#tr-eyes,#tr-spark,#tr-body{animation:none}}
+@media print{#tr-arm,#tr-head,#tr-bubble,#tr-eyes,#tr-spark,#tr-body{animation:none}}
+</style>
+<ellipse cx="180" cy="492" rx="120" ry="8" fill="url(#tr-gnd)"/>
+<g id="tr-body">
+<path d="M78 496C76 410 108 352 180 346C252 352 284 410 282 496Z" fill="url(#tr-top)"/>
+<path d="M78 496C76 410 108 352 180 346C252 352 284 410 282 496Z" fill="url(#tr-shade)"/>
+<path d="M150 348L180 384L210 348" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="132" cy="430" r="15" fill="#ff8fb1"/><path d="M125 430H139M132 423V437" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="236" cy="452" r="5" fill="#fff" opacity=".5"/><circle cx="252" cy="436" r="3.5" fill="#fff" opacity=".4"/><circle cx="222" cy="474" r="4" fill="#fff" opacity=".35"/>
+<path d="M98 382C80 420 80 460 92 488" stroke="url(#tr-top)" stroke-width="34" fill="none" stroke-linecap="round"/>
+<circle cx="94" cy="482" r="16" fill="url(#tr-skin)"/></g>
+<g id="tr-arm"><path d="M256 380C290 360 304 330 304 282" stroke="url(#tr-top)" stroke-width="34" fill="none" stroke-linecap="round"/>
+<path d="M286 290H322" stroke="#fff" stroke-opacity=".6" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="304" cy="256" rx="20" ry="22" fill="url(#tr-skin)"/>
+<ellipse cx="290" cy="230" rx="5.5" ry="13" transform="rotate(-14 290 230)" fill="url(#tr-skin)"/><ellipse cx="301" cy="226" rx="5.5" ry="14" fill="url(#tr-skin)"/><ellipse cx="312" cy="228" rx="5.5" ry="13" transform="rotate(10 312 228)" fill="url(#tr-skin)"/><ellipse cx="322" cy="236" rx="5" ry="11" transform="rotate(24 322 236)" fill="url(#tr-skin)"/><ellipse cx="324" cy="262" rx="5.5" ry="11" transform="rotate(-50 324 262)" fill="url(#tr-skin)"/>
+<path d="M330 214l4 -9M338 226l9 -4M316 204l1 -10" stroke="#ff8fb1" stroke-width="4" stroke-linecap="round"/></g>
+<g id="tr-head"><path fill="url(#tr-hair)" d="M108 220C100 150 150 140 180 140C214 140 262 150 252 220L258 292C244 306 222 300 214 292L146 292C138 300 116 306 102 292Z"/>
+<rect x="164" y="290" width="32" height="58" rx="14" fill="url(#tr-skin)"/><path d="M164 312Q180 324 196 312V300H164Z" fill="#95603f" opacity=".6"/>
+<ellipse cx="116" cy="240" rx="12" ry="16" fill="#95603f"/><ellipse cx="244" cy="240" rx="12" ry="16" fill="#95603f"/>
+<ellipse cx="180" cy="232" rx="64" ry="70" fill="url(#tr-skin)"/><ellipse cx="180" cy="232" rx="64" ry="70" fill="url(#tr-shade)"/>
+<ellipse cx="146" cy="262" rx="13" ry="8" fill="#ff8fa8" opacity=".45"/><ellipse cx="214" cy="262" rx="13" ry="8" fill="#ff8fa8" opacity=".45"/>
+<g id="tr-eyes"><ellipse cx="156" cy="238" rx="11" ry="13" fill="#fff"/><ellipse cx="206" cy="238" rx="11" ry="13" fill="#fff"/><circle cx="158" cy="240" r="8" fill="#3b2167"/><circle cx="208" cy="240" r="8" fill="#3b2167"/><circle cx="161" cy="236" r="3" fill="#fff"/><circle cx="211" cy="236" r="3" fill="#fff"/></g>
+<path d="M142 214Q156 205 168 212M194 212Q206 205 220 214" stroke="#1f1124" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M178 246Q182 256 176 258" stroke="#95603f" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M158 270Q180 300 202 270Q180 278 158 270Z" fill="#5a1f4a"/><path d="M168 282Q180 294 192 282Q180 278 168 282Z" fill="#ff7f9a"/><path d="M160 271Q180 277 200 271" stroke="#fff" stroke-width="3" fill="none"/>
+<path fill="url(#tr-hair)" d="M112 240C102 168 148 150 180 150C220 150 258 168 248 240C242 214 230 198 214 192C196 206 156 210 132 196C122 208 116 222 112 240Z"/><path d="M116 210C130 170 230 170 244 210" stroke="#ff8fb1" stroke-width="12" fill="none" stroke-linecap="round"/><circle cx="226" cy="186" r="11" fill="#ff8fb1"/><circle cx="226" cy="186" r="4" fill="#fff"/></g>
+<g id="tr-bubble"><path d="M168 96L160 124L194 96Z" fill="#efe2ff" stroke="#8b55e8" stroke-width="4" stroke-linejoin="round"/>
+<rect x="53" y="20" width="254" height="78" rx="39" fill="url(#tr-bub)" stroke="#8b55e8" stroke-width="4"/><path d="M166 94L190 94" stroke="#f3eaff" stroke-width="6"/>
+<path d="M77 44Q83 32 99 30" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="180" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#4b1f8f">Merhaba!</text></g>
+<g id="tr-spark"><path d="M45 30l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#ff8fb1"/><circle cx="317" cy="88" r="6" fill="#b98cff"/><circle cx="311" cy="30" r="4" fill="#ff8fb1"/></g>
+</svg>
