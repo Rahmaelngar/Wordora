@@ -11,7 +11,6 @@ export default function Slide08() {
       <p>نقاط وشارات مرتبطة بإنجاز حقيقي</p>
       <p>إعادة الاختبار لا تمنح مكافآت متكررة بلا حدود</p>
     </div>
-    <p className="image-credit">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>08</span></div>
   </div>;
 }

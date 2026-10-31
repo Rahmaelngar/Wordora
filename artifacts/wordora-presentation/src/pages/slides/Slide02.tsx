@@ -10,7 +10,6 @@ export default function Slide02() {
       <p>صعوبة الاستمرار دون خطة واضحة</p>
       <p>الحاجة إلى شرح عربي وتجربة سهلة</p>
     </div>
-    <p className="image-credit">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>02</span></div>
   </div>;
 }

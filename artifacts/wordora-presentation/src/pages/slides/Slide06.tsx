@@ -10,7 +10,6 @@ export default function Slide06() {
       <p>فيديو تعليمي مروي يُنشأ عند الطلب</p>
       <p>الجملة ومعناها بالعربي ظاهران أثناء التعلّم</p>
     </div>
-    <p className="image-credit">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>06</span></div>
   </div>;
 }

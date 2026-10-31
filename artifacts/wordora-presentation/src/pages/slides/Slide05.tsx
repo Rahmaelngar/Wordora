@@ -11,7 +11,6 @@ export default function Slide05() {
       <p>حفظ العناصر للعودة إليها في المراجعة</p>
       <p>استكمال الدرس من آخر نقطة محفوظة</p>
     </div>
-    <p className="image-credit">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>05</span></div>
   </div>;
 }

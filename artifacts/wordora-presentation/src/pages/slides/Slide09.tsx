@@ -12,7 +12,6 @@ export default function Slide09() {
       <p className="deck-copy">استخدم المحادثة لدعم فهم الدرس</p>
       <p className="deck-copy">راجع الإجابات بعناية؛ المساعد قد يخطئ</p>
     </div>
-    <p className="absolute left-[6vw] top-[68vh] text-[1.5vw] text-muted">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>09</span></div>
   </div>;
 }

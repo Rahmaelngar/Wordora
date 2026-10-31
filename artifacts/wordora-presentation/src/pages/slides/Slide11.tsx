@@ -11,7 +11,6 @@ export default function Slide11() {
       <p className="deck-copy border-b border-primary/25 pb-[1.6vh]"><b className="text-primary">4.</b> تابع خطتك اليومية وشاهد تقدّمك</p>
       <p className="deck-copy font-bold text-primary mt-[1vh]">خطوات صغيرة ومتواصلة نحو تواصل أكثر ثقة</p>
     </div>
-    <p className="image-credit">صورة مولّدة بالذكاء الاصطناعي</p>
     <div className="deck-footer"><span>Wordora</span><span>11</span></div>
   </div>;
 }
