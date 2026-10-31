@@ -1,6 +1,12 @@
 const base = import.meta.env.BASE_URL;
 export default function Slide09() {
-  return <div className="w-screen h-screen overflow-hidden relative wordora-frame">
+  return <div className="w-screen h-screen overflow-hidden relative wordora-frame motion-slide-09">
+    <style>{`
+      @keyframes wordoraPhoto09 { 0%,100% { transform: translateY(0) scale(1); } 50% { transform: translateY(-1vh) scale(1.01); } }
+      .motion-slide-09 > .deck-image { animation: wordoraPhoto09 6.5s ease-in-out infinite; }
+      .slide .motion-slide-09 > .deck-image { animation: none; transform: none; }
+      @media (prefers-reduced-motion: reduce), print { .motion-slide-09 > .deck-image { animation: none; transform: none; } }
+    `}</style>
     <h1 className="deck-title">GPT Ieon: مساعدك التعليمي</h1>
     <div className="organic-soft left-[2vw] top-[24vh] w-[43vw] h-[45vh]"/>
     <img src={`${base}images/assistant.webp`} crossOrigin="anonymous" alt="مساعد رقمي وفقاعات حوار، صورة AI" className="deck-image left-[1vw] top-[22vh] w-[44vw] h-[48vh]"/>

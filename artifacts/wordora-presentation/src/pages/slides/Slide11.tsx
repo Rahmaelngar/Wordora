@@ -1,6 +1,12 @@
 const base = import.meta.env.BASE_URL;
 export default function Slide11() {
-  return <div className="w-screen h-screen overflow-hidden relative wordora-frame">
+  return <div className="w-screen h-screen overflow-hidden relative wordora-frame motion-slide-11">
+    <style>{`
+      @keyframes wordoraPhoto11 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-0.8vh) rotate(-0.4deg); } }
+      .motion-slide-11 > .deck-image { animation: wordoraPhoto11 8s ease-in-out infinite; }
+      .slide .motion-slide-11 > .deck-image { animation: none; transform: none; }
+      @media (prefers-reduced-motion: reduce), print { .motion-slide-11 > .deck-image { animation: none; transform: none; } }
+    `}</style>
     <h1 className="deck-title">رحلة بسيطة من البداية إلى الإنجاز</h1>
     <div className="organic left-[1vw] top-[28vh] w-[38vw] h-[56vh]"/>
     <img src={`${base}images/journey.webp`} crossOrigin="anonymous" alt="مسار تعلّم من الكتاب إلى التواصل والإنجاز، صورة AI" className="deck-image left-[0vw] top-[25vh] w-[41vw] h-[61vh]"/>

@@ -1,6 +1,12 @@
 const base = import.meta.env.BASE_URL;
 export default function Slide12() {
-  return <div className="w-screen h-screen overflow-hidden relative wordora-frame">
+  return <div className="w-screen h-screen overflow-hidden relative wordora-frame motion-slide-12">
+    <style>{`
+      @keyframes wordoraPhoto12 { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-1vh) rotate(0.5deg); } }
+      .motion-slide-12 > .deck-image { animation: wordoraPhoto12 7s ease-in-out infinite; }
+      .slide .motion-slide-12 > .deck-image { animation: none; transform: none; }
+      @media (prefers-reduced-motion: reduce), print { .motion-slide-12 > .deck-image { animation: none; transform: none; } }
+    `}</style>
     <div className="organic left-[2vw] top-[17vh] w-[43vw] h-[68vh]"/>
     <img src={`${base}images/thanks.webp`} crossOrigin="anonymous" alt="فقاعات موف ونجوم احتفالية، صورة AI" className="deck-image left-[0vw] top-[18vh] w-[48vw] h-[66vh]"/>
     <img src={`${base}images/wordora.webp`} crossOrigin="anonymous" alt="شعار Wordora" className="absolute right-[6vw] top-[5vh] w-[9vw] h-[15vh] object-contain"/>
