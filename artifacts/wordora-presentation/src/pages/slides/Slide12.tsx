@@ -15,7 +15,7 @@ export default function Slide12() {
       <p className="deck-copy mt-[3vh]">مع Wordora، كل كلمة بداية لعالم جديد</p>
       <p className="deck-copy mt-[1.5vh]">رحلتكم لتعلم اللغة تبدأ هنا</p>
       <div className="mt-[3vh]">
-        <p className="flex gap-[1vw] items-baseline text-[2vw] leading-[1.5]"><span>إعداد:</span><span dir="ltr" className="font-bold">Rahma magdy elngar</span></p>
+        <p className="flex gap-[1vw] items-baseline text-[2vw] leading-[1.5]"><span>إعداد:</span><span dir="ltr" className="font-bold">Rahma Magdy Ibrahim Elnaggar</span></p>
         <p className="text-[1.8vw] leading-[1.5] mt-[1vh]">إشراف:</p>
         <p dir="ltr" className="text-right text-[2vw] font-bold leading-[1.5]">Taha Mahmoud Metwally Nour El-Dein</p>
       </div>
