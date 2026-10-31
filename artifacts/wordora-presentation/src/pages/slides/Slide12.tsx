@@ -1,17 +1,17 @@
 const base = import.meta.env.BASE_URL;
 export default function Slide12() {
-  return <div className="w-screen h-screen overflow-hidden relative wordora-frame">
+  return <div className="w-screen h-screen overflow-hidden relative wordora-frame motion-slide-12">
+    <style>{`
+      @keyframes wordoraPhoto12 { 0%,100% { transform: translateY(0) rotate(-.8deg) scale(1); } 50% { transform: translateY(-2vh) rotate(.8deg) scale(1.03); } }
+      .motion-slide-12 > .deck-image { animation: wordoraPhoto12 4.4s ease-in-out infinite; }
+      .slide .motion-slide-12 > .deck-image { animation: none; transform: none; }
+      @media (prefers-reduced-motion: reduce), print { .motion-slide-12 > .deck-image { animation: none; transform: none; } }
+    `}</style>
     <svg className="deck-image decor-star left-[2vw] top-[17vh]" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 0 40 24 64 32 40 40 32 64 24 40 0 32 24 24Z" fill="currentColor"/></svg>
     <div className="deck-image decor-tile right-[2vw] top-[79vh]" aria-hidden="true"/>
     <div className="decor-zigzag left-[2vw] top-[79vh]" aria-hidden="true"/>
     <div className="organic left-[2vw] top-[17vh] w-[43vw] h-[68vh]"/>
     <img src={`${base}images/thanks.webp`} crossOrigin="anonymous" alt="فقاعات موف ونجوم احتفالية، صورة AI" className="deck-image left-[0vw] top-[18vh] w-[48vw] h-[66vh]"/>
-    <div className="friend-pair absolute left-[4vw] top-[57vh] w-[12vw] h-[30vh] z-[2]">
-      <img src={`${base}images/language-friends/spanish.svg`} alt="رفيق الإسبانية يحيّي الجمهور" crossOrigin="anonymous"/>
-    </div>
-    <div className="friend-pair absolute left-[28vw] top-[57vh] w-[12vw] h-[30vh] z-[2]">
-      <img src={`${base}images/language-friends/french.svg`} alt="رفيقة الفرنسية تحيّي الجمهور" crossOrigin="anonymous"/>
-    </div>
     <img src={`${base}images/wordora-vector.svg`} crossOrigin="anonymous" alt="شعار Wordora المتجهي" className="absolute right-[6vw] top-[5vh] w-[9vw] h-[15vh] object-contain"/>
     <div className="absolute right-[6vw] top-[25vh] w-[47vw] z-10">
       <h1 dir="ltr" className="text-right text-[4.6vw] font-black leading-[1.3] text-primary">Thank You.💜</h1>

@@ -1,4 +1,4 @@
 - [Wordora product requirements](wordora-product.md) — Arabic-first curriculum, GPT Ieon naming, original logo first, and one-word-at-a-time lessons.
 - [Learning video compatibility](wordora-media-compatibility.md) — successful media requests do not prove playback; preview Chromium needs a WebM option.
 - [Curriculum quality](wordora-curriculum.md) — validate distinctness across topics and repair only offending rows; sentence cards need full-sentence meanings and pronunciation.
-- [Presentation style](wordora-presentation.md) — vector logos, cartoon language companions and coordinated shapes; slides 1, 10 and 12 must stay static.
+- [Presentation style](wordora-presentation.md) — animate the opening and closing, keep slide 10 static; no cartoon characters on slides 1, 7, 10 or 12.
