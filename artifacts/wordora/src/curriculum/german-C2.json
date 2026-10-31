@@ -1,0 +1,2630 @@
+{
+  "lessons": [
+    {
+      "topic": "التعلّم المستقل",
+      "words": [
+        [
+          "Wer eigenständig lernt, wartet nicht auf perfekte Bedingungen, sondern baut sich aus jeder Lücke einen Startpunkt.",
+          "من يتعلم باستقلالية لا ينتظر الظروف المثالية، بل يصنع من كل فجوة نقطة انطلاق.",
+          "فير أيغنشتينديخ ليرنت، فارتيت نخت أوف بيرفِكتِه بيدينغونغن، زوندرن باوْت زيخ آوس يِدر لوقه آينن شتارتفونكت.",
+          "Wer eigenständig lernt, wartet nicht auf perfekte Bedingungen, sondern baut sich aus jeder Lücke einen Startpunkt.",
+          "من يتعلم باستقلالية لا ينتظر الظروف المثالية، بل يصنع من كل فجوة نقطة انطلاق."
+        ],
+        [
+          "Ich prüfe Quellen erst skeptisch und nutze sie dann umso gezielter, weil Vertrauen ohne Kontrolle teuer werden kann.",
+          "أفحص المصادر أولاً بشك، ثم أستخدمها بتركيز أكبر، لأن الثقة بلا تحقق قد تكون مكلفة.",
+          "إيش بروفه كويلن إشتِش سكِبتِش أوند نوتسه زي دان أومزو تسيلتر، فايل فرآوين أوhne كونتروّله تويَر فارْدن كان.",
+          "Ich prüfe Quellen erst skeptisch und nutze sie dann umso gezielter, weil Vertrauen ohne Kontrolle teuer werden kann.",
+          "أفحص المصادر أولاً بشك، ثم أستخدمها بتركيز أكبر، لأن الثقة بلا تحقق قد تكون مكلفة."
+        ],
+        [
+          "Selbststudium lohnt sich dort am meisten, wo man nicht nur Wissen sammelt, sondern sein Urteil schärft.",
+          "يستحق التعلم الذاتي العناء أكثر ما يكون حين لا يكتفي المرء بجمع المعرفة، بل يصقل حكمه.",
+          "سيلبشتشتوديوم لوْنت زيخ دورت آَم مايسْتِن، فو مان نخت نور فيسن ساملت، زوندرن زاين أورتايل شرفت.",
+          "Selbststudium lohnt sich dort am meisten, wo man nicht nur Wissen sammelt, sondern sein Urteil schärft.",
+          "يستحق التعلم الذاتي العناء أكثر ما يكون حين لا يكتفي المرء بجمع المعرفة، بل يصقل حكمه."
+        ],
+        [
+          "Wenn ich ein Thema nicht sofort verstehe, zerlege ich es lieber in kleine Teile, statt mich am Ganzen festzubeißen.",
+          "إذا لم أفهم موضوعاً فوراً، فأنا أفككه إلى أجزاء صغيرة بدلاً من التشبث به ككل.",
+          "فِن إيش آين تيمَا نخت زوفورت فارشتَيّه، تسِرليغه إيش إيس ليبر إن كلاينه تايله، شتات ميخ آم غانتسن فِشتسوبايسن.",
+          "Wenn ich ein Thema nicht sofort verstehe, zerlege ich es lieber in kleine Teile, statt mich am Ganzen festzubeißen.",
+          "إذا لم أفهم موضوعاً فوراً، فأنا أفككه إلى أجزاء صغيرة بدلاً من التشبث به ككل."
+        ],
+        [
+          "Man lernt nicht nachhaltig, indem man möglichst viel liest, sondern indem man das Gelesene mit dem Alltag verknüpft.",
+          "لا يتعلم المرء بشكل مستدام بمجرد القراءة كثيراً، بل بربط ما قرأه بالحياة اليومية.",
+          "مان ليرنت نخت ناخهاِلتِخ، إيندِم مان موغليشْت فيل ليست، زوندرن إيندِم مان داس غيليزِنه مِت دِم آلتاك فاركنوبفت.",
+          "Man lernt nicht nachhaltig, indem man möglichst viel liest, sondern indem man das Gelesene mit dem Alltag verknüpft.",
+          "لا يتعلم المرء بشكل مستدام بمجرد القراءة كثيراً، بل بربط ما قرأه بالحياة اليومية."
+        ],
+        [
+          "Ich notiere Fragen sofort, denn gute Fragen sind oft produktiver als vorschnelle Antworten.",
+          "أدوّن الأسئلة فوراً، لأن الأسئلة الجيدة غالباً أكثر إنتاجية من الإجابات المتسرعة.",
+          "إيش نوتيِره فراخن زوفورت، دين غوته فراخن زينت أوفت برودوكتيفر آلس فورشنايله أنتوورتن.",
+          "Ich notiere Fragen sofort, denn gute Fragen sind oft produktiver als vorschnelle Antworten.",
+          "أدوّن الأسئلة فوراً، لأن الأسئلة الجيدة غالباً أكثر إنتاجية من الإجابات المتسرعة."
+        ],
+        [
+          "Wer sich beim Lernen selbst erklärt, merkt schnell, wo er noch nur Schlagworte statt Verständnis hat.",
+          "من يشرح لنفسه أثناء التعلم يكتشف سريعاً أين يملك عبارات رنانة فقط بدل الفهم الحقيقي.",
+          "فير زيش بايم ليرنن سيلبشت إرْكلايرت، ميركت شنِل، فو إر نوخ نور شلاكفورتِه شتات فارشتاندنيس هات.",
+          "Wer sich beim Lernen selbst erklärt, merkt schnell, wo er noch nur Schlagworte statt Verständnis hat.",
+          "من يشرح لنفسه أثناء التعلم يكتشف سريعاً أين يملك عبارات رنانة فقط بدل الفهم الحقيقي."
+        ],
+        [
+          "Ich wechsle bewusst die Methode, wenn ein Ansatz mich nur beschäftigt, aber kaum weiterbringt.",
+          "أغيّر الطريقة عن قصد حين لا يفعل النهج سوى إشغالي دون أن يقدمني كثيراً.",
+          "إيش فَيْكسله بيفوست ديه ميتوده، فِن آين آنسَتس ميخ نور بَشيفْتِجت، آبر كاوم فايتَربرينغت.",
+          "Ich wechsle bewusst die Methode, wenn ein Ansatz mich nur beschäftigt, aber kaum weiterbringt.",
+          "أغيّر الطريقة عن قصد حين لا يفعل النهج سوى إشغالي دون أن يقدمني كثيراً."
+        ],
+        [
+          "Am Ende zählt nicht, wie viel man verspricht, sondern was man allein und verlässlich umsetzt.",
+          "في النهاية لا يهم كم يعد المرء، بل ما ينجزه وحده وبموثوقية.",
+          "آم إنده تسيلت نخت، في فيل مان فَرشْبريشت، زوندرن فاس مان آلاين أوند فارْلِخ أومستْتسْت.",
+          "Am Ende zählt nicht, wie viel man verspricht, sondern was man allein und verlässlich umsetzt.",
+          "في النهاية لا يهم كم يعد المرء، بل ما ينجزه وحده وبموثوقية."
+        ],
+        [
+          "Ich lerne am liebsten so, dass ich das Neue gleich anwende; sonst bleibt es für mich bloß Theorie.",
+          "أفضل أن أتعلم بطريقة أطبق فيها الجديد مباشرة؛ وإلا بقي بالنسبة لي مجرد نظرية.",
+          "إيش ليرنه آم ليبستن زو، داس إيش داس نويِه غلايخ آنفِنده؛ زونست بلايبت إيس فور ميخ بلوس تيئوري.",
+          "Ich lerne am liebsten so, dass ich das Neue gleich anwende; sonst bleibt es für mich bloß Theorie.",
+          "أفضل أن أتعلم بطريقة أطبق فيها الجديد مباشرة؛ وإلا بقي بالنسبة لي مجرد نظرية."
+        ]
+      ]
+    },
+    {
+      "topic": "التفاوض باحترام",
+      "words": [
+        [
+          "Gute Verhandlungen beginnen nicht mit Druck, sondern mit dem ehrlichen Versuch, das Gegenüber zu verstehen.",
+          "التفاوض الجيد لا يبدأ بالضغط، بل بالمحاولة الصادقة لفهم الطرف الآخر.",
+          "غوتِه فارهاندلونغن بيغينن نخت مِت دْروك، زوندرن مِت دِم إرليشِن فَرسوخ، داس غيڠنأوبر تسو فارشتين.",
+          "Gute Verhandlungen beginnen nicht mit Druck, sondern mit dem ehrlichen Versuch, das Gegenüber zu verstehen.",
+          "التفاوض الجيد لا يبدأ بالضغط، بل بالمحاولة الصادقة لفهم الطرف الآخر."
+        ],
+        [
+          "Ich sage klar, was ich brauche, ohne so zu tun, als sei mein Wunsch allein vernünftig.",
+          "أقول بوضوح ما أحتاجه، دون أن أتظاهر بأن رغبتي وحدها هي المعقولة.",
+          "إيش زاغه كلار، فاس إيش براوخه، أونه زو تسو تون، آلس زاِي ماين فُونش آلاين فرنونفتِخ.",
+          "Ich sage klar, was ich brauche, ohne so zu tun, als sei mein Wunsch allein vernünftig.",
+          "أقول بوضوح ما أحتاجه، دون أن أتظاهر بأن رغبتي وحدها هي المعقولة."
+        ],
+        [
+          "Wenn beide Seiten Gesichtsverlust vermeiden wollen, lässt sich oft mehr erreichen als mit starrer Härte.",
+          "إذا أراد الطرفان تجنب فقدان ماء الوجه، فغالباً يمكن تحقيق أكثر مما تحققه الصلابة المتعنتة.",
+          "فِن بايده زايتن غيزِتسفَرلست فارمايدن فولن، ليست زيش أوفت مير إررايشن آلس مِت شتارَر هيرته.",
+          "Wenn beide Seiten Gesichtsverlust vermeiden wollen, lässt sich oft mehr erreichen als mit starrer Härte.",
+          "إذا أراد الطرفان تجنب فقدان ماء الوجه، فغالباً يمكن تحقيق أكثر مما تحققه الصلابة المتعنتة."
+        ],
+        [
+          "Ich höre genau hin, gerade wenn ein Einwand zunächst unbequem klingt, weil darin oft der Kern liegt.",
+          "أصغي جيداً، خاصة عندما يبدو الاعتراض في البداية مزعجاً، لأن جوهر المسألة يكون فيه غالباً.",
+          "إيش هويره غيناو هين، غِراده فِن آين آينفاند تسوناتشست أونبيكما كليغت، فايل دارين أوفت دير كيرن ليغت.",
+          "Ich höre genau hin, gerade wenn ein Einwand zunächst unbequem klingt, weil darin oft der Kern liegt.",
+          "أصغي جيداً، خاصة عندما يبدو الاعتراض في البداية مزعجاً، لأن جوهر المسألة يكون فيه غالباً."
+        ],
+        [
+          "Ein faires Angebot erkennt man daran, dass es auch nach dem zweiten Blick noch trägt.",
+          "العرض المنصف يُعرف من أنه يبقى متماسكاً حتى بعد النظرة الثانية.",
+          "آين فايرِس آنغيبوت إرْكنْت مان داران، داس إِس آوخ ناخ دِم تسوايتن بليك نوخ تراغت.",
+          "Ein faires Angebot erkennt man daran, dass es auch nach dem zweiten Blick noch trägt.",
+          "العرض المنصف يُعرف من أنه يبقى متماسكاً حتى بعد النظرة الثانية."
+        ],
+        [
+          "Ich gehe nicht auf jede Spitze ein; manchmal ist eine ruhige, präzise Grenze überzeugender.",
+          "لا أرد على كل استفزاز؛ أحياناً تكون الحدود الهادئة والدقيقة أكثر إقناعاً.",
+          "إيش غيِه نخت أوف يِدِه شبيتسه آين؛ مانشمال إيست آينِه روِيغه، برايتسيزه غرنتسه أوبِرتسوِيغِنْدَر.",
+          "Ich gehe nicht auf jede Spitze ein; manchmal ist eine ruhige, präzise Grenze überzeugender.",
+          "لا أرد على كل استفزاز؛ أحياناً تكون الحدود الهادئة والدقيقة أكثر إقناعاً."
+        ],
+        [
+          "Wer Respekt will, sollte ihn auch im Ton zeigen, nicht nur in wohlklingenden Zusagen.",
+          "من يريد الاحترام ينبغي أن يظهره أيضاً في النبرة، لا في الوعود المنمقة فقط.",
+          "فير رِسبيكت فيل، زولتِه إين آوخ إيم تون تسايغن، نخت نور إين فولهْكْلينغِندن تسوزاغن.",
+          "Wer Respekt will, sollte ihn auch im Ton zeigen, nicht nur in wohlklingenden Zusagen.",
+          "من يريد الاحترام ينبغي أن يظهره أيضاً في النبرة، لا في الوعود المنمقة فقط."
+        ],
+        [
+          "Ich lasse mir Bedenkzeit, wenn eine schnelle Zusage später teuer werden könnte.",
+          "أطلب مهلة تفكير حين قد يصبح القبول السريع مكلفاً لاحقاً.",
+          "إيش لاسه مير بيدِنكْتسايت، فِن آينه شنِله تسوزاغه شبَيتَر تويَر فارْدن كونته.",
+          "Ich lasse mir Bedenkzeit, wenn eine schnelle Zusage später teuer werden könnte.",
+          "أطلب مهلة تفكير حين قد يصبح القبول السريع مكلفاً لاحقاً."
+        ],
+        [
+          "Manchmal bringt ein kleiner Zugeständnis mehr Bewegung als ein großes Machtwort.",
+          "أحياناً يأتي تنازل صغير بحركة أكبر من كلمة حاسمة كبيرة.",
+          "مانشمال برينغت آين كلاينَر تسوغِشتندنيس مير بيڤيغونغ آلس آين غروسِس ماختفورت.",
+          "Manchmal bringt ein kleiner Zugeständnis mehr Bewegung als ein großes Machtwort.",
+          "أحياناً يأتي تنازل صغير بحركة أكبر من كلمة حاسمة كبيرة."
+        ],
+        [
+          "Ich suche nicht den Sieg um jeden Preis, sondern eine Lösung, mit der man morgen noch leben kann.",
+          "لا أبحث عن الفوز بأي ثمن، بل عن حل يمكن العيش معه غداً أيضاً.",
+          "إيش زوخه نخت دن زيغ أوم يِدن برايس، زوندرن آينه لوزونغ، مِت دير مان مورغن نوخ ليبن كان.",
+          "Ich suche nicht den Sieg um jeden Preis, sondern eine Lösung, mit der man morgen noch leben kann.",
+          "لا أبحث عن الفوز بأي ثمن، بل عن حل يمكن العيش معه غداً أيضاً."
+        ]
+      ]
+    },
+    {
+      "topic": "العمل الجماعي",
+      "words": [
+        [
+          "Ein Team funktioniert besser, wenn nicht alle dasselbe denken, aber alle dasselbe Ziel ernst nehmen.",
+          "يعمل الفريق أفضل حين لا يفكر الجميع بالطريقة نفسها، لكن حين يأخذ الجميع الهدف ذاته بجدية.",
+          "آين تيم فونكْتسيونييرت بِسر، فِن نخت آله داس زيلبه دنكن، آبر آله داس زيلبه تسيل إرْنست نِهْمن.",
+          "Ein Team funktioniert besser, wenn nicht alle dasselbe denken, aber alle dasselbe Ziel ernst nehmen.",
+          "يعمل الفريق أفضل حين لا يفكر الجميع بالطريقة نفسها، لكن حين يأخذ الجميع الهدف ذاته بجدية."
+        ],
+        [
+          "Ich schätze Kolleginnen und Kollegen besonders, wenn sie Probleme früh melden statt sie elegant zu verstecken.",
+          "أقدّر الزملاء والزميلات خصوصاً عندما يبلّغون عن المشكلات مبكراً بدلاً من إخفائها بأناقة.",
+          "إيش شتسه كوليغينن أوند كوليغن بيسوندِرس، فِن زي بروبليمه فروي ميلدن شتات زي إيليغانت تسو فارشتيكن.",
+          "Ich schätze Kolleginnen und Kollegen besonders, wenn sie Probleme früh melden statt sie elegant zu verstecken.",
+          "أقدّر الزملاء والزميلات خصوصاً عندما يبلّغون عن المشكلات مبكراً بدلاً من إخفائها بأناقة."
+        ],
+        [
+          "Gute Zusammenarbeit heißt nicht, ständig nett zu sein, sondern einander verlässlich den Rücken zu stärken.",
+          "التعاون الجيد لا يعني أن نكون لطفاء باستمرار، بل أن ندعم بعضنا بعضاً بثبات.",
+          "غوتِه تسوزامِناربایت هاست نخت، شتندِخ نِت تسو زاين، زوندرن آيناندر فارلِخ دن روكن تسو شتيركن.",
+          "Gute Zusammenarbeit heißt nicht, ständig nett zu sein, sondern einander verlässlich den Rücken zu stärken.",
+          "التعاون الجيد لا يعني أن نكون لطفاء باستمرار، بل أن ندعم بعضنا بعضاً بثبات."
+        ],
+        [
+          "Wenn jemand eine andere Perspektive einbringt, ist das kein Störfaktor, sondern oft ein Gewinn.",
+          "عندما يطرح أحدهم منظوراً مختلفاً، فليس ذلك عنصر إزعاج بل غالباً مكسب.",
+          "فِن ييمااند آينه أندِره برسبِكتيفه آينبرينغت، إيست داس كاين شتويرفاكتور، زوندرن أوفت آين غيفين.",
+          "Wenn jemand eine andere Perspektive einbringt, ist das kein Störfaktor, sondern oft ein Gewinn.",
+          "عندما يطرح أحدهم منظوراً مختلفاً، فليس ذلك عنصر إزعاج بل غالباً مكسب."
+        ],
+        [
+          "Ich übernehme gern Verantwortung, aber nicht so, dass andere sich bequem zurücklehnen.",
+          "أتحمل المسؤولية بسرور، لكن ليس على نحو يدفع الآخرين إلى الاسترخاء المريح.",
+          "إيش أوبِرنِهْمه غيرن فارانتفورتونغ، آبر نخت زو، داس أندِره زيش بيكْويم تسوروكْلينن.",
+          "Ich übernehme gern Verantwortung, aber nicht so, dass andere sich bequem zurücklehnen.",
+          "أتحمل المسؤولية بسرور، لكن ليس على نحو يدفع الآخرين إلى الاسترخاء المريح."
+        ],
+        [
+          "Im Team zählt Transparenz mehr als schöne Ausreden, weil sie Vertrauen überhaupt erst möglich macht.",
+          "في الفريق، الشفافية أهم من الأعذار الجميلة، لأنها تجعل الثقة ممكنة أصلاً.",
+          "إيم تيم تسيلت ترانسپارنتس مير آلس شونِه أوسرِدن، فايل زي فرآوين أوباهاوبت إشت موغليش ماخت.",
+          "Im Team zählt Transparenz mehr als schöne Ausreden, weil sie Vertrauen überhaupt erst möglich macht.",
+          "في الفريق، الشفافية أهم من الأعذار الجميلة، لأنها تجعل الثقة ممكنة أصلاً."
+        ],
+        [
+          "Ich mag es, wenn Aufgaben klar verteilt sind, doch genug Raum für kluge Improvisation bleibt.",
+          "أحب أن تكون المهام موزعة بوضوح، مع بقاء مساحة كافية للارتجال الذكي.",
+          "إيش ماك إِس، فِن أوفغابن كلار فارْتايلت زينت، دوخ غينوق راوْم فور كلاوغه إمبروفيزاتسيون بلايبت.",
+          "Ich mag es, wenn Aufgaben klar verteilt sind, doch genug Raum für kluge Improvisation bleibt.",
+          "أحب أن تكون المهام موزعة بوضوح، مع بقاء مساحة كافية للارتجال الذكي."
+        ],
+        [
+          "Wo Menschen einander zuhören, muss man Konflikte nicht künstlich dramatisieren.",
+          "حين يصغي الناس بعضهم لبعض، لا داعي لأن نضخم النزاعات بشكل مصطنع.",
+          "فو مينشن آيناندر تسوهورن، مووس مان كونفليكتِه نخت كونشتليخ دراماتيزيرن.",
+          "Wo Menschen einander zuhören, muss man Konflikte nicht künstlich dramatisieren.",
+          "حين يصغي الناس بعضهم لبعض، لا داعي لأن نضخم النزاعات بشكل مصطنع."
+        ],
+        [
+          "Ich arbeite lieber mit Leuten, die Kritik sauber formulieren, als mit solchen, die nur Stimmung machen.",
+          "أفضل العمل مع أشخاص يصوغون النقد بوضوح، لا مع من يثيرون الأجواء فقط.",
+          "إيش أربايتِه ليبر مِت لاويتن، دي كريتیک زاوبَر فورموليرن، آلس مِت زولخن، دي نور شتيمونغ ماخن.",
+          "Ich arbeite lieber mit Leuten, die Kritik sauber formulieren, als mit solchen, die nur Stimmung machen.",
+          "أفضل العمل مع أشخاص يصوغون النقد بوضوح، لا مع من يثيرون الأجواء فقط."
+        ],
+        [
+          "Ein gutes Team wächst daran, dass es Erfolge teilt und Fehler nicht als persönliches Versagen behandelt.",
+          "ينمو الفريق الجيد من خلال تقاسم النجاحات وعدم التعامل مع الأخطاء كإخفاق شخصي.",
+          "آين غوتِس تيم ڤيختسْت داران، داس إِس إرْفولغه تايلت أوند فيلَر نخت آلس برسونليشِس فارْزاغن بهاندلت.",
+          "Ein gutes Team wächst daran, dass es Erfolge teilt und Fehler nicht als persönliches Versagen behandelt.",
+          "ينمو الفريق الجيد من خلال تقاسم النجاحات وعدم التعامل مع الأخطاء كإخفاق شخصي."
+        ]
+      ]
+    },
+    {
+      "topic": "حل النزاعات",
+      "words": [
+        [
+          "Konflikte lösen sich selten von selbst; meist brauchen sie Klarheit, Geduld und ein bisschen Mut zur Wahrheit.",
+          "النزاعات نادراً ما تُحل من تلقاء نفسها؛ وغالباً تحتاج إلى وضوح وصبر وقليل من الشجاعة للحقيقة.",
+          "كونفليكتِه لوزن زيخ زيلتن فون زيلبت؛ مايست براوخن زي كلارهايت، غيدولت أوند آين بِشِن موت تسور فارهايت.",
+          "Konflikte lösen sich selten von selbst; meist brauchen sie Klarheit, Geduld und ein bisschen Mut zur Wahrheit.",
+          "النزاعات نادراً ما تُحل من تلقاء نفسها؛ وغالباً تحتاج إلى وضوح وصبر وقليل من الشجاعة للحقيقة."
+        ],
+        [
+          "Ich trenne die Sache von der Person, sonst wird aus Kritik schnell bloß ein Machtspiel.",
+          "أفصل المسألة عن الشخص، وإلا تحولت الملاحظة سريعاً إلى مجرد لعبة قوة.",
+          "إيش ترِنِّه دي زاخه فون دير بيرسون، زونست فِرت آوس كريتیک شنِل بلوس آين ماختشپيل.",
+          "Ich trenne die Sache von der Person, sonst wird aus Kritik schnell bloß ein Machtspiel.",
+          "أفصل المسألة عن الشخص، وإلا تحولت الملاحظة سريعاً إلى مجرد لعبة قوة."
+        ],
+        [
+          "Wenn die Stimmung kippt, hilft mir ein ruhiger Satz mehr als lautes Recht-haben-Wollen.",
+          "عندما يتبدل الجو، تساعدني عبارة هادئة أكثر من الرغبة الصاخبة في إثبات الصواب.",
+          "فِن دي شتيمونغ كيبت، هيلفت مير آين روِيغهِر زاتس مير آلس لاوتِس رخْت-حابن-فولِن.",
+          "Wenn die Stimmung kippt, hilft mir ein ruhiger Satz mehr als lautes Recht-haben-Wollen.",
+          "عندما يتبدل الجو، تساعدني عبارة هادئة أكثر من الرغبة الصاخبة في إثبات الصواب."
+        ],
+        [
+          "Ich frage nach dem eigentlichen Problem, weil Streit oft nur das Symptom eines tieferen Risses zeigt.",
+          "أسأل عن المشكلة الحقيقية، لأن الشجار غالباً لا يظهر سوى عرضاً لشرخ أعمق.",
+          "إيش فراغه ناخ ديم آيغنتليشِن بروبليم، فايل شترايت أوفت نور داس زيمپتوم آينِس تيهفرن ريسِس تسايغت.",
+          "Ich frage nach dem eigentlichen Problem, weil Streit oft nur das Symptom eines tieferen Risses zeigt.",
+          "أسأل عن المشكلة الحقيقية، لأن الشجار غالباً لا يظهر سوى عرضاً لشرخ أعمق."
+        ],
+        [
+          "Man gewinnt selten, wenn man den anderen bloß überfährt; am Ende bleibt dann nur Widerstand zurück.",
+          "نادرًا ما يربح المرء إذا دهس الطرف الآخر؛ ففي النهاية لا يبقى سوى المقاومة.",
+          "مان غفينت زيلتن، فِن مان دن أندِرن بلوس أوبِرفيرت؛ آم إنده بلايبت دان نور فيدَرشتاند تسوروك.",
+          "Man gewinnt selten, wenn man den anderen bloß überfährt; am Ende bleibt dann nur Widerstand zurück.",
+          "نادرًا ما يربح المرء إذا دهس الطرف الآخر؛ ففي النهاية لا يبقى سوى المقاومة."
+        ],
+        [
+          "Ein fairer Kompromiss ist kein fauler Handel, sondern eine Brücke, die beide Seiten tragen können.",
+          "التسوية العادلة ليست صفقة هزيلة، بل جسر يمكن للطرفين العبور عليه.",
+          "آين فايرَر كومبروُميس إيست كاين فاولَر هاندل، زوندرن آينه بريوكه، دي بايده زايتن تراغن كونن.",
+          "Ein fairer Kompromiss ist kein fauler Handel, sondern eine Brücke, die beide Seiten tragen können.",
+          "التسوية العادلة ليست صفقة هزيلة، بل جسر يمكن للطرفين العبور عليه."
+        ],
+        [
+          "Ich halte nichts davon, alte Vorwürfe aufzuwärmen; das macht Wunden meist nur breiter.",
+          "لا أرى فائدة في إعادة إحياء الاتهامات القديمة؛ فذلك يجعل الجروح غالباً أوسع.",
+          "إيش هالته نختس دافون، ألتِه فورفورفه آوفتسوڤيرمن؛ داس ماخت فوندن مايست نور برايتر.",
+          "Ich halte nichts davon, alte Vorwürfe aufzuwärmen; das macht Wunden meist nur breiter.",
+          "لا أرى فائدة في إعادة إحياء الاتهامات القديمة؛ فذلك يجعل الجروح غالباً أوسع."
+        ],
+        [
+          "Wer sich entschuldigt, muss nicht klein wirken; manchmal zeigt genau das Größe.",
+          "من يعتذر لا يبدو بالضرورة صغيراً؛ أحياناً يُظهر ذلك عظمة حقيقية.",
+          "فير زيش إنتشودِغت، مووس نخت كلاين فيرْكن؛ مانشمال تسايغت غيناو داس غرُوسه.",
+          "Wer sich entschuldigt, muss nicht klein wirken; manchmal zeigt genau das Größe.",
+          "من يعتذر لا يبدو بالضرورة صغيراً؛ أحياناً يُظهر ذلك عظمة حقيقية."
+        ],
+        [
+          "Ich suche Lösungen, die den Konflikt entschärfen, ohne ihn bloß unter den Teppich zu kehren.",
+          "أبحث عن حلول تُخفف النزاع دون أن تكنسه تحت السجاد فحسب.",
+          "إيش زوخه لوزونغن، دي دن كونفليكت إنتشرفن، أونه إين بلوس أونتر دن تِپيش تسو كيرن.",
+          "Ich suche Lösungen, die den Konflikt entschärfen, ohne ihn bloß unter den Teppich zu kehren.",
+          "أبحث عن حلول تُخفف النزاع دون أن تكنسه تحت السجاد فحسب."
+        ],
+        [
+          "Am besten ist es, wenn beide Seiten am Ende das Gesicht wahren und trotzdem weiterkommen.",
+          "الأفضل أن يحفظ الطرفان ماء الوجه في النهاية ويواصلا التقدم مع ذلك.",
+          "آم بِستن إيست إِس، فِن بايده زايتن آم إنده داس غيزيخت فارن أوند تروتسدم فايتركومن.",
+          "Am besten ist es, wenn beide Seiten am Ende das Gesicht wahren und trotzdem weiterkommen.",
+          "الأفضل أن يحفظ الطرفان ماء الوجه في النهاية ويواصلا التقدم مع ذلك."
+        ]
+      ]
+    },
+    {
+      "topic": "المقابلات المهنية",
+      "words": [
+        [
+          "In einem guten Gespräch zählt nicht nur der Lebenslauf, sondern auch, wie jemand denkt und zuhört.",
+          "في المقابلة الجيدة لا تُحسب السيرة الذاتية وحدها، بل أيضاً طريقة تفكير الشخص واستماعه.",
+          "إين آينِم غوتن غِشبرَيش تسيلت نخت نور دير ليبنسلاوف، زوندرن آوخ، في ييمااند دنكت أوند تسوهورت.",
+          "In einem guten Gespräch zählt nicht nur der Lebenslauf, sondern auch, wie jemand denkt und zuhört.",
+          "في المقابلة الجيدة لا تُحسب السيرة الذاتية وحدها، بل أيضاً طريقة تفكير الشخص واستماعه."
+        ],
+        [
+          "Ich antworte präzise, aber nicht steif; Professionalität schließt eine natürliche Sprache nicht aus.",
+          "أجيب بدقة، لكن لا بتجمد؛ الاحتراف لا يستبعد اللغة الطبيعية.",
+          "إيش أنتڤورته برايتسيزه، آبر نخت شتايف؛ بروفِشوناليتات شليست آينه ناتورليشِه شبراخه نخت آوس.",
+          "Ich antworte präzise, aber nicht steif; Professionalität schließt eine natürliche Sprache nicht aus.",
+          "أجيب بدقة، لكن لا بتجمد؛ الاحتراف لا يستبعد اللغة الطبيعية."
+        ],
+        [
+          "Wer im Interview nur perfekte Formeln aufsagt, wirkt oft glatter als glaubwürdig.",
+          "من يردد صيغاً مثالية في المقابلة يبدو غالباً مصقولاً أكثر من كونه موثوقاً.",
+          "فير إيم إنتِرفيو نور بيرفكتِه فورمن آوسزاغت، فيركت أوفت غلاتر آلس غلاوبڤورديخ.",
+          "Wer im Interview nur perfekte Formeln aufsagt, wirkt oft glatter als glaubwürdig.",
+          "من يردد صيغاً مثالية في المقابلة يبدو غالباً مصقولاً أكثر من كونه موثوقاً."
+        ],
+        [
+          "Ich nenne konkrete Beispiele, weil Behauptungen ohne Beleg schnell hohl klingen.",
+          "أذكر أمثلة ملموسة، لأن الادعاءات بلا دليل تبدو سريعة التجويف.",
+          "إيش نِنِه كونكريته بايسبيله، فايل بيهاوبتونغن أونه بهلايغ شنِل هول كلينغن.",
+          "Ich nenne konkrete Beispiele, weil Behauptungen ohne Beleg schnell hohl klingen.",
+          "أذكر أمثلة ملموسة، لأن الادعاءات بلا دليل تبدو سريعة التجويف."
+        ],
+        [
+          "Eine gute Rückfrage zeigt Interesse und spart beiden Seiten spätere Missverständnisse.",
+          "السؤال الراجِع الجيد يظهر الاهتمام ويوفر على الطرفين سوء الفهم لاحقاً.",
+          "آينه غوتِه روكفراغه تسايغت إنتيرسه أوند شبارت بايدن زايتن شبَيتِره ميسفارشتندنيسه.",
+          "Eine gute Rückfrage zeigt Interesse und spart beiden Seiten spätere Missverständnisse.",
+          "السؤال الراجِع الجيد يظهر الاهتمام ويوفر على الطرفين سوء الفهم لاحقاً."
+        ],
+        [
+          "Ich spreche ruhig über Lücken, wenn ich sie kenne; Ausflüchte zerstören mehr Vertrauen als Schwächen.",
+          "أتحدث بهدوء عن الثغرات عندما أعرفها؛ فالمراوغة تضر الثقة أكثر من نقاط الضعف.",
+          "إيش شبرشه روِيخ أوبَر لوكن، فِن إيش زي كِنَّه؛ أوُسفلوختِه تسيرشتورن مير فرآوين آلس شفخن.",
+          "Ich spreche ruhig über Lücken, wenn ich sie kenne; Ausflüchte zerstören mehr Vertrauen als Schwächen.",
+          "أتحدث بهدوء عن الثغرات عندما أعرفها؛ فالمراوغة تضر الثقة أكثر من نقاط الضعف."
+        ],
+        [
+          "Was ich in ein Team einbringe, formuliere ich nicht als Heldengeschichte, sondern als Beitrag.",
+          "ما أقدمه للفريق لا أصوغه كحكاية بطولية، بل كمساهمة.",
+          "فاس إيش إين آين تيم آينبرينغه، فورموليره إيش نخت آلس هيلدنغيشتيهته، زوندرن آلس بايتراغ.",
+          "Was ich in ein Team einbringe, formuliere ich nicht als Heldengeschichte, sondern als Beitrag.",
+          "ما أقدمه للفريق لا أصوغه كحكاية بطولية، بل كمساهمة."
+        ],
+        [
+          "Ich frage nach Erwartung und Spielraum, damit am Ende nicht beide Seiten aneinander vorbeireden.",
+          "أسأل عن التوقعات والهامش المتاح، كي لا يتحدث الطرفان في النهاية كلٌ إلى نفسه.",
+          "إيش فراگه ناخ إرڤارتونغ أوند شبيلراوم، دامت آم إنده نخت بايده زايتن آناندر فوربايرِدن.",
+          "Ich frage nach Erwartung und Spielraum, damit am Ende nicht beide Seiten aneinander vorbeireden.",
+          "أسأل عن التوقعات والهامش المتاح، كي لا يتحدث الطرفان في النهاية كلٌ إلى نفسه."
+        ],
+        [
+          "Ein souveräner Auftritt besteht für mich aus Klarheit, nicht aus auswendig gelernten Posen.",
+          "الظهور الواثق بالنسبة لي يقوم على الوضوح، لا على أوضاع محفوظة عن ظهر قلب.",
+          "آين زوفِرانيَر أوفترِت بيشتايت فور ميخ آوس كلارهايت، نخت آوس آوسفانتِخ غيرْنْتن بوزِن.",
+          "Ein souveräner Auftritt besteht für mich aus Klarheit, nicht aus auswendig gelernten Posen.",
+          "الظهور الواثق بالنسبة لي يقوم على الوضوح، لا على أوضاع محفوظة عن ظهر قلب."
+        ],
+        [
+          "Am Schluss überzeugt mich am meisten, wer fachlich stark ist und menschlich nicht auf Distanz flüchtet.",
+          "في النهاية يقنعني أكثر من يكون قوياً مهنياً ولا ينسحب إنسانياً إلى مسافة باردة.",
+          "آم شلوس أوبِرتسوِيغت ميخ آم مايسْتِن، فير فاخليش شتارك إيست أوند مينشليش نخت آوف دِستانتس فلوختت.",
+          "Am Schluss überzeugt mich am meisten, wer fachlich stark ist und menschlich nicht auf Distanz flüchtet.",
+          "في النهاية يقنعني أكثر من يكون قوياً مهنياً ولا ينسحب إنسانياً إلى مسافة باردة."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ القرارات",
+      "words": [
+        [
+          "Bei einer Entscheidung von solcher Tragweite zählt nicht der erste Impuls, sondern die nüchterne Abwägung der Folgen.",
+          "في قرار بهذه الأهمية، لا يحسم الأمر الاندفاع الأول، بل الموازنة الرصينة للعواقب.",
+          "باي آينَر إنتشيدونغ فون زولشَر تراجفايت تْسالت نيشْت دَر إرشْتِ إيمبولس، زونْدِرن داي نويشْتِرْنِه أَبتفِوگونغ دَر فولگِن.",
+          "Bei einer Entscheidung von solcher Tragweite zählt nicht der erste Impuls, sondern die nüchterne Abwägung der Folgen.",
+          "في قرار بهذه الأهمية، لا يحسم الأمر الاندفاع الأول، بل الموازنة الرصينة للعواقب."
+        ],
+        [
+          "Wer jeden Einwand sofort als Störung abtut, unterschätzt meist, wie teuer spätere Korrekturen werden können.",
+          "من يرفض كل اعتراض فورًا بوصفه إزعاجًا، يستهين غالبًا بمدى كلفة التصحيحات اللاحقة.",
+          "ڤير يِدِن آينڤاند زوفورت ألس شتيرونغ أبتوت، أونترشِتسْت مَست، ڤي تويَر شبيترِه كورِكْتورِن ڤيردِن كوينِن.",
+          "Wer jeden Einwand sofort als Störung abtut, unterschätzt meist, wie teuer spätere Korrekturen werden können.",
+          "من يرفض كل اعتراض فورًا بوصفه إزعاجًا، يستهين غالبًا بمدى كلفة التصحيحات اللاحقة."
+        ],
+        [
+          "Eine gute Wahl ist selten laut verkündet; sie zeigt sich daran, dass man auch mit Alternativen leben könnte.",
+          "الخيار الجيد نادرًا ما يُعلن بصخب؛ بل يظهر في أن المرء يستطيع العيش مع البدائل أيضًا.",
+          "آينِه غوتِه ڤال آست زِلتِن لاوت فوركوندِت؛ زي تسايْغت زيش داران، داس مان أوخ مت آلتِرناتيڤِن ليبِن كينتِه.",
+          "Eine gute Wahl ist selten laut verkündet; sie zeigt sich daran, dass man auch mit Alternativen leben könnte.",
+          "الخيار الجيد نادرًا ما يُعلن بصخب؛ بل يظهر في أن المرء يستطيع العيش مع البدائل أيضًا."
+        ],
+        [
+          "Wenn Zahlen und Bauchgefühl einander widersprechen, lohnt es sich, den eigenen Reflex noch einmal zu prüfen.",
+          "عندما تتعارض الأرقام مع الحدس، يجدر بالمرء أن يراجع رد فعله الغريزي مرة أخرى.",
+          "ڤِن تسالن أوند باوخغيرول آينانْدَر ڤيدِرشبْريشِن، لونت إِس زيش، دين آيْغِنِن رفْلِكس نوخ آينمال تسو بريوفِن.",
+          "Wenn Zahlen und Bauchgefühl einander widersprechen, lohnt es sich, den eigenen Reflex noch einmal zu prüfen.",
+          "عندما تتعارض الأرقام مع الحدس، يجدر بالمرء أن يراجع رد فعله الغريزي مرة أخرى."
+        ],
+        [
+          "Manchmal ist ein zögerliches Ja ehrlicher als ein überhastetes Nein, das man morgen bereut.",
+          "أحيانًا تكون الموافقة المترددة أصدق من الرفض المتعجل الذي يندم عليه المرء غدًا.",
+          "مانشمال آست آين تسيوغِرليشِس يا إيرليشَر ألس آين أوبِرهاستِتِس نايِن، داس مان مورغِن بِراوْت.",
+          "Manchmal ist ein zögerliches Ja ehrlicher als ein überhastetes Nein, das man morgen bereut.",
+          "أحيانًا تكون الموافقة المترددة أصدق من الرفض المتعجل الذي يندم عليه المرء غدًا."
+        ],
+        [
+          "Zwischen Prinzipientreue und Pragmatismus verläuft kein sauberer Graben; reife Entscheidungen halten beides aus.",
+          "لا يوجد خندق واضح بين الوفاء للمبدأ والبراغماتية؛ القرارات الناضجة تحتمل كليهما.",
+          "تڤيشِن برينتسيبيِنْترويِه أوند براجماتيزموس فورلوفت كاين زاوبِرِر غرايبِن؛ رايفِه إنتشيدونغِن هالتِن بايدِس آوس.",
+          "Zwischen Prinzipientreue und Pragmatismus verläuft kein sauberer Graben; reife Entscheidungen halten beides aus.",
+          "لا يوجد خندق واضح بين الوفاء للمبدأ والبراغماتية؛ القرارات الناضجة تحتمل كليهما."
+        ],
+        [
+          "Es ist bequem, sich hinter Zuständigkeiten zu verschanzen, doch Führung beginnt genau dort, wo es unbequem wird.",
+          "من المريح الاحتماء خلف الصلاحيات، لكن القيادة تبدأ تحديدًا حيث تصبح الأمور غير مريحة.",
+          "إِس آست بِكْڤيم، زيش هينتَر تسوشتانْدِيغكايتِن تسو فورشانتسِن، دوخ فورونغ بِغِينت غِناو دورت، ڤو إِس أونبِكْڤيم ڤيرت.",
+          "Es ist bequem, sich hinter Zuständigkeiten zu verschanzen, doch Führung beginnt genau dort, wo es unbequem wird.",
+          "من المريح الاحتماء خلف الصلاحيات، لكن القيادة تبدأ تحديدًا حيث تصبح الأمور غير مريحة."
+        ],
+        [
+          "Wer immer auf perfekte Informationen wartet, trifft am Ende gar keine Entscheidung mehr.",
+          "من ينتظر دائمًا معلومات مثالية، لا يتخذ في النهاية أي قرار على الإطلاق.",
+          "ڤير إِمّر آوف بيرفِكْتِه إينفورماتسيونِن ڤارتِت، تْرِفت آم إنده غار كاينِه إنتشيدونغ مير.",
+          "Wer immer auf perfekte Informationen wartet, trifft am Ende gar keine Entscheidung mehr.",
+          "من ينتظر دائمًا معلومات مثالية، لا يتخذ في النهاية أي قرار على الإطلاق."
+        ],
+        [
+          "Eine Entscheidung gewinnt an Qualität, wenn man ihre Nebenwirkungen mitdenkt, statt sie wegzulächeln.",
+          "يكتسب القرار جودةً عندما يؤخذ أثره الجانبي في الحسبان بدل أن يُقابَل بابتسامة عابرة.",
+          "آينِه إنتشيدونغ غَڤينت آَن كڤاليتات، ڤِن مان إيرِه نيبِنڤيركونغِن متدينكت، شتات زي ڤيكْتسوليشْلن.",
+          "Eine Entscheidung gewinnt an Qualität, wenn man ihre Nebenwirkungen mitdenkt, statt sie wegzulächeln.",
+          "يكتسب القرار جودةً عندما يؤخذ أثره الجانبي في الحسبان بدل أن يُقابَل بابتسامة عابرة."
+        ],
+        [
+          "Nicht jede kluge Wahl fühlt sich sofort gut an, doch gerade das unterscheidet sie von bloßer Bequemlichkeit.",
+          "ليس كل خيار حكيم يبدو جيدًا فورًا، لكن هذا بالذات ما يميزه عن مجرد الراحة.",
+          "نيشت يِدِه كلوغه ڤال فولت زيش زوفورت غوت آن، دوخ غرادِه داس أونترشَيدِت زي فون بلوزَر بِكْڤيمليشكايت.",
+          "Nicht jede kluge Wahl fühlt sich sofort gut an, doch gerade das unterscheidet sie von bloßer Bequemlichkeit.",
+          "ليس كل خيار حكيم يبدو جيدًا فورًا، لكن هذا بالذات ما يميزه عن مجرد الراحة."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل الرقمي",
+      "words": [
+        [
+          "Im digitalen Austausch ist Tonfall oft unsichtbar, weshalb ein gut gesetztes Wort mehr bewirken kann als zehn Emojis.",
+          "في التواصل الرقمي، يكون النبرة غير مرئية غالبًا، ولهذا قد تفعل كلمة موضوعة جيدًا أكثر من عشرة رموز تعبيرية.",
+          "إِم ديجيتالن آوشتاوش آست تونفال أوفت أونزيتبار، ڤسْهالب آين غوت غِزيتستِس ڤورت مير بيرڤيركِن كان ألس تْسين إيموجيس.",
+          "Im digitalen Austausch ist Tonfall oft unsichtbar, weshalb ein gut gesetztes Wort mehr bewirken kann als zehn Emojis.",
+          "في التواصل الرقمي، يكون النبرة غير مرئية غالبًا، ولهذا قد تفعل كلمة موضوعة جيدًا أكثر من عشرة رموز تعبيرية."
+        ],
+        [
+          "Wer online zu schnell antwortet, liefert oft nur Reaktionsreflexe statt durchdachter Gesprächsführung.",
+          "من يرد بسرعة على الإنترنت، يقدّم غالبًا مجرد ردود فعل بدلاً من إدارة حوار مدروسة.",
+          "ڤير أونلاين تسو شْنِل أنتڤورتِت، ليفِرت أوفت نور رياكْتسيونْسرفْلِكْسِه شتات دورخداخْتِر غِشْبْريخشفيهونغ.",
+          "Wer online zu schnell antwortet, liefert oft nur Reaktionsreflexe statt durchdachter Gesprächsführung.",
+          "من يرد بسرعة على الإنترنت، يقدّم غالبًا مجرد ردود فعل بدلاً من إدارة حوار مدروسة."
+        ],
+        [
+          "Eine klare Nachricht ist keine Härte, sondern Respekt vor der Zeit des anderen.",
+          "الرسالة الواضحة ليست قسوة، بل احترام لوقت الطرف الآخر.",
+          "آينِه كلارِه ناخْريشت آست كاينِه هارتِه، زونْدِرن رِسبِكْت فور دير تسايت دِس آندِرِن.",
+          "Eine klare Nachricht ist keine Härte, sondern Respekt vor der Zeit des anderen.",
+          "الرسالة الواضحة ليست قسوة، بل احترام لوقت الطرف الآخر."
+        ],
+        [
+          "Im Chat wirkt vieles harmlos, bis ein missverständlicher Satz plötzlich die ganze Stimmung kippt.",
+          "في الدردشة يبدو الكثير بريئًا، إلى أن تقلب جملة ملتبسة الأجواء كلها فجأة.",
+          "إِم تشات ڤيركت فيلِس هارملوس، بيس آين مِسفِرشتندْلِخَر تساتس بْلوتسليش دِي غانتسِه شتيمونغ كِبت.",
+          "Im Chat wirkt vieles harmlos, bis ein missverständlicher Satz plötzlich die ganze Stimmung kippt.",
+          "في الدردشة يبدو الكثير بريئًا، إلى أن تقلب جملة ملتبسة الأجواء كلها فجأة."
+        ],
+        [
+          "Nicht jede Stille im Gruppenkanal bedeutet Desinteresse; manchmal arbeitet jemand einfach konzentriert.",
+          "ليس كل صمت في قناة المجموعة يعني عدم اهتمام؛ أحيانًا يكون الشخص منشغلًا بتركيز.",
+          "نيشت يِدِه شتيلِه إِم غروپِنكانال بِدويتِت ديسإنتِرِسِه؛ مانشمال أربايتِت يِدِرْماند آينفاخ كونتسِنْتْريرت.",
+          "Nicht jede Stille im Gruppenkanal bedeutet Desinteresse; manchmal arbeitet jemand einfach konzentriert.",
+          "ليس كل صمت في قناة المجموعة يعني عدم اهتمام؛ أحيانًا يكون الشخص منشغلًا بتركيز."
+        ],
+        [
+          "Wer jede Benachrichtigung sofort prüft, lässt sich von Fremdprioritäten lenken.",
+          "من يفحص كل إشعار فورًا، يسمح للأولويات الخارجية بأن تقوده.",
+          "ڤير يِدِه بِناخريشتِغونغ زوفورت بريفت، لست زيش فون فرِمْدپريوريتاتِن لنكن.",
+          "Wer jede Benachrichtigung sofort prüft, lässt sich von Fremdprioritäten lenken.",
+          "من يفحص كل إشعار فورًا، يسمح للأولويات الخارجية بأن تقوده."
+        ],
+        [
+          "Digitale Nähe ist bequem, doch ohne Verlässlichkeit bleibt sie nur ein flüchtiges Versprechen.",
+          "القرب الرقمي مريح، لكنه دون موثوقية لا يبقى سوى وعد عابر.",
+          "ديجيتالِه نيهِه آست بِكْڤيم، دوخ أوهِنِه فورلِسليشكايت بلايبت زي نور آين فلويشتِغِس فورشبرخِن.",
+          "Digitale Nähe ist bequem, doch ohne Verlässlichkeit bleibt sie nur ein flüchtiges Versprechen.",
+          "القرب الرقمي مريح، لكنه دون موثوقية لا يبقى سوى وعد عابر."
+        ],
+        [
+          "Ein guter Beitrag online zeichnet sich nicht durch Lautstärke aus, sondern durch Präzision und Maß.",
+          "المساهمة الجيدة على الإنترنت لا تتميز بالضجيج، بل بالدقة والاعتدال.",
+          "آين غوتر بايتراگ أونلاين تسايخنِت زيش نيشت دورخ لاوتشتيركِه آس، زونْدِرن دورخ بريتسيزيون أوند مااس.",
+          "Ein guter Beitrag online zeichnet sich nicht durch Lautstärke aus, sondern durch Präzision und Maß.",
+          "المساهمة الجيدة على الإنترنت لا تتميز بالضجيج، بل بالدقة والاعتدال."
+        ],
+        [
+          "Je öffentlicher ein Dialog wird, desto wichtiger ist die Fähigkeit, nicht jedes Missverständnis persönlich zu nehmen.",
+          "كلما أصبح الحوار أكثر علنية، ازدادت أهمية ألا يأخذ المرء كل سوء فهم على محمل شخصي.",
+          "يِ أوفنْتليشَر آين ديالوك ڤيرت، دِستو ڤيختِيغَر آست دي فهِيْكايت، نيشت يِدِس مِسفِرشتندْنِس بيرزونليش تسو نِيمِن.",
+          "Je öffentlicher ein Dialog wird, desto wichtiger ist die Fähigkeit, nicht jedes Missverständnis persönlich zu nehmen.",
+          "كلما أصبح الحوار أكثر علنية، ازدادت أهمية ألا يأخذ المرء كل سوء فهم على محمل شخصي."
+        ],
+        [
+          "Wer online nur sendet, aber nie zuhört, verliert irgendwann den Anschluss an die eigentliche Debatte.",
+          "من يرسل فقط على الإنترنت ولا يصغي أبدًا، يفقد في النهاية الصلة بالنقاش الحقيقي.",
+          "ڤير أونلاين نور زِندِت، أبا نوي تسوهورت، فورليرت إيرْغِندڤان دين آنشْلوس آَن دي آيغِنليشِه دِباتِه.",
+          "Wer online nur sendet, aber nie zuhört, verliert irgendwann den Anschluss an die eigentliche Debatte.",
+          "من يرسل فقط على الإنترنت ولا يصغي أبدًا، يفقد في النهاية الصلة بالنقاش الحقيقي."
+        ]
+      ]
+    },
+    {
+      "topic": "التنوع الثقافي",
+      "words": [
+        [
+          "Kulturelle Vielfalt ist kein dekoratives Extra, sondern der Alltag selbst in einer offenen Gesellschaft.",
+          "التنوع الثقافي ليس إضافة زخرفية، بل هو الحياة اليومية نفسها في مجتمع منفتح.",
+          "كولتورِلِه فايلفالت آست كاين ديكوراتيڤِس إكسترا، زونْدِرن دير آلتاغ زيلبست إِن آينَر أوفِنِن غِزِلشافت.",
+          "Kulturelle Vielfalt ist kein dekoratives Extra, sondern der Alltag selbst in einer offenen Gesellschaft.",
+          "التنوع الثقافي ليس إضافة زخرفية، بل هو الحياة اليومية نفسها في مجتمع منفتح."
+        ],
+        [
+          "Wer nur die eigene Norm für selbstverständlich hält, verwechselt Gewohnheit mit Wahrheit.",
+          "من يعتبر معاييره الخاصة بديهية فقط، يخلط بين العادة والحقيقة.",
+          "ڤير نور دي آيْغِنِه نورم فور زيلبستڤِرشتاندْلِخ هالت، فورڤِكْسِلت غِڤونهايت مت ڤاهرهايت.",
+          "Wer nur die eigene Norm für selbstverständlich hält, verwechselt Gewohnheit mit Wahrheit.",
+          "من يعتبر معاييره الخاصة بديهية فقط، يخلط بين العادة والحقيقة."
+        ],
+        [
+          "Interkulturelle Kompetenz beginnt nicht mit Etikette, sondern mit der Bereitschaft, das Fremde ernst zu nehmen.",
+          "الكفاءة بين الثقافات لا تبدأ بالاتيكيت، بل بالاستعداد لأخذ المختلف على محمل الجد.",
+          "إِنْتَرْكولتورِلِه كومپِتنتس بِغِينت نيشت مت إتيكِتِه، زونْدِرن مت دير بِرايتشافت، داس فرِمدِه إيرنست تسو نِيمِن.",
+          "Interkulturelle Kompetenz beginnt nicht mit Etikette, sondern mit der Bereitschaft, das Fremde ernst zu nehmen.",
+          "الكفاءة بين الثقافات لا تبدأ بالاتيكيت، بل بالاستعداد لأخذ المختلف على محمل الجد."
+        ],
+        [
+          "Ein Akzent ist keine Schwäche; oft erzählt er mehr über Lebenswege als ein makelloser Lebenslauf.",
+          "اللهجة ليست ضعفًا؛ فكثيرًا ما تروي مسارات الحياة أكثر مما يرويه سيرة ذاتية مثالية.",
+          "آين أكْتسِنت آست كاينِه شْڤيشِه؛ أوفت إرتسالت إير مير أوفَر ليبِنْسڤِغه ألس آين ماكِلوزَر ليبِنسلاوف.",
+          "Ein Akzent ist keine Schwäche; oft erzählt er mehr über Lebenswege als ein makelloser Lebenslauf.",
+          "اللهجة ليست ضعفًا؛ فكثيرًا ما تروي مسارات الحياة أكثر مما يرويه سيرة ذاتية مثالية."
+        ],
+        [
+          "Vielfalt wird erst dann lebendig, wenn man Unterschiede nicht höflich übertüncht, sondern produktiv nutzt.",
+          "لا يصبح التنوع حيًا حقًا إلا عندما لا نغطي الاختلافات بلطف مصطنع، بل نستثمرها بشكل مثمر.",
+          "فايلفالت ڤيرت إرشْت دان ليبِنْديغ، ڤِن مان أونترشيدِه نيشت هوفليش أوبِرتونخت، زونْدِرن برودوكتيڤ نوست.",
+          "Vielfalt wird erst dann lebendig, wenn man Unterschiede nicht höflich übertüncht, sondern produktiv nutzt.",
+          "لا يصبح التنوع حيًا حقًا إلا عندما لا نغطي الاختلافات بلطف مصطنع، بل نستثمرها بشكل مثمر."
+        ],
+        [
+          "Gute Integration verlangt nicht Anpassung um jeden Preis, sondern gegenseitige Beweglichkeit.",
+          "الاندماج الجيد لا يطلب التكيف بأي ثمن، بل يتطلب مرونة متبادلة.",
+          "غوتِه إنتيغراتسيون فورلانغت نيشت آنپاسونغ أوم يِدِن برايس، زونْدِرن غِغِنْزايتِغِه بِڤيغليشكايت.",
+          "Gute Integration verlangt nicht Anpassung um jeden Preis, sondern gegenseitige Beweglichkeit.",
+          "الاندماج الجيد لا يطلب التكيف بأي ثمن، بل يتطلب مرونة متبادلة."
+        ],
+        [
+          "Wer neugierig fragt, ohne sich über andere zu erheben, gewinnt oft mehr Vertrauen als mit großen Reden.",
+          "من يسأل بفضول دون تعالٍ، يكسب غالبًا ثقةً أكثر من الخطب الكبيرة.",
+          "ڤير نويغيريغ فراغت، أوهِن زيخ أوفَر آندِرِه تسو إرهبِن، غَڤينت أوفت مير فورْتراوِن ألس مت غروزِن ريدِن.",
+          "Wer neugierig fragt, ohne sich über andere zu erheben, gewinnt oft mehr Vertrauen als mit großen Reden.",
+          "من يسأل بفضول دون تعالٍ، يكسب غالبًا ثقةً أكثر من الخطب الكبيرة."
+        ],
+        [
+          "Missverständnisse entstehen selten aus bösem Willen, sondern meist aus unterschiedlichen Selbstverständlichkeiten.",
+          "سوء الفهم نادرًا ما ينشأ عن نية سيئة، بل غالبًا من بدهيات مختلفة.",
+          "مِسفِرشتندْنِسِه إنتشْتِينِن زِلتِن آوس بوزِم ڤيلِن، زونْدِرن مَست آوس أونترشيدْلِخِن زيلبستڤِرشتاندْلِخكايتِن.",
+          "Missverständnisse entstehen selten aus bösem Willen, sondern meist aus unterschiedlichen Selbstverständlichkeiten.",
+          "سوء الفهم نادرًا ما ينشأ عن نية سيئة، بل غالبًا من بدهيات مختلفة."
+        ],
+        [
+          "In einer vielfältigen Umgebung lernt man, dass Zugehörigkeit nicht Gleichförmigkeit voraussetzt.",
+          "في بيئة متعددة، يتعلم المرء أن الانتماء لا يفترض التشابه التام.",
+          "إِن آينَر فايلفالتِغِن أمغاوبونغ ليرنت مان، داس تسوغِهورِيغكايت نيشت غلايشفورميغكايت فورآوسْزِتست.",
+          "In einer vielfältigen Umgebung lernt man, dass Zugehörigkeit nicht Gleichförmigkeit voraussetzt.",
+          "في بيئة متعددة، يتعلم المرء أن الانتماء لا يفترض التشابه التام."
+        ],
+        [
+          "Kultureller Austausch ist am fruchtbarsten, wenn beide Seiten bereit sind, ihre Gewissheiten zu relativieren.",
+          "يكون التبادل الثقافي أكثر خصوبة عندما يكون الطرفان مستعدين لتقليص يقيناتهما المطلقة.",
+          "كولتورِلِر آوشتاوش آست آم فروختبارستن، ڤِن بايدِه زايتِن بِرايت زيند، إيرِه غِڤيسهايتِن تسو ريلاتيفيرِن.",
+          "Kultureller Austausch ist am fruchtbarsten, wenn beide Seiten bereit sind, ihre Gewissheiten zu relativieren.",
+          "يكون التبادل الثقافي أكثر خصوبة عندما يكون الطرفان مستعدين لتقليص يقيناتهما المطلقة."
+        ]
+      ]
+    },
+    {
+      "topic": "الحياة في مدينة جديدة",
+      "words": [
+        [
+          "In einer neuen Stadt lernt man zuerst die unsichtbaren Regeln: wann man schweigt, wann man grüßt und wann man wartet.",
+          "في مدينة جديدة، يتعلم المرء أولًا القواعد غير المرئية: متى يصمت، ومتى يحيي، ومتى ينتظر.",
+          "إِن آينَر نويِن شتات ليرنت مان تسورشت دي أونزيتبارِن رِغلِن: فَن مان شڤايت، فَن مان غروست أوند فَن مان ڤارتِت.",
+          "In einer neuen Stadt lernt man zuerst die unsichtbaren Regeln: wann man schweigt, wann man grüßt und wann man wartet.",
+          "في مدينة جديدة، يتعلم المرء أولًا القواعد غير المرئية: متى يصمت، ومتى يحيي، ومتى ينتظر."
+        ],
+        [
+          "Die schönsten Orte entdeckt man oft nicht im Reiseführer, sondern zwischen Bäckerei, Bushaltestelle und Hinterhof.",
+          "أجمل الأماكن غالبًا لا يجدها المرء في دليل السفر، بل بين المخبز ومحطة الحافلات والفناء الخلفي.",
+          "دي شوينستن أورته إنتديكت مان أوفت نيشت إم رايزِفويهرِر، زونْدِرن تڤيشِن بيكيراي، بوشهالتِشتِلِه أوند هينتِرهوف.",
+          "Die schönsten Orte entdeckt man oft nicht im Reiseführer, sondern zwischen Bäckerei, Bushaltestelle und Hinterhof.",
+          "أجمل الأماكن غالبًا لا يجدها المرء في دليل السفر، بل بين المخبز ومحطة الحافلات والفناء الخلفي."
+        ],
+        [
+          "Wer neu ankommt, merkt rasch, dass Orientierung weniger mit Karten als mit kleinen Gewohnheiten zu tun hat.",
+          "من يصل حديثًا يلاحظ سريعًا أن التوجيه أقل صلةً بالخرائط وأكثر صلةً بالعادات الصغيرة.",
+          "ڤير نوي آنكومت، مركت راش، داس أورينتيِرونغ ڤينِغَر مت كارتِن ألس مت كلاينِن غِڤونهايتِن تسو تون هات.",
+          "Wer neu ankommt, merkt rasch, dass Orientierung weniger mit Karten als mit kleinen Gewohnheiten zu tun hat.",
+          "من يصل حديثًا يلاحظ سريعًا أن التوجيه أقل صلةً بالخرائط وأكثر صلةً بالعادات الصغيرة."
+        ],
+        [
+          "Anfangs wirkt vieles fremd, doch gerade diese Distanz schärft den Blick für das, was man sonst übersehen würde.",
+          "في البداية يبدو الكثير غريبًا، لكن هذه المسافة نفسها تصقل النظر إلى ما كان سيفوت المرء عادة.",
+          "أنفانغس ڤيركت فيلِس فرِمد، دوخ غرادِه ديزه ديستانتس شيرفت دين بليك فور داس، ڤاس مان زونست أوبِرزيهِن ڤورْدِه.",
+          "Anfangs wirkt vieles fremd, doch gerade diese Distanz schärft den Blick für das, was man sonst übersehen würde.",
+          "في البداية يبدو الكثير غريبًا، لكن هذه المسافة نفسها تصقل النظر إلى ما كان سيفوت المرء عادة."
+        ],
+        [
+          "Eine Stadt kann groß sein und trotzdem überraschend vertraulich, wenn man ihre stillen Rituale kennt.",
+          "يمكن أن تكون المدينة كبيرة ومع ذلك مألوفة بشكل مفاجئ، إذا عرف المرء طقوسها الهادئة.",
+          "آينِه شتات كان غرוס زين أوند تروتسْدِم أوبِرراشِند فورْتراوليش، ڤِن مان إيرِه شتِلِن ريتوالِه كنت.",
+          "Eine Stadt kann groß sein und trotzdem überraschend vertraulich, wenn man ihre stillen Rituale kennt.",
+          "يمكن أن تكون المدينة كبيرة ومع ذلك مألوفة بشكل مفاجئ، إذا عرف المرء طقوسها الهادئة."
+        ],
+        [
+          "Wer im neuen Viertel nur konsumiert, bleibt Gast; wer mitdenkt, wird nach und nach Teil des Ganzen.",
+          "من يكتفي بالاستهلاك في الحي الجديد يبقى ضيفًا؛ أما من يشارك في التفكير فيصبح تدريجيًا جزءًا من الكل.",
+          "ڤير إم نويِن فيرتِل نور كونزوميِرت، بلايبت غاست؛ ڤير متدينكت، ڤيرت ناخ أوند ناخ تايل دِس غانتسِن.",
+          "Wer im neuen Viertel nur konsumiert, bleibt Gast; wer mitdenkt, wird nach und nach Teil des Ganzen.",
+          "من يكتفي بالاستهلاك في الحي الجديد يبقى ضيفًا؛ أما من يشارك في التفكير فيصبح تدريجيًا جزءًا من الكل."
+        ],
+        [
+          "Der tägliche Weg zur Arbeit wird erträglicher, sobald er nicht mehr bloß Strecke, sondern Routine mit Bedeutung ist.",
+          "يصبح الطريق اليومي إلى العمل أهون عندما لا يعود مجرد مسافة، بل روتينًا ذا معنى.",
+          "دير تِغليشِه ڤِغ تسور آربايت ڤيرت إرتريغْلِخَر، زوبالد إير نيشت مير بلوز شْتْرِكه، زونْدِرن روتينه مت بِدويتونغ آست.",
+          "Der tägliche Weg zur Arbeit wird erträglicher, sobald er nicht mehr bloß Strecke, sondern Routine mit Bedeutung ist.",
+          "يصبح الطريق اليومي إلى العمل أهون عندما لا يعود مجرد مسافة، بل روتينًا ذا معنى."
+        ],
+        [
+          "In einer fremden Umgebung lernt man schnell, dass Selbstständigkeit und Hilfsbereitschaft sich nicht ausschließen.",
+          "في بيئة غريبة، يتعلم المرء بسرعة أن الاستقلالية وروح المساعدة لا يتعارضان.",
+          "إِن آينَر فرِمدِن أُمغاوبونغ ليرنت مان شْنِل، داس زيلبْشتشْتانْدِيغكايت أوند هيلفسبِرايتْشافت زيش نيشت آوسْشلاوسِن.",
+          "In einer fremden Umgebung lernt man schnell, dass Selbstständigkeit und Hilfsbereitschaft sich nicht ausschließen.",
+          "في بيئة غريبة، يتعلم المرء بسرعة أن الاستقلالية وروح المساعدة لا يتعارضان."
+        ],
+        [
+          "Manchmal ist ein leerer Kalender kein Mangel, sondern die Einladung, der Stadt ohne Plan zu begegnen.",
+          "أحيانًا لا يكون التقويم الفارغ نقصًا، بل دعوةً لملاقاة المدينة بلا خطة مسبقة.",
+          "مانشمال آست آين لييرر كالِنْدَر كاين مانغل، زونْدِرن دي آينْلاودونغ، دير شتات أوهِن بلان تسو بِغِغْنِن.",
+          "Manchmal ist ein leerer Kalender kein Mangel, sondern die Einladung, der Stadt ohne Plan zu begegnen.",
+          "أحيانًا لا يكون التقويم الفارغ نقصًا، بل دعوةً لملاقاة المدينة بلا خطة مسبقة."
+        ],
+        [
+          "Die eigentliche Heimat wächst oft erst dort, wo Vertrautheit nicht gegeben, sondern erworben ist.",
+          "غالبًا ما تنمو الألفة الحقيقية هناك فقط، حيث لا تكون مفروضة بل مكتسبة.",
+          "دي آيغِنليشِه هايمات ڤِكست أوفت إرشْت دورت، ڤو فورْتراوتْهايت نيشت غِغيبِن، زونْدِرن إروِربِن آست.",
+          "Die eigentliche Heimat wächst oft erst dort, wo Vertrautheit nicht gegeben, sondern erworben ist.",
+          "غالبًا ما تنمو الألفة الحقيقية هناك فقط، حيث لا تكون مفروضة بل مكتسبة."
+        ]
+      ]
+    },
+    {
+      "topic": "السياحة المسؤولة",
+      "words": [
+        [
+          "Verantwortungsvoller Tourismus beginnt nicht bei Verboten, sondern bei der Bereitschaft, den eigenen Fußabdruck zu prüfen.",
+          "السياحة المسؤولة لا تبدأ بالمنع، بل بالاستعداد لفحص الأثر الذي نتركه.",
+          "فِرأنتڤورتونغْسڤولِر تورِيزموس بِغِينت نيشت باي فوربوتِن، زونْدِرن باي دير بِرايتشافت، دين آيْغِنِن فوسأبتْروك تسو بريوفِن.",
+          "Verantwortungsvoller Tourismus beginnt nicht bei Verboten, sondern bei der Bereitschaft, den eigenen Fußabdruck zu prüfen.",
+          "السياحة المسؤولة لا تبدأ بالمنع، بل بالاستعداد لفحص الأثر الذي نتركه."
+        ],
+        [
+          "Wer reist, um einen Ort zu erleben, sollte ihn nicht so behandeln, als gehöre er ihm auf Zeit.",
+          "من يسافر ليختبر مكانًا، ينبغي ألا يعامله كما لو كان ملكًا له مؤقتًا.",
+          "ڤير رايست، أوم آينِن أورت تسو إرلِيبِن، زورْتِه إين نيشت زو بِهاندلن، ألس غِهورِه إير إيم آوف تسايت.",
+          "Wer reist, um einen Ort zu erleben, sollte ihn nicht so behandeln, als gehöre er ihm auf Zeit.",
+          "من يسافر ليختبر مكانًا، ينبغي ألا يعامله كما لو كان ملكًا له مؤقتًا."
+        ],
+        [
+          "Respekt zeigt sich nicht in großen Gesten, sondern darin, Wege nicht zu verlassen und Ruhe nicht zu stören.",
+          "يظهر الاحترام لا في الإيماءات الكبيرة، بل في عدم الخروج عن المسارات وعدم إزعاج الهدوء.",
+          "رِسبِكْت تسايْغت زيش نيشت إِن غروزِن غِشتِن، زونْدِرن دارين، ڤِغِه نيشت تسو فورلاسِن أوند روِه نيشت تسو شتيرِن.",
+          "Respekt zeigt sich nicht in großen Gesten, sondern darin, Wege nicht zu verlassen und Ruhe nicht zu stören.",
+          "يظهر الاحترام لا في الإيماءات الكبيرة، بل في عدم الخروج عن المسارات وعدم إزعاج الهدوء."
+        ],
+        [
+          "Ein günstiges Ticket ist kein Freibrief, die Infrastruktur eines Reiseziels auszureizen.",
+          "التذكرة الرخيصة ليست تفويضًا لاستنزاف بنية الوجهة التحتية.",
+          "آين غونْستِغِس تيكت آست كاين فرايبريف، دي إينفراشتروكتور آينِس رايزِتسيلس آوس تسو رايتسِن.",
+          "Ein günstiges Ticket ist kein Freibrief, die Infrastruktur eines Reiseziels auszureizen.",
+          "التذكرة الرخيصة ليست تفويضًا لاستنزاف بنية الوجهة التحتية."
+        ],
+        [
+          "Wer lokale Anbieter wählt, stärkt nicht nur die Wirtschaft vor Ort, sondern auch die Qualität des Erlebnisses.",
+          "من يختار المزودين المحليين، لا يدعم الاقتصاد المحلي فقط، بل يعزز أيضًا جودة التجربة.",
+          "ڤير لوكالِه آنبايتَر ڤيلت، شْتيركت نيشت نور دي ڤيرْتشافت فور أورت، زونْدِرن آوخ دي كڤاليتات دِس إرلِبنِسِس.",
+          "Wer lokale Anbieter wählt, stärkt nicht nur die Wirtschaft vor Ort, sondern auch die Qualität des Erlebnisses.",
+          "من يختار المزودين المحليين، لا يدعم الاقتصاد المحلي فقط، بل يعزز أيضًا جودة التجربة."
+        ],
+        [
+          "Nachhaltiges Reisen heißt nicht, auf alles zu verzichten, sondern bewusster zu wählen.",
+          "السفر المستدام لا يعني التخلي عن كل شيء، بل الاختيار بوعي أكبر.",
+          "ناخالتِيغِس رايزِن هايست نيشت، آوف آليس تسو فورتسيتسِن، زونْدِرن بِڤوسْتَر تسو ڤيلِن.",
+          "Nachhaltiges Reisen heißt nicht, auf alles zu verzichten, sondern bewusster zu wählen.",
+          "السفر المستدام لا يعني التخلي عن كل شيء، بل الاختيار بوعي أكبر."
+        ],
+        [
+          "Ein voller Strand ist noch lange kein harmloser Ort, wenn Müll und Lärm die Umgebung schädigen.",
+          "الشاطئ المزدحم لا يكون مكانًا آمنًا لمجرد أنه مزدحم، إذا كان النفايات والضجيج يضران بالبيئة.",
+          "آين فولِر شتراند آست نوخ لانغه كاين هارملوزَر أورت، ڤِن مول أوند ليرم دي أُمغاوبونغ شيدِيغِن.",
+          "Ein voller Strand ist noch lange kein harmloser Ort, wenn Müll und Lärm die Umgebung schädigen.",
+          "الشاطئ المزدحم لا يكون مكانًا آمنًا لمجرد أنه مزدحم، إذا كان النفايات والضجيج يضران بالبيئة."
+        ],
+        [
+          "Gute Reisende fragen mehr, als sie fotografieren, und hören lieber zu, als sich wichtig zu machen.",
+          "المسافرون الجيدون يسألون أكثر مما يصورون، ويستمعون أكثر مما يستعرضون أنفسهم.",
+          "غوتِه رايزِندِه فراغِن مير، ألس زي فوتوغرافيرِن، أوند هورِن ليبر تسو، ألس زيش ڤيختيغ تسو ماخِن.",
+          "Gute Reisende fragen mehr, als sie fotografieren, und hören lieber zu, als sich wichtig zu machen.",
+          "المسافرون الجيدون يسألون أكثر مما يصورون، ويستمعون أكثر مما يستعرضون أنفسهم."
+        ],
+        [
+          "Wenn man die Grenzen eines Ortes respektiert, bekommt man oft weit mehr zurück, als man genommen hat.",
+          "عندما يحترم المرء حدود مكان ما، يحصل غالبًا على أكثر بكثير مما أخذ.",
+          "ڤِن مان دي غْرنْتسِن آينِس أورتِس رِسبِكْتيرت، بِكومت مان أوفت ڤايت مير تسوروك، ألس مان غِنومِن هات.",
+          "Wenn man die Grenzen eines Ortes respektiert, bekommt man oft weit mehr zurück, als man genommen hat.",
+          "عندما يحترم المرء حدود مكان ما، يحصل غالبًا على أكثر بكثير مما أخذ."
+        ],
+        [
+          "Tourismus wird erst dann fair, wenn auch die Einheimischen spürbar vom Besuch profitieren.",
+          "لا تصبح السياحة عادلة إلا عندما يستفيد السكان المحليون منها بشكل ملموس أيضًا.",
+          "تورِيزموس ڤيرت إرشْت دان فاير، ڤِن آوخ دي آينهايميشِن شْپيوربار فون بِزوخ بروفِيتيرِن.",
+          "Tourismus wird erst dann fair, wenn auch die Einheimischen spürbar vom Besuch profitieren.",
+          "لا تصبح السياحة عادلة إلا عندما يستفيد السكان المحليون منها بشكل ملموس أيضًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة النفسية والراحة",
+      "words": [
+        [
+          "Wer seine Grenzen kennt, wirkt nicht schwach, sondern klug, weil er rechtzeitig merkt, wann Rückzug produktiver ist als Durchhalten um jeden Preis.",
+          "من يعرف حدوده لا يبدو ضعيفًا بل حكيمًا، لأنه يدرك في الوقت المناسب متى يكون الانسحاب أنفع من الصمود بأي ثمن.",
+          "فير زينه غرنڅن كينت، فيركت نِشت شفاخ، زوندرن كلاوغ، فايل إير رَيتڅايتِيخ ميركت، فانت ريكتسوغ برودوكتيفر إست آلز دورتشالتن أوم ييدِن برايس.",
+          "Wer seine Grenzen kennt, wirkt nicht schwach, sondern klug, weil er rechtzeitig merkt, wann Rückzug produktiver ist als Durchhalten um jeden Preis.",
+          "من يعرف حدوده لا يبدو ضعيفًا بل حكيمًا، لأنه يدرك في الوقت المناسب متى يكون الانسحاب أنفع من الصمود بأي ثمن."
+        ],
+        [
+          "Innere Ruhe entsteht selten durch Kontrolle, sondern eher dadurch, dass man Unsicherheit aushält, ohne ihr sofort die Deutungshoheit zu geben.",
+          "السكينة الداخلية لا تنشأ غالبًا من السيطرة، بل من احتمال عدم اليقين دون أن نمنحه فورًا حق احتكار التفسير.",
+          "إِنَره روهه إنتشتيت زلتسن دورتش كونترولّه، زوندرن إهَر دورتش داس مان أونزيخرهايت آوشالت، أوhن إير زوفورت دي دَويتونغشوههايت تسو غيبن.",
+          "Innere Ruhe entsteht selten durch Kontrolle, sondern eher dadurch, dass man Unsicherheit aushält, ohne ihr sofort die Deutungshoheit zu geben.",
+          "السكينة الداخلية لا تنشأ غالبًا من السيطرة، بل من احتمال عدم اليقين دون أن نمنحه فورًا حق احتكار التفسير."
+        ],
+        [
+          "Manchmal ist ein stiller Spaziergang ehrlicher als jedes motivierende Mantra, weil er den Kopf ordnet, ohne ihn zu belehren.",
+          "أحيانًا تكون نزهة هادئة أكثر صدقًا من أي شعار تحفيزي، لأنها ترتب الذهن من دون أن تعظه.",
+          "مانchmal إست آين شتيلر شباتسيرغانغ إهرليخر آلز ييدس موتيفيرنده مانترا، فايل إير دِن كوبف أوردنت، أوhن إين تسو بيلهرِن.",
+          "Manchmal ist ein stiller Spaziergang ehrlicher als jedes motivierende Mantra, weil er den Kopf ordnet, ohne ihn zu belehren.",
+          "أحيانًا تكون نزهة هادئة أكثر صدقًا من أي شعار تحفيزي، لأنها ترتب الذهن من دون أن تعظه."
+        ],
+        [
+          "Gespräche über Belastung wirken erst dann hilfreich, wenn sie nicht mit Rat überfrachtet werden, sondern mit echtem Zuhören.",
+          "لا تصبح أحاديث الضغط مفيدة إلا حين لا تُثقل بالنصائح، بل تُبنى على الإصغاء الحقيقي.",
+          "غِشبراخه يبر بِلَاستونغ فيركن إرشت دان هيلفرايش، فين زي نشت مِت رات يبرفراختِت فيردن، زوندرن مِت إختِم تسوهورِن.",
+          "Gespräche über Belastung wirken erst dann hilfreich, wenn sie nicht mit Rat überfrachtet werden, sondern mit echtem Zuhören.",
+          "لا تصبح أحاديث الضغط مفيدة إلا حين لا تُثقل بالنصائح، بل تُبنى على الإصغاء الحقيقي."
+        ],
+        [
+          "Wer Pausen als Luxus betrachtet, bezahlt sie oft später mit Konzentration, Gelassenheit und der Fähigkeit, klar zu denken.",
+          "من ينظر إلى الاستراحات كترف يدفع ثمنها لاحقًا في التركيز والاتزان والقدرة على التفكير بوضوح.",
+          "فير باوزن آلز لوكسوس بِترَختِت، بيتسالت زي أوفت شبَتَر مِت كونتسنتراسيون، غِلَاسِنهايت أوند دير فَيغكايت، كْلار تسو دينكن.",
+          "Wer Pausen als Luxus betrachtet, bezahlt sie oft später mit Konzentration, Gelassenheit und der Fähigkeit, klar zu denken.",
+          "من ينظر إلى الاستراحات كترف يدفع ثمنها لاحقًا في التركيز والاتزان والقدرة على التفكير بوضوح."
+        ],
+        [
+          "Auch starke Menschen müssen nicht ständig stark wirken; gerade die kleinen Brüche machen sie oft glaubwürdig und nahbar.",
+          "حتى الأقوياء لا يجب أن يبدوا أقوياء طوال الوقت؛ فالشقوق الصغيرة هي ما يجعلهم غالبًا أكثر مصداقية وقربًا.",
+          "أوخ شتاركه مِنشن ميوسن نشت شتانديغ شتارك فيركن؛ غِرادِه دي كلاينن بروخه ماخن زي أوفت غلاوبفيرديغ أوند ناخبار.",
+          "Auch starke Menschen müssen nicht ständig stark wirken; gerade die kleinen Brüche machen sie oft glaubwürdig und nahbar.",
+          "حتى الأقوياء لا يجب أن يبدوا أقوياء طوال الوقت؛ فالشقوق الصغيرة هي ما يجعلهم غالبًا أكثر مصداقية وقربًا."
+        ],
+        [
+          "Es ist kein Zeichen von Schwäche, Hilfe anzunehmen; schwach wäre nur, allein so tun zu müssen, als gehe alles mühelos.",
+          "ليس قبول المساعدة علامة ضعف؛ الضعف الحقيقي هو الاضطرار إلى التظاهر بأن كل شيء يسير بلا عناء.",
+          "إس إست كاين تسايخن فون شفِيخه، هيلفه أنتسينهمن؛ شفاخ فيره نور، ألآين زو تون تسو مويسن، آلز غيهه آلِس مويهِلوس.",
+          "Es ist kein Zeichen von Schwäche, Hilfe anzunehmen; schwach wäre nur, allein so tun zu müssen, als gehe alles mühelos.",
+          "ليس قبول المساعدة علامة ضعف؛ الضعف الحقيقي هو الاضطرار إلى التظاهر بأن كل شيء يسير بلا عناء."
+        ],
+        [
+          "Mitunter schützt Humor die Seele besser als große Worte, solange er nicht ausweicht, sondern Spannung würdevoll löst.",
+          "أحيانًا يحمي الفكاهة النفس أفضل من الكلمات الكبيرة، ما دام لا يتهرب بل يفك التوتر بكرامة.",
+          "مِتونتر شوتست هومور دي زيله بِسر آلز غروسه فورتِه، زولانغه إير نشت أووسفايت، زوندرن شبانونغ فيرديفول لويست.",
+          "Mitunter schützt Humor die Seele besser als große Worte, solange er nicht ausweicht, sondern Spannung würdevoll löst.",
+          "أحيانًا يحمي الفكاهة النفس أفضل من الكلمات الكبيرة، ما دام لا يتهرب بل يفك التوتر بكرامة."
+        ],
+        [
+          "Psychische Gesundheit ist kein Zustand, den man besitzt, sondern eine Beziehung, die gepflegt werden will.",
+          "الصحة النفسية ليست حالة نمتلكها، بل علاقة تحتاج إلى رعاية مستمرة.",
+          "سُيشيشه غيزوندهايت إست كاين تسوشتاند، دين مان بَتسِتست، زوندرن آينه بِتسِيُونغ، دي غِپْفْلِغت فيردن فيل.",
+          "Psychische Gesundheit ist kein Zustand, den man besitzt, sondern eine Beziehung, die gepflegt werden will.",
+          "الصحة النفسية ليست حالة نمتلكها، بل علاقة تحتاج إلى رعاية مستمرة."
+        ],
+        [
+          "Manchmal ist Schweigen klüger als eine schnelle Antwort, wenn die Lage noch nicht klar ist.",
+          "أحيانًا يكون الصمت أذكى من جواب سريع عندما لا يكون الموقف واضحًا بعد.",
+          "مانشما يشت شفاي غِن كلوكر آلس آينِه شنِله أنتفورت، فن دِي لاجِه نوخ نِشت كلار إِست.",
+          "Manchmal ist Schweigen klüger als eine schnelle Antwort, wenn die Lage noch nicht klar ist.",
+          "أحيانًا يكون الصمت أذكى من جواب سريع عندما لا يكون الموقف واضحًا بعد."
+        ]
+      ]
+    },
+    {
+      "topic": "التوازن بين العمل والحياة",
+      "words": [
+        [
+          "Wer immer verfügbar ist, verliert oft genau das, was ihn eigentlich leistungsfähig macht: Abstand, Schlaf und einen klaren Blick.",
+          "من يكون متاحًا دائمًا يفقد غالبًا ما يجعله فعليًا قادرًا على الإنجاز: المسافة والنوم والرؤية الواضحة.",
+          "فير إيمر فيرفيغبار إست، فيرليرت أوفت غيناو داس، فاس إين إيغنتليش لايستونغسفيغي ماخت: آبشتاند، شلاف أوند آينن كْلارن بْليك.",
+          "Wer immer verfügbar ist, verliert oft genau das, was ihn eigentlich leistungsfähig macht: Abstand, Schlaf und einen klaren Blick.",
+          "من يكون متاحًا دائمًا يفقد غالبًا ما يجعله فعليًا قادرًا على الإنجاز: المسافة والنوم والرؤية الواضحة."
+        ],
+        [
+          "Ein ausgeglichenes Leben entsteht nicht durch perfekte Planung, sondern durch vernünftige Grenzen, die man auch verteidigt.",
+          "الحياة المتوازنة لا تنشأ من التخطيط المثالي، بل من حدود معقولة يدافع عنها المرء أيضًا.",
+          "آين آوسغِغلايخِنِس ليبن إنتشتيت نشت دورتش بيرفِكتِه بلانونغ، زوندرن دورتش فيرنونفتِغه غرِنڅن، دي مان أوخ فيردايْديغت.",
+          "Ein ausgeglichenes Leben entsteht nicht durch perfekte Planung, sondern durch vernünftige Grenzen, die man auch verteidigt.",
+          "الحياة المتوازنة لا تنشأ من التخطيط المثالي، بل من حدود معقولة يدافع عنها المرء أيضًا."
+        ],
+        [
+          "Wer nach Feierabend noch gedanklich im Büro sitzt, ist nicht besonders engagiert, sondern schlicht nie wirklich angekommen.",
+          "من يظل ذهنيًا في المكتب بعد نهاية الدوام ليس شديد الالتزام، بل ببساطة لم يصل حقًا إلى الراحة.",
+          "فير ناخ فايا أَبند نوخ غيدانكليش إيم بورو زِتست، إست نشت بظوندرس إنغاجيرت، زوندرن شليخت نِي فيرليش أنغِكونمن.",
+          "Wer nach Feierabend noch gedanklich im Büro sitzt, ist nicht besonders engagiert, sondern schlicht nie wirklich angekommen.",
+          "من يظل ذهنيًا في المكتب بعد نهاية الدوام ليس شديد الالتزام، بل ببساطة لم يصل حقًا إلى الراحة."
+        ],
+        [
+          "Grenzen im Kalender sind kein Zeichen von Unwillen, sondern von Respekt gegenüber der eigenen Kraft und der Zeit anderer.",
+          "الحدود في التقويم ليست علامة على عدم الرغبة، بل على احترام قوة المرء ووقت الآخرين.",
+          "غرِنڅن إيم كالندر زينت كاين تسايخن فون أونفيلن، زوندرن فون رِسبِكت غيغنَبر دير آيغينن كرافت أوند دير تسايت أندِره.",
+          "Grenzen im Kalender sind kein Zeichen von Unwillen, sondern von Respekt gegenüber der eigenen Kraft und der Zeit anderer.",
+          "الحدود في التقويم ليست علامة على عدم الرغبة، بل على احترام قوة المرء ووقت الآخرين."
+        ],
+        [
+          "Wenn Arbeit alles dominiert, wirkt selbst Erfolg schal; erst mit Freiräumen bekommt Leistung ein menschliches Maß.",
+          "عندما يهيمن العمل على كل شيء، يبدو النجاح نفسه باهتًا؛ ولا تكتسب الإنجازات معناها الإنساني إلا مع فسحات الحرية.",
+          "فين أر بايت آلِس دومينيرت، فيركت زيلبست إر فولغ شال؛ إرشت مِت فرايراومن بِكومت لايستونغ آين مِنشليخس ماس.",
+          "Wenn Arbeit alles dominiert, wirkt selbst Erfolg schal; erst mit Freiräumen bekommt Leistung ein menschliches Maß.",
+          "عندما يهيمن العمل على كل شيء، يبدو النجاح نفسه باهتًا؛ ولا تكتسب الإنجازات معناها الإنساني إلا مع فسحات الحرية."
+        ],
+        [
+          "Man muss nicht jeden Abend gerettet werden; oft genügt es, die Ansprüche an den Tag vorübergehend herunterzuschrauben.",
+          "ليس من الضروري إنقاذ المرء كل مساء؛ غالبًا يكفي خفض التوقعات من اليوم مؤقتًا.",
+          "مان موس نشت ييدن أَبنت غِرِّتت فيردن؛ أوفت غِنيغت إز، دي أنكْشپروخه آن دين تاك فوروبرغيهند هيرونتَر تسوشْراوبِن.",
+          "Man muss nicht jeden Abend gerettet werden; oft genügt es, die Ansprüche an den Tag vorübergehend herunterzuschrauben.",
+          "ليس من الضروري إنقاذ المرء كل مساء؛ غالبًا يكفي خفض التوقعات من اليوم مؤقتًا."
+        ],
+        [
+          "Ein Wochenende ohne Ziel ist nicht vergeudet, wenn es die innere Batterie wieder auflädt.",
+          "عطلة نهاية الأسبوع بلا هدف ليست مضيعة إذا كانت تعيد شحن البطارية الداخلية.",
+          "آين فوخِنِنْده أوhنِه تسيـل إست نشت فيرغويتت، فين إز دي إِنَره باتِريه فيدر آوفلادت.",
+          "Ein Wochenende ohne Ziel ist nicht vergeudet, wenn es die innere Batterie wieder auflädt.",
+          "عطلة نهاية الأسبوع بلا هدف ليست مضيعة إذا كانت تعيد شحن البطارية الداخلية."
+        ],
+        [
+          "Wer ständig zwischen Rollen wechselt, braucht nicht mehr Disziplin, sondern klügere Prioritäten.",
+          "من يتنقل باستمرار بين الأدوار لا يحتاج إلى مزيد من الانضباط، بل إلى أولويات أذكى.",
+          "فير شتانديغ تسفيشن رولن فايشلْت، براوخت نشت مِر ديسِبلين، زوندرن كْلويغره بريوريتَيتِن.",
+          "Wer ständig zwischen Rollen wechselt, braucht nicht mehr Disziplin, sondern klügere Prioritäten.",
+          "من يتنقل باستمرار بين الأدوار لا يحتاج إلى مزيد من الانضباط، بل إلى أولويات أذكى."
+        ],
+        [
+          "Arbeit darf wichtig sein, aber sie wird problematisch, sobald sie jedes andere Lebensrecht übertönt.",
+          "يجوز أن يكون العمل مهمًا، لكنه يصبح إشكاليًا عندما يطغى على كل حق آخر في الحياة.",
+          "آر بايت دارف فيختيغ زاين، آبر زي فيرت بْرُوبلماتيشف، زوبالد زي ييدس أندره ليبنسْرخت يبرتونت.",
+          "Arbeit darf wichtig sein, aber sie wird problematisch, sobald sie jedes andere Lebensrecht übertönt.",
+          "يجوز أن يكون العمل مهمًا، لكنه يصبح إشكاليًا عندما يطغى على كل حق آخر في الحياة."
+        ],
+        [
+          "Balance ist kein Zustand, den man einmal erreicht und dann behält, sondern tägliche Feinarbeit.",
+          "التوازن ليس حالة نبلغها مرة واحدة ثم نحافظ عليها، بل عمل دقيق يومي.",
+          "بالانس إشت كاين تسوشتاند، دين مان آينمال إرايخت أوند دان بَهالت، زوندرن تَغليشِه فاينآربايت.",
+          "Balance ist kein Zustand, den man einmal erreicht und dann behält, sondern tägliche Feinarbeit.",
+          "التوازن ليس حالة نبلغها مرة واحدة ثم نحافظ عليها، بل عمل دقيق يومي."
+        ]
+      ]
+    },
+    {
+      "topic": "حماية البيئة",
+      "words": [
+        [
+          "Wer die Natur nur als Kulisse behandelt, wird irgendwann merken, dass die Bühne ohne sie nicht mehr steht.",
+          "من يعامل الطبيعة كخلفية فقط سيدرك في النهاية أن المسرح لا يقوم من دونها.",
+          "فير دي ناتور نور آلز كوليسه بِهانْدلْت، فيرت إيرغِندفان ميركن، داس دي بونه أوhنِه زي نِشت مير شتيت.",
+          "Wer die Natur nur als Kulisse behandelt, wird irgendwann merken, dass die Bühne ohne sie nicht mehr steht.",
+          "من يعامل الطبيعة كخلفية فقط سيدرك في النهاية أن المسرح لا يقوم من دونها."
+        ],
+        [
+          "Klimaschutz beginnt selten mit Heldentaten, sondern mit vielen unspektakulären Entscheidungen am Rand des Alltags.",
+          "حماية المناخ لا تبدأ غالبًا بأعمال بطولية، بل بقرارات كثيرة غير لافتة على هامش الحياة اليومية.",
+          "كليماسشوتس بِغِنْت زلتسن مِت هيلدِنْتاتن، زوندرن مِت فيلن أونشپِكتَكولارن إنتشايْدونغن آم راند ديس آلتاكس.",
+          "Klimaschutz beginnt selten mit Heldentaten, sondern mit vielen unspektakulären Entscheidungen am Rand des Alltags.",
+          "حماية المناخ لا تبدأ غالبًا بأعمال بطولية، بل بقرارات كثيرة غير لافتة على هامش الحياة اليومية."
+        ],
+        [
+          "Ein sauberer Fluss ist mehr als ein hübsches Bild; er zeigt, ob eine Gesellschaft ihre Verantwortung ernst nimmt.",
+          "النهر النظيف أكثر من صورة جميلة؛ فهو يكشف ما إذا كان المجتمع يأخذ مسؤوليته بجدية.",
+          "آين ساوبِرر فلوس إست مِر آلز آين هوبشِس بيلد؛ إير تسَايغت، أوب آينه غيزِلشافت إيرِه فيرآنتفورتونغ إرست نيمت.",
+          "Ein sauberer Fluss ist mehr als ein hübsches Bild; er zeigt, ob eine Gesellschaft ihre Verantwortung ernst nimmt.",
+          "النهر النظيف أكثر من صورة جميلة؛ فهو يكشف ما إذا كان المجتمع يأخذ مسؤوليته بجدية."
+        ],
+        [
+          "Wer Ressourcen verschwendet, bezahlt doppelt: zuerst mit Geld, später mit ökologischen Folgekosten.",
+          "من يهدر الموارد يدفع ثمنًا مضاعفًا: أولًا بالمال، ثم بالتكاليف البيئية اللاحقة.",
+          "فير ريزورسِن فِرشفيندِت، بيتسالت دوبلت: تسويرشت مِت غِلت، شبَتَر مِت إكولوغيشن فولغِكوستن.",
+          "Wer Ressourcen verschwendet, bezahlt doppelt: zuerst mit Geld, später mit ökologischen Folgekosten.",
+          "من يهدر الموارد يدفع ثمنًا مضاعفًا: أولًا بالمال، ثم بالتكاليف البيئية اللاحقة."
+        ],
+        [
+          "Nachhaltigkeit ist kein moralischer Pinselstrich, sondern die nüchterne Einsicht, dass Übermaß selten billig bleibt.",
+          "الاستدامة ليست لمسة أخلاقية سطحية، بل إدراك واقعي بأن الإفراط نادرًا ما يبقى رخيصًا.",
+          "ناخالتِيخكايت إست كاين موراليشر بينزلشتريخ، زوندرن دي نيوخترنه آينزِخت، داس يبرماس زلتسن بيلِخ بلايبت.",
+          "Nachhaltigkeit ist kein moralischer Pinselstrich, sondern die nüchterne Einsicht, dass Übermaß selten billig bleibt.",
+          "الاستدامة ليست لمسة أخلاقية سطحية، بل إدراك واقعي بأن الإفراط نادرًا ما يبقى رخيصًا."
+        ],
+        [
+          "Auch kleine Städte können viel bewirken, wenn sie den Mut haben, Verkehr, Wärme und Strom neu zu denken.",
+          "حتى المدن الصغيرة يمكنها أن تحدث أثرًا كبيرًا إذا امتلكت الشجاعة لإعادة التفكير في النقل والتدفئة والكهرباء.",
+          "أوخ كلاينه شتِته كونن فيل بِفيركن، فين زي دين موت هابن، فيركير، ڤارمه أوند شتْروم نوي تسو دينكن.",
+          "Auch kleine Städte können viel bewirken, wenn sie den Mut haben, Verkehr, Wärme und Strom neu zu denken.",
+          "حتى المدن الصغيرة يمكنها أن تحدث أثرًا كبيرًا إذا امتلكت الشجاعة لإعادة التفكير في النقل والتدفئة والكهرباء."
+        ],
+        [
+          "Es reicht nicht, Bäume zu feiern, wenn man daneben Böden versiegelt und Lebensräume zerschneidet.",
+          "لا يكفي الاحتفاء بالأشجار إذا كنا في الوقت نفسه نغطي التربة ونمزق الموائل.",
+          "إس رايخت نشت، بؤمه تسو فاياْرن، فين مان دانِبن بؤدن ڤِرزِيغلت أوند ليبنسراومه تسرشنايدت.",
+          "Es reicht nicht, Bäume zu feiern, wenn man daneben Böden versiegelt und Lebensräume zerschneidet.",
+          "لا يكفي الاحتفاء بالأشجار إذا كنا في الوقت نفسه نغطي التربة ونمزق الموائل."
+        ],
+        [
+          "Umweltbewusstsein zeigt sich weniger in Parolen als in der stillen Bereitschaft, Gewohnheiten zu prüfen.",
+          "الوعي البيئي يظهر أقل في الشعارات وأكثر في الاستعداد الهادئ لمراجعة العادات.",
+          "أومفِلتبِفوسْتزاين تسايخت زيخ فِينِغر إين پارولِن آلز إين دير شتيلِن بِرايتشافت، غِڤونهايتِن تسو بريوفِن.",
+          "Umweltbewusstsein zeigt sich weniger in Parolen als in der stillen Bereitschaft, Gewohnheiten zu prüfen.",
+          "الوعي البيئي يظهر أقل في الشعارات وأكثر في الاستعداد الهادئ لمراجعة العادات."
+        ],
+        [
+          "Wenn Politik glaubwürdig sein will, muss sie nicht alles versprechen, aber das Einfache auch wirklich umsetzen.",
+          "إذا أرادت السياسة أن تكون موثوقة، فلا يجب أن تعد بكل شيء، لكنها ينبغي أن تنفذ حتى البسيط على أرض الواقع.",
+          "فين بوليتيك غلاوبفيرديغ زاين فيل، موس زي نشت آلِس فرشپريخِن، آبر داس آينفاخه أوخ فيرليش أومزتسن.",
+          "Wenn Politik glaubwürdig sein will, muss sie nicht alles versprechen, aber das Einfache auch wirklich umsetzen.",
+          "إذا أرادت السياسة أن تكون موثوقة، فلا يجب أن تعد بكل شيء، لكنها ينبغي أن تنفذ حتى البسيط على أرض الواقع."
+        ],
+        [
+          "Die Natur verhandelt nicht; sie reagiert auf das, was wir ihr zufügen, und zwar ohne rhetorische Geduld.",
+          "الطبيعة لا تتفاوض؛ إنها ترد على ما نضيفه إليها، وبلا صبر بلاغي.",
+          "دي ناتور فيرخاندلت نشت؛ زي رياغيرت أوف داس، فاس فير إير تسوفيوغن، أوند تسفَار أوhنِه ريطوريشه غِدولد.",
+          "Die Natur verhandelt nicht; sie reagiert auf das, was wir ihr zufügen, und zwar ohne rhetorische Geduld.",
+          "الطبيعة لا تتفاوض؛ إنها ترد على ما نضيفه إليها، وبلا صبر بلاغي."
+        ]
+      ]
+    },
+    {
+      "topic": "الاستهلاك المسؤول",
+      "words": [
+        [
+          "Wer billig kauft, kauft oft zweimal, doch der eigentliche Preis zeigt sich erst später im Alltag und in der Bilanz.",
+          "من يشتري الرخيص يشتري غالبًا مرتين، لكن الثمن الحقيقي يظهر لاحقًا في الحياة اليومية وفي الحسابات.",
+          "فير بيلِّخ كاوفْت، كاوفْت أوفت تسفايمال، دوخ دير آيغنتليخه برايس تسَايخت زيخ إرشت شبَتَر إيم آلتاك أوند إين دير بيلانتس.",
+          "Wer billig kauft, kauft oft zweimal, doch der eigentliche Preis zeigt sich erst später im Alltag und in der Bilanz.",
+          "من يشتري الرخيص يشتري غالبًا مرتين، لكن الثمن الحقيقي يظهر لاحقًا في الحياة اليومية وفي الحسابات."
+        ],
+        [
+          "Verantwortungsvoller Konsum heißt nicht Verzicht auf Freude, sondern auf Dinge, die nur kurz glänzen und lange stören.",
+          "الاستهلاك المسؤول لا يعني التخلي عن المتعة، بل عن الأشياء التي تلمع قليلًا وتزعج طويلًا.",
+          "فِرانْتفورتونغسفولّر كونزوم هايست نشت فيرشِخت أوف فرويده، زوندرن أوف دينغه، دي نور كورتس غلنتسن أوند لانغه شتورن.",
+          "Verantwortungsvoller Konsum heißt nicht Verzicht auf Freude, sondern auf Dinge, die nur kurz glänzen und lange stören.",
+          "الاستهلاك المسؤول لا يعني التخلي عن المتعة، بل عن الأشياء التي تلمع قليلًا وتزعج طويلًا."
+        ],
+        [
+          "Man braucht nicht jedes Angebot, nur weil es laut beworben wird; selten ist das Lauteste auch das Klügste.",
+          "لا يحتاج المرء إلى كل عرض لمجرد أنه يُسوَّق بصوت عالٍ؛ فغالبًا ليس الأعلى صوتًا هو الأذكى.",
+          "مان براوخت نشت ييدس أنغبوت، نور فايل إز لاوت بِفوربن فيرد؛ زلتسن إست داس لاوتستِه أوخ داس كْلويغستِه.",
+          "Man braucht nicht jedes Angebot, nur weil es laut beworben wird; selten ist das Lauteste auch das Klügste.",
+          "لا يحتاج المرء إلى كل عرض لمجرد أنه يُسوَّق بصوت عالٍ؛ فغالبًا ليس الأعلى صوتًا هو الأذكى."
+        ],
+        [
+          "Ein bewusst gefüllter Einkaufswagen ist kein Zeichen von Verzicht, sondern von Geschmack und Maß.",
+          "عربة التسوق المعبأة بوعي ليست علامة حرمان، بل علامة ذوق واعتدال.",
+          "آين بِفوسْت غِفولتر آينكاوفسفاغن إست كاين تسايخن فون فيرشِخت، زوندرن فون غِشماك أوند ماس.",
+          "Ein bewusst gefüllter Einkaufswagen ist kein Zeichen von Verzicht, sondern von Geschmack und Maß.",
+          "عربة التسوق المعبأة بوعي ليست علامة حرمان، بل علامة ذوق واعتدال."
+        ],
+        [
+          "Wer Dinge reparieren lässt, statt sie wegzuwerfen, verteidigt nicht nur Geld, sondern auch Würde.",
+          "من يصلح الأشياء بدل رميها يدافع لا عن المال فقط، بل عن الكرامة أيضًا.",
+          "فير دينغه ريبارييرن لاست، شتات زي فيغتسورفِن، فيردايْديغت نشت نور غِلت، زوندرن أوخ فيردِه.",
+          "Wer Dinge reparieren lässt, statt sie wegzuwerfen, verteidigt nicht nur Geld, sondern auch Würde.",
+          "من يصلح الأشياء بدل رميها يدافع لا عن المال فقط، بل عن الكرامة أيضًا."
+        ],
+        [
+          "Konsum wird problematisch, sobald er Identität ersetzen soll; dann kauft man Ruhe, die nie geliefert wird.",
+          "يصبح الاستهلاك إشكاليًا عندما يُطلب منه أن يحل محل الهوية؛ عندها يشتري المرء طمأنينة لا تُسلَّم أبدًا.",
+          "كونزوم فيرت بْرُوبلماتيشف، زوبالد إير إيدِنتيتات إرستتسن زول؛ دان كاوفْت مان روهه، دي نِي غِليفِرت فيرت.",
+          "Konsum wird problematisch, sobald er Identität ersetzen soll; dann kauft man Ruhe, die nie geliefert wird.",
+          "يصبح الاستهلاك إشكاليًا عندما يُطلب منه أن يحل محل الهوية؛ عندها يشتري المرء طمأنينة لا تُسلَّم أبدًا."
+        ],
+        [
+          "Regional zu kaufen ist nicht immer romantisch, aber oft vernünftiger, weil Wege und Verluste kleiner bleiben.",
+          "الشراء المحلي ليس دائمًا رومانسيًا، لكنه غالبًا أكثر عقلانية لأن المسافات والهدر يبقيان أقل.",
+          "ريجيونال تسو كاوفن إست نشت إيمر رومانتيش، آبر أوفت فيرنونفتيغر، فايل فيغه أوند فيرلوستِه كلاينر بلايْبن.",
+          "Regional zu kaufen ist nicht immer romantisch, aber oft vernünftiger, weil Wege und Verluste kleiner bleiben.",
+          "الشراء المحلي ليس دائمًا رومانسيًا، لكنه غالبًا أكثر عقلانية لأن المسافات والهدر يبقيان أقل."
+        ],
+        [
+          "Ein gutes Produkt erkennt man manchmal gerade daran, dass es nicht schreit, sondern still seinen Zweck erfüllt.",
+          "يمكن التعرف أحيانًا على المنتج الجيد من كونه لا يصرخ، بل يؤدي غرضه بهدوء.",
+          "آين غوتِس برودوكت إركينت مان مانchmal غِرادِه داران، داس إز نشت شرايت، زوندرن شتيل زاينن تسفِك إر فولت.",
+          "Ein gutes Produkt erkennt man manchmal gerade daran, dass es nicht schreit, sondern still seinen Zweck erfüllt.",
+          "يمكن التعرف أحيانًا على المنتج الجيد من كونه لا يصرخ، بل يؤدي غرضه بهدوء."
+        ],
+        [
+          "Müll beginnt nicht im Container, sondern im Moment der achtlosen Entscheidung für das Überflüssige.",
+          "النفايات لا تبدأ في الحاوية، بل في لحظة القرار غير المبالي لصالح ما هو زائد.",
+          "مول بِغِنْت نشت إيم كونتاينر، زوندرن إيم موْمِنت دير آخْتلوزن إنتشايْدونغ فور داس يبرفلوسِغه.",
+          "Müll beginnt nicht im Container, sondern im Moment der achtlosen Entscheidung für das Überflüssige.",
+          "النفايات لا تبدأ في الحاوية، بل في لحظة القرار غير المبالي لصالح ما هو زائد."
+        ],
+        [
+          "Sparen ist kein Selbstzweck, doch bewusster Umgang mit Geld macht Freiheit oft erst möglich.",
+          "الادخار ليس غاية بحد ذاته، لكن التعامل الواعي مع المال يجعل الحرية ممكنة غالبًا.",
+          "شبارن إست كاين زيلبستتسفِك، دوخ بِفوسْتر أومغانغ مِت غِلت ماخت فرايهايت أوفت إرشت موغليش.",
+          "Sparen ist kein Selbstzweck, doch bewusster Umgang mit Geld macht Freiheit oft erst möglich.",
+          "الادخار ليس غاية بحد ذاته، لكن التعامل الواعي مع المال يجعل الحرية ممكنة غالبًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الابتكار والتغيير",
+      "words": [
+        [
+          "Innovation beginnt selten mit einem großen Knall; meistens ist sie die geduldige Antwort auf ein leises Problem.",
+          "الابتكار لا يبدأ غالبًا بانفجار كبير؛ بل يكون في العادة الجواب الصبور عن مشكلة هادئة.",
+          "إينوفاتسيون بِغِنْت زلتسن مِت آينِم غروسن كنال؛ مايْستنس إست زي دي غِدولدِيغه أنتڤورت أوف آين لايسِس برُوبلم.",
+          "Innovation beginnt selten mit einem großen Knall; meistens ist sie die geduldige Antwort auf ein leises Problem.",
+          "الابتكار لا يبدأ غالبًا بانفجار كبير؛ بل يكون في العادة الجواب الصبور عن مشكلة هادئة."
+        ],
+        [
+          "Wer Wandel nur hinnimmt, bleibt Zuschauer; wer ihn mitgestaltet, entdeckt Handlungsspielraum statt bloßer Anpassung.",
+          "من يكتفي بتقبل التغيير يبقى متفرجًا؛ ومن يشارك في تشكيله يكتشف مجال الفعل بدل مجرد التكيّف.",
+          "فير فاندل نور هِنْنيمت، بلايبت تسوشاوئر؛ فير إين ميتغِشْتالتِت، إنتديكت هاندلونغسشپايراوْم شتات بلوسر أنپاسونغ.",
+          "Wer Wandel nur hinnimmt, bleibt Zuschauer; wer ihn mitgestaltet, entdeckt Handlungsspielraum statt bloßer Anpassung.",
+          "من يكتفي بتقبل التغيير يبقى متفرجًا؛ ومن يشارك في تشكيله يكتشف مجال الفعل بدل مجرد التكيّف."
+        ],
+        [
+          "Technischer Fortschritt ist beeindruckend, solange er nicht mit Fortschritt verwechselt wird, der auch menschlich trägt.",
+          "التقدم التقني مدهش ما دام لا يُخلط مع التقدم الذي يحمل قيمة إنسانية أيضًا.",
+          "تكنيشَر فورشْريْت إست بإندروكِند، زولانغه إير نشت مِت فورشْريْت فيرڤيخسلت فيرت، دير أوخ مِنشليش ترَغت.",
+          "Technischer Fortschritt ist beeindruckend, solange er nicht mit Fortschritt verwechselt wird, der auch menschlich trägt.",
+          "التقدم التقني مدهش ما دام لا يُخلط مع التقدم الذي يحمل قيمة إنسانية أيضًا."
+        ],
+        [
+          "Alte Gewissheiten sterben nicht gern, doch genau dort beginnt oft der Raum, in dem etwas Besseres wachsen kann.",
+          "الحقائق القديمة لا تموت برضا، لكن من هناك بالضبط يبدأ غالبًا المجال الذي يمكن أن ينمو فيه الأفضل.",
+          "آلته غِڤيسْهايتِن شتِربن نشت غرن، دوخ غيناو دورت بِغِنْت أوفت دير راوْم، إين ديم إتڤاس بِسرِس فاخسن كان.",
+          "Alte Gewissheiten sterben nicht gern, doch genau dort beginnt oft der Raum, in dem etwas Besseres wachsen kann.",
+          "الحقائق القديمة لا تموت برضا، لكن من هناك بالضبط يبدأ غالبًا المجال الذي يمكن أن ينمو فيه الأفضل."
+        ],
+        [
+          "Wer Fehler nur bestraft, fördert Schweigen; wer sie klug auswertet, verwandelt Risiko in Erkenntnis.",
+          "من يعاقب الأخطاء فقط يعزز الصمت؛ ومن يحللها بذكاء يحول المخاطرة إلى معرفة.",
+          "فير فيلر نور بِشترافت، فوردرت شفايغِن؛ فير زي كْلوق آوسفيرتِت، فيرڤاندلت ريسيكو إين إركينتنِس.",
+          "Wer Fehler nur bestraft, fördert Schweigen; wer sie klug auswertet, verwandelt Risiko in Erkenntnis.",
+          "من يعاقب الأخطاء فقط يعزز الصمت؛ ومن يحللها بذكاء يحول المخاطرة إلى معرفة."
+        ],
+        [
+          "Eine gute Idee ist nicht deshalb stark, weil sie laut auftritt, sondern weil sie im Gebrauch überzeugt.",
+          "الفكرة الجيدة ليست قوية لأنها تظهر بصوت عالٍ، بل لأنها تقنع عند الاستخدام.",
+          "آينه غوتِه إديه إست نشت ديسهالب شتارك، فايل زي لاوت أوفتريت، زوندرن فايل زي إيم غِبراوخ يبرڅوĠت.",
+          "Eine gute Idee ist nicht deshalb stark, weil sie laut auftritt, sondern weil sie im Gebrauch überzeugt.",
+          "الفكرة الجيدة ليست قوية لأنها تظهر بصوت عالٍ، بل لأنها تقنع عند الاستخدام."
+        ],
+        [
+          "Digitaler Wandel verlangt mehr Urteilskraft als Tempo; sonst jagt man nur dem Nächsten hinterher.",
+          "التغيير الرقمي يتطلب حُسن تقدير أكثر من السرعة؛ وإلا صار المرء يطارد الشيء التالي فقط.",
+          "ديغيتالر فاندل فيرلانغت مِر أورْتسايلس كرافت آلز تيمبو؛ زونست ياغت مان نور ديم نِخستن هينتِرهر.",
+          "Digitaler Wandel verlangt mehr Urteilskraft als Tempo; sonst jagt man nur dem Nächsten hinterher.",
+          "التغيير الرقمي يتطلب حُسن تقدير أكثر من السرعة؛ وإلا صار المرء يطارد الشيء التالي فقط."
+        ],
+        [
+          "Manchmal ist die beste Innovation die, welche Komplexität wegstreicht, statt noch eine Schicht daraufzulegen.",
+          "أحيانًا يكون أفضل ابتكار هو الذي يزيل التعقيد بدل أن يضيف طبقة أخرى فوقه.",
+          "مانchmal إست دي بِسته إينوفاتسيون دي، فيلشه كومبليكسيتَت فيغشترايخت، شتات نوخ آينه شيخت دارأوفتسوليجِن.",
+          "Manchmal ist die beste Innovation die, welche Komplexität wegstreicht, statt noch eine Schicht daraufzulegen.",
+          "أحيانًا يكون أفضل ابتكار هو الذي يزيل التعقيد بدل أن يضيف طبقة أخرى فوقه."
+        ],
+        [
+          "Wandel braucht Vertrauen, aber auch die Bereitschaft, Gewohntes nicht mit dem Richtigen zu verwechseln.",
+          "التغيير يحتاج إلى الثقة، لكنه يحتاج أيضًا إلى الاستعداد لعدم الخلط بين المألوف والصحيح.",
+          "فاندل براوخت فيرتراوِن، آبر أوخ دي بِرايتشافت، غِڤونتِس نشت مِت ديم ريختيغِن تسو فيرڤيخسلن.",
+          "Wandel braucht Vertrauen, aber auch die Bereitschaft, Gewohntes nicht mit dem Richtigen zu verwechseln.",
+          "التغيير يحتاج إلى الثقة، لكنه يحتاج أيضًا إلى الاستعداد لعدم الخلط بين المألوف والصحيح."
+        ],
+        [
+          "Wer Zukunft gestalten will, muss das Unfertige aushalten, ohne sofort nach endgültigen Antworten zu greifen.",
+          "من يريد تشكيل المستقبل عليه أن يحتمل ما هو غير مكتمل دون أن يطلب إجابات نهائية فورًا.",
+          "فير تسوكونفت غِشتالتن فيل، موس داس أونفِرتِغه آوشالتن، أوhنِه زوفورت ناخ إنتgültigen أنتڤورتن تسو غريفن.",
+          "Wer Zukunft gestalten will, muss das Unfertige aushalten, ohne sofort nach endgültigen Antworten zu greifen.",
+          "من يريد تشكيل المستقبل عليه أن يحتمل ما هو غير مكتمل دون أن يطلب إجابات نهائية فورًا."
+        ]
+      ]
+    },
+    {
+      "topic": "قراءة الأخبار بوعي",
+      "words": [
+        [
+          "Die Schlagzeile behauptet mehr, als der Artikel später einlöst, und genau darin liegt die eigentliche Botschaft.",
+          "العنوان يزعم أكثر مما يفي به المقال لاحقًا، وفي ذلك تحديدًا تكمن الرسالة الحقيقية.",
+          "داي شلاجتسايله بيهاوبتِت مهر، ألس دير أرتيكِل شباتَر آينلُست، أوند غناؤ داريين ليغت داي أيغنتليشه بوتشافْت.",
+          "Die Schlagzeile behauptet mehr, als der Artikel später einlöst, und genau darin liegt die eigentliche Botschaft.",
+          "العنوان يزعم أكثر مما يفي به المقال لاحقًا، وفي ذلك تحديدًا تكمن الرسالة الحقيقية."
+        ],
+        [
+          "Wer nur die Überschrift liest, übernimmt oft schon die Wertung, bevor überhaupt Fakten auf dem Tisch liegen.",
+          "من يقرأ العنوان فقط يتبنى غالبًا الحكم مسبقًا، قبل أن تكون الحقائق مطروحة أصلًا.",
+          "فير نور داي أوبَرشرِفت ليست، أوبَرنېمت أُفت شون داي فيرتونغ، بفور أوبهَوبت فاكْتن آوف دِم تيش ليغن.",
+          "Wer nur die Überschrift liest, übernimmt oft schon die Wertung, bevor überhaupt Fakten auf dem Tisch liegen.",
+          "من يقرأ العنوان فقط يتبنى غالبًا الحكم مسبقًا، قبل أن تكون الحقائق مطروحة أصلًا."
+        ],
+        [
+          "Zwischen den Zeilen wirkt der Text nüchterner, als seine Empörungsgeste vermuten lässt.",
+          "بين السطور يبدو النص أكثر اتزانًا مما توحي به إيماءة السخط فيه.",
+          "تْفِشن دين تسايلن فيركت دير تِكست نويختَرنَر، ألس زاينه إيمبورونغسغيسته فيرموتن لِست.",
+          "Zwischen den Zeilen wirkt der Text nüchterner, als seine Empörungsgeste vermuten lässt.",
+          "بين السطور يبدو النص أكثر اتزانًا مما توحي به إيماءة السخط فيه."
+        ],
+        [
+          "Ein sorgfältiger Leser prüft, wer spricht, worauf sich die Quelle stützt und was elegant ausgelassen wird.",
+          "القارئ الحريص يتحقق من المتحدث، وعلى ماذا تستند المصدر، وما الذي يُترك خارج النص بمهارة.",
+          "آين زورغفالتيغر ليزر بريفت، فير شْپْريخت، فوراوف زيش داي كْوِله شتِتتسْت أوند فاس إيليغانت آوسغلاسن فيرت.",
+          "Ein sorgfältiger Leser prüft, wer spricht, worauf sich die Quelle stützt und was elegant ausgelassen wird.",
+          "القارئ الحريص يتحقق من المتحدث، وعلى ماذا تستند المصدر، وما الذي يُترك خارج النص بمهارة."
+        ],
+        [
+          "Manche Meldung klingt objektiv, trägt aber ihre Meinung schon im Auswahlrahmen mit sich.",
+          "بعض الأخبار تبدو موضوعية، لكنها تحمل رأيها منذ البداية في إطار اختيارها نفسه.",
+          "مانشه ميلدونغ كليغت أوبْيِكْتيف، ترايغت آبر إيرِه ماينونغ شون إم آوسفْالراهمن مِت زيش.",
+          "Manche Meldung klingt objektiv, trägt aber ihre Meinung schon im Auswahlrahmen mit sich.",
+          "بعض الأخبار تبدو موضوعية، لكنها تحمل رأيها منذ البداية في إطار اختيارها نفسه."
+        ],
+        [
+          "Wenn ein Bericht nur auf Tempo setzt, ist Skepsis kein Misstrauen, sondern redliche Lesearbeit.",
+          "عندما يراهن تقرير على السرعة فقط، فالتشكك ليس عدم ثقة بل عمل قراءة منصف.",
+          "فِن آين بَريخت نور آوف تيمپو زيتسْت، إست شْكِبسيس كاين ميسترَاوِن، زوندرن رِدْليشه ليزآربايت.",
+          "Wenn ein Bericht nur auf Tempo setzt, ist Skepsis kein Misstrauen, sondern redliche Lesearbeit.",
+          "عندما يراهن تقرير على السرعة فقط، فالتشكك ليس عدم ثقة بل عمل قراءة منصف."
+        ],
+        [
+          "Die nüchternen Zahlen erzählen oft mehr als die pathetische Formel am Rand.",
+          "الأرقام المتزنة غالبًا ما تقول أكثر من الصياغة العاطفية على الهامش.",
+          "داي نويختَرنن تسالِن إرتْسالن أُفت مهر ألس داي باتيتيشه فورمِل آم راند.",
+          "Die nüchternen Zahlen erzählen oft mehr als die pathetische Formel am Rand.",
+          "الأرقام المتزنة غالبًا ما تقول أكثر من الصياغة العاطفية على الهامش."
+        ],
+        [
+          "Wer eine Nachricht prüft, sollte auch ihre Lücken lesen, nicht nur ihren Ton.",
+          "من يفحص خبرًا ينبغي أن يقرأ ثغراته أيضًا، لا نبرته فقط.",
+          "فير آينه ناخريشت بريفت، زولتِه آوخ إيرِه لوكن ليزن، نِشت نور إيرِن تون.",
+          "Wer eine Nachricht prüft, sollte auch ihre Lücken lesen, nicht nur ihren Ton.",
+          "من يفحص خبرًا ينبغي أن يقرأ ثغراته أيضًا، لا نبرته فقط."
+        ],
+        [
+          "Eine gute Einordnung traut dem Text genug zu, um ihn nicht für bare Münze zu nehmen.",
+          "التصنيف الجيد يمنح النص قدرًا كافيًا من الثقة دون أن يأخذه على أنه حقيقة صرفة.",
+          "آينه غوتِه آينأوردنونغ تراوت دِم تِكست غينوغ تسو، أوم إين نِشت فور باره مونتسه تسو نِمن.",
+          "Eine gute Einordnung traut dem Text genug zu, um ihn nicht für bare Münze zu nehmen.",
+          "التصنيف الجيد يمنح النص قدرًا كافيًا من الثقة دون أن يأخذه على أنه حقيقة صرفة."
+        ],
+        [
+          "Die eigentliche Aufgabe des Lesens beginnt dort, wo der schnelle Eindruck schon zu sicher wirkt.",
+          "تبدأ مهمة القراءة الحقيقية هناك حيث يبدو الانطباع السريع واثقًا أكثر من اللازم.",
+          "داي أيغنتليشه أوفغاڤه دِس ليزنز بيغينت دورت، فو دير شْنِلّه إيندروك شون تسو زيشَر فيركت.",
+          "Die eigentliche Aufgabe des Lesens beginnt dort, wo der schnelle Eindruck schon zu sicher wirkt.",
+          "تبدأ مهمة القراءة الحقيقية هناك حيث يبدو الانطباع السريع واثقًا أكثر من اللازم."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة بين البدائل",
+      "words": [
+        [
+          "Nicht jede günstigere Lösung ist auch die klügere; manchmal bezahlt man den niedrigeren Preis mit mehr Aufwand.",
+          "ليس كل حل أرخص هو الأذكى أيضًا؛ أحيانًا تدفع ثمنًا أقل مقابل جهد أكبر.",
+          "نِشت يده غونستيغره لونغ زتسُونغ إست آوخ داي كلوغره؛ مانشمال بيتسالْت مان دين نيدريغَرن برايس مِت مهر أوففاند.",
+          "Nicht jede günstigere Lösung ist auch die klügere; manchmal bezahlt man den niedrigeren Preis mit mehr Aufwand.",
+          "ليس كل حل أرخص هو الأذكى أيضًا؛ أحيانًا تدفع ثمنًا أقل مقابل جهد أكبر."
+        ],
+        [
+          "Zwischen zwei Angeboten zählt nicht nur die Summe, sondern auch, wie viel Freiheit danach bleibt.",
+          "بين عرضين لا يهم المبلغ فقط، بل أيضًا مقدار الحرية المتبقية بعد ذلك.",
+          "تْفِشن تسفاي آنغيبوتن تسالت نِشت نور داي زومه، زوندرن آوخ، في فيل فرايهايت دناخ بلايبت.",
+          "Zwischen zwei Angeboten zählt nicht nur die Summe, sondern auch, wie viel Freiheit danach bleibt.",
+          "بين عرضين لا يهم المبلغ فقط، بل أيضًا مقدار الحرية المتبقية بعد ذلك."
+        ],
+        [
+          "Eine Alternative wirkt nur dann überzeugend, wenn sie nicht an einer Stelle mehr verspricht, als sie hält.",
+          "لا يبدو البديل مقنعًا إلا إذا لم يعد بأكثر مما يفي به في نقطة واحدة.",
+          "آينه ألتَرناتيفه فيركت نور دان أوبَرتْسويغند، فِن زي نِشت آن آينَر شتِله مهر فِرشْپْرِشت، ألس زي هِلت.",
+          "Eine Alternative wirkt nur dann überzeugend, wenn sie nicht an einer Stelle mehr verspricht, als sie hält.",
+          "لا يبدو البديل مقنعًا إلا إذا لم يعد بأكثر مما يفي به في نقطة واحدة."
+        ],
+        [
+          "Manche Lösung spart Zeit, schafft aber neue Abhängigkeiten, und genau das kippt die Bilanz.",
+          "بعض الحلول توفر الوقت، لكنها تخلق تبعيات جديدة، وهذا بالضبط ما يقلب الحصيلة.",
+          "مانشه لونغ زتسُونغ شبْرت تسايت، شافت آبر نويِه أبهينغيكايتن، أوند غناؤ داس كِبت داي بيلاتس.",
+          "Manche Lösung spart Zeit, schafft aber neue Abhängigkeiten, und genau das kippt die Bilanz.",
+          "بعض الحلول توفر الوقت، لكنها تخلق تبعيات جديدة، وهذا بالضبط ما يقلب الحصيلة."
+        ],
+        [
+          "Wer Alternativen prüft, sollte die versteckten Kosten mitdenken, nicht nur den sichtbaren Nutzen.",
+          "من يختبر البدائل ينبغي أن يحسب التكاليف الخفية أيضًا، لا المنفعة الظاهرة فقط.",
+          "فير ألتَرناتيفن بريفت، زولتِه داي فِرشتِكتن كوستن ميتدينكن، نِشت نور دين زِختبارن نوتسن.",
+          "Wer Alternativen prüft, sollte die versteckten Kosten mitdenken, nicht nur den sichtbaren Nutzen.",
+          "من يختبر البدائل ينبغي أن يحسب التكاليف الخفية أيضًا، لا المنفعة الظاهرة فقط."
+        ],
+        [
+          "Die robusteste Option ist nicht immer die bequemste, aber oft die, die später weniger Ärger macht.",
+          "الخيار الأكثر متانة ليس دائمًا الأكثر راحة، لكنه غالبًا ما يسبب متاعب أقل لاحقًا.",
+          "داي رو بوستِسته أوبتْسيون إست نِشت إيمَر داي بيكويمسته، آبر أُفت داي، داي شباتَر فينِيغر إرغَر ماخت.",
+          "Die robusteste Option ist nicht immer die bequemste, aber oft die, die später weniger Ärger macht.",
+          "الخيار الأكثر متانة ليس دائمًا الأكثر راحة، لكنه غالبًا ما يسبب متاعب أقل لاحقًا."
+        ],
+        [
+          "Vergleichen heißt hier nicht, Äpfel mit Birnen zu verwechseln, sondern Maßstäbe sauber zu setzen.",
+          "المقارنة هنا لا تعني خلط التفاح بالكمثرى، بل وضع معايير واضحة بعناية.",
+          "فِرغلايشن هاست هير نِشت، أڤفل مِت بيرنن تسو فِرخفِلن، زوندرن ماس شتابه زاوبَر تسو زيتسن.",
+          "Vergleichen heißt hier nicht, Äpfel mit Birnen zu verwechseln, sondern Maßstäbe sauber zu setzen.",
+          "المقارنة هنا لا تعني خلط التفاح بالكمثرى، بل وضع معايير واضحة بعناية."
+        ],
+        [
+          "Eine kluge Wahl hängt oft davon ab, welche Nachteile man bereit ist zu akzeptieren.",
+          "الاختيار الحكيم يعتمد غالبًا على العيوب التي يكون المرء مستعدًا لتقبلها.",
+          "آينه كلوغه فَال هينغت أُفت دافون أَب، فيلشه ناختايلي مان برايْت إست تسو آكْتسيبتيرن.",
+          "Eine kluge Wahl hängt oft davon ab, welche Nachteile man bereit ist zu akzeptieren.",
+          "الاختيار الحكيم يعتمد غالبًا على العيوب التي يكون المرء مستعدًا لتقبلها."
+        ],
+        [
+          "Wenn beide Wege brauchbar sind, entscheidet manchmal der weniger glänzende, aber ehrlichere.",
+          "إذا كان الطريقان مفيدين، فغالبًا ما يحسم الأمر الطريق الأقل بريقًا لكنه الأصدق.",
+          "فِن بايده فيغه براوخبار زِند، إنتشايْدت مانشمال دير فينيغر غلانتسَنده، آبر إهرْليخَره.",
+          "Wenn beide Wege brauchbar sind, entscheidet manchmal der weniger glänzende, aber ehrlichere.",
+          "إذا كان الطريقان مفيدين، فغالبًا ما يحسم الأمر الطريق الأقل بريقًا لكنه الأصدق."
+        ],
+        [
+          "Am Ende überzeugt nicht die schönste Verpackung, sondern die Lösung, die im Alltag standhält.",
+          "في النهاية لا تقنع أجمل التغليفات، بل الحل الذي يصمد في الحياة اليومية.",
+          "آم إنده أوبَرْتْسويغت نِشت داي شونسته فِرباكونغ، زوندرن داي لونغ زتسُونغ، داي إيم ألتاغ شتاندهِلت.",
+          "Am Ende überzeugt nicht die schönste Verpackung, sondern die Lösung, die im Alltag standhält.",
+          "في النهاية لا تقنع أجمل التغليفات، بل الحل الذي يصمد في الحياة اليومية."
+        ]
+      ]
+    },
+    {
+      "topic": "تنظيم الحجج",
+      "words": [
+        [
+          "Eine starke Argumentation beginnt nicht mit Lautstärke, sondern mit einem klaren Gedankengang.",
+          "تبدأ الحجة القوية لا بالضجيج، بل بسير فكري واضح.",
+          "آينه شتاركه أَرجومنتاتسيون بيغينت نِشت مِت لاوتشتيكِه، زوندرن مِت آينِم كلارن غيدانكنغَانغ.",
+          "Eine starke Argumentation beginnt nicht mit Lautstärke, sondern mit einem klaren Gedankengang.",
+          "تبدأ الحجة القوية لا بالضجيج، بل بسير فكري واضح."
+        ],
+        [
+          "Wer überzeugen will, sollte die Gegenseite fair darstellen, sonst wirkt der eigene Punkt angestrengt.",
+          "من يريد الإقناع ينبغي أن يعرض الطرف الآخر بإنصاف، وإلا بدا موقفه متكلفًا.",
+          "فير أوبَرْتْسويغِن فيل، زولتِه داي غيغنزايتِه فِير دَرشْتِلِن، زونست فيركت دير أيغَنه بونكت آنغِشْترِنغت.",
+          "Wer überzeugen will, sollte die Gegenseite fair darstellen, sonst wirkt der eigene Punkt angestrengt.",
+          "من يريد الإقناع ينبغي أن يعرض الطرف الآخر بإنصاف، وإلا بدا موقفه متكلفًا."
+        ],
+        [
+          "Ein gutes Argument trägt Belege, aber es lebt auch von der richtigen Gewichtung.",
+          "الحجة الجيدة تحمل أدلة، لكنها تعيش أيضًا على حسن الترجيح.",
+          "آين غوتِس أرجومنت ترايغت بيليغه، آبر إِس ليبت آوخ فون دير رِختيخن غِفيشتونغ.",
+          "Ein gutes Argument trägt Belege, aber es lebt auch von der richtigen Gewichtung.",
+          "الحجة الجيدة تحمل أدلة، لكنها تعيش أيضًا على حسن الترجيح."
+        ],
+        [
+          "Nicht jeder Einwand muss widerlegt werden; manchmal genügt es, seine Reichweite zu begrenzen.",
+          "ليس كل اعتراض يجب دحضه؛ أحيانًا يكفي الحد من نطاقه.",
+          "نِشت يده آينفاند موس فيدَرليغت فيردن؛ مانشمال غينوت إِس، زاينه رايخڤايته تسو بِغرنْتسن.",
+          "Nicht jeder Einwand muss widerlegt werden; manchmal genügt es, seine Reichweite zu begrenzen.",
+          "ليس كل اعتراض يجب دحضه؛ أحيانًا يكفي الحد من نطاقه."
+        ],
+        [
+          "Wer präzise formuliert, erspart dem Publikum das Rätselraten und gewinnt Vertrauen.",
+          "من يصوغ بدقة يوفر على الجمهور التخمين ويكسب الثقة.",
+          "فير بريتْسيزه فورموليرت، إيرشپارت دِم بو بليكوم داس ريتسِلراتن أوند غنيت فرْتراون.",
+          "Wer präzise formuliert, erspart dem Publikum das Rätselraten und gewinnt Vertrauen.",
+          "من يصوغ بدقة يوفر على الجمهور التخمين ويكسب الثقة."
+        ],
+        [
+          "Eine gute These braucht Spannung, aber keine Nebelkerzen, die nur Eindruck machen sollen.",
+          "تحتاج الأطروحة الجيدة إلى تشويق، لكن لا إلى دخان يُقصد به مجرد إحداث انطباع.",
+          "آينه غوتِه تيزه براوخْت شْبانونغ، آبر كاينه نيبل كيرتسن، داي نور إيندروك ماخن زولن.",
+          "Eine gute These braucht Spannung, aber keine Nebelkerzen, die nur Eindruck machen sollen.",
+          "تحتاج الأطروحة الجيدة إلى تشويق، لكن لا إلى دخان يُقصد به مجرد إحداث انطباع."
+        ],
+        [
+          "Oft liegt die Überzeugungskraft darin, das Offensichtliche so zu ordnen, dass es neu wirkt.",
+          "تكمن قوة الإقناع كثيرًا في ترتيب البديهي بحيث يبدو جديدًا.",
+          "أُفت ليغت داي أوبَرْتْسويغونغس كرافت داريين، داس أُفِن زِختليشه زو تسو أوردن، داس إِس نوي فيركت.",
+          "Oft liegt die Überzeugungskraft darin, das Offensichtliche so zu ordnen, dass es neu wirkt.",
+          "تكمن قوة الإقناع كثيرًا في ترتيب البديهي بحيث يبدو جديدًا."
+        ],
+        [
+          "Ein sauberer Schluss zieht keine voreiligen Siege, sondern macht den Weg nachvollziehbar.",
+          "الخاتمة المحكمة لا تستبق الانتصارات، بل تجعل المسار قابلًا للتتبع.",
+          "آين زاوبَرَر شلوس تسيت كاينه فورآيليغن زيغه، زوندرن ماخت دين فيغ ناخ فولتسيا بار.",
+          "Ein sauberer Schluss zieht keine voreiligen Siege, sondern macht den Weg nachvollziehbar.",
+          "الخاتمة المحكمة لا تستبق الانتصارات، بل تجعل المسار قابلًا للتتبع."
+        ],
+        [
+          "Wer differenziert argumentiert, muss nicht alles relativieren, nur die richtigen Grenzen ziehen.",
+          "من يجادل بتفصيل لا يحتاج إلى تمييع كل شيء، بل إلى رسم الحدود المناسبة.",
+          "فير ديفيرنتْسيرت أَرجومنتيرت، موس نِشت أليس ريلاتيفيرن، نور داي رِختيخن غرنْتسن تسِيهن.",
+          "Wer differenziert argumentiert, muss nicht alles relativieren, nur die richtigen Grenzen ziehen.",
+          "من يجادل بتفصيل لا يحتاج إلى تمييع كل شيء، بل إلى رسم الحدود المناسبة."
+        ],
+        [
+          "Am überzeugendsten ist eine Argumentation dann, wenn sie auch Gegenfragen gelassen aushält.",
+          "تصبح الحجة أكثر إقناعًا عندما تتحمل الأسئلة المضادة بهدوء أيضًا.",
+          "آم أوبَرْتْسويغندستن إست آينه أَرجومنتاتسيون دان، فِن زي آوخ غيغنفراغن غِلاسِن آوسهِلْت.",
+          "Am überzeugendsten ist eine Argumentation dann, wenn sie auch Gegenfragen gelassen aushält.",
+          "تصبح الحجة أكثر إقناعًا عندما تتحمل الأسئلة المضادة بهدوء أيضًا."
+        ]
+      ]
+    },
+    {
+      "topic": "تفسير البيانات",
+      "words": [
+        [
+          "Die Statistik sagt wenig, solange man nicht weiß, welche Gruppe sie überhaupt beschreibt.",
+          "لا تقول الإحصائية الكثير ما لم نعرف أي مجموعة تصفها أصلًا.",
+          "داي شتاتِستيك زاغت فينيغ، زولانغه مان نِشت فايس، فيلشه غروبه زي أوبهَوبت بيشرايبت.",
+          "Die Statistik sagt wenig, solange man nicht weiß, welche Gruppe sie überhaupt beschreibt.",
+          "لا تقول الإحصائية الكثير ما لم نعرف أي مجموعة تصفها أصلًا."
+        ],
+        [
+          "Ein Anstieg klingt dramatisch, doch ohne Bezugsgröße bleibt er bloß ein halber Satz.",
+          "الارتفاع يبدو دراميًا، لكن من دون مرجع يبقى مجرد جملة ناقصة.",
+          "آين آنشتِيغ كليغت دراماتيش، دوخ أونيه بيتسوغسغروسه بلايبت إير بلوص آين هالبر زاتس.",
+          "Ein Anstieg klingt dramatisch, doch ohne Bezugsgröße bleibt er bloß ein halber Satz.",
+          "الارتفاع يبدو دراميًا، لكن من دون مرجع يبقى مجرد جملة ناقصة."
+        ],
+        [
+          "Wer Daten liest, sollte nach Ausreißern suchen, aber auch nach Mustern, die länger tragen.",
+          "من يقرأ البيانات ينبغي أن يبحث عن الشواذ، ولكن أيضًا عن الأنماط الأكثر ثباتًا.",
+          "فير داتن ليست، زولتِه ناخ آوسرایسَرن زوخن، آبر آوخ ناخ موستَرن، داي لينغر تراغن.",
+          "Wer Daten liest, sollte nach Ausreißern suchen, aber auch nach Mustern, die länger tragen.",
+          "من يقرأ البيانات ينبغي أن يبحث عن الشواذ، ولكن أيضًا عن الأنماط الأكثر ثباتًا."
+        ],
+        [
+          "Eine hübsche Grafik kann täuschen, wenn die Skala geschmeidig wirkt und der Kontext fehlt.",
+          "قد تكون الرسوم الجميلة مضللة إذا بدت المقياس منسجمًا وغاب السياق.",
+          "آينه هوبشه غرافيك كان تتوشن، فِن داي سكاله غِشمايديغ فيركت أوند دير كونتكست فيلت.",
+          "Eine hübsche Grafik kann täuschen, wenn die Skala geschmeidig wirkt und der Kontext fehlt.",
+          "قد تكون الرسوم الجميلة مضللة إذا بدت المقياس منسجمًا وغاب السياق."
+        ],
+        [
+          "Die eigentliche Frage ist oft nicht, ob etwas steigt, sondern warum und gegenüber wem.",
+          "السؤال الحقيقي غالبًا ليس هل ارتفع شيء، بل لماذا وبالمقارنة مع من.",
+          "داي أيغنتليشه فراغه إست أُفت نِشت، أوب إتواس شتايخت، زوندرن فاروُم أوند غيغنأوبر فيم.",
+          "Die eigentliche Frage ist oft nicht, ob etwas steigt, sondern warum und gegenüber wem.",
+          "السؤال الحقيقي غالبًا ليس هل ارتفع شيء، بل لماذا وبالمقارنة مع من."
+        ],
+        [
+          "Korrelationen wirken verführerisch, doch sie erklären noch keine Ursache.",
+          "الارتباطات تبدو مغرية، لكنها لا تشرح سببًا بعد.",
+          "كوريلاتسيونن فيركن فيرفيورِريش، دوخ زي إركليرن نوخ كاينه أورزاخه.",
+          "Korrelationen wirken verführerisch, doch sie erklären noch keine Ursache.",
+          "الارتباطات تبدو مغرية، لكنها لا تشرح سببًا بعد."
+        ],
+        [
+          "Wer mit Mittelwerten arbeitet, sollte die Streuung mitdenken, sonst wird aus Ordnung schnell Einfalt.",
+          "من يعمل بالمتوسطات ينبغي أن يضع التشتت في الحسبان، وإلا تحولت الصورة المنظمة إلى تبسيط أعمى.",
+          "فير مِت مِتِلڤيرتن أربايتِت، زولتِه داي شتروي أونغ ميتدينكن، زونست فيرت آوس أوردنونغ شْنِل آينفالت.",
+          "Wer mit Mittelwerten arbeitet, sollte die Streuung mitdenken, sonst wird aus Ordnung schnell Einfalt.",
+          "من يعمل بالمتوسطات ينبغي أن يضع التشتت في الحسبان، وإلا تحولت الصورة المنظمة إلى تبسيط أعمى."
+        ],
+        [
+          "Auch kleine Veränderungen können relevant sein, wenn sie über viele Fälle hinweg zusammenkommen.",
+          "حتى التغيرات الصغيرة قد تكون مهمة إذا تراكمت عبر حالات كثيرة.",
+          "آوخ كلاينه فِرأندَروغن كينن ريلِفانت زاين، فِن زي أوبَر فيله فاله هينْفيغ تسوزامن كوْمن.",
+          "Auch kleine Veränderungen können relevant sein, wenn sie über viele Fälle hinweg zusammenkommen.",
+          "حتى التغيرات الصغيرة قد تكون مهمة إذا تراكمت عبر حالات كثيرة."
+        ],
+        [
+          "Ein Diagramm überzeugt erst dann, wenn es die eigene Unsicherheit nicht kaschiert.",
+          "لا يقنع المخطط إلا عندما لا يخفي عدم اليقين الخاص به.",
+          "آين دياغرام أوبَرْتْسويغت إرست دان، فِن إِس داي أيغَنه أونزيخَرهايت نِشت كاشيرت.",
+          "Ein Diagramm überzeugt erst dann, wenn es die eigene Unsicherheit nicht kaschiert.",
+          "لا يقنع المخطط إلا عندما لا يخفي عدم اليقين الخاص به."
+        ],
+        [
+          "Gute Datenanalyse ist weniger Zauberei als disziplinierte Skepsis.",
+          "التحليل الجيد للبيانات أقل سحرًا وأكثر انضباطًا في الشك.",
+          "غوتِه داتن أناليزه إست فينيغر تساوبراي ألس ديسْتْسِپلينيرتِه شْكِبسيس.",
+          "Gute Datenanalyse ist weniger Zauberei als disziplinierte Skepsis.",
+          "التحليل الجيد للبيانات أقل سحرًا وأكثر انضباطًا في الشك."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط للمستقبل",
+      "words": [
+        [
+          "Ein realistischer Plan rechnet nicht mit Glück, sondern mit möglichen Störungen.",
+          "الخطة الواقعية لا تراهن على الحظ، بل على الاضطرابات المحتملة.",
+          "آين رياليستيشر بلان ريشنِت نِشت مِت غلوك، زوندرن مِت موغلِيخن شتورونغن.",
+          "Ein realistischer Plan rechnet nicht mit Glück, sondern mit möglichen Störungen.",
+          "الخطة الواقعية لا تراهن على الحظ، بل على الاضطرابات المحتملة."
+        ],
+        [
+          "Wer langfristig denkt, setzt sich lieber flexible Etappen als einen starren Endpunkt.",
+          "من يفكر على المدى الطويل يختار مراحل مرنة بدل نقطة نهاية جامدة.",
+          "فير لانغفِرْتيغ دينكت، زيتسْت زيش ليبَر فلكسِبله إِتابّن ألس آينِن شتارن إندبونكت.",
+          "Wer langfristig denkt, setzt sich lieber flexible Etappen als einen starren Endpunkt.",
+          "من يفكر على المدى الطويل يختار مراحل مرنة بدل نقطة نهاية جامدة."
+        ],
+        [
+          "Es klug zu planen heißt nicht, alles festzuschreiben, sondern gute Optionen offen zu halten.",
+          "التخطيط بحكمة لا يعني تثبيت كل شيء، بل إبقاء الخيارات الجيدة مفتوحة.",
+          "إِس كلوغ تسو بلانن هاست نِشت، أليس فِشتتْشرايبن، زوندرن غوتِه أوبتسيونن أوفن تسو هالتن.",
+          "Es klug zu planen heißt nicht, alles festzuschreiben, sondern gute Optionen offen zu halten.",
+          "التخطيط بحكمة لا يعني تثبيت كل شيء، بل إبقاء الخيارات الجيدة مفتوحة."
+        ],
+        [
+          "Ein brauchbarer Ausblick nennt nicht nur Ziele, sondern auch die Risiken dazwischen.",
+          "لا يذكر الاستشراف المفيد الأهداف فقط، بل المخاطر الواقعة بينها أيضًا.",
+          "آين براوخبارَر آوسبليك نِنت نِشت نور تسيله، زوندرن آوخ داي ريزيكن دازْوِشن.",
+          "Ein brauchbarer Ausblick nennt nicht nur Ziele, sondern auch die Risiken dazwischen.",
+          "لا يذكر الاستشراف المفيد الأهداف فقط، بل المخاطر الواقعة بينها أيضًا."
+        ],
+        [
+          "Man plant besser mit Puffer, weil gute Absichten selten den Zeitplan retten.",
+          "من الأفضل التخطيط بهامش، لأن النوايا الجيدة نادرًا ما تنقذ الجدول الزمني.",
+          "مان بلانت بِسر مِت بوفَر، فايل غوتِه أبزِختن زيلتن دين تسايتبلان رِتن.",
+          "Man plant besser mit Puffer, weil gute Absichten selten den Zeitplan retten.",
+          "من الأفضل التخطيط بهامش، لأن النوايا الجيدة نادرًا ما تنقذ الجدول الزمني."
+        ],
+        [
+          "Zukunft entsteht nicht durch Wunschdenken, sondern durch kleine, konsequente Schritte.",
+          "المستقبل لا يتشكل بالتمني، بل بخطوات صغيرة ومتسقة.",
+          "تسو كونفت إنتشتهيت نِشت دُرش فُونش دينكن، زوندرن دُرش كلاينه، كون زِكْوينته شْريته.",
+          "Zukunft entsteht nicht durch Wunschdenken, sondern durch kleine, konsequente Schritte.",
+          "المستقبل لا يتشكل بالتمني، بل بخطوات صغيرة ومتسقة."
+        ],
+        [
+          "Wer sich vorbereitet, gewinnt keine Garantie, aber deutlich mehr Handlungsspielraum.",
+          "من يستعد لا يكتسب ضمانًا، لكنه يربح هامش حركة أكبر بكثير.",
+          "فير زيش فوربا رايتِت، غنيت كاينه غارانتيه، آبر دُويتْليخ مهر هاندلونغسشپايلراوم.",
+          "Wer sich vorbereitet, gewinnt keine Garantie, aber deutlich mehr Handlungsspielraum.",
+          "من يستعد لا يكتسب ضمانًا، لكنه يربح هامش حركة أكبر بكثير."
+        ],
+        [
+          "Ein guter Plan darf wachsen, solange er Richtung behält und nicht in Beliebigkeit kippt.",
+          "يجوز للخطة الجيدة أن تنمو ما دامت تحتفظ بالاتجاه ولا تنزلق إلى الاعتباط.",
+          "آين غوتَر بلان دارف فاخسن، زولانغه إر رِيختونغ بيهَلت أوند نِشت إِن بيليبِيخكايت كِبت.",
+          "Ein guter Plan darf wachsen, solange er Richtung behält und nicht in Beliebigkeit kippt.",
+          "يجوز للخطة الجيدة أن تنمو ما دامت تحتفظ بالاتجاه ولا تنزلق إلى الاعتباط."
+        ],
+        [
+          "Oft ist der klügste Schritt der, der morgen noch Spielraum lässt.",
+          "غالبًا ما تكون الخطوة الأذكى هي التي تترك مجالًا للمناورة غدًا.",
+          "أُفت إست دير كلوغسته شْريته دير، دير مورغن نوخ شْپايلراوم لِست.",
+          "Oft ist der klügste Schritt der, der morgen noch Spielraum lässt.",
+          "غالبًا ما تكون الخطوة الأذكى هي التي تترك مجالًا للمناورة غدًا."
+        ],
+        [
+          "Wer die Zukunft ernst nimmt, plant nicht gegen Unsicherheit, sondern mit ihr.",
+          "من يأخذ المستقبل بجدية لا يخطط ضد عدم اليقين، بل معه.",
+          "فير داي تسوكونفت إرْنست نِمت، بلانت نِشت غيغن أونزيخَرهايت، زوندرن مِت إير.",
+          "Wer die Zukunft ernst nimmt, plant nicht gegen Unsicherheit, sondern mit ihr.",
+          "من يأخذ المستقبل بجدية لا يخطط ضد عدم اليقين، بل معه."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب والتأمل",
+      "words": [
+        [
+          "Nach Jahren des Reisens merke ich, dass mich nicht die spektakulären Orte prägen, sondern die stillen Umwege dazwischen.",
+          "بعد سنوات من السفر ألاحظ أن الأماكن المبهرة ليست ما يصوغني، بل المنعطفات الهادئة بينهما.",
+          "ناخ يارن ديس رايزِنز ميركه إيش، داس ميخ نيت دِي شبيكتاكولären أورتِه فرَغِن، زوندرن دِي شتيلِن أومڤيگه دا تسڤيشِن.",
+          "Nach Jahren des Reisens merke ich, dass mich nicht die spektakulären Orte prägen, sondern die stillen Umwege dazwischen.",
+          "بعد سنوات من السفر ألاحظ أن الأماكن المبهرة ليست ما يصوغني، بل المنعطفات الهادئة بينهما."
+        ],
+        [
+          "Ich habe gelernt, dass ein guter Plan wertvoll ist, aber nur solange er Raum für Irrtümer lässt.",
+          "لقد تعلمت أن الخطة الجيدة ثمينة، ولكن فقط ما دامت تترك مجالًا للخطأ.",
+          "إيش هابه غيليرنت، داس آين غوتر بلان ڤيرتفول إِست، أبا نور زولانغه إر راوْم فور إيرتيو̈مَر لِست.",
+          "Ich habe gelernt, dass ein guter Plan wertvoll ist, aber nur solange er Raum für Irrtümer lässt.",
+          "لقد تعلمت أن الخطة الجيدة ثمينة، ولكن فقط ما دامت تترك مجالًا للخطأ."
+        ],
+        [
+          "Wenn ich auf frühere Fehler zurückblicke, sehe ich weniger Scheitern als ein mühsames Nachjustieren.",
+          "حين أعود إلى أخطاء سابقة أرى فيها أقل من فشل وأكثر من تعديلٍ شاق.",
+          "فِن إيش آوف فروهَرِه فيلَر تسورو̈ك بليكه، زهِه إيش ڤينيغر شايتَرْن ألس آين موهزامِس ناخ يوسْتيَرِن.",
+          "Wenn ich auf frühere Fehler zurückblicke, sehe ich weniger Scheitern als ein mühsames Nachjustieren.",
+          "حين أعود إلى أخطاء سابقة أرى فيها أقل من فشل وأكثر من تعديلٍ شاق."
+        ],
+        [
+          "Manchmal wird ein Umweg erst im Rückblick zur eigentlichen Route, weil er mich geduldiger gemacht hat.",
+          "أحيانًا لا يصبح الالتفاف هو الطريق الحقيقي إلا بعد الرجوع، لأنه جعلني أكثر صبرًا.",
+          "مانشماڵ ڤيرت آين أومڤيگ إرشت إيم رو̈ك بليك تسور آيغِنْتليخِن روته، ڤايل إر ميخ غيدولديغر غيماخت هات.",
+          "Manchmal wird ein Umweg erst im Rückblick zur eigentlichen Route, weil er mich geduldiger gemacht hat.",
+          "أحيانًا لا يصبح الالتفاف هو الطريق الحقيقي إلا بعد الرجوع، لأنه جعلني أكثر صبرًا."
+        ],
+        [
+          "Ich schätze klare Worte, doch noch mehr schätze ich die Sätze, die erst nach dem zweiten Lesen aufgehen.",
+          "أقدّر الكلمات الواضحة، لكنني أقدّر أكثر الجمل التي تنفتح بعد القراءة الثانية.",
+          "إيش شتسه كلاره ڤورتِه، دوخ نوخ مهر شتسه إيش دي زاتسه، دي إرشت ناخ ديم تسڤايتِن ليزِن آوفغههِن.",
+          "Ich schätze klare Worte, doch noch mehr schätze ich die Sätze, die erst nach dem zweiten Lesen aufgehen.",
+          "أقدّر الكلمات الواضحة، لكنني أقدّر أكثر الجمل التي تنفتح بعد القراءة الثانية."
+        ],
+        [
+          "Wer sich ständig rechtfertigt, verliert oft die Kraft, einfach präzise zu handeln.",
+          "من يبرر نفسه باستمرار يفقد غالبًا القدرة على التصرف ببساطة ودقة.",
+          "ڤير زيخ شتانديغ ريشْتفيرتِيخت، فيرليرت أوفت دي كرافت، آينفاخ بريتسِيزه تسو هاندلن.",
+          "Wer sich ständig rechtfertigt, verliert oft die Kraft, einfach präzise zu handeln.",
+          "من يبرر نفسه باستمرار يفقد غالبًا القدرة على التصرف ببساطة ودقة."
+        ],
+        [
+          "Ich halte es für klüger, eine Frage offen zu lassen, als sie mit Eile flachzumachen.",
+          "أرى أنه من الأذكى أن نترك سؤالًا مفتوحًا بدل تسطيحه على عجل.",
+          "إيش هالته إيس فور كلو̈غر، آينه فراغه أوفن تسو لاسِن، ألس زي ميت آيلي فلاش تسوماخِن.",
+          "Ich halte es für klüger, eine Frage offen zu lassen, als sie mit Eile flachzumachen.",
+          "أرى أنه من الأذكى أن نترك سؤالًا مفتوحًا بدل تسطيحه على عجل."
+        ],
+        [
+          "Je länger ich zuhöre, desto deutlicher wird mir, wie viel in Zwischentönen gesagt wird.",
+          "كلما أطلت الإصغاء اتضح لي أكثر كم يقال في النبرات الخافتة.",
+          "يه لِينغَر إيش تسوهو̈ره، دِستو دويْتليخَر ڤيرت مير، ڤي فيل إين تسڤيشِن توينِن غيزاكت ڤيرت.",
+          "Je länger ich zuhöre, desto deutlicher wird mir, wie viel in Zwischentönen gesagt wird.",
+          "كلما أطلت الإصغاء اتضح لي أكثر كم يقال في النبرات الخافتة."
+        ],
+        [
+          "Nicht alles, was laut ist, ist auch wichtig; oft tragen gerade die leisen Gedanken weiter.",
+          "ليس كل ما هو صاخب مهمًا أيضًا؛ غالبًا ما تحمل الأفكار الهادئة أبعد.",
+          "نيخت آليس، ڤاس لاوت إِست، إِست آوخ ڤيشتيخ؛ أوفت تراغِن غِراده دي لايزِن غيدانكن ڤايتَر.",
+          "Nicht alles, was laut ist, ist auch wichtig; oft tragen gerade die leisen Gedanken weiter.",
+          "ليس كل ما هو صاخب مهمًا أيضًا؛ غالبًا ما تحمل الأفكار الهادئة أبعد."
+        ],
+        [
+          "Am Ende überzeugt mich nicht die perfekte Erinnerung, sondern die, in der ich etwas verstanden habe.",
+          "في النهاية لا تقنعني الذكرى المثالية، بل تلك التي فهمتُ فيها شيئًا.",
+          "آم إنده أوفْتسو̈يكْت ميخ نيخت دي بيرفِكتِه إرِنَرونغ، زوندرن دي، إين دِر إيش إتڤاس فرشتاندِن هابه.",
+          "Am Ende überzeugt mich nicht die perfekte Erinnerung, sondern die, in der ich etwas verstanden habe.",
+          "في النهاية لا تقنعني الذكرى المثالية، بل تلك التي فهمتُ فيها شيئًا."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات الاجتماعية",
+      "words": [
+        [
+          "Gute Freundschaft zeigt sich nicht im großen Auftritt, sondern darin, dass man auch in stillen Wochen verbunden bleibt.",
+          "الصداقة الجيدة لا تظهر في الاستعراض الكبير، بل في بقاء التواصل حتى في الأسابيع الهادئة.",
+          "غوته فروينتشافت تساغت زيخ نيخت إيم غروسن آوفتريت، زوندرن دارين، داس مان آوخ إين شتيلِن ڤوخِن فِربوندِن بليبت.",
+          "Gute Freundschaft zeigt sich nicht im großen Auftritt, sondern darin, dass man auch in stillen Wochen verbunden bleibt.",
+          "الصداقة الجيدة لا تظهر في الاستعراض الكبير، بل في بقاء التواصل حتى في الأسابيع الهادئة."
+        ],
+        [
+          "Ich schätze Menschen, die zuhören, ohne sofort das Gespräch an sich zu ziehen.",
+          "أقدّر الناس الذين ينصتون دون أن يسحبوا الحوار إليهم فورًا.",
+          "إيش شتسه مينشِن، دي تسوهو̈رِن، أوني زوفورت داس غِشبريخ آن زيخ تسو تسِيهن.",
+          "Ich schätze Menschen, die zuhören, ohne sofort das Gespräch an sich zu ziehen.",
+          "أقدّر الناس الذين ينصتون دون أن يسحبوا الحوار إليهم فورًا."
+        ],
+        [
+          "In einer guten Runde darf man widersprechen, ohne die Beziehung gleich auf die Probe zu stellen.",
+          "في جلسة جيدة يمكن للمرء أن يعارض دون أن يضع العلاقة فورًا على المحك.",
+          "إين آينَر غووتِن روندِه دارف مان ڤيدَرْشبريخِن، أوني دي بَتسيوونغ غلايخ آوف دي بروبه تسو شتيلِن.",
+          "In einer guten Runde darf man widersprechen, ohne die Beziehung gleich auf die Probe zu stellen.",
+          "في جلسة جيدة يمكن للمرء أن يعارض دون أن يضع العلاقة فورًا على المحك."
+        ],
+        [
+          "Man merkt rasch, ob jemand Nähe sucht oder nur die eigene Wirkung poliert.",
+          "يُدرك المرء بسرعة إن كان أحدهم يبحث عن القرب أم يلمّع أثره فقط.",
+          "مان ميركت راش، أوب يِمانت نيهه زوخت أودَر نور دي آيغِنِه ڤيركونغ بوليارت.",
+          "Man merkt rasch, ob jemand Nähe sucht oder nur die eigene Wirkung poliert.",
+          "يُدرك المرء بسرعة إن كان أحدهم يبحث عن القرب أم يلمّع أثره فقط."
+        ],
+        [
+          "Vertrauen wächst nicht durch schöne Worte, sondern durch Verlässlichkeit im Kleinen.",
+          "الثقة لا تنمو بالكلمات الجميلة، بل بالموثوقية في التفاصيل الصغيرة.",
+          "فِرتراوين ڤيكست نيخت دورخ شونه ڤورتِه، زوندرن دورخ فيرْلِسْليخْكايت إيم كلاينِن.",
+          "Vertrauen wächst nicht durch schöne Worte, sondern durch Verlässlichkeit im Kleinen.",
+          "الثقة لا تنمو بالكلمات الجميلة، بل بالموثوقية في التفاصيل الصغيرة."
+        ],
+        [
+          "Ich finde, man darf warmherzig sein, ohne sich für jede Grenze entschuldigen zu müssen.",
+          "أرى أنه يمكن للمرء أن يكون دافئًا من دون أن يعتذر عن كل حدود يضعها.",
+          "إيش فينده، مان دارف ڤارم هرتسِخ زاين، أوني زيخ فور ييده غرنتسه إنتشولديغِن تسو مو̈سن.",
+          "Ich finde, man darf warmherzig sein, ohne sich für jede Grenze entschuldigen zu müssen.",
+          "أرى أنه يمكن للمرء أن يكون دافئًا من دون أن يعتذر عن كل حدود يضعها."
+        ],
+        [
+          "Wenn ein Gespräch gut ist, muss es nicht bis zum letzten Punkt ausdiskutiert werden.",
+          "إذا كان الحوار جيدًا، فلا يلزم أن يُناقش حتى آخر نقطة.",
+          "فِن آين غِشبريخ غوت إِست، موس إيس نيخت بيس تسوم لِتستِن بونكت آوسديسكوتيارت ڤيردِن.",
+          "Wenn ein Gespräch gut ist, muss es nicht bis zum letzten Punkt ausdiskutiert werden.",
+          "إذا كان الحوار جيدًا، فلا يلزم أن يُناقش حتى آخر نقطة."
+        ],
+        [
+          "Ich habe gelernt, dass Höflichkeit stark ist, solange sie nicht als Tarnung benutzt wird.",
+          "تعلمت أن اللباقة قوية ما دامت لا تُستخدم كستار.",
+          "إيش هابه غيليرنت، داس هو̈فليخكايت شتارك إِست، زولانغه زي نيخت ألس تارْنُونغ بنوتست ڤيرت.",
+          "Ich habe gelernt, dass Höflichkeit stark ist, solange sie nicht als Tarnung benutzt wird.",
+          "تعلمت أن اللباقة قوية ما دامت لا تُستخدم كستار."
+        ],
+        [
+          "Manchmal tut ein ehrlicher Einspruch mehr für ein Miteinander als ein höfliches Schweigen.",
+          "أحيانًا يفعل الاعتراض الصريح للعِشرة أكثر من الصمت المهذب.",
+          "مانشماڵ تووت آين إهرليخَر آينشبروخ مهر فور آين ميتايناندر ألس آين هو̈فليخِس شڤايغِن.",
+          "Manchmal tut ein ehrlicher Einspruch mehr für ein Miteinander als ein höfliches Schweigen.",
+          "أحيانًا يفعل الاعتراض الصريح للعِشرة أكثر من الصمت المهذب."
+        ],
+        [
+          "Wer andere ständig bewertet, bleibt am Ende selbst erstaunlich klein.",
+          "من يقيّم الآخرين باستمرار ينتهي به الأمر صغيرًا على نحو لافت.",
+          "ڤير آندِرِه شتانديغ بيفيرْتِت، بليبْت آَم إنده زِلفست إرشتاونليخ كلاين.",
+          "Wer andere ständig bewertet, bleibt am Ende selbst erstaunlich klein.",
+          "من يقيّم الآخرين باستمرار ينتهي به الأمر صغيرًا على نحو لافت."
+        ]
+      ]
+    },
+    {
+      "topic": "المشاركة المجتمعية",
+      "words": [
+        [
+          "Engagement beginnt für mich nicht mit großen Reden, sondern mit einem verlässlichen Ja, wenn Hilfe gebraucht wird.",
+          "المشاركة تبدأ بالنسبة لي لا بالخطب الكبيرة، بل بنعم موثوقة عندما تكون المساعدة مطلوبة.",
+          "إينغاجمانغ بگينت فور ميخ نيخت ميت غروسن ريدِن، زوندرن ميت آينِم فيرْلِسْليخِن يا، ڤِن هيلفه غيبراوخت ڤيرت.",
+          "Engagement beginnt für mich nicht mit großen Reden, sondern mit einem verlässlichen Ja, wenn Hilfe gebraucht wird.",
+          "المشاركة تبدأ بالنسبة لي لا بالخطب الكبيرة، بل بنعم موثوقة عندما تكون المساعدة مطلوبة."
+        ],
+        [
+          "Wer sich vor Ort einbringt, versteht schneller, was Menschen wirklich brauchen und was nur gut gemeint ist.",
+          "من يشارك ميدانيًا يفهم أسرع ما يحتاجه الناس حقًا وما هو مجرد حسن نية.",
+          "ڤير زيخ فور أورت آينبرينغت، فِرشْتيت شنِلر، ڤاس مينشِن ڤيركليخ براوخِن أوند ڤاس نور غوت غيمِينت إِست.",
+          "Wer sich vor Ort einbringt, versteht schneller, was Menschen wirklich brauchen und was nur gut gemeint ist.",
+          "من يشارك ميدانيًا يفهم أسرع ما يحتاجه الناس حقًا وما هو مجرد حسن نية."
+        ],
+        [
+          "Ich finde es klug, Probleme nicht nur zu beklagen, sondern kleine, machbare Schritte vorzuschlagen.",
+          "أرى من الحكمة ألا نكتفي بالشكوى من المشكلات، بل أن نقترح خطوات صغيرة قابلة للتنفيذ.",
+          "إيش فينده إيس كلوغ، بْروبلېمه نيخت نور تسو بْكْلاغِن، زوندرن كلاينه، ماخباره شتريتِه فورتسوشلاغِن.",
+          "Ich finde es klug, Probleme nicht nur zu beklagen, sondern kleine, machbare Schritte vorzuschlagen.",
+          "أرى من الحكمة ألا نكتفي بالشكوى من المشكلات، بل أن نقترح خطوات صغيرة قابلة للتنفيذ."
+        ],
+        [
+          "Man muss kein Amt haben, um Verantwortung zu übernehmen; manchmal reicht schon Konsequenz im Alltag.",
+          "ليس لازمًا أن يشغل المرء منصبًا ليتحمل المسؤولية؛ أحيانًا تكفي الاستقامة في الحياة اليومية.",
+          "مان موس كاين آمت هابِن، أوم فِرآنتڤورتونغ تسو أو̈بِرنهين؛ مانشماڵ رايخت شون كونزِكوينتس إيم آلتاغ.",
+          "Man muss kein Amt haben, um Verantwortung zu übernehmen; manchmal reicht schon Konsequenz im Alltag.",
+          "ليس لازمًا أن يشغل المرء منصبًا ليتحمل المسؤولية؛ أحيانًا تكفي الاستقامة في الحياة اليومية."
+        ],
+        [
+          "Wenn Nachbarschaft funktioniert, wirkt sie unscheinbar und gerade deshalb erstaunlich stark.",
+          "عندما ينجح الحيّ، يبدو غير لافت، ولذلك تحديدًا يكون قويًا على نحو مدهش.",
+          "فِن ناخبارشافت فُنْكْتسيونيارت، ڤيركت زي أونشاينبار أوند غِراده ديسهالب إرشتاونليخ شتارك.",
+          "Wenn Nachbarschaft funktioniert, wirkt sie unscheinbar und gerade deshalb erstaunlich stark.",
+          "عندما ينجح الحيّ، يبدو غير لافت، ولذلك تحديدًا يكون قويًا على نحو مدهش."
+        ],
+        [
+          "Ich mag Initiativen, die nicht nach Applaus suchen, sondern nach Wirkung vor Ort.",
+          "أحب المبادرات التي لا تبحث عن التصفيق، بل عن الأثر على الأرض.",
+          "إيش ماگ إنيتسياتيفِن، دي نيخت ناخ أبلاوس زوخِن، زوندرن ناخ ڤيركونغ فور أورت.",
+          "Ich mag Initiativen, die nicht nach Applaus suchen, sondern nach Wirkung vor Ort.",
+          "أحب المبادرات التي لا تبحث عن التصفيق، بل عن الأثر على الأرض."
+        ],
+        [
+          "Öffentliche Debatten werden besser, wenn mehr Leute mitreden, die sonst selten gehört werden.",
+          "تصير النقاشات العامة أفضل حين يتحدث مزيد من الناس الذين نادرًا ما يُسمع لهم.",
+          "أوفنتليخه ديباتِن ڤيردِن بِسَر، فِن مهر لَويْتِه ميت ريدِن، دي زونست زيلتِن غيهو̈رت ڤيردِن.",
+          "Öffentliche Debatten werden besser, wenn mehr Leute mitreden, die sonst selten gehört werden.",
+          "تصير النقاشات العامة أفضل حين يتحدث مزيد من الناس الذين نادرًا ما يُسمع لهم."
+        ],
+        [
+          "Es reicht nicht, gute Absichten zu haben; man muss sie auch im Alltag belastbar machen.",
+          "لا يكفي أن تكون النوايا طيبة؛ يجب أيضًا جعلها قابلة للصمود في الحياة اليومية.",
+          "إيس رايخت نيخت، غوته أبزيتسِنغِن تسو هابِن؛ مان موس زي آوخ إيم آلتاغ بِلَستبار ماخِن.",
+          "Es reicht nicht, gute Absichten zu haben; man muss sie auch im Alltag belastbar machen.",
+          "لا يكفي أن تكون النوايا طيبة؛ يجب أيضًا جعلها قابلة للصمود في الحياة اليومية."
+        ],
+        [
+          "Ich glaube, Gemeinsinn entsteht dort, wo niemand nur nimmt und alle gelegentlich geben.",
+          "أعتقد أن روح الجماعة تنشأ حيث لا يكتفي أحد بالأخذ، ويعطي الجميع أحيانًا.",
+          "إيش غلاوبه، غماينزين إنتشتيت دورت، ڤو نيماند نور نِمت أوند آله غيلهغنتليخ غيبهِن.",
+          "Ich glaube, Gemeinsinn entsteht dort, wo niemand nur nimmt und alle gelegentlich geben.",
+          "أعتقد أن روح الجماعة تنشأ حيث لا يكتفي أحد بالأخذ، ويعطي الجميع أحيانًا."
+        ],
+        [
+          "Wer Verantwortung teilt, verliert nicht an Freiheit, sondern gewinnt an Zusammenhalt.",
+          "من يشارك المسؤولية لا يخسر الحرية، بل يربح التماسك.",
+          "ڤير فِرآنتڤورتونغ تايلت، فيرليرت نيخت آن فرايهايت، زوندرن ڤِغِينت آن تسوزامِن هالت.",
+          "Wer Verantwortung teilt, verliert nicht an Freiheit, sondern gewinnt an Zusammenhalt.",
+          "من يشارك المسؤولية لا يخسر الحرية، بل يربح التماسك."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن المشاعر",
+      "words": [
+        [
+          "Ich kann ruhig wirken und mich trotzdem innerlich aufgewühlt fühlen, ohne dass es jemand sofort merkt.",
+          "يمكنني أن أبدو هادئًا وأشعر في الداخل مع ذلك بالاضطراب من دون أن يلاحظه أحد فورًا.",
+          "إيش كان روِيخ ڤيركن أوند ميخ تروتس ديم إينرليش آوف غيفو̈لت فو̈لن، أوني داس إيس يِمانت زوفورت ميركت.",
+          "Ich kann ruhig wirken und mich trotzdem innerlich aufgewühlt fühlen, ohne dass es jemand sofort merkt.",
+          "يمكنني أن أبدو هادئًا وأشعر في الداخل مع ذلك بالاضطراب من دون أن يلاحظه أحد فورًا."
+        ],
+        [
+          "Manchmal ist Erleichterung kaum lauter als ein tiefer Atemzug nach langem Anspannen.",
+          "أحيانًا لا يكون الارتياح أعلى صوتًا من زفرة عميقة بعد توتر طويل.",
+          "مانشماڵ إِست إِرلَيْخْتِرونغ كاوم لاوتر ألس آين تيْفَر آتْم تسوك ناخ لانغِم أنشبانِن.",
+          "Manchmal ist Erleichterung kaum lauter als ein tiefer Atemzug nach langem Anspannen.",
+          "أحيانًا لا يكون الارتياح أعلى صوتًا من زفرة عميقة بعد توتر طويل."
+        ],
+        [
+          "Ich sage nicht alles aus, was mich beschäftigt, aber ich verstecke mich auch nicht dahinter.",
+          "لا أبوح بكل ما يشغلني، لكنني لا أختبئ وراء ذلك أيضًا.",
+          "إيش زاغه نيخت آليس آوس، ڤاس ميخ بِشْفَفْتيخت، أبا إيش فِرشتيكه ميخ آوخ نيخت داهينتر.",
+          "Ich sage nicht alles aus, was mich beschäftigt, aber ich verstecke mich auch nicht dahinter.",
+          "لا أبوح بكل ما يشغلني، لكنني لا أختبئ وراء ذلك أيضًا."
+        ],
+        [
+          "Es gibt Gefühle, die man erst versteht, wenn man ihnen Zeit gelassen hat.",
+          "هناك مشاعر لا يفهمها المرء إلا بعد أن يترك لها وقتًا.",
+          "إيس غِبت غيفو̈له، دي مان إرشت فِرشْتِيت، فِن مان إينِن تسايت غيلاسِن هات.",
+          "Es gibt Gefühle, die man erst versteht, wenn man ihnen Zeit gelassen hat.",
+          "هناك مشاعر لا يفهمها المرء إلا بعد أن يترك لها وقتًا."
+        ],
+        [
+          "Wut kann ehrlich sein, aber erst in klaren Worten wird sie wirklich brauchbar.",
+          "يمكن أن يكون الغضب صادقًا، لكنه لا يصبح نافعًا حقًا إلا في الكلمات الواضحة.",
+          "ڤوت كان إهرليخ زاين، أبا إرشت إين كلارن ڤورتِن ڤيرت زي ڤيركليخ براوخبار.",
+          "Wut kann ehrlich sein, aber erst in klaren Worten wird sie wirklich brauchbar.",
+          "يمكن أن يكون الغضب صادقًا، لكنه لا يصبح نافعًا حقًا إلا في الكلمات الواضحة."
+        ],
+        [
+          "Ich finde es wichtig, Verletzlichkeit nicht mit Schwäche zu verwechseln.",
+          "أرى من المهم ألا نخلط بين الهشاشة والضعف.",
+          "إيش فينده إيس ڤيشتيخ، فِرليتسليخْكايت نيخت ميت شڤيخه تسو فِرڤِكْسِلِن.",
+          "Ich finde es wichtig, Verletzlichkeit nicht mit Schwäche zu verwechseln.",
+          "أرى من المهم ألا نخلط بين الهشاشة والضعف."
+        ],
+        [
+          "Freude wirkt für mich am stärksten, wenn sie nicht vorgeführt, sondern geteilt wird.",
+          "تؤثر فيّ الفرحة بقوة أكبر حين لا تُستعرض بل تُشارك.",
+          "فرويْده ڤيركت فور ميخ آم شتاركستِن، فِن زي نيخت فورغيفو̈رت، زوندرن غيتايلت ڤيرت.",
+          "Freude wirkt für mich am stärksten, wenn sie nicht vorgeführt, sondern geteilt wird.",
+          "تؤثر فيّ الفرحة بقوة أكبر حين لا تُستعرض بل تُشارك."
+        ],
+        [
+          "Manche Enttäuschung tut weniger weh, als die Hoffnung, die man sich heimlich aufgebaut hat.",
+          "بعض الخيبات تؤلم أقل من الأمل الذي بناه المرء في سرّه.",
+          "مانشه إنتْتَوْشونغ تووت ڤينيغر ڤي، ألس دي هوفنونغ، دي مان زيخ هايمليخ آوفغباؤت هات.",
+          "Manche Enttäuschung tut weniger weh, als die Hoffnung, die man sich heimlich aufgebaut hat.",
+          "بعض الخيبات تؤلم أقل من الأمل الذي بناه المرء في سرّه."
+        ],
+        [
+          "Ich lerne, Traurigkeit nicht wegzudrücken, sondern sie als Teil eines Tages anzusehen.",
+          "أتعلم ألا أدفع الحزن بعيدًا، بل أن أراه جزءًا من يومٍ ما.",
+          "إيش ليرنه، تراوريخْكايت نيخت ڤيك تسو دْرو̈كِن، زوندرن زي ألس تايل آينِس تاغِس أن تسو زِهِن.",
+          "Ich lerne, Traurigkeit nicht wegzudrücken, sondern sie als Teil eines Tages anzusehen.",
+          "أتعلم ألا أدفع الحزن بعيدًا، بل أن أراه جزءًا من يومٍ ما."
+        ],
+        [
+          "Wenn ich mich verstanden fühle, wird selbst ein schwieriger Satz ein Stück leichter.",
+          "حين أشعر أنني مفهومة، تصبح حتى الجملة الصعبة أسهل قليلًا.",
+          "فِن إيش ميخ فِرشْتانْدِن فو̈له، ڤيرت زِلفست آين شڤيْريغَر زاتس آين شتو̈ك لايختَر.",
+          "Wenn ich mich verstanden fühle, wird selbst ein schwieriger Satz ein Stück leichter.",
+          "حين أشعر أنني مفهومة، تصبح حتى الجملة الصعبة أسهل قليلًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الفن والأدب",
+      "words": [
+        [
+          "Ein guter Roman wirkt auf mich nicht durch Handlung allein, sondern durch die Haltung zwischen den Zeilen.",
+          "الرواية الجيدة تؤثر فيّ لا من خلال الحبكة وحدها، بل من خلال الموقف بين السطور.",
+          "آين غووتر رومان ڤيركت آوف ميخ نيخت دورخ هاندلونغ ألاين، زوندرن دورخ دي هالْتونغ تسڤيشِن دِين تسايلِن.",
+          "Ein guter Roman wirkt auf mich nicht durch Handlung allein, sondern durch die Haltung zwischen den Zeilen.",
+          "الرواية الجيدة تؤثر فيّ لا من خلال الحبكة وحدها، بل من خلال الموقف بين السطور."
+        ],
+        [
+          "Ich mag Texte, die elegant bleiben, obwohl sie keine unnötigen Umwege machen.",
+          "أحب النصوص التي تبقى أنيقة رغم أنها لا تسلك التفافات غير ضرورية.",
+          "إيش ماگ تيكسته، دي إيليغانت بليبِن، أوبڤول زي كاينه أونو̈تيغِن أومڤيگِه ماخِن.",
+          "Ich mag Texte, die elegant bleiben, obwohl sie keine unnötigen Umwege machen.",
+          "أحب النصوص التي تبقى أنيقة رغم أنها لا تسلك التفافات غير ضرورية."
+        ],
+        [
+          "Kunst überzeugt mich am stärksten, wenn sie etwas andeutet, statt alles auszustellen.",
+          "يقنعني الفن أكثر ما يكون حين يلمّح إلى شيء بدل أن يعرض كل شيء.",
+          "كونست أوفْتسويكت ميخ آم شتاركستِن، فِن زي إتڤاس أنداوتِت، شتات آليس آوس تسُشتيلِن.",
+          "Kunst überzeugt mich am stärksten, wenn sie etwas andeutet, statt alles auszustellen.",
+          "يقنعني الفن أكثر ما يكون حين يلمّح إلى شيء بدل أن يعرض كل شيء."
+        ],
+        [
+          "Ein Gedicht darf rätselhaft sein, solange es nicht bloß auf Geheimniskrämerei setzt.",
+          "يمكن أن تكون القصيدة غامضة ما دامت لا تقوم فقط على التكتم المصطنع.",
+          "آين غيديخت دارف ريتسلهافت زاين، زولانغه إيس نيخت بلوß آوف غيهايمْنِس كرَايمراي زِتست.",
+          "Ein Gedicht darf rätselhaft sein, solange es nicht bloß auf Geheimniskrämerei setzt.",
+          "يمكن أن تكون القصيدة غامضة ما دامت لا تقوم فقط على التكتم المصطنع."
+        ],
+        [
+          "Ich schätze Literatur, die nicht belehrt, aber den Blick auf vertraute Dinge verschiebt.",
+          "أقدّر الأدب الذي لا يعظ، لكنه يزيح النظرة إلى أشياء مألوفة.",
+          "إيش شتسه ليتيراتور، دي نيخت بيلهرت، أبا دِن بليك آوف فِرتراوتِه دينغه فِرشيبْت.",
+          "Ich schätze Literatur, die nicht belehrt, aber den Blick auf vertraute Dinge verschiebt.",
+          "أقدّر الأدب الذي لا يعظ، لكنه يزيح النظرة إلى أشياء مألوفة."
+        ],
+        [
+          "Ein gutes Bild erklärt nichts direkt und trifft doch oft genauer als eine lange Analyse.",
+          "الصورة الجيدة لا تشرح شيئًا مباشرة، ومع ذلك تصيب أحيانًا بدقة أكبر من تحليل طويل.",
+          "آين غووتِس بيلد إكْليرت نيختس ديريكت أوند ترِفت دوخ أوفت غِناوَر ألس آينه لانغه أناليزِه.",
+          "Ein gutes Bild erklärt nichts direkt und trifft doch oft genauer als eine lange Analyse.",
+          "الصورة الجيدة لا تشرح شيئًا مباشرة، ومع ذلك تصيب أحيانًا بدقة أكبر من تحليل طويل."
+        ],
+        [
+          "Wenn Musik wirklich gut ist, spricht sie auch dann weiter, wenn die letzte Note schon verklungen ist.",
+          "إذا كانت الموسيقى جيدة حقًا، فإنها تواصل الكلام حتى بعد أن يخفت آخر صوت.",
+          "فِن موزيك ڤيركليخ غوت إِست، شبريخت زي آوخ دان ڤايتَر، فِن دي لِتستِه نوتِه شون فِركلونغِن إِست.",
+          "Wenn Musik wirklich gut ist, spricht sie auch dann weiter, wenn die letzte Note schon verklungen ist.",
+          "إذا كانت الموسيقى جيدة حقًا، فإنها تواصل الكلام حتى بعد أن يخفت آخر صوت."
+        ],
+        [
+          "Ich lese lieber Sätze, die unter der Oberfläche arbeiten, als bloße Effekte zu bewundern.",
+          "أفضل قراءة جمل تعمل تحت السطح، بدل الإعجاب بالمؤثرات الظاهرة فقط.",
+          "إيش ليزه ليبر زاتسه، دي أونتر دير أوبرفلشه أربايتِن، ألس بلوهزه إفِكتِه تسو بِڤوندِرن.",
+          "Ich lese lieber Sätze, die unter der Oberfläche arbeiten, als bloße Effekte zu bewundern.",
+          "أفضل قراءة جمل تعمل تحت السطح، بدل الإعجاب بالمؤثرات الظاهرة فقط."
+        ],
+        [
+          "Ein Theaterabend bleibt mir im Gedächtnis, wenn er mir keine fertigen Antworten serviert.",
+          "تظل أمسية مسرحية في الذاكرة إذا لم تقدم لي أجوبة جاهزة.",
+          "آين تياتر أبند بليبْت مير إيم غيدِختنيس، فِن إر مير كاينه فيرتيغِن أنتوورتِن زِرڤيرت.",
+          "Ein Theaterabend bleibt mir im Gedächtnis, wenn er mir keine fertigen Antworten serviert.",
+          "تظل أمسية مسرحية في الذاكرة إذا لم تقدم لي أجوبة جاهزة."
+        ],
+        [
+          "Ich finde, wahre Originalität braucht kein Feuerwerk, sondern einen unverwechselbaren Ton.",
+          "أرى أن الأصالة الحقيقية لا تحتاج إلى ألعاب نارية، بل إلى نبرة لا تُخطئها الأذن.",
+          "إيش فينده، ڤاره أوريجيناليتيت براوخت كاين فوياڤيرك، زوندرن آينِن أونفيرڤِكسلْبارِن تون.",
+          "Ich finde, wahre Originalität braucht kein Feuerwerk, sondern einen unverwechselbaren Ton.",
+          "أرى أن الأصالة الحقيقية لا تحتاج إلى ألعاب نارية، بل إلى نبرة لا تُخطئها الأذن."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوية والانتماء",
+      "words": [
+        [
+          "Ich fühle mich hier nicht deshalb zu Hause, weil alles vertraut wäre, sondern weil man meine Eigenheiten nicht ständig erklären will.",
+          "لا أشعر بأنني في بيتي هنا لأن كل شيء مألوف، بل لأن الناس لا يطالبونني دائمًا بشرح خصوصيتي.",
+          "إيش فويهله ميش هير نيشت ديسهالب تسو هاوزه، فايل ألس فيرتراوت فيره، زونديرن فايل مان مَينه إيغنهايتن نيشت شتِنْديش إركليرن فيل.",
+          "Ich fühle mich hier nicht deshalb zu Hause, weil alles vertraut wäre, sondern weil man meine Eigenheiten nicht ständig erklären will.",
+          "لا أشعر بأنني في بيتي هنا لأن كل شيء مألوف، بل لأن الناس لا يطالبونني دائمًا بشرح خصوصيتي."
+        ],
+        [
+          "Man kann verwurzelt sein und trotzdem weiterziehen; Heimat ist für mich eher ein Verhältnis als ein Ort.",
+          "يمكن للمرء أن يكون متجذرًا ومع ذلك يرحل؛ فالوطن بالنسبة إليّ علاقة أكثر من كونه مكانًا.",
+          "مان كان فيرڤورتسلت زاين أوند تروتسدم ڤايتَرتسين؛ هايمات است فور ميش إيره آين ڤيرهايلتْنيس ألس آين أورت.",
+          "Man kann verwurzelt sein und trotzdem weiterziehen; Heimat ist für mich eher ein Verhältnis als ein Ort.",
+          "يمكن للمرء أن يكون متجذرًا ومع ذلك يرحل؛ فالوطن بالنسبة إليّ علاقة أكثر من كونه مكانًا."
+        ],
+        [
+          "Zwischen zwei Sprachen zu leben heißt nicht, halb in jeder zu sein, sondern in beiden anders zu denken.",
+          "العيش بين لغتين لا يعني أن تكون نصفًا في كل واحدة، بل أن تفكر بشكل مختلف في كلتيهما.",
+          "تْڤيشِن تسڤاي شْپراخِن تسو ليبِن هايت نيشْت، هالب إين ييدر تسو زاين، زونديرن إين بايدِن أندرس تسو دينكن.",
+          "Zwischen zwei Sprachen zu leben heißt nicht, halb in jeder zu sein, sondern in beiden anders zu denken.",
+          "العيش بين لغتين لا يعني أن تكون نصفًا في كل واحدة، بل أن تفكر بشكل مختلف في كلتيهما."
+        ],
+        [
+          "Er spielt seine Herkunft nicht aus, aber er versteckt sie auch nicht; genau darin liegt seine Ruhe.",
+          "هو لا يستعرض أصله، لكنه لا يخفيه أيضًا؛ وفي ذلك تحديدًا تكمن هدوءه.",
+          "إير شْپيلت زاينه هيركوُنفت نيشْت آوس، أبا إير ڤرشْتيكت زي آوخ نيشْت؛ جيناو دارين ليخت زاينه روهه.",
+          "Er spielt seine Herkunft nicht aus, aber er versteckt sie auch nicht; genau darin liegt seine Ruhe.",
+          "هو لا يستعرض أصله، لكنه لا يخفيه أيضًا؛ وفي ذلك تحديدًا تكمن هدوءه."
+        ],
+        [
+          "Wenn ich zwischen zwei Gruppen stehe, merke ich erst, wie viel Identität aus Blicken entsteht.",
+          "حين أقف بين مجموعتين، أدرك لأول مرة كم تنشأ الهوية من النظرات.",
+          "فِن إيش تسڤيشِن تسڤاي گروپِن شْتيه، مِرْكه إيش إيرست، ڤي فيل إيدينتِتيت آوس بليكن إنتشتيت.",
+          "Wenn ich zwischen zwei Gruppen stehe, merke ich erst, wie viel Identität aus Blicken entsteht.",
+          "حين أقف بين مجموعتين، أدرك لأول مرة كم تنشأ الهوية من النظرات."
+        ],
+        [
+          "Die Frage nach Herkunft klingt harmlos, doch oft will sie weniger wissen als einordnen.",
+          "يبدو السؤال عن الأصل بريئًا، لكنه غالبًا لا يريد المعرفة بقدر ما يريد التصنيف.",
+          "دي فراگه ناخ هيركوُنفت كلينخت هارمْلوس، دوخ أوفت ڤيل زي ڤينيغر ڤيسِن ألس آينأوردْنِن.",
+          "Die Frage nach Herkunft klingt harmlos, doch oft will sie weniger wissen als einordnen.",
+          "يبدو السؤال عن الأصل بريئًا، لكنه غالبًا لا يريد المعرفة بقدر ما يريد التصنيف."
+        ],
+        [
+          "Nicht jede Anpassung ist ein Verlust; manchmal ist sie der Preis dafür, überhaupt mitreden zu können.",
+          "ليست كل مواءمة خسارة؛ أحيانًا تكون الثمن اللازم لكي يتمكن المرء من المشاركة أصلًا.",
+          "نيشت يِده أَنتْپاسونغ است آين فيرلوست؛ مانشمال است زي دير برايس دافور، أوبِرهاوبت متريدِن تسو كينن.",
+          "Nicht jede Anpassung ist ein Verlust; manchmal ist sie der Preis dafür, überhaupt mitreden zu können.",
+          "ليست كل مواءمة خسارة؛ أحيانًا تكون الثمن اللازم لكي يتمكن المرء من المشاركة أصلًا."
+        ],
+        [
+          "Je länger ich hier bin, desto mehr merke ich, dass Zugehörigkeit eher wächst als geschenkt wird.",
+          "كلما طالت إقامتي هنا، أدركت أكثر أن الانتماء ينمو أكثر مما يُمنح.",
+          "يه لينغر إيش هير بن، دستو مهر مِرْكه إيش، داس تسوگههورِيغكايت إيره ڤِكست ألس جِشْنكت ڤيرت.",
+          "Je länger ich hier bin, desto mehr merke ich, dass Zugehörigkeit eher wächst als geschenkt wird.",
+          "كلما طالت إقامتي هنا، أدركت أكثر أن الانتماء ينمو أكثر مما يُمنح."
+        ],
+        [
+          "Ich suche nicht die einzige Heimat, sondern genug Halt, um mich auch unterwegs nicht zu verlieren.",
+          "أنا لا أبحث عن وطن واحد وحيد، بل عن قدر كافٍ من الثبات كي لا أضيع أيضًا وأنا في الطريق.",
+          "إيش زوخه نيشْت دي آينْتسيغه هايمات، زونديرن جينوغ هالت، أوم ميش آوخ أونترڤيگز نيشْت تسو فيرليرِن.",
+          "Ich suche nicht die einzige Heimat, sondern genug Halt, um mich auch unterwegs nicht zu verlieren.",
+          "أنا لا أبحث عن وطن واحد وحيد، بل عن قدر كافٍ من الثبات كي لا أضيع أيضًا وأنا في الطريق."
+        ],
+        [
+          "Heimat klingt im Plural besser; sie lässt sich teilen, ohne dass sie sich verbraucht.",
+          "كلمة الوطن تبدو أجمل بصيغة الجمع؛ إذ يمكن أن تُشارك من دون أن تستنزف.",
+          "هايمات كلينخت إم پلوُرال بِسر؛ زي ليست زيش تايلِن، أوهْنه داس زي زيش فيربراوخت.",
+          "Heimat klingt im Plural besser; sie lässt sich teilen, ohne dass sie sich verbraucht.",
+          "كلمة الوطن تبدو أجمل بصيغة الجمع؛ إذ يمكن أن تُشارك من دون أن تستنزف."
+        ]
+      ]
+    },
+    {
+      "topic": "الأخلاق والمسؤولية",
+      "words": [
+        [
+          "Wer nur auf Regeln pocht, entlastet oft sein Gewissen, nicht unbedingt die Sache.",
+          "من يصرّ على القواعد فقط يخفف عبء ضميره غالبًا، لا عبء المسألة بالضرورة.",
+          "فير نور آوف رِغلن پوخت، إنتلاستِت أوفت زاين ڬڤيسِن، نيشْت أونبِدينخت دي زاخه.",
+          "Wer nur auf Regeln pocht, entlastet oft sein Gewissen, nicht unbedingt die Sache.",
+          "من يصرّ على القواعد فقط يخفف عبء ضميره غالبًا، لا عبء المسألة بالضرورة."
+        ],
+        [
+          "Verantwortung beginnt dort, wo man die Folgen kennt und trotzdem nicht hinterherjagt.",
+          "تبدأ المسؤولية هناك حيث يعرف المرء العواقب ومع ذلك لا يطارد المصلحة.",
+          "فيرأنتڤورتونغ بگِنْت دورت، ڤو مان دي فولغِن كينت أوند تروتسدم نيشْت هينْترهيرياخت.",
+          "Verantwortung beginnt dort, wo man die Folgen kennt und trotzdem nicht hinterherjagt.",
+          "تبدأ المسؤولية هناك حيث يعرف المرء العواقب ومع ذلك لا يطارد المصلحة."
+        ],
+        [
+          "Man kann moralisch klingen und doch bequem handeln; daran scheitern viele gute Vorsätze.",
+          "يمكن للمرء أن يبدو أخلاقيًا ومع ذلك يتصرف بارتياح أناني؛ عند هذا تتعثر كثير من النوايا الحسنة.",
+          "مان كان مورالِش كلينغن أوند دوخ بَكڤيم هاندلن؛ داران شايترن فيلي ڬوتِه فورزتسه.",
+          "Man kann moralisch klingen und doch bequem handeln; daran scheitern viele gute Vorsätze.",
+          "يمكن للمرء أن يبدو أخلاقيًا ومع ذلك يتصرف بارتياح أناني؛ عند هذا تتعثر كثير من النوايا الحسنة."
+        ],
+        [
+          "Es ist billig, Prinzipien zu loben; teuer wird es erst, wenn sie etwas kosten.",
+          "من السهل الإشادة بالمبادئ؛ أما الثمن الحقيقي فيظهر حين تكلف شيئًا.",
+          "إس است بيلِّخ، پرينتسيپيين تسو لوبِن؛ تويَر ڤيرت إس إيرست، فِن زي إتڤاس كوستن.",
+          "Es ist billig, Prinzipien zu loben; teuer wird es erst, wenn sie etwas kosten.",
+          "من السهل الإشادة بالمبادئ؛ أما الثمن الحقيقي فيظهر حين تكلف شيئًا."
+        ],
+        [
+          "Ich misstraue jedem, der Unschärfe nur nutzt, um sich später aus der Affäre zu ziehen.",
+          "أنا أشك في كل من يستخدم الغموض فقط ليتهرب لاحقًا من المسؤولية.",
+          "إيش ميستراويه ييدِم، دير أونشِرفه نور نُتْست، أوم زيش ش್ಪيتَر آوس دير أفيرِه تسو تسِيهن.",
+          "Ich misstraue jedem, der Unschärfe nur nutzt, um sich später aus der Affäre zu ziehen.",
+          "أنا أشك في كل من يستخدم الغموض فقط ليتهرب لاحقًا من المسؤولية."
+        ],
+        [
+          "Gute Absichten reichen nicht, wenn man die Nebenwirkungen anderen überlässt.",
+          "النيات الجيدة لا تكفي إذا ترك المرء الآثار الجانبية للآخرين.",
+          "غوته أَبزيتْشن ريخِن نيشْت، فِن مان دي نيبنڤيركونغِن أنديرن أوبِرلاست.",
+          "Gute Absichten reichen nicht, wenn man die Nebenwirkungen anderen überlässt.",
+          "النيات الجيدة لا تكفي إذا ترك المرء الآثار الجانبية للآخرين."
+        ],
+        [
+          "Wer Fehler eingesteht, verliert nicht automatisch an Autorität; oft gewinnt er an Glaubwürdigkeit.",
+          "من يعترف بأخطائه لا يفقد سلطته تلقائيًا؛ بل قد يكسب المصداقية.",
+          "فير فِهلر آينگِشْتِت، فيرليرت نيشْت آوتوماتيش آن أوتوريتيت؛ أوفت ڬڤينت إير آن غلاوبڤوردِيخكايت.",
+          "Wer Fehler eingesteht, verliert nicht automatisch an Autorität; oft gewinnt er an Glaubwürdigkeit.",
+          "من يعترف بأخطائه لا يفقد سلطته تلقائيًا؛ بل قد يكسب المصداقية."
+        ],
+        [
+          "Mit Empörung allein ändert man wenig; erst gerechtes Handeln macht Haltung sichtbar.",
+          "بالاستنكار وحده لا يتغير الكثير؛ إنما الفعل العادل هو ما يجعل الموقف ظاهرًا.",
+          "مت إمپورونغ أَلاين إندِرت مان ڤينيغ؛ إيرست ڬيرِختِس هاندلن ماخت هالتونغ زيشْتبار.",
+          "Mit Empörung allein ändert man wenig; erst gerechtes Handeln macht Haltung sichtbar.",
+          "بالاستنكار وحده لا يتغير الكثير؛ إنما الفعل العادل هو ما يجعل الموقف ظاهرًا."
+        ],
+        [
+          "Manchmal ist das Unbequeme genau das Richtige, nur eben ohne Applaus.",
+          "أحيانًا يكون الأمر غير المريح هو الصواب تمامًا، لكن من دون تصفيق.",
+          "مانشمال است داس أونبَكويمه جناؤ داس ريختيغه، نور إيْبن أونه أپلاوس.",
+          "Manchmal ist das Unbequeme genau das Richtige, nur eben ohne Applaus.",
+          "أحيانًا يكون الأمر غير المريح هو الصواب تمامًا، لكن من دون تصفيق."
+        ],
+        [
+          "Wer sich hinter Zuständigkeiten versteckt, hat die Verantwortung schon halb aufgegeben.",
+          "من يختبئ وراء الاختصاصات يكون قد تخلّى عن المسؤولية نصف تخلٍّ بالفعل.",
+          "فير زيش هينْتر تسوشتندِخكايتن فيرشتيكت، هات دي فيرأنتڤورتونغ شون هالب آوفگِgeven.",
+          "Wer sich hinter Zuständigkeiten versteckt, hat die Verantwortung schon halb aufgegeben.",
+          "من يختبئ وراء الاختصاصات يكون قد تخلّى عن المسؤولية نصف تخلٍّ بالفعل."
+        ]
+      ]
+    },
+    {
+      "topic": "البحث والنقاش الأكاديمي",
+      "words": [
+        [
+          "Eine gute These überzeugt nicht durch Lautstärke, sondern dadurch, dass sie Einwände ernst nimmt.",
+          "الفرضية الجيدة لا تقنع بالضجيج، بل بكونها تأخذ الاعتراضات على محمل الجد.",
+          "آينه ڬوته تيسه أوبِرتسويخت نيشْت دوخ لاوتشتيركه، زونديرن دادورخ، داس زي آينڤينده إرنست نيمت.",
+          "Eine gute These überzeugt nicht durch Lautstärke, sondern dadurch, dass sie Einwände ernst nimmt.",
+          "الفرضية الجيدة لا تقنع بالضجيج، بل بكونها تأخذ الاعتراضات على محمل الجد."
+        ],
+        [
+          "Wer sauber zitiert, zeigt nicht bloß Disziplin, sondern auch Respekt vor dem Denkweg anderer.",
+          "من يقتبس بدقة لا يُظهر الانضباط فحسب، بل يظهر أيضًا احترامه لطريق تفكير الآخرين.",
+          "فير زاوبَر تسيتيرت، تسايخت نيشْت بلوس ديسيپلين، زونديرن آوخ رِسپكت فور ديم دينكڤيك أنديرر.",
+          "Wer sauber zitiert, zeigt nicht bloß Disziplin, sondern auch Respekt vor dem Denkweg anderer.",
+          "من يقتبس بدقة لا يُظهر الانضباط فحسب، بل يظهر أيضًا احترامه لطريق تفكير الآخرين."
+        ],
+        [
+          "Ein Modell ist nützlich, solange man nicht vergisst, dass es die Wirklichkeit nur bündelt.",
+          "النموذج مفيد ما دام المرء لا ينسى أنه يختزل الواقع فقط.",
+          "آين موديل است نوتسليخ، زولانغه مان نيشْت فيرگيست، داس إس دي ڤيركلِخكايت نور بوندلت.",
+          "Ein Modell ist nützlich, solange man nicht vergisst, dass es die Wirklichkeit nur bündelt.",
+          "النموذج مفيد ما دام المرء لا ينسى أنه يختزل الواقع فقط."
+        ],
+        [
+          "In einer guten Diskussion werden nicht alle ruhiger, aber meist präziser.",
+          "في النقاش الجيد لا يصبح الجميع أكثر هدوءًا، لكنهم غالبًا يصبحون أكثر دقة.",
+          "إين آينر ڬووتن ديسكوسيون ڤيردِن نيشْت آله روهيغر، أبا مايست پريتسایزر.",
+          "In einer guten Diskussion werden nicht alle ruhiger, aber meist präziser.",
+          "في النقاش الجيد لا يصبح الجميع أكثر هدوءًا، لكنهم غالبًا يصبحون أكثر دقة."
+        ],
+        [
+          "Eine schwache Methode erkennt man oft daran, dass sie auf jede Frage dieselbe Antwort legt.",
+          "تُعرَف المنهجية الضعيفة غالبًا من كونها تضع الجواب نفسه على كل سؤال.",
+          "آينه شفاخه مِتوده إركِنْت مان أوفت داران، داس زي آوف يِده فراگه ديزلْبه أنْتفورت ليخت.",
+          "Eine schwache Methode erkennt man oft daran, dass sie auf jede Frage dieselbe Antwort legt.",
+          "تُعرَف المنهجية الضعيفة غالبًا من كونها تضع الجواب نفسه على كل سؤال."
+        ],
+        [
+          "Ich bin skeptisch gegenüber Studien, die mehr Sicherheit versprechen, als ihre Daten tragen.",
+          "أنا متشكك تجاه الدراسات التي تعدّ بيقين أكثر مما تحتمله بياناتها.",
+          "إيش بن شڤِپتِش ڬېن ڤير شتوديين، دي مهر زيشِرهايت فرشپريشن، ألس إهره داتِن تراگِن.",
+          "Ich bin skeptisch gegenüber Studien, die mehr Sicherheit versprechen, als ihre Daten tragen.",
+          "أنا متشكك تجاه الدراسات التي تعدّ بيقين أكثر مما تحتمله بياناتها."
+        ],
+        [
+          "Man kann aus einem Widerspruch viel lernen, wenn man ihn nicht sofort glättet.",
+          "يمكن للمرء أن يتعلم الكثير من التناقض إذا لم يسارع إلى تنعيمه.",
+          "مان كان آوس آينِم ڤيدِرشروخ فيل لرنِن، فِن مان إين نيشْت زوفورت غليتت.",
+          "Man kann aus einem Widerspruch viel lernen, wenn man ihn nicht sofort glättet.",
+          "يمكن للمرء أن يتعلم الكثير من التناقض إذا لم يسارع إلى تنعيمه."
+        ],
+        [
+          "Gute Forschung fragt nicht nur, was funktioniert, sondern auch, für wen und zu welchem Preis.",
+          "البحث الجيد لا يسأل فقط عمّا ينجح، بل أيضًا لمن وبأي ثمن.",
+          "ڬوته فورشونغ فراخت نيشْت نور، ڤاس فونكتيونيرت، زونديرن آوخ، فور فين أوند تسو ڤِلشِم برايس.",
+          "Gute Forschung fragt nicht nur, was funktioniert, sondern auch, für wen und zu welchem Preis.",
+          "البحث الجيد لا يسأل فقط عمّا ينجح، بل أيضًا لمن وبأي ثمن."
+        ],
+        [
+          "Ein offenes Resultat ist kein Misserfolg; es verhindert bloß zu frühe Gewissheiten.",
+          "النتيجة المفتوحة ليست فشلًا؛ إنها تمنع فقط اليقين المبكر.",
+          "آين أوفنِس رِزولتات است كاين ميسرfolg؛ إس فِرحيندِرت بلوس تسو فروهه ڬڤيسنهايتِن.",
+          "Ein offenes Resultat ist kein Misserfolg; es verhindert bloß zu frühe Gewissheiten.",
+          "النتيجة المفتوحة ليست فشلًا؛ إنها تمنع فقط اليقين المبكر."
+        ],
+        [
+          "Die beste Kritik ist die, die man nach kurzem Ärger später doch dankbar liest.",
+          "أفضل نقد هو ما يقرأه المرء لاحقًا بامتنان، بعد بعض الضيق الأولي.",
+          "دي بِسته كريتيك است دي، دي مان ناخ كورتسِم إرغِر شپيتَر دوخ دانكبار ليست.",
+          "Die beste Kritik ist die, die man nach kurzem Ärger später doch dankbar liest.",
+          "أفضل نقد هو ما يقرأه المرء لاحقًا بامتنان، بعد بعض الضيق الأولي."
+        ]
+      ]
+    },
+    {
+      "topic": "فهم المعاني الضمنية",
+      "words": [
+        [
+          "Er sagt viel und meint doch wenig; zwischen den Zeilen wohnt bei ihm die eigentliche Botschaft.",
+          "هو يقول الكثير ويقصد القليل؛ ففي ما بين السطور تسكن رسالته الحقيقية.",
+          "إير زاخت فيل أوند ماينت دوخ ڤينيغ؛ تسڤيشِن دين تسايلِن ڤونت باي إيم دي آيغِنْتليشِه بوتشافت.",
+          "Er sagt viel und meint doch wenig; zwischen den Zeilen wohnt bei ihm die eigentliche Botschaft.",
+          "هو يقول الكثير ويقصد القليل؛ ففي ما بين السطور تسكن رسالته الحقيقية."
+        ],
+        [
+          "Ein höfliches Lächeln kann Zustimmung bedeuten, aber auch das genaue Gegenteil.",
+          "قد تعني ابتسامة مهذبة موافقة، لكنها قد تعني أيضًا العكس تمامًا.",
+          "آين هوفيرليشِس لِخلن كان تسوشتيمونغ بيدويتِن، أبا آوخ داس ڬيناؤه ڬيگِنْتايل.",
+          "Ein höfliches Lächeln kann Zustimmung bedeuten, aber auch das genaue Gegenteil.",
+          "قد تعني ابتسامة مهذبة موافقة، لكنها قد تعني أيضًا العكس تمامًا."
+        ],
+        [
+          "Wenn jemand zu schnell zustimmt, höre ich eher Vorsicht als Begeisterung heraus.",
+          "إذا وافق أحد بسرعة كبيرة، فأنا أسمع فيه حذرًا أكثر من حماسة.",
+          "فِن ييَند تسو شْنِل تسوشتيمت، هوْرِه إيش إيره فورزِيخت ألس بَغايستِرونغ هيراوس.",
+          "Wenn jemand zu schnell zustimmt, höre ich eher Vorsicht als Begeisterung heraus.",
+          "إذا وافق أحد بسرعة كبيرة، فأنا أسمع فيه حذرًا أكثر من حماسة."
+        ],
+        [
+          "Nicht jede Pause ist Unsicherheit; oft steckt darin nur der Versuch, das Richtige nicht zu ruinieren.",
+          "ليست كل وقفة علامة تردد؛ فكثيرًا ما تكون مجرد محاولة لعدم إفساد الأمر الصحيح.",
+          "نيشت يِده پاوزه است أونزِيَرخايت؛ أوفت شْتِكت دارين نور دير فورزوش، داس ريختيغه نيشْت تسو رُوينيرِن.",
+          "Nicht jede Pause ist Unsicherheit; oft steckt darin nur der Versuch, das Richtige nicht zu ruinieren.",
+          "ليست كل وقفة علامة تردد؛ فكثيرًا ما تكون مجرد محاولة لعدم إفساد الأمر الصحيح."
+        ],
+        [
+          "Wer immer betont, er habe nichts zu verbergen, macht mich gerade erst aufmerksam.",
+          "من يكرر دائمًا أنه لا يخفي شيئًا يجعلني أزداد انتباهًا إليه.",
+          "فير إيمر بيتونت، إير هابه نيشْتْس تسو فيربيرغن، ماخت ميش ڬراده إيرست أوفميركسام.",
+          "Wer immer betont, er habe nichts zu verbergen, macht mich gerade erst aufmerksam.",
+          "من يكرر دائمًا أنه لا يخفي شيئًا يجعلني أزداد انتباهًا إليه."
+        ],
+        [
+          "Ironie ist ein scharfes Werkzeug; in falschen Händen verletzt sie mehr, als sie klärt.",
+          "السخرية أداة حادة؛ وفي الأيدي الخطأ تجرح أكثر مما توضح.",
+          "إيرونيه است آين شارفس ڤِركتسويغ؛ إين فالتشِن هيندِن فيرلِتست زي مهر، ألس زي كليرت.",
+          "Ironie ist ein scharfes Werkzeug; in falschen Händen verletzt sie mehr, als sie klärt.",
+          "السخرية أداة حادة؛ وفي الأيدي الخطأ تجرح أكثر مما توضح."
+        ],
+        [
+          "Manchmal verrät der Ton mehr als der Satz, besonders wenn er zu glatt klingt.",
+          "أحيانًا يكشف النبرة أكثر من الجملة، خاصة عندما تبدو ناعمة أكثر من اللازم.",
+          "مانشمال فيرريت دير تون مهر ألس دير زاتس، بُزوندِرس فِن إير تسو غلات كلينخت.",
+          "Manchmal verrät der Ton mehr als der Satz, besonders wenn er zu glatt klingt.",
+          "أحيانًا يكشف النبرة أكثر من الجملة، خاصة عندما تبدو ناعمة أكثر من اللازم."
+        ],
+        [
+          "Zwischen Zustimmung und Nachsicht liegt oft ein unausgesprochener Vorbehalt.",
+          "بين الموافقة والتسامح يكمن غالبًا تحفظ غير معلن.",
+          "تسڤيشِن تسوشتيمونغ أوند ناخزِخت ليخت أوفت آين أونآوسگِشْپروخنر فوربِهالت.",
+          "Zwischen Zustimmung und Nachsicht liegt oft ein unausgesprochener Vorbehalt.",
+          "بين الموافقة والتسامح يكمن غالبًا تحفظ غير معلن."
+        ],
+        [
+          "Die eigentliche Pointe kommt bei ihm erst am Ende, wenn man schon fast widerspricht.",
+          "الفكرة الضمنية الحقيقية تظهر عنده في النهاية، حين يكاد المرء يعترض.",
+          "دي آيغِنْتليشِه پوانته كومْت باي إيم إيرست آم إنده، فِن مان شون فاست ڤيدِرشْپريخت.",
+          "Die eigentliche Pointe kommt bei ihm erst am Ende, wenn man schon fast widerspricht.",
+          "الفكرة الضمنية الحقيقية تظهر عنده في النهاية، حين يكاد المرء يعترض."
+        ],
+        [
+          "Zwischen Zustimmung und Taktgefühl verläuft eine feine Linie, die man nur mit Erfahrung sieht.",
+          "بين الموافقة وحسن التقدير خط رفيع لا يراه إلا من له خبرة.",
+          "تسڤيشِن تسوشتيمونغ أوند تاكتگهفول فيرلوفت آينه فاينه لينيه، دي مان نور مت إرفارونغ زيهت.",
+          "Zwischen Zustimmung und Taktgefühl verläuft eine feine Linie, die man nur mit Erfahrung sieht.",
+          "بين الموافقة وحسن التقدير خط رفيع لا يراه إلا من له خبرة."
+        ]
+      ]
+    },
+    {
+      "topic": "التكيّف مع الغموض",
+      "words": [
+        [
+          "Ich habe gelernt, mit vorläufigen Antworten zu leben, ohne sie für endgültig zu halten.",
+          "تعلمت أن أعيش مع إجابات مؤقتة من دون أن أعتبرها نهائية.",
+          "إيش هابه ڬِليرنت، مت فورلاوفِيغِن أنْتفورتِن تسو ليبِن، أونه زي فور آينْتگولتِيغ تسو هالتِن.",
+          "Ich habe gelernt, mit vorläufigen Antworten zu leben, ohne sie für endgültig zu halten.",
+          "تعلمت أن أعيش مع إجابات مؤقتة من دون أن أعتبرها نهائية."
+        ],
+        [
+          "Unklarheit muss nicht lähmen; manchmal hält sie nur die Tür offen, bis mehr sichtbar wird.",
+          "ليس الغموض بالضرورة مُشلًّا؛ أحيانًا يترك الباب مفتوحًا حتى تتضح الأمور أكثر.",
+          "أونكلارهايت موصت نيشْت لهمن؛ مانشمال هِلت زي نور دي تور أوفن، بيس مهر زيشْتبار ڤيرت.",
+          "Unklarheit muss nicht lähmen; manchmal hält sie nur die Tür offen, bis mehr sichtbar wird.",
+          "ليس الغموض بالضرورة مُشلًّا؛ أحيانًا يترك الباب مفتوحًا حتى تتضح الأمور أكثر."
+        ],
+        [
+          "Wer Unsicherheit sofort beseitigen will, macht aus einem Prozess oft unnötig viel Drama.",
+          "من يريد إزالة عدم اليقين فورًا يحوّل العملية غالبًا إلى دراما غير ضرورية.",
+          "فير أونزِيَرهايت زوفورت بيزايتِيغن ڤيل، ماخت آوس آينِم پروتسيس أوفت أوننويتِيغ فيل دراما.",
+          "Wer Unsicherheit sofort beseitigen will, macht aus einem Prozess oft unnötig viel Drama.",
+          "من يريد إزالة عدم اليقين فورًا يحوّل العملية غالبًا إلى دراما غير ضرورية."
+        ],
+        [
+          "Ich vertraue eher der zweiten Lesart als der ersten, wenn die Fakten noch nicht sitzen.",
+          "أثق بالتأويل الثاني أكثر من الأول، حين لا تكون الحقائق قد استقرّت بعد.",
+          "إيش فرتراؤه إيره دير تسڤايتِن ليزآرت ألس دير إيرستن، فِن دي فاكْتن نوخ نيشْت ستسِن.",
+          "Ich vertraue eher der zweiten Lesart als der ersten, wenn die Fakten noch nicht sitzen.",
+          "أثق بالتأويل الثاني أكثر من الأول، حين لا تكون الحقائق قد استقرّت بعد."
+        ],
+        [
+          "Ambivalenz ist unbequem, aber oft ehrlicher als eine glatte, zu einfache Antwort.",
+          "التردد المزدوج غير مريح، لكنه غالبًا أصدق من جواب أملس شديد البساطة.",
+          "أمبيفالنتس است أونبَكويم، أبا أوفت إيرليشَر ألس آينه غلاته، تسو آينفاشه أنْتفورت.",
+          "Ambivalenz ist unbequem, aber oft ehrlicher als eine glatte, zu einfache Antwort.",
+          "التردد المزدوج غير مريح، لكنه غالبًا أصدق من جواب أملس شديد البساطة."
+        ],
+        [
+          "Nicht alles muss sofort erklärt werden; manches versteht man erst mit Abstand.",
+          "ليس كل شيء بحاجة إلى تفسير فوري؛ فبعض الأمور تُفهم فقط بعد مسافة.",
+          "نيشت آلس موصت زوفورت إركليرت ڤيردن؛ مانشِس فيرشتيت مان إيرست مت أبشتاند.",
+          "Nicht alles muss sofort erklärt werden; manches versteht man erst mit Abstand.",
+          "ليس كل شيء بحاجة إلى تفسير فوري؛ فبعض الأمور تُفهم فقط بعد مسافة."
+        ],
+        [
+          "Wer mit Grauzonen arbeiten kann, ist nicht beliebig, sondern geduldiger mit der Wirklichkeit.",
+          "من يستطيع العمل في المناطق الرمادية ليس متسيبًا، بل أكثر صبرًا مع الواقع.",
+          "فير مت غراوتسونِن آربايتن كان، است نيشْت بليبِيغ، زونديرن گهْدولديغر مت دير ڤِركلِخكايت.",
+          "Wer mit Grauzonen arbeiten kann, ist nicht beliebig, sondern geduldiger mit der Wirklichkeit.",
+          "من يستطيع العمل في المناطق الرمادية ليس متسيبًا، بل أكثر صبرًا مع الواقع."
+        ],
+        [
+          "Ich ziehe klare Karten vor, doch ich erwarte nicht, dass das Leben sich daran hält.",
+          "أفضل الخرائط الواضحة، لكنني لا أتوقع من الحياة أن تلتزم بها.",
+          "إيش تسِيهه كلاره كارتِن فور، دوخ إيش إيرفارتِه نيشْت، داس داس ليبِن زيش داران هِلت.",
+          "Ich ziehe klare Karten vor, doch ich erwarte nicht, dass das Leben sich daran hält.",
+          "أفضل الخرائط الواضحة، لكنني لا أتوقع من الحياة أن تلتزم بها."
+        ],
+        [
+          "Man wächst oft gerade an dem, was sich nicht sofort auflösen lässt.",
+          "غالبًا ينمو المرء من خلال ما لا يمكن حله على الفور.",
+          "مان ڤكست أوفت ڬراده آن ديم، ڤاس زيش نيشْت زوفورت آوفْلوزِن لاست.",
+          "Man wächst oft gerade an dem, was sich nicht sofort auflösen lässt.",
+          "غالبًا ينمو المرء من خلال ما لا يمكن حله على الفور."
+        ],
+        [
+          "Mit Unsicherheit zu leben heißt nicht, passiv zu werden; es heißt, genauer hinzusehen.",
+          "العيش مع عدم اليقين لا يعني أن تصبح سلبيًا؛ بل يعني أن تنظر بدقة أكبر.",
+          "مت أونزِيَرهايت تسو ليبِن هايت نيشْت، پاسيف تسو ڤيردن؛ إس هايت، جيناوَر هينتسو زيهن.",
+          "Mit Unsicherheit zu leben heißt nicht, passiv zu werden; es heißt, genauer hinzusehen.",
+          "العيش مع عدم اليقين لا يعني أن تصبح سلبيًا؛ بل يعني أن تنظر بدقة أكبر."
+        ]
+      ]
+    },
+    {
+      "topic": "الأسلوب الرسمي وغير الرسمي",
+      "words": [
+        [
+          "Sehr geehrte Frau Berger, ich danke Ihnen für Ihre schnelle Rückmeldung und die klare Zusammenfassung der nächsten Schritte.",
+          "السيدة بيرغر المحترمة، أشكركم على ردكم السريع وعلى التلخيص الواضح للخطوات التالية.",
+          "زير غيرته فراو بيرغر، إيخ دانكه إينن فور إيريه شنيله روكميلدونغ أوند ديه كلاره تسوزامنفاسونغ دير ناخستن شريتّه.",
+          "Sehr geehrte Frau Berger, ich danke Ihnen für Ihre schnelle Rückmeldung und die klare Zusammenfassung der nächsten Schritte.",
+          "السيدة بيرغر المحترمة، أشكركم على ردكم السريع وعلى التلخيص الواضح للخطوات التالية."
+        ],
+        [
+          "Hallo Tom, ich schicke dir die Unterlagen gleich rüber; dann kannst du sie dir in Ruhe ansehen.",
+          "مرحبًا توم، سأرسل لك المستندات حالًا؛ عندها يمكنك الاطلاع عليها بهدوء.",
+          "هالو توم، إيخ شيكه دير دي أونترلاغن غلايش روبير؛ دان كانست دو زي دير إن روهه آنزين.",
+          "Hallo Tom, ich schicke dir die Unterlagen gleich rüber; dann kannst du sie dir in Ruhe ansehen.",
+          "مرحبًا توم، سأرسل لك المستندات حالًا؛ عندها يمكنك الاطلاع عليها بهدوء."
+        ],
+        [
+          "Mit freundlichen Grüßen bitte nur, wenn der Ton wirklich formell bleiben soll.",
+          "يرجى استخدام عبارة «مع أطيب التحيات» فقط عندما ينبغي أن تبقى النبرة رسمية فعلًا.",
+          "ميت فراوندليخن غروسن بيته نور، فِن دير تون فيركليخ فورميل بلايْبن زول.",
+          "Mit freundlichen Grüßen bitte nur, wenn der Ton wirklich formell bleiben soll.",
+          "يرجى استخدام عبارة «مع أطيب التحيات» فقط عندما ينبغي أن تبقى النبرة رسمية فعلًا."
+        ],
+        [
+          "Du kannst mich gern duzen, aber im Termin sollte die Anrede heute lieber sachlich bleiben.",
+          "يمكنك مناداتي بصيغة «أنت» بكل أريحية، لكن في الموعد يُفضَّل اليوم أن تبقى المخاطبة موضوعية.",
+          "دو كانست ميخ غيرن دوسن، آبر إيم ترمين زولته دي آنريدِه هويتِه ليبر زاخليخ بلايْبن.",
+          "Du kannst mich gern duzen, aber im Termin sollte die Anrede heute lieber sachlich bleiben.",
+          "يمكنك مناداتي بصيغة «أنت» بكل أريحية، لكن في الموعد يُفضَّل اليوم أن تبقى المخاطبة موضوعية."
+        ],
+        [
+          "In einer E-Mail wirkt ein kurzer, höflicher Einstieg oft professioneller als ein allzu lockerer Ton.",
+          "في البريد الإلكتروني تبدو المقدمة القصيرة المهذبة غالبًا أكثر مهنية من نبرة ودودة أكثر من اللازم.",
+          "إن آينر إي-مايل فيركت آين كورتسر، هوفليخر آينشتايغ أوفت بروفيشونالر آلس آين آلتسو لوكره تون.",
+          "In einer E-Mail wirkt ein kurzer, höflicher Einstieg oft professioneller als ein allzu lockerer Ton.",
+          "في البريد الإلكتروني تبدو المقدمة القصيرة المهذبة غالبًا أكثر مهنية من نبرة ودودة أكثر من اللازم."
+        ],
+        [
+          "Ich würde das Thema nicht im Chat klären; dafür ist ein ruhiges Gespräch deutlich angemessener.",
+          "لن أتناول هذا الموضوع في الدردشة؛ فمناقشته بهدوء وجهًا لوجه أنسب بوضوح.",
+          "إيخ فورده داس تيما نيت إيم شات كليـرن؛ دافور إِست آين روهِغِس غِشْبْرَيْخ دويتْليخ آنغِمِسنَر.",
+          "Ich würde das Thema nicht im Chat klären; dafür ist ein ruhiges Gespräch deutlich angemessener.",
+          "لن أتناول هذا الموضوع في الدردشة؛ فمناقشته بهدوء وجهًا لوجه أنسب بوضوح."
+        ],
+        [
+          "Wenn Sie so freundlich wären, könnten Sie den Bericht bis morgen prüfen und freigeben.",
+          "لو تفضلتم بمراجعة التقرير والموافقة عليه حتى الغد.",
+          "فِن زي زو فراوندليخ فيرن، كونتن زي دين بيريخت بِس مورغِن پْرويفن أوند فرايغيبن.",
+          "Wenn Sie so freundlich wären, könnten Sie den Bericht bis morgen prüfen und freigeben.",
+          "لو تفضلتم بمراجعة التقرير والموافقة عليه حتى الغد."
+        ],
+        [
+          "Unter Kollegen darf es locker klingen; nach außen sollte die Sprache jedoch präziser sein.",
+          "بين الزملاء يمكن أن تبدو الصياغة غير رسمية؛ أما خارجيًا فينبغي أن تكون اللغة أدق.",
+          "أونتر كولّيغِن دارف إِس لوكره كلينغِن؛ ناخ آوسن زولته دي شْبراخه يدوخ پريتسیزر زاین.",
+          "Unter Kollegen darf es locker klingen; nach außen sollte die Sprache jedoch präziser sein.",
+          "بين الزملاء يمكن أن تبدو الصياغة غير رسمية؛ أما خارجيًا فينبغي أن تكون اللغة أدق."
+        ],
+        [
+          "Ich nehme Ihr Angebot dankend an, möchte aber den finalen Preis noch schriftlich bestätigt haben.",
+          "أقبل عرضكم مع الشكر، لكنني أود الحصول على تأكيد خطي للسعر النهائي أيضًا.",
+          "إيخ نيْمه إير أنغبووت دانكند آن، مخته آبر دين فينالن برايس نوخ شرِفتليخ بَشتَتِيغت هابن.",
+          "Ich nehme Ihr Angebot dankend an, möchte aber den finalen Preis noch schriftlich bestätigt haben.",
+          "أقبل عرضكم مع الشكر، لكنني أود الحصول على تأكيد خطي للسعر النهائي أيضًا."
+        ],
+        [
+          "Das war nett von dir, und genau deshalb antworte ich dir heute auch ganz offen.",
+          "كان ذلك لطيفًا منك، ولهذا بالتحديد أرد عليك اليوم بصراحة تامة أيضًا.",
+          "داس فار نِت فون دير، أوند غيناو ديسهالب أنْتڤورتِه إيش دير هويتِه أوخ غانتس أوفن.",
+          "Das war nett von dir, und genau deshalb antworte ich dir heute auch ganz offen.",
+          "كان ذلك لطيفًا منك، ولهذا بالتحديد أرد عليك اليوم بصراحة تامة أيضًا."
+        ]
+      ]
+    },
+    {
+      "topic": "البلاغة والتعبير الدقيق",
+      "words": [
+        [
+          "Seine Argumentation war nicht laut, aber sie traf den Kern des Problems erstaunlich präzise.",
+          "لم تكن حجته صاخبة، لكنها أصابت جوهر المشكلة بدقة مدهشة.",
+          "زايْنه أرغومنتاتسيون فار نِت لاوت، آبر زي تراف دين كيرن ديس بروبليمس إراشتاونليخ پريتسِيزه.",
+          "Seine Argumentation war nicht laut, aber sie traf den Kern des Problems erstaunlich präzise.",
+          "لم تكن حجته صاخبة، لكنها أصابت جوهر المشكلة بدقة مدهشة."
+        ],
+        [
+          "Je länger man zuhört, desto klarer wird, dass hinter der Ruhe eine feste Überzeugung steht.",
+          "كلما طال الاستماع، اتضح أكثر أن وراء الهدوء قناعة راسخة.",
+          "يي لانغر مان تسوهو̈رت، ديستو كلارر فيرت، داس هينتر دير روهه آينه فيسته أويبر تسويغونغ شتېت.",
+          "Je länger man zuhört, desto klarer wird, dass hinter der Ruhe eine feste Überzeugung steht.",
+          "كلما طال الاستماع، اتضح أكثر أن وراء الهدوء قناعة راسخة."
+        ],
+        [
+          "Nicht jede Kritik ist hart; manchmal ist gerade die Zurückhaltung das schärfste Mittel.",
+          "ليست كل نقد قاسيًا؛ فالأحيان تكون الحيادية هي الأداة الأشد حدّة.",
+          "نيخت ييده كريتيك إِست هارت؛ مانخمال إِست غِراده دي تسوريوكهالتونغ داس شيرفسته ميتل.",
+          "Nicht jede Kritik ist hart; manchmal ist gerade die Zurückhaltung das schärfste Mittel.",
+          "ليست كل نقد قاسيًا؛ فالأحيان تكون الحيادية هي الأداة الأشد حدّة."
+        ],
+        [
+          "Die Formulierung ist bewusst offen, weil die Lage mehr Fragen als Antworten zulässt.",
+          "الصياغة متعمدة أن تكون مفتوحة، لأن الوضع يتيح أسئلة أكثر من إجابات.",
+          "دي فورموليرونغ إِست بِفوسْت أوفن، فايل دي لاغه مير فراگن آلس أنتڤورتن تسولات.",
+          "Die Formulierung ist bewusst offen, weil die Lage mehr Fragen als Antworten zulässt.",
+          "الصياغة متعمدة أن تكون مفتوحة، لأن الوضع يتيح أسئلة أكثر من إجابات."
+        ],
+        [
+          "Zwischen den Zeilen stand mehr, als der Sprecher direkt gesagt hat.",
+          "كان بين السطور أكثر مما قاله المتحدث مباشرة.",
+          "تڤيشن دين تسايلن شتانْد مير، آلس دير شبريخر ديرِكت غيزاغت هات.",
+          "Zwischen den Zeilen stand mehr, als der Sprecher direkt gesagt hat.",
+          "كان بين السطور أكثر مما قاله المتحدث مباشرة."
+        ],
+        [
+          "Eine gute Metapher erklärt nicht alles, aber sie öffnet den Blick für das Wesentliche.",
+          "الاستعارة الجيدة لا تشرح كل شيء، لكنها تفتح النظر إلى ما هو أساسي.",
+          "آينه غوتِه ميتاڤر إكْليرت نيت آلس، آبر زي أوفنت دين بليك فور داس ڤيزنتليخه.",
+          "Eine gute Metapher erklärt nicht alles, aber sie öffnet den Blick für das Wesentliche.",
+          "الاستعارة الجيدة لا تشرح كل شيء، لكنها تفتح النظر إلى ما هو أساسي."
+        ],
+        [
+          "Er wählte Worte mit Bedacht, damit die Botschaft klar bleibt und doch nicht plump wirkt.",
+          "اختار كلماته بعناية حتى تبقى الرسالة واضحة، ومع ذلك لا تبدو مبتذلة.",
+          "إر فالتِه فورته ميت بِداخت، دامت دي بوتشافت كلار بلايبت أوند دوخ نيت بلومپ فيركت.",
+          "Er wählte Worte mit Bedacht, damit die Botschaft klar bleibt und doch nicht plump wirkt.",
+          "اختار كلماته بعناية حتى تبقى الرسالة واضحة، ومع ذلك لا تبدو مبتذلة."
+        ],
+        [
+          "Die eigentliche Pointe liegt nicht im Lauten, sondern im genau gesetzten Kontrast.",
+          "تكمن النكتة أو الفكرة الحاسمة ليس في الصخب، بل في التضاد الموضوع بدقة.",
+          "دي آيْغنتليخه بوانته ليغت نيت إيم لاوتن، زوندِرن إيم غيناو غيزِتْتِن كونتراست.",
+          "Die eigentliche Pointe liegt nicht im Lauten, sondern im genau gesetzten Kontrast.",
+          "تكمن النكتة أو الفكرة الحاسمة ليس في الصخب، بل في التضاد الموضوع بدقة."
+        ],
+        [
+          "Wenn jemand so knapp spricht, ist oft mehr gemeint, als er ausdrücklich sagt.",
+          "عندما يتحدث أحدهم باقتضاب كهذا، فغالبًا ما يكون المقصود أكثر مما يقوله صراحة.",
+          "فِن يماند زو كناب شْپْريخت، إِست أوفت مير غيمانت، آلس إر آوسدروكليخ زاغت.",
+          "Wenn jemand so knapp spricht, ist oft mehr gemeint, als er ausdrücklich sagt.",
+          "عندما يتحدث أحدهم باقتضاب كهذا، فغالبًا ما يكون المقصود أكثر مما يقوله صراحة."
+        ],
+        [
+          "Die eleganteste Lösung ist nicht immer die sichtbarste, sondern die stimmigste.",
+          "الحل الأكثر أناقة ليس دائمًا الأوضح، بل الأكثر انسجامًا.",
+          "دي إيغلانتيسته لوزونغ إِست نيت إيمر دي زِختبارسته، زوندِرن دي شْتيميستيغه.",
+          "Die eleganteste Lösung ist nicht immer die sichtbarste, sondern die stimmigste.",
+          "الحل الأكثر أناقة ليس دائمًا الأوضح، بل الأكثر انسجامًا."
+        ]
+      ]
+    },
+    {
+      "topic": "النقد البنّاء",
+      "words": [
+        [
+          "Dein Entwurf hat Substanz; mit einem klareren Einstieg würde er noch überzeugender wirken.",
+          "لمسودتك مضمون قوي؛ ومع مقدمة أوضح ستبدو أكثر إقناعًا.",
+          "داين إنتڤورف هات زوبستانتس؛ مِت آينِم كلاررن آينشتايغ فورده إر نوخ أويبر تسويغندر فيركن.",
+          "Dein Entwurf hat Substanz; mit einem klareren Einstieg würde er noch überzeugender wirken.",
+          "لمسودتك مضمون قوي؛ ومع مقدمة أوضح ستبدو أكثر إقناعًا."
+        ],
+        [
+          "Ich sehe das Potenzial, aber die Begründung braucht an zwei Stellen mehr Tiefe.",
+          "أرى الإمكانات، لكن التعليل يحتاج إلى مزيد من العمق في موضعين.",
+          "إيخ زهِه داس بوتِنْتْسِيال، آبر دي بِغروندونغ براوخت آن تسڤاي شتلن مير تيفه.",
+          "Ich sehe das Potenzial, aber die Begründung braucht an zwei Stellen mehr Tiefe.",
+          "أرى الإمكانات، لكن التعليل يحتاج إلى مزيد من العمق في موضعين."
+        ],
+        [
+          "Wenn du den Punkt früher setzt, versteht man deine Absicht sofort.",
+          "إذا وضعت الفكرة مبكرًا، تُفهم نيتك فورًا.",
+          "فِن دو دين پونكت فْرِير زِتسْت، فِرشتېت مان داينه أبزِخت زوفورت.",
+          "Wenn du den Punkt früher setzt, versteht man deine Absicht sofort.",
+          "إذا وضعت الفكرة مبكرًا، تُفهم نيتك فورًا."
+        ],
+        [
+          "Die Zahlen sind hilfreich, doch ohne Kontext bleiben sie ziemlich blass.",
+          "الأرقام مفيدة، لكنها تبقى باهتة إلى حد ما من دون سياق.",
+          "دي تسالن زينْد هيلفرايخ، دوخ أونه كونتِكست بلايْبن زي تسيمليخ بلاس.",
+          "Die Zahlen sind hilfreich, doch ohne Kontext bleiben sie ziemlich blass.",
+          "الأرقام مفيدة، لكنها تبقى باهتة إلى حد ما من دون سياق."
+        ],
+        [
+          "Mir gefällt die klare Struktur; an der Übergangsstelle fehlt nur noch ein verbindender Satz.",
+          "أعجبتني البنية الواضحة؛ ولا ينقص في نقطة الانتقال سوى جملة ربط.",
+          "مير غيفيلت دي كلاره شترُكتور؛ آن دير أويبر غانغسشتِله فيلت نور نوخ آين فَربيندندر زاتس.",
+          "Mir gefällt die klare Struktur; an der Übergangsstelle fehlt nur noch ein verbindender Satz.",
+          "أعجبتني البنية الواضحة؛ ولا ينقص في نقطة الانتقال سوى جملة ربط."
+        ],
+        [
+          "Der Text ist schon stark, aber der Schluss könnte mutiger und weniger erklärend sein.",
+          "النص قوي أصلًا، لكن الخاتمة يمكن أن تكون أكثر جرأة وأقل شرحًا.",
+          "دير تيكست إِست شون شتارك، آبر دير شلوس كونته موتيغر أوند ڤينيغر إكْليرند زاین.",
+          "Der Text ist schon stark, aber der Schluss könnte mutiger und weniger erklärend sein.",
+          "النص قوي أصلًا، لكن الخاتمة يمكن أن تكون أكثر جرأة وأقل شرحًا."
+        ],
+        [
+          "Ich möchte nichts abschwächen; dennoch hilft eine präzisere Formulierung dem Argument.",
+          "لا أريد أن أضعف شيئًا؛ ومع ذلك تفيد صياغة أدق الحجة.",
+          "إيخ مخته نيتس أبشڤاخِن؛ دينوخ هيلفت آينه پريتسيسره فورموليرونغ ديم أرغومنت.",
+          "Ich möchte nichts abschwächen; dennoch hilft eine präzisere Formulierung dem Argument.",
+          "لا أريد أن أضعف شيئًا؛ ومع ذلك تفيد صياغة أدق الحجة."
+        ],
+        [
+          "Die Idee ist gut, nur die Reihenfolge nimmt ihr noch etwas von ihrer Wucht.",
+          "الفكرة جيدة، لكن الترتيب ينتزع منها بعض قوتها.",
+          "دي آيْديه إِست غوت، نور دي رايننْفولغه نيمت إير نوخ إتڤاس فون إيرر فوخت.",
+          "Die Idee ist gut, nur die Reihenfolge nimmt ihr noch etwas von ihrer Wucht.",
+          "الفكرة جيدة، لكن الترتيب ينتزع منها بعض قوتها."
+        ],
+        [
+          "Ich würde den Ton etwas nüchterner halten, damit die Aussage sachlicher wirkt.",
+          "سأجعل النبرة أكثر اعتدالًا قليلًا حتى تبدو الرسالة أكثر موضوعية.",
+          "إيخ فورده دين تون إتڤاس نيوخترنَر هالتن، دامت دي آوسازغه زاخليخر فيركت.",
+          "Ich würde den Ton etwas nüchterner halten, damit die Aussage sachlicher wirkt.",
+          "سأجعل النبرة أكثر اعتدالًا قليلًا حتى تبدو الرسالة أكثر موضوعية."
+        ],
+        [
+          "Deine Position ist nachvollziehbar; mit einem Beispiel wäre sie für andere noch greifbarer.",
+          "موقفك مفهوم؛ وبمثال سيكون أكثر قابلية للإدراك للآخرين.",
+          "داينه بوزيتسيون إِست ناخڤولتسيهبار؛ ميت آينِم بَيْشْپيل ڤيرِه زي فور آندره نوخ غْرايفبارَر.",
+          "Deine Position ist nachvollziehbar; mit einem Beispiel wäre sie für andere noch greifbarer.",
+          "موقفك مفهوم؛ وبمثال سيكون أكثر قابلية للإدراك للآخرين."
+        ]
+      ]
+    },
+    {
+      "topic": "السخرية والتلميح",
+      "words": [
+        [
+          "Na klar, pünktlich wie ein Uhrwerk — wenn man zwei Stunden Verspätung großzügig nennt.",
+          "طبعًا، في الموعد تمامًا كساعة دقيقة — إذا سمّينا ساعتين من التأخير كرمًا.",
+          "نا كلار، پينكتليخ ڤي آين أوورڤرك — فن مان تسڤاي شتوندن فِرشپيتونغ غْروسّزيوغِخ نينت.",
+          "Na klar, pünktlich wie ein Uhrwerk — wenn man zwei Stunden Verspätung großzügig nennt.",
+          "طبعًا، في الموعد تمامًا كساعة دقيقة — إذا سمّينا ساعتين من التأخير كرمًا."
+        ],
+        [
+          "Er sprach von Transparenz, während er die wichtigsten Zahlen natürlich „noch prüfte“.",
+          "تحدث عن الشفافية، بينما كان بالطبع «يفحص» أهم الأرقام.",
+          "إر شْبراخ فون ترانسبارنْتس، فيרِند إر دي ڤيختيستن تسالن ناخ دِر ناخ «نوخ پْرويفته».",
+          "Er sprach von Transparenz, während er die wichtigsten Zahlen natürlich „noch prüfte“.",
+          "تحدث عن الشفافية، بينما كان بالطبع «يفحص» أهم الأرقام."
+        ],
+        [
+          "Das ist ja interessant: Kaum wird es konkret, verschwinden plötzlich die großen Töne.",
+          "هذا مثير للاهتمام حقًا: ما إن يصبح الأمر محددًا حتى تختفي النغمة العالية فجأة.",
+          "داس إِست يا إنتِرسانت: كاوم فيرت إِس كونكريت، فِرشڤيندن بلوتسليخ دي غروسِن تونِه.",
+          "Das ist ja interessant: Kaum wird es konkret, verschwinden plötzlich die großen Töne.",
+          "هذا مثير للاهتمام حقًا: ما إن يصبح الأمر محددًا حتى تختفي النغمة العالية فجأة."
+        ],
+        [
+          "Natürlich war das nur ein Zufall, genau wie die dritte „letzte“ Änderung in dieser Woche.",
+          "بالطبع كان ذلك مجرد صدفة، تمامًا مثل «آخر» تعديل ثالث هذا الأسبوع.",
+          "ناخ تورليخ فار داس نور آين تسوفال، غيناو ڤي دي دريته «لتستِه» أندِرونغ إن دِيْزر ڤوخه.",
+          "Natürlich war das nur ein Zufall, genau wie die dritte „letzte“ Änderung in dieser Woche.",
+          "بالطبع كان ذلك مجرد صدفة، تمامًا مثل «آخر» تعديل ثالث هذا الأسبوع."
+        ],
+        [
+          "Wenn jemand so entschlossen schweigt, sagt das manchmal mehr als ein ganzer Vortrag.",
+          "عندما يصمت أحدهم بهذه الحزم، فذلك أحيانًا يقول أكثر من محاضرة كاملة.",
+          "فِن يماند زو إنتشلسن شڤايت، زاغت داس مانخمال مير آلس آين غانتسر فورتراگ.",
+          "Wenn jemand so entschlossen schweigt, sagt das manchmal mehr als ein ganzer Vortrag.",
+          "عندما يصمت أحدهم بهذه الحزم، فذلك أحيانًا يقول أكثر من محاضرة كاملة."
+        ],
+        [
+          "Das Lob kam so überschwänglich, dass man den versteckten Seitenhieb kaum überhören konnte.",
+          "جاء المديح مفرطًا إلى حد أن التلميح الجانبي الخفي كان يصعب عدم سماعه.",
+          "داس لوب كام زو أويبرشڤينغليخ، داس مان دين فِرشتِكتِن زايتنهيب كاوم أويبرهورن كونته.",
+          "Das Lob kam so überschwänglich, dass man den versteckten Seitenhieb kaum überhören konnte.",
+          "جاء المديح مفرطًا إلى حد أن التلميح الجانبي الخفي كان يصعب عدم سماعه."
+        ],
+        [
+          "Er nennt es Effizienz; andere würden es eher eine elegante Abkürzung nennen.",
+          "يسميه هو كفاءة؛ بينما قد يسميه آخرون اختصارًا أنيقًا.",
+          "إر ننتس إِس إفِتسيينتس؛ آندره فوردن إِس إير آينه إيغنـتِه أبكورسونغ ننن.",
+          "Er nennt es Effizienz; andere würden es eher eine elegante Abkürzung nennen.",
+          "يسميه هو كفاءة؛ بينما قد يسميه آخرون اختصارًا أنيقًا."
+        ],
+        [
+          "So viel Gelassenheit nach dem Fehler ist fast schon bewundernswert.",
+          "هذا القدر من الهدوء بعد الخطأ يكاد يكون مثيرًا للإعجاب.",
+          "زو فيل غِلاسنهايت ناخ ديم فيلر إِست فاست شون بِفوندِرنزڤيرت.",
+          "So viel Gelassenheit nach dem Fehler ist fast schon bewundernswert.",
+          "هذا القدر من الهدوء بعد الخطأ يكاد يكون مثيرًا للإعجاب."
+        ],
+        [
+          "Das war sicher nicht absichtlich schiefgelaufen, immerhin passt die Ausrede perfekt dazu.",
+          "من المؤكد أن الأمر لم يَسِر خطأً عمدًا، على الأقل ينسجم العذر معه تمامًا.",
+          "داس فار زِخر نيت أبزيختليخ شيغلاوفن، إيمرْهين پاست دي آوسروده پرفِكت دازو.",
+          "Das war sicher nicht absichtlich schiefgelaufen, immerhin passt die Ausrede perfekt dazu.",
+          "من المؤكد أن الأمر لم يَسِر خطأً عمدًا، على الأقل ينسجم العذر معه تمامًا."
+        ],
+        [
+          "Man könnte fast meinen, die Euphorie diene nur dazu, die Lücke im Inhalt zu kaschieren.",
+          "يكاد المرء يظن أن الحماس لا يخدم إلا إخفاء الثغرة في المضمون.",
+          "مان كونته فاست ماينن، دي أويفوريه دينه نور دازو، دي لوكه إيم إينهاالت تسو كاشيرن.",
+          "Man könnte fast meinen, die Euphorie diene nur dazu, die Lücke im Inhalt zu kaschieren.",
+          "يكاد المرء يظن أن الحماس لا يخدم إلا إخفاء الثغرة في المضمون."
+        ]
+      ]
+    },
+    {
+      "topic": "إعادة الصياغة والتلخيص",
+      "words": [
+        [
+          "Kurz gesagt: Der Plan ist schlüssig, aber ohne klare Zuständigkeiten bleibt er angreifbar.",
+          "باختصار: الخطة متماسكة، لكنها تظل قابلة للنقد من دون تحديد واضح للمسؤوليات.",
+          "كورتس غيزاغت: دير پلان إِست شلويسيغ، آبر أونه كلاره تسوشتينديغكايتن بلايبت إر أنغرايفبار.",
+          "Kurz gesagt: Der Plan ist schlüssig, aber ohne klare Zuständigkeiten bleibt er angreifbar.",
+          "باختصار: الخطة متماسكة، لكنها تظل قابلة للنقد من دون تحديد واضح للمسؤوليات."
+        ],
+        [
+          "Anders formuliert: Wir brauchen nicht mehr Ideen, sondern einen sauberen Schwerpunkt.",
+          "بصياغة أخرى: لسنا بحاجة إلى مزيد من الأفكار، بل إلى محور واضح ومنضبط.",
+          "آندرس فورموليِرت: ڤير براوخن نيت مير آيْدين، زوندِرن آينن زاوبِرن شڤيرپونكت.",
+          "Anders formuliert: Wir brauchen nicht mehr Ideen, sondern einen sauberen Schwerpunkt.",
+          "بصياغة أخرى: لسنا بحاجة إلى مزيد من الأفكار، بل إلى محور واضح ومنضبط."
+        ],
+        [
+          "Mit wenigen Worten: Die Debatte drehte sich weniger um Inhalte als um Erwartungen.",
+          "بكلمات قليلة: كان الجدل يدور أقل حول المحتوى وأكثر حول التوقعات.",
+          "ميت ڤينيغِن فورتن: دي دِباته دريهته زِيخ ڤينيغر أوم إينهاالته آلس أوم إرڤارتونغِن.",
+          "Mit wenigen Worten: Die Debatte drehte sich weniger um Inhalte als um Erwartungen.",
+          "بكلمات قليلة: كان الجدل يدور أقل حول المحتوى وأكثر حول التوقعات."
+        ],
+        [
+          "Zusammenfassend lässt sich sagen, dass der Zeitdruck die Qualität stärker beeinflusst als gedacht.",
+          "خلاصة القول إن ضغط الوقت يؤثر في الجودة أكثر مما كان متوقعًا.",
+          "تسوزامنفاسند ليست زيخ زاغن، داس دير تسايتدروك دي كڤاليتات شتيركر بِإِنفلوست آلس غيداخت.",
+          "Zusammenfassend lässt sich sagen, dass der Zeitdruck die Qualität stärker beeinflusst als gedacht.",
+          "خلاصة القول إن ضغط الوقت يؤثر في الجودة أكثر مما كان متوقعًا."
+        ],
+        [
+          "In einem Satz: Die Lösung ist da, doch sie muss noch konsequenter umgesetzt werden.",
+          "في جملة واحدة: الحل موجود، لكنه يحتاج إلى تنفيذ أكثر اتساقًا.",
+          "إِن آينِم زاتس: دي لوزونغ إِست دا، دوخ زي موس نوخ كونزيكڤنتر أومغيزِتسْت ڤيردن.",
+          "In einem Satz: Die Lösung ist da, doch sie muss noch konsequenter umgesetzt werden.",
+          "في جملة واحدة: الحل موجود، لكنه يحتاج إلى تنفيذ أكثر اتساقًا."
+        ],
+        [
+          "Vereinfacht gesagt bleibt vom langen Bericht vor allem die Prioritätensetzung hängen.",
+          "ببساطة: ما يبقى من التقرير الطويل أساسًا هو ترتيب الأولويات.",
+          "فِراينفخت غيزاغت بلايبت فون لانغِن بيريخت فور آلهِم دي پريوريتاتن زِتسونغ هينغن.",
+          "Vereinfacht gesagt bleibt vom langen Bericht vor allem die Prioritätensetzung hängen.",
+          "ببساطة: ما يبقى من التقرير الطويل أساسًا هو ترتيب الأولويات."
+        ],
+        [
+          "Die Kernaussage lautet, dass Kooperation mehr bringt als vorschnelle Konkurrenz.",
+          "الرسالة الأساسية هي أن التعاون يحقق أكثر من المنافسة المتسرعة.",
+          "دي كيرناوساغه لاوتِت، داس كوبراتسيون مير برينغت آلس فورشنله كونكورنتس.",
+          "Die Kernaussage lautet, dass Kooperation mehr bringt als vorschnelle Konkurrenz.",
+          "الرسالة الأساسية هي أن التعاون يحقق أكثر من المنافسة المتسرعة."
+        ],
+        [
+          "Auf den Punkt gebracht: Der erste Entwurf war stark, die Feinarbeit entscheidet nun alles.",
+          "باختصار شديد: كانت المسودة الأولى قوية، أما الآن فالتفاصيل الحاسمة هي التي ستحدد كل شيء.",
+          "آوف دين پونكت غيبرخت: دير إرسْتِه إنتڤورف فار شتارك، دي فاينآربايت إنتشايدت نون آلس.",
+          "Auf den Punkt gebracht: Der erste Entwurf war stark, die Feinarbeit entscheidet nun alles.",
+          "باختصار شديد: كانت المسودة الأولى قوية، أما الآن فالتفاصيل الحاسمة هي التي ستحدد كل شيء."
+        ],
+        [
+          "Man kann es so sagen: Nicht der Umfang fehlt, sondern die klare Linie.",
+          "يمكن القول هكذا: ليس النقص في الحجم، بل في الخط الواضح.",
+          "مان كان إِس زو زاغن: نيخت دير أومفانغ فيلت، زوندِرن دي كلاره لينيه.",
+          "Man kann es so sagen: Nicht der Umfang fehlt, sondern die klare Linie.",
+          "يمكن القول هكذا: ليس النقص في الحجم، بل في الخط الواضح."
+        ],
+        [
+          "Unterm Strich bleibt ein überzeugender Ansatz, der nur noch verdichtet werden muss.",
+          "في المحصلة يبقى نهج مقنع، لكنه يحتاج فقط إلى مزيد من التكثيف.",
+          "أونترم شتريخ بلايبت آين أويبر تسويغندر أنتساتس، دير نور نوخ فِرديختت ڤيردن موس.",
+          "Unterm Strich bleibt ein überzeugender Ansatz, der nur noch verdichtet werden muss.",
+          "في المحصلة يبقى نهج مقنع، لكنه يحتاج فقط إلى مزيد من التكثيف."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

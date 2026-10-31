@@ -1,0 +1,2630 @@
+{
+  "lessons": [
+    {
+      "topic": "التعلّم المستقل",
+      "words": [
+        [
+          "Je lis au-delà du programme, car c’est souvent dans les marges que se cachent les meilleures questions.",
+          "أقرأ ما يتجاوز المنهج، لأن أفضل الأسئلة تختبئ غالبًا في الهوامش.",
+          "ژو ري أودلا ديو پروگرام، كار سې توفوا دان لي مارج كَ سُ كاش لي مېيُور كيسْتيون.",
+          "Je lis au-delà du programme, car c’est souvent dans les marges que se cachent les meilleures questions.",
+          "أقرأ ما يتجاوز المنهج، لأن أفضل الأسئلة تختبئ غالبًا في الهوامش."
+        ],
+        [
+          "Quand je bloque, je ne force pas la réponse: je reformule, puis je cherche l’angle qui éclaire.",
+          "عندما أتعثر، لا أضغط على الإجابة؛ أعيد الصياغة، ثم أبحث عن الزاوية التي تضيء المعنى.",
+          "كان ژو بلوك، ژو نَ فورس پا لا رُپونس: ژو رُفورمول، پُي ژو شيرش لانگل كي إكلير.",
+          "Quand je bloque, je ne force pas la réponse: je reformule, puis je cherche l’angle qui éclaire.",
+          "عندما أتعثر، لا أضغط على الإجابة؛ أعيد الصياغة، ثم أبحث عن الزاوية التي تضيء المعنى."
+        ],
+        [
+          "Apprendre seul ne veut pas dire apprendre isolé; je compare, j’essaie et je corrige sans me mentir.",
+          "التعلم وحدي لا يعني أنني معزول؛ أقارن وأجرب وأصحح بلا مجاملة لنفسي.",
+          "أپراندر سول نُ ڤو پا دير أپراندر إيزوله؛ ژو كومپار، ژيساي و ژو كوريج سان مُ مانتير.",
+          "Apprendre seul ne veut pas dire apprendre isolé; je compare, j’essaie et je corrige sans me mentir.",
+          "التعلم وحدي لا يعني أنني معزول؛ أقارن وأجرب وأصحح بلا مجاملة لنفسي."
+        ],
+        [
+          "Je garde trace de mes erreurs, non pour m’y attarder, mais pour éviter de tourner en rond.",
+          "أحتفظ بسجل لأخطائي، لا لأعلق عندها، بل حتى لا أدور في حلقة مفرغة.",
+          "ژو غارد تراس دو مېزورور، نون پور مي تا-تارديه، مې پور إڤيتيه دو تورنيه آن رون.",
+          "Je garde trace de mes erreurs, non pour m’y attarder, mais pour éviter de tourner en rond.",
+          "أحتفظ بسجل لأخطائي، لا لأعلق عندها، بل حتى لا أدور في حلقة مفرغة."
+        ],
+        [
+          "Un bon apprentissage personnel suppose de l’exigence, mais aussi le droit de tâtonner sans honte.",
+          "التعلم الشخصي الجيد يفترض الصرامة، لكنه يمنح أيضًا حق التجريب المتعثر بلا خجل.",
+          "أن بون أپرانتيساج پيرسونيل سوبوز دو ليغزيونص، مې أوسي لو دروا دو تاتونيي سان هونت.",
+          "Un bon apprentissage personnel suppose de l’exigence, mais aussi le droit de tâtonner sans honte.",
+          "التعلم الشخصي الجيد يفترض الصرامة، لكنه يمنح أيضًا حق التجريب المتعثر بلا خجل."
+        ],
+        [
+          "Je ne confonds pas vitesse et progrès: mieux vaut avancer lucidement que courir après le vernis.",
+          "لا أخلط بين السرعة والتقدم؛ الأفضل أن أتقدم بوعي من أن أركض خلف المظهر.",
+          "ژو نُ كونفون پا ڤيتيس إ پروغري: مييو ڤو آڤانسه لوسيذمان كُ كورير أپري لُ ڤيرني.",
+          "Je ne confonds pas vitesse et progrès: mieux vaut avancer lucidement que courir après le vernis.",
+          "لا أخلط بين السرعة والتقدم؛ الأفضل أن أتقدم بوعي من أن أركض خلف المظهر."
+        ],
+        [
+          "Chaque source me contredit un peu, et c’est précisément ce frottement qui affine mon jugement.",
+          "كل مصدر يخالفني قليلًا، وهذا الاحتكاك نفسه هو ما يصقل حكمي.",
+          "شاك سُرس مُ كونتريدي أن پُ، إي سې پرېسيسمان سُ فروطمان كي أفين مُن ژوژمان.",
+          "Chaque source me contredit un peu, et c’est précisément ce frottement qui affine mon jugement.",
+          "كل مصدر يخالفني قليلًا، وهذا الاحتكاك نفسه هو ما يصقل حكمي."
+        ],
+        [
+          "Je relis mes notes avec un œil critique, parce qu’un souvenir net n’est pas toujours un savoir juste.",
+          "أراجع ملاحظاتي بعين نقدية، لأن الذكرى الواضحة ليست دائمًا معرفة دقيقة.",
+          "ژو رُلي مې نوت آڤيك أن أويي كريتيك، پارس كأن سُڤنير نې نە پا توژور أن سَڤوار ژوست.",
+          "Je relis mes notes avec un œil critique, parce qu’un souvenir net n’est pas toujours un savoir juste.",
+          "أراجع ملاحظاتي بعين نقدية، لأن الذكرى الواضحة ليست دائمًا معرفة دقيقة."
+        ],
+        [
+          "Je préfère une méthode imparfaite mais tenable à une perfection qui m’épuise avant même de commencer.",
+          "أفضل منهجًا غير كامل لكنه قابل للاستمرار على كمال يستنزفني قبل أن أبدأ.",
+          "ژو پرېفير أون مېتود أنپارفيت مې تَنابل آ أون پيرفكسيون كي مېپويز آڤان ميم دو كومانسيه.",
+          "Je préfère une méthode imparfaite mais tenable à une perfection qui m’épuise avant même de commencer.",
+          "أفضل منهجًا غير كامل لكنه قابل للاستمرار على كمال يستنزفني قبل أن أبدأ."
+        ],
+        [
+          "Au fond, apprendre seul me rend moins dépendant des réponses toutes faites et plus responsable de mes choix.",
+          "في العمق، التعلم وحدي يجعلني أقل اعتمادًا على الإجابات الجاهزة وأكثر مسؤولية عن اختياراتي.",
+          "أو فون، أپراندر سول مُ ران موا دێپاندان دي رُپونس توت فات، إي پلي ريسپونسابل دو مې شوا.",
+          "Au fond, apprendre seul me rend moins dépendant des réponses toutes faites et plus responsable de mes choix.",
+          "في العمق، التعلم وحدي يجعلني أقل اعتمادًا على الإجابات الجاهزة وأكثر مسؤولية عن اختياراتي."
+        ]
+      ]
+    },
+    {
+      "topic": "التفاوض باحترام",
+      "words": [
+        [
+          "Je peux céder sur la forme, mais pas au point de trahir l’idée qui donne sens à l’accord.",
+          "يمكنني التنازل عن الشكل، لكن ليس إلى حد خيانة الفكرة التي تعطي الاتفاق معناه.",
+          "ژو پُ سېديه سور لا فورم، مې پا أو پوآن دو تريهير ليدي كي دون سانس آ لياكور.",
+          "Je peux céder sur la forme, mais pas au point de trahir l’idée qui donne sens à l’accord.",
+          "يمكنني التنازل عن الشكل، لكن ليس إلى حد خيانة الفكرة التي تعطي الاتفاق معناه."
+        ],
+        [
+          "Si vous défendez votre position avec calme, je l’écouterai sans chercher à gagner la pièce.",
+          "إذا دافعت عن موقفك بهدوء، فسأستمع إليك من غير أن أسعى إلى كسب الجولة.",
+          "سي ڤو ديفاندي ڤوتر پوزيسيون آڤيك كالْم، ژو ليسكوتري سان شيرشي آ ګانيه لا پْياس.",
+          "Si vous défendez votre position avec calme, je l’écouterai sans chercher à gagner la pièce.",
+          "إذا دافعت عن موقفك بهدوء، فسأستمع إليك من غير أن أسعى إلى كسب الجولة."
+        ],
+        [
+          "Je n’ai aucun intérêt à vous forcer la main; un bon compromis doit rester digne des deux côtés.",
+          "ليس لي أي مصلحة في إرغامك؛ فالتسوية الجيدة يجب أن تبقى لائقة للطرفين.",
+          "ژو نيه أوكان انتيريه آ ڤو فورسي لا مان؛ أون بون كومپرومي دوا رُستير ديني دي دوه كوتيه.",
+          "Je n’ai aucun intérêt à vous forcer la main; un bon compromis doit rester digne des deux côtés.",
+          "ليس لي أي مصلحة في إرغامك؛ فالتسوية الجيدة يجب أن تبقى لائقة للطرفين."
+        ],
+        [
+          "Vous avez raison sur un point, et cela suffit parfois à rouvrir une discussion bloquée.",
+          "أنت محق في نقطة واحدة، وهذا يكفي أحيانًا لإعادة فتح نقاش متعثر.",
+          "ڤو زاڤي ريزون سور أن پوآن، إي سلا سُفي پارفوا آ روڤرير أون ديسكوسيون بلوكيه.",
+          "Vous avez raison sur un point, et cela suffit parfois à rouvrir une discussion bloquée.",
+          "أنت محق في نقطة واحدة، وهذا يكفي أحيانًا لإعادة فتح نقاش متعثر."
+        ],
+        [
+          "Je préfère une objection nette à un accord flou qui se fissurera dès la première contrainte.",
+          "أفضل اعتراضًا واضحًا على اتفاق ضبابي سيتشقق عند أول ضغط.",
+          "ژو پرېفير أون أوبژكسيون نيت آ أون أكور فو كي سُ فيسوررا دێ لا پرميير كونترينت.",
+          "Je préfère une objection nette à un accord flou qui se fissurera dès la première contrainte.",
+          "أفضل اعتراضًا واضحًا على اتفاق ضبابي سيتشقق عند أول ضغط."
+        ],
+        [
+          "Par souci d’équité, je vous propose un échange qui ne sacrifie ni votre temps ni le mien.",
+          "حرصًا على الإنصاف، أقترح تبادلًا لا يضحّي لا بوقتك ولا بوقتي.",
+          "پار سوسي ديكڤيتي، ژو ڤو پروپوز أون إيشانج كي نە سقريفیي ني ڤوتر تان ني لُ مين.",
+          "Par souci d’équité, je vous propose un échange qui ne sacrifie ni votre temps ni le mien.",
+          "حرصًا على الإنصاف، أقترح تبادلًا لا يضحّي لا بوقتك ولا بوقتي."
+        ],
+        [
+          "Inutile d’élever la voix: une remarque bien formulée pèse souvent plus qu’un reproche brusque.",
+          "لا داعي لرفع الصوت؛ فملاحظة مصاغة جيدًا غالبًا ما تكون أثقل من لومٍ فجّ.",
+          "إينوتيل ديلڤيه لا ڤوا: أون رُمارك بيان فورمولي پېز سُڤان پلو كأن رُپروش بروسك.",
+          "Inutile d’élever la voix: une remarque bien formulée pèse souvent plus qu’un reproche brusque.",
+          "لا داعي لرفع الصوت؛ فملاحظة مصاغة جيدًا غالبًا ما تكون أثقل من لومٍ فجّ."
+        ],
+        [
+          "Je vous entends, mais j’aimerais distinguer ce qui relève du principe de ce qui tient au contexte.",
+          "أفهمك، لكني أود التمييز بين ما يعود إلى المبدأ وما يعود إلى السياق.",
+          "ژو ڤو زانتان، مې ژيمرې ديستانجيه سُ كي رُليف دو پرانسيپ دو سُ كي تيان أو كونتكست.",
+          "Je vous entends, mais j’aimerais distinguer ce qui relève du principe de ce qui tient au contexte.",
+          "أفهمك، لكني أود التمييز بين ما يعود إلى المبدأ وما يعود إلى السياق."
+        ],
+        [
+          "Nous gagnerons du temps si chacun dit clairement ce qui est non négociable dès maintenant.",
+          "سنوفّر الوقت إذا قال كل واحد بوضوح ما هو غير قابل للتفاوض من الآن.",
+          "نۇ گانيهرون دو تان سي شاكان دي كليرما سُ كي إيه نون نيجوسيابل دي مانتنان.",
+          "Nous gagnerons du temps si chacun dit clairement ce qui est non négociable dès maintenant.",
+          "سنوفّر الوقت إذا قال كل واحد بوضوح ما هو غير قابل للتفاوض من الآن."
+        ],
+        [
+          "Un désaccord peut rester civilisé; c’est même souvent là que se mesure le respect réel.",
+          "يمكن للخلاف أن يبقى مهذبًا؛ بل غالبًا ما يظهر فيه الاحترام الحقيقي.",
+          "أن ديزاكور پُ رستير سيفيليزه؛ سې ميم سُڤان لا كُ سُ ميزور لُ ريسپيه ريئيل.",
+          "Un désaccord peut rester civilisé; c’est même souvent là que se mesure le respect réel.",
+          "يمكن للخلاف أن يبقى مهذبًا؛ بل غالبًا ما يظهر فيه الاحترام الحقيقي."
+        ]
+      ]
+    },
+    {
+      "topic": "العمل الجماعي",
+      "words": [
+        [
+          "Une équipe solide ne parle pas plus fort; elle écoute mieux et transforme les hésitations en repères.",
+          "الفريق المتماسك لا يتحدث بصوت أعلى؛ بل يصغي أفضل ويحّول التردد إلى معالم.",
+          "يون إكيب سُليد نُ پارل پا پلي فور؛ إيل إكوت ميو إي ترانسفورم ليزيزيتاسيون أن رُپير.",
+          "Une équipe solide ne parle pas plus fort; elle écoute mieux et transforme les hésitations en repères.",
+          "الفريق المتماسك لا يتحدث بصوت أعلى؛ بل يصغي أفضل ويحّول التردد إلى معالم."
+        ],
+        [
+          "Je préfère les rôles clairs aux héroïsmes improvisés, car l’efficacité se construit à plusieurs mains.",
+          "أفضل الأدوار الواضحة على بطولات مرتجلة، لأن الفعالية تُبنى بأيدٍ متعددة.",
+          "ژو پرېفير لي رول كلير أو إيرويزم أپروڤيزيه، كار ليفيكاسيتي سُ كونستروي آ پليزير مان.",
+          "Je préfère les rôles clairs aux héroïsmes improvisés, car l’efficacité se construit à plusieurs mains.",
+          "أفضل الأدوار الواضحة على بطولات مرتجلة، لأن الفعالية تُبنى بأيدٍ متعددة."
+        ],
+        [
+          "Quand chacun assume sa part, le groupe avance sans bruit inutile et sans perdre sa cohérence.",
+          "حين يتحمل كل فرد نصيبه، يمضي الفريق بلا ضجيج غير ضروري ودون أن يفقد تماسكه.",
+          "كان شاكان أسوم سا پار، لُ گروپ آڤانس سان بروي إينوتيل إي سان پيرد سا كوهيرانس.",
+          "Quand chacun assume sa part, le groupe avance sans bruit inutile et sans perdre sa cohérence.",
+          "حين يتحمل كل فرد نصيبه، يمضي الفريق بلا ضجيج غير ضروري ودون أن يفقد تماسكه."
+        ],
+        [
+          "Les divergences ne me dérangent pas; elles deviennent fécondes dès qu’on les traite avec méthode.",
+          "الاختلافات لا تزعجني؛ فهي تصبح مثمرة ما إن نعاملها بمنهجية.",
+          "لي ديڤيرجانس نُ مې ديرانژ پا؛ إيل دُڤين فېكوند ديسكون لي ترات آڤيك مېتود.",
+          "Les divergences ne me dérangent pas; elles deviennent fécondes dès qu’on les traite avec méthode.",
+          "الاختلافات لا تزعجني؛ فهي تصبح مثمرة ما إن نعاملها بمنهجية."
+        ],
+        [
+          "Je fais confiance à l’intelligence collective, à condition de ne pas confondre vitesse et précipitation.",
+          "أثق بالعقل الجماعي، بشرط ألا نخلط بين السرعة والتسرع.",
+          "ژو فَي كونفيانس آ لانتليژانس كولكتيف، آ كونديسيون دو نُ پا كونفوندر ڤيتيس إي پريسيپيتاسيون.",
+          "Je fais confiance à l’intelligence collective, à condition de ne pas confondre vitesse et précipitation.",
+          "أثق بالعقل الجماعي، بشرط ألا نخلط بين السرعة والتسرع."
+        ],
+        [
+          "Un bon collectif sait répartir les tâches sans flatter les ego ni étouffer les plus discrets.",
+          "الفريق الجيد يعرف كيف يوزع المهام دون مداهنة الأنانيات أو إخماد الأصوات الهادئة.",
+          "أن بون كولكتيف سې رُپارتيه لي تاش سان فلاتيه لي إيغو ني إتوفيه لي پلي ديسكري.",
+          "Un bon collectif sait répartir les tâches sans flatter les ego ni étouffer les plus discrets.",
+          "الفريق الجيد يعرف كيف يوزع المهام دون مداهنة الأنانيات أو إخماد الأصوات الهادئة."
+        ],
+        [
+          "J’apprécie quand une idée est reprise, à condition qu’elle soit mieux pensée et non simplement répétée.",
+          "أقدّر حين تُؤخذ فكرة وتُعاد، بشرط أن تصبح أفضل تفكيرًا لا مجرد تكرار.",
+          "ژاپريسي كان أون ايدي إيه رپريز، آ كونديسيون كيل سوا مييو پانسه إي نون سمپلمان رپتيه.",
+          "J’apprécie quand une idée est reprise, à condition qu’elle soit mieux pensée et non simplement répétée.",
+          "أقدّر حين تُؤخذ فكرة وتُعاد، بشرط أن تصبح أفضل تفكيرًا لا مجرد تكرار."
+        ],
+        [
+          "Les malentendus se règlent plus vite quand on ose demander ce qui paraît évident à d’autres.",
+          "سوء الفهم يُحل أسرع حين نجرؤ على سؤال ما يبدو بديهيًا للآخرين.",
+          "لي مالانتاندو سُ رېغْل پلي ڤيت كان أون أوز ديمانديه سُ كي پيريه إڤيدان آ دوتغ.",
+          "Les malentendus se règlent plus vite quand on ose demander ce qui paraît évident à d’autres.",
+          "سوء الفهم يُحل أسرع حين نجرؤ على سؤال ما يبدو بديهيًا للآخرين."
+        ],
+        [
+          "Dans un projet commun, le désaccord utile vaut mieux qu’une unanimité de façade.",
+          "في مشروع مشترك، الخلاف المفيد أفضل من إجماع شكلي.",
+          "دان زان پروژه كومان، لُ ديزاكور يوتيل ڤو مييو كيون أونانيميتي دو فاساد.",
+          "Dans un projet commun, le désaccord utile vaut mieux qu’une unanimité de façade.",
+          "في مشروع مشترك، الخلاف المفيد أفضل من إجماع شكلي."
+        ],
+        [
+          "Je me sens plus utile quand je facilite les liens que lorsque je cherche à briller seul.",
+          "أشعر بأنني أكثر فائدة حين أيسّر الروابط بدل أن أسعى للتألق وحدي.",
+          "ژو مُ سان پلي يوتيل كان ژو فاسيليت لي ليان كُ لورسك ژو شيرش آ برييه سول.",
+          "Je me sens plus utile quand je facilite les liens que lorsque je cherche à briller seul.",
+          "أشعر بأنني أكثر فائدة حين أيسّر الروابط بدل أن أسعى للتألق وحدي."
+        ]
+      ]
+    },
+    {
+      "topic": "حل النزاعات",
+      "words": [
+        [
+          "Avant de trancher, j’essaie de comprendre ce qui a réellement blessé chacun.",
+          "قبل الحسم، أحاول أن أفهم ما الذي جرح كل طرف فعلًا.",
+          "آڤان دو ترانشيه، ژيساي دو كومپراندر سُ كي آ ريئلمان بليسي شاكان.",
+          "Avant de trancher, j’essaie de comprendre ce qui a réellement blessé chacun.",
+          "قبل الحسم، أحاول أن أفهم ما الذي جرح كل طرف فعلًا."
+        ],
+        [
+          "Un conflit s’envenime moins quand on nomme le problème sans charger l’autre d’intentions prêtées.",
+          "يقل تفاقم النزاع حين نسمّي المشكلة دون أن ننسب للآخر نوايا مفترضة.",
+          "أن كونفلي سانونڤنيم موا كان أون نوم لُ پروبليم سان شارجيه لوتْر دانتيسيون پرېتيه.",
+          "Un conflit s’envenime moins quand on nomme le problème sans charger l’autre d’intentions prêtées.",
+          "يقل تفاقم النزاع حين نسمّي المشكلة دون أن ننسب للآخر نوايا مفترضة."
+        ],
+        [
+          "Je cherche une sortie honorable, parce qu’un vainqueur humilié prépare souvent la prochaine rupture.",
+          "أبحث عن مخرج مشرف، لأن المنتصر المُذل يهيئ غالبًا لقطيعة لاحقة.",
+          "ژو شيرش أون سورتي أونورابل، پارس كأن ڤانكور ييوميليي پرپاري سُڤان لا پروشين رپتير.",
+          "Je cherche une sortie honorable, parce qu’un vainqueur humilié prépare souvent la prochaine rupture.",
+          "أبحث عن مخرج مشرف، لأن المنتصر المُذل يهيئ غالبًا لقطيعة لاحقة."
+        ],
+        [
+          "Si l’on écoute les faits avant les récits, on gagne déjà la moitié du chemin vers l’apaisement.",
+          "إذا استمعنا إلى الوقائع قبل الروايات، نكون قد ربحنا نصف الطريق نحو التهدئة.",
+          "سي لون إكوت لي فَي آڤان لي رُسي، أون ګانيه دژا لا مويتي دو شُمان ڤير لاپيزمان.",
+          "Si l’on écoute les faits avant les récits, on gagne déjà la moitié du chemin vers l’apaisement.",
+          "إذا استمعنا إلى الوقائع قبل الروايات، نكون قد ربحنا نصف الطريق نحو التهدئة."
+        ],
+        [
+          "Le pardon n’exige pas l’oubli; il demande surtout de renoncer à la revanche comme horizon.",
+          "المسامحة لا تشترط النسيان؛ إنها تتطلب أساسًا التخلي عن الانتقام بوصفه أفقًا.",
+          "لُ پاردون نېكزيژ پا لوُبلي؛ إيل ديماندر سورتو دو رُنونسي آ لا رڤانش كوم اُريزون.",
+          "Le pardon n’exige pas l’oubli; il demande surtout de renoncer à la revanche comme horizon.",
+          "المسامحة لا تشترط النسيان؛ إنها تتطلب أساسًا التخلي عن الانتقام بوصفه أفقًا."
+        ],
+        [
+          "Quand les mots dépassent la pensée, je ralentis la conversation pour éviter l’irréparable.",
+          "عندما تتجاوز الكلمات القصد، أبطئ الحديث لتجنب ما لا يمكن إصلاحه.",
+          "كان لي موا دپاس لا پانسه، ژو رالانتي لا كونڤيرساسيون پور إڤيتيه ليرإپارابل.",
+          "Quand les mots dépassent la pensée, je ralentis la conversation pour éviter l’irréparable.",
+          "عندما تتجاوز الكلمات القصد، أبطئ الحديث لتجنب ما لا يمكن إصلاحه."
+        ],
+        [
+          "Une médiation réussit mieux si chacun accepte d’être corrigé sans perdre la face.",
+          "تنجح الوساطة أفضل إذا قبل كل طرف أن يُصحَّح دون أن يفقد ماء وجهه.",
+          "يون ميدياسيون ريوسيت مييو سي شاكان أكسِپت ديتْر كورِيجي سان پيرد لا فاس.",
+          "Une médiation réussit mieux si chacun accepte d’être corrigé sans perdre la face.",
+          "تنجح الوساطة أفضل إذا قبل كل طرف أن يُصحَّح دون أن يفقد ماء وجهه."
+        ],
+        [
+          "Je distingue l’urgence du fond: parfois, il faut calmer l’incident avant de traiter la cause.",
+          "أميّز بين العجلة والجوهر؛ فبعض الأحيان يجب تهدئة الحادث أولًا ثم معالجة السبب.",
+          "ژو ديستانج لُرجانس دو فون؛ پارفوا، إيل فو كالمي لانسيدان آڤان دو تراتيه لا كوز.",
+          "Je distingue l’urgence du fond: parfois, il faut calmer l’incident avant de traiter la cause.",
+          "أميّز بين العجلة والجوهر؛ فبعض الأحيان يجب تهدئة الحادث أولًا ثم معالجة السبب."
+        ],
+        [
+          "Le désaccord devient constructif quand il oblige chacun à préciser ce qu’il défend vraiment.",
+          "يصبح الخلاف بنّاءً حين يجبر كل طرف على توضيح ما يدافع عنه حقًا.",
+          "لُ ديزاكور دُڤيان كونستروكتيڤ كان إيل أوبليژ شاكان آ پرېسيزيه سُ كيل ديفاندر ڤرومان.",
+          "Le désaccord devient constructif quand il oblige chacun à préciser ce qu’il défend vraiment.",
+          "يصبح الخلاف بنّاءً حين يجبر كل طرف على توضيح ما يدافع عنه حقًا."
+        ],
+        [
+          "J’évite les verdicts rapides; une paix solide se mérite, elle ne se décrète pas.",
+          "أتجنب الأحكام السريعة؛ فالسلام المتين يُستحق، ولا يُفرض بقرار.",
+          "ژېڤيت لي ڤيرديكت رپيد؛ يون پې سُليد سُ مريت، إيل نُ سُ ديكريت پا.",
+          "J’évite les verdicts rapides; une paix solide se mérite, elle ne se décrète pas.",
+          "أتجنب الأحكام السريعة؛ فالسلام المتين يُستحق، ولا يُفرض بقرار."
+        ]
+      ]
+    },
+    {
+      "topic": "المقابلات المهنية",
+      "words": [
+        [
+          "Je prépare mes réponses, mais je veille surtout à rester spontané quand la question dévie.",
+          "أحضّر إجاباتي، لكني أحرص قبل كل شيء على أن أبقى تلقائيًا حين تنحرف الأسئلة.",
+          "ژو پرېپار مې رُپونس، مې ژو ڤايي سورتو آ رُستير سبونتاني كان لا كيستيون ديڤي.",
+          "Je prépare mes réponses, mais je veille surtout à rester spontané quand la question dévie.",
+          "أحضّر إجاباتي، لكني أحرص قبل كل شيء على أن أبقى تلقائيًا حين تنحرف الأسئلة."
+        ],
+        [
+          "Pendant l’entretien, je ne cherche pas à paraître parfait; je veux surtout être crédible.",
+          "أثناء المقابلة، لا أسعى إلى أن أبدو مثاليًا؛ أريد قبل كل شيء أن أكون جديرًا بالثقة.",
+          "پاندان لانترتيان، ژو نُ شيرش پا آ پاريتْر پيرفي؛ ژو ڤو سورتو إتر كريدِبل.",
+          "Pendant l’entretien, je ne cherche pas à paraître parfait; je veux surtout être crédible.",
+          "أثناء المقابلة، لا أسعى إلى أن أبدو مثاليًا؛ أريد قبل كل شيء أن أكون جديرًا بالثقة."
+        ],
+        [
+          "Je parle de mes résultats sans fanfare, parce qu’un bon dossier se défend mieux qu’un grand discours.",
+          "أتحدث عن نتائجي بلا استعراض، لأن الملف الجيد يدافع عن نفسه أفضل من خطاب كبير.",
+          "ژو پارل دو مې ريزوُلتا سان فانفار، پارس كأن بون دوسييه سُ ديفان مييو كان غران ديسكور.",
+          "Je parle de mes résultats sans fanfare, parce qu’un bon dossier se défend mieux qu’un grand discours.",
+          "أتحدث عن نتائجي بلا استعراض، لأن الملف الجيد يدافع عن نفسه أفضل من خطاب كبير."
+        ],
+        [
+          "Si je n’ai pas la réponse exacte, je l’admets franchement et j’explique comment je la trouverais.",
+          "إذا لم تكن لدي الإجابة الدقيقة، أعترف بذلك بصراحة وأشرح كيف سأبحث عنها.",
+          "سي ژو نيه پا لا رُپونس إيګزاكت، ژو لادمې فرانشمان إي ژيكسپلِيك كومان ژُ لا تروڤرې.",
+          "Si je n’ai pas la réponse exacte, je l’admets franchement et j’explique comment je la trouverais.",
+          "إذا لم تكن لدي الإجابة الدقيقة، أعترف بذلك بصراحة وأشرح كيف سأبحث عنها."
+        ],
+        [
+          "Je pose des questions ciblées, car une bonne entrevue est aussi une enquête à double sens.",
+          "أطرح أسئلة محددة، لأن المقابلة الجيدة هي أيضًا استكشاف في اتجاهين.",
+          "ژو پوز دي كيستيون سيبليه، كار يون بون أونترڤيو إيه أوسي يون أنكيت آ دوبل سانس.",
+          "Je pose des questions ciblées, car une bonne entrevue est aussi une enquête à double sens.",
+          "أطرح أسئلة محددة، لأن المقابلة الجيدة هي أيضًا استكشاف في اتجاهين."
+        ],
+        [
+          "J’évite les formules trop apprises; elles rassurent moins qu’une parole nette et située.",
+          "أتجنب العبارات المحفوظة أكثر من اللازم؛ فهي أقل إقناعًا من كلام واضح ومحدد.",
+          "ژېڤيت لي فورمول تروا اپريز؛ إيل راسور موا كيون پارول نيت إي سيتيويه.",
+          "J’évite les formules trop apprises; elles rassurent moins qu’une parole nette et située.",
+          "أتجنب العبارات المحفوظة أكثر من اللازم؛ فهي أقل إقناعًا من كلام واضح ومحدد."
+        ],
+        [
+          "Quand on me parle d’échec, je raconte surtout ce que j’en ai tiré, pas la mise en scène du regret.",
+          "عندما يُسأل عن الفشل، أروي أساسًا ما استفدته منه، لا مشهد الندم المسرحي.",
+          "كان أون مُ پارل ديشيك، ژو ركونت سورتو سُ كُ ژان يي تيري، پا لا ميز آن سان دو رُغري.",
+          "Quand on me parle d’échec, je raconte surtout ce que j’en ai tiré, pas la mise en scène du regret.",
+          "عندما يُسأل عن الفشل، أروي أساسًا ما استفدته منه، لا مشهد الندم المسرحي."
+        ],
+        [
+          "Je tiens à montrer que je sais travailler seul sans perdre le sens du collectif.",
+          "أحرص على إظهار أنني أستطيع العمل وحدي دون أن أفقد حس الجماعة.",
+          "ژو تيان آ مونتريه كُ ژو سې ترڤاييه سول سان پيرد لُ سان دو كولكتيف.",
+          "Je tiens à montrer que je sais travailler seul sans perdre le sens du collectif.",
+          "أحرص على إظهار أنني أستطيع العمل وحدي دون أن أفقد حس الجماعة."
+        ],
+        [
+          "Un bon recruteur écoute autant la cohérence du parcours que la qualité des mots choisis.",
+          "الموظف الجيد في التوظيف يصغي إلى اتساق المسار بقدر ما يصغي إلى جودة الكلمات المختارة.",
+          "أن بون ريكروتور إكوت أوتان لا كوهيرانس دو باركور كُ لا كاليتي دي موا شوازي.",
+          "Un bon recruteur écoute autant la cohérence du parcours que la qualité des mots choisis.",
+          "الموظف الجيد في التوظيف يصغي إلى اتساق المسار بقدر ما يصغي إلى جودة الكلمات المختارة."
+        ],
+        [
+          "Je termine en laissant une impression claire, non par effet de théâtre, mais par cohérence.",
+          "أختم بترك انطباع واضح، لا عبر استعراض مسرحي، بل عبر الاتساق.",
+          "ژو تيرمين آن لَيسان أون انپريسيون كلير، نون پار إفَي دو تيئاتر، مې پار كوهيرانس.",
+          "Je termine en laissant une impression claire, non par effet de théâtre, mais par cohérence.",
+          "أختم بترك انطباع واضح، لا عبر استعراض مسرحي، بل عبر الاتساق."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ القرارات",
+      "words": [
+        [
+          "À force d'hésiter, il a fini par choisir l'option la moins spectaculaire, mais la plus cohérente avec ses objectifs.",
+          "بعد طول تردد، انتهى به الأمر إلى اختيار الخيار الأقل إثارة، لكنه الأكثر انسجامًا مع أهدافه.",
+          "أ فور ديزيتيه، إيل آ فيني بار شوازير ل أوبسيون لا موين سبيتاكولير، مي لا بلو كوهيرانت أفِك سوز أوبجيكتيف.",
+          "À force d'hésiter, il a fini par choisir l'option la moins spectaculaire, mais la plus cohérente avec ses objectifs.",
+          "بعد طول تردد، انتهى به الأمر إلى اختيار الخيار الأقل إثارة، لكنه الأكثر انسجامًا مع أهدافه."
+        ],
+        [
+          "Quand les avis s'opposent, je préfère trancher sans bruit plutôt que laisser le dossier s'enliser.",
+          "عندما تتعارض الآراء، أفضل أن أحسم الأمر بهدوء بدل أن أترك الملف يغرق في المراوحة.",
+          "كان لِزافي سوبوز، ژه پرفير ترانشيه سان بروي بلوتو كيه ليسيه لو دوسيي سانليزيه.",
+          "Quand les avis s'opposent, je préfère trancher sans bruit plutôt que laisser le dossier s'enliser.",
+          "عندما تتعارض الآراء، أفضل أن أحسم الأمر بهدوء بدل أن أترك الملف يغرق في المراوحة."
+        ],
+        [
+          "Il n'a pas pris la décision la plus élégante, pourtant elle évitait un coût politique bien plus lourd.",
+          "لم يتخذ القرار الأناقة الأكبر، لكنه كان يتجنب تكلفة سياسية أثقل بكثير.",
+          "إيل نا با بري لا ديسيزيون لا پلوز إيليغانت، پورتان إيل ڤيتيات أَنْ كوت بوليتيك بيان پلوس لور.",
+          "Il n'a pas pris la décision la plus élégante, pourtant elle évitait un coût politique bien plus lourd.",
+          "لم يتخذ القرار الأناقة الأكبر، لكنه كان يتجنب تكلفة سياسية أثقل بكثير."
+        ],
+        [
+          "En réunion, il sait couper court aux effets de manche et ramener chacun au concret.",
+          "في الاجتماعات، يعرف كيف يقطع الطريق على الاستعراض ويعيد الجميع إلى الأمور العملية.",
+          "آن ريونيون، إيل سَي كُبيه كور أو زيفيه دو مانش وأرَمَنيه شَكان أو كونكريه.",
+          "En réunion, il sait couper court aux effets de manche et ramener chacun au concret.",
+          "في الاجتماعات، يعرف كيف يقطع الطريق على الاستعراض ويعيد الجميع إلى الأمور العملية."
+        ],
+        [
+          "Je ne change pas d'avis par caprice; j'attends simplement d'avoir assez d'éléments pour peser juste.",
+          "لا أغيّر رأيي بدافع نزوة؛ أنا فقط أنتظر ما يكفي من المعطيات لأزن الأمور بعدل.",
+          "ژه نُ شونج پا دافي بار كابريس؛ ژاتاند سمپلما دافوار أسي ديليمان بور پوزيه ژوست.",
+          "Je ne change pas d'avis par caprice; j'attends simplement d'avoir assez d'éléments pour peser juste.",
+          "لا أغيّر رأيي بدافع نزوة؛ أنا فقط أنتظر ما يكفي من المعطيات لأزن الأمور بعدل."
+        ],
+        [
+          "Le vrai courage n'est pas de foncer, mais de renoncer à ce qui flatterait l'ego.",
+          "الشجاعة الحقيقية ليست في الاندفاع، بل في التخلي عما يرضي الأنا.",
+          "لو ڤري كوراج ني پا دو فونسي، مي دو رونونسيه أ سُ كي فلاترَيه ل إيغو.",
+          "Le vrai courage n'est pas de foncer, mais de renoncer à ce qui flatterait l'ego.",
+          "الشجاعة الحقيقية ليست في الاندفاع، بل في التخلي عما يرضي الأنا."
+        ],
+        [
+          "Il a choisi de différer la signature, non par faiblesse, mais pour garder la main sur le calendrier.",
+          "اختار تأجيل التوقيع، لا ضعفًا، بل ليبقي زمام المبادرة في يده على الجدول الزمني.",
+          "إيل آ شوازي دو دييفيري لا سيغناتير، نو پار فليبس، مي بور غارديه لا مان سور لو كالنْدرييه.",
+          "Il a choisi de différer la signature, non par faiblesse, mais pour garder la main sur le calendrier.",
+          "اختار تأجيل التوقيع، لا ضعفًا، بل ليبقي زمام المبادرة في يده على الجدول الزمني."
+        ],
+        [
+          "Plus je l'écoute, plus je comprends qu'il ne cherche pas le consensus, seulement la solution viable.",
+          "كلما أصغيت إليه أكثر، أدركت أنه لا يبحث عن الإجماع، بل عن الحل القابل للتنفيذ فقط.",
+          "پلو ژه ليكوت، پلو ژه كومپران كيل نُ شيرش پا لو كونسانسوس، سولمون لا سولوصيون ڤيابل.",
+          "Plus je l'écoute, plus je comprends qu'il ne cherche pas le consensus, seulement la solution viable.",
+          "كلما أصغيت إليه أكثر، أدركت أنه لا يبحث عن الإجماع، بل عن الحل القابل للتنفيذ فقط."
+        ],
+        [
+          "Il a pesé le pour et le contre, puis il a décidé de ne pas se raconter d'histoires.",
+          "وزن الإيجابيات والسلبيات، ثم قرر ألا يخدع نفسه بالوهم.",
+          "إيل آ پوزيه لو بور إي لو كونتر، پوي إيل آ ديسيديه دو نُ پا سو رَكونتي ديستوار.",
+          "Il a pesé le pour et le contre, puis il a décidé de ne pas se raconter d'histoires.",
+          "وزن الإيجابيات والسلبيات، ثم قرر ألا يخدع نفسه بالوهم."
+        ],
+        [
+          "Une bonne décision ne fait pas toujours plaisir sur le moment, mais elle évite souvent des regrets durables.",
+          "القرار الجيد لا يرضي دائمًا في اللحظة نفسها، لكنه غالبًا ما يجنب الندم الطويل.",
+          "يون بون ديسيزيون نُ فيه پا توژور پليزور سور لو موُمان، مي إيل ڤييت سوافان دي رُغريه ديورابل.",
+          "Une bonne décision ne fait pas toujours plaisir sur le moment, mais elle évite souvent des regrets durables.",
+          "القرار الجيد لا يرضي دائمًا في اللحظة نفسها، لكنه غالبًا ما يجنب الندم الطويل."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل الرقمي",
+      "words": [
+        [
+          "Sur les messageries, une phrase mal tournée peut sembler sèche, même quand l'intention est parfaitement neutre.",
+          "في تطبيقات المراسلة، قد تبدو عبارة صيغت بشكل سيئ جافة، حتى عندما تكون النية محايدة تمامًا.",
+          "سور لي ميساجيري، يون فراز مال تورنيه پُ سونبليه سِش، إڤن كان لينتانصيون إي پارفَتمان نيوتر.",
+          "Sur les messageries, une phrase mal tournée peut sembler sèche, même quand l'intention est parfaitement neutre.",
+          "في تطبيقات المراسلة، قد تبدو عبارة صيغت بشكل سيئ جافة، حتى عندما تكون النية محايدة تمامًا."
+        ],
+        [
+          "Je réponds vite, mais je relis toujours avant d'envoyer; à l'écran, l'imprécision se paie cher.",
+          "أرد بسرعة، لكنني أراجع دائمًا قبل الإرسال؛ على الشاشة، تدفع ثمن عدم الدقة غاليًا.",
+          "ژ رِپون ڤيت، مي ژه رُلي تورژور أڤان دانْڤوايي؛ آ ل إكران، لانپريسيزيون سُ پيه شير.",
+          "Je réponds vite, mais je relis toujours avant d'envoyer; à l'écran, l'imprécision se paie cher.",
+          "أرد بسرعة، لكنني أراجع دائمًا قبل الإرسال؛ على الشاشة، تدفع ثمن عدم الدقة غاليًا."
+        ],
+        [
+          "Un silence numérique n'est pas forcément un désaccord; parfois, il signifie seulement qu'on réfléchit.",
+          "الصمت الرقمي ليس بالضرورة خلافًا؛ أحيانًا يعني فقط أن الشخص يفكر.",
+          "أن سيلانس نُميريك ني پا فورسمان أَنْ ديزاكور؛ پارفوا، إيل سينيڤي سُلما كُون ريفليشّي.",
+          "Un silence numérique n'est pas forcément un désaccord; parfois, il signifie seulement qu'on réfléchit.",
+          "الصمت الرقمي ليس بالضرورة خلافًا؛ أحيانًا يعني فقط أن الشخص يفكر."
+        ],
+        [
+          "Il faut savoir quitter le fil quand la discussion tourne en rond et commence à user les nerfs.",
+          "يجب أن تعرف متى تغادر النقاش حين يدور في حلقة مفرغة ويبدأ في إنهاك الأعصاب.",
+          "إيل فو سافوار كيتيه لو فيل كان لا ديسكوسيون تورن آن رون إي كومانص آ أوزيه لي نيرف.",
+          "Il faut savoir quitter le fil quand la discussion tourne en rond et commence à user les nerfs.",
+          "يجب أن تعرف متى تغادر النقاش حين يدور في حلقة مفرغة ويبدأ في إنهاك الأعصاب."
+        ],
+        [
+          "Les algorithmes promettent de nous connaître, mais ils simplifient souvent ce qui résiste à toute étiquette.",
+          "تَعِدنا الخوارزميات بمعرفتنا، لكنها غالبًا ما تُبسّط ما يقاوم أي تصنيف.",
+          "لي زا لغوريتم پْروميت دو نُ كونيتـر، مي زيل سانپليفي سوافان سُ كي ريزيست آ توت إيتيكيت.",
+          "Les algorithmes promettent de nous connaître, mais ils simplifient souvent ce qui résiste à toute étiquette.",
+          "تَعِدنا الخوارزميات بمعرفتنا، لكنها غالبًا ما تُبسّط ما يقاوم أي تصنيف."
+        ],
+        [
+          "Je préfère un appel franc à dix émojis approximatifs, surtout quand l'enjeu mérite plus de clarté.",
+          "أفضل مكالمة صريحة على عشرة رموز تعبيرية تقريبية، خصوصًا حين يستحق الأمر مزيدًا من الوضوح.",
+          "ژه پريفير أَنْ أپيل فران آ ديز إيموجي أپروكسيماتيف، سورتو كان لان ژو ميريته پلوس دو كلاريتي.",
+          "Je préfère un appel franc à dix émojis approximatifs, surtout quand l'enjeu mérite plus de clarté.",
+          "أفضل مكالمة صريحة على عشرة رموز تعبيرية تقريبية، خصوصًا حين يستحق الأمر مزيدًا من الوضوح."
+        ],
+        [
+          "En ligne, la courtoisie n'empêche pas la fermeté; au contraire, elle la rend plus crédible.",
+          "على الإنترنت، لا تمنع المجاملة الحزم؛ بل على العكس، تجعل الحزم أكثر مصداقية.",
+          "آن لين، لا كورتوآزي نيماپيش پا لا فِرمتي؛ أو كونترير، إيل لا رون پلوس كريديبل.",
+          "En ligne, la courtoisie n'empêche pas la fermeté; au contraire, elle la rend plus crédible.",
+          "على الإنترنت، لا تمنع المجاملة الحزم؛ بل على العكس، تجعل الحزم أكثر مصداقية."
+        ],
+        [
+          "Partager une information n'est pas la vérifier; ce réflexe manque encore à bien des conversations.",
+          "مشاركة المعلومة ليست التحقق منها؛ هذا السلوك لا يزال مفقودًا في كثير من المحادثات.",
+          "پارتيجيه يون إنفورماسيون ني پا لا ڤيريفييه؛ سُ ريفليكس مانك آنكور آ بيان دي كونسيرفاسيون.",
+          "Partager une information n'est pas la vérifier; ce réflexe manque encore à bien des conversations.",
+          "مشاركة المعلومة ليست التحقق منها؛ هذا السلوك لا يزال مفقودًا في كثير من المحادثات."
+        ],
+        [
+          "Quand le ton monte dans un groupe, mieux vaut désamorcer que répondre coup pour coup.",
+          "عندما يرتفع التوتر في مجموعة، من الأفضل نزع فتيل النزاع بدل الرد بالمثل.",
+          "كان لو تون مونت دان أَنْ غروب، ميئو ڤو ديزامورسيه كي رِپوندر كوپوركو.",
+          "Quand le ton monte dans un groupe, mieux vaut désamorcer que répondre coup pour coup.",
+          "عندما يرتفع التوتر في مجموعة، من الأفضل نزع فتيل النزاع بدل الرد بالمثل."
+        ],
+        [
+          "Il m'arrive de mettre mon téléphone en pause pour éviter que l'urgence des autres devienne la mienne.",
+          "أحيانًا أضع هاتفي على وضع الإيقاف لأتجنب أن تصبح استعجالات الآخرين استعجالي أنا.",
+          "إيل ماريڤ دو متر مون تليفون آن پوز بور إيفيتيه كُ لورژانس دي زوتر دوڤيَن لا ميين.",
+          "Il m'arrive de mettre mon téléphone en pause pour éviter que l'urgence des autres devienne la mienne.",
+          "أحيانًا أضع هاتفي على وضع الإيقاف لأتجنب أن تصبح استعجالات الآخرين استعجالي أنا."
+        ]
+      ]
+    },
+    {
+      "topic": "التنوع الثقافي",
+      "words": [
+        [
+          "La diversité culturelle ne se réduit pas à des vitrines; elle se mesure à la place qu'on laisse aux voix minoritaires.",
+          "التنوع الثقافي لا يختزل في الواجهات؛ بل يُقاس بمقدار المساحة التي نمنحها للأصوات الأقلية.",
+          "لا ديڤيرسيتي كولتوريل نُ سُ ريدوي پا آ دي ڤيتْرين؛ إيل سُ مميزور آ لا بلاص كُون ليس أُ ووا مينيوريتير.",
+          "La diversité culturelle ne se réduit pas à des vitrines; elle se mesure à la place qu'on laisse aux voix minoritaires.",
+          "التنوع الثقافي لا يختزل في الواجهات؛ بل يُقاس بمقدار المساحة التي نمنحها للأصوات الأقلية."
+        ],
+        [
+          "J'apprends beaucoup quand mes repères vacillent, car l'étonnement est parfois plus fécond que l'habitude.",
+          "أتعلم كثيرًا حين تتزعزع معاييري، فالتفاجؤ أحيانًا أكثر خصوبة من العادة.",
+          "ژاپران بوكو كان ميس رپير ڤاسييه، كار ليتونمان إي پارفوا پلوس فيكون كي لا بيتيود.",
+          "J'apprends beaucoup quand mes repères vacillent, car l'étonnement est parfois plus fécond que l'habitude.",
+          "أتعلم كثيرًا حين تتزعزع معاييري، فالتفاجؤ أحيانًا أكثر خصوبة من العادة."
+        ],
+        [
+          "Il serait absurde de demander l'uniformité à des gens qui n'ont pas la même histoire.",
+          "سيكون من العبث طلب التجانس من أشخاص ليست لديهم القصة نفسها.",
+          "إيل سيريه أوبزورد دو دومانديه لينيفورميتي آ دي ژان كي نُنت پا لا ميم ستوار.",
+          "Il serait absurde de demander l'uniformité à des gens qui n'ont pas la même histoire.",
+          "سيكون من العبث طلب التجانس من أشخاص ليست لديهم القصة نفسها."
+        ],
+        [
+          "On ne respecte vraiment une culture qu'en acceptant qu'elle nous dérange parfois.",
+          "لا نحترم ثقافة حقًا إلا إذا قبلنا أنها قد تزعجنا أحيانًا.",
+          "ون نُ ريسپكت ڤرومان يون كولتور كان أكسيپتان كيل نُ ديرانج پارفوا.",
+          "On ne respecte vraiment une culture qu'en acceptant qu'elle nous dérange parfois.",
+          "لا نحترم ثقافة حقًا إلا إذا قبلنا أنها قد تزعجنا أحيانًا."
+        ],
+        [
+          "Le dialogue interculturel exige moins de slogans que d'écoute patiente et de curiosité sans arrogance.",
+          "الحوار بين الثقافات يتطلب أقل من الشعارات وأكثر من الإصغاء الصبور والفضول بلا تعالٍ.",
+          "لو ديالوغ آنتركولتوريل إكزيج موَن دو سلوغان كي دكوت پاتيانط إي دو كورييوزيتي سان أروغانس.",
+          "Le dialogue interculturel exige moins de slogans que d'écoute patiente et de curiosité sans arrogance.",
+          "الحوار بين الثقافات يتطلب أقل من الشعارات وأكثر من الإصغاء الصبور والفضول بلا تعالٍ."
+        ],
+        [
+          "Il faut éviter de confondre différence et hiérarchie; l'une n'implique pas l'autre.",
+          "يجب ألا نخلط بين الاختلاف والتسلسل الهرمي؛ فالأول لا يستلزم الثاني.",
+          "إيل فو إيفيتيه دو كونفوندر ديفيرانس إي ييرارشي؛ لون نانپليك پا لوتـر.",
+          "Il faut éviter de confondre différence et hiérarchie; l'une n'implique pas l'autre.",
+          "يجب ألا نخلط بين الاختلاف والتسلسل الهرمي؛ فالأول لا يستلزم الثاني."
+        ],
+        [
+          "Les traditions vivent quand on les partage, pas quand on les fige pour rassurer les timides.",
+          "التقاليد تبقى حية حين نتشاركها، لا حين نجمّدها لطمأنة المترددين.",
+          "لي تراديصيون ڤيف كان تون لي پارتاج، پا كان تون لي فيژ بور راسوريه لي تيميد.",
+          "Les traditions vivent quand on les partage, pas quand on les fige pour rassurer les timides.",
+          "التقاليد تبقى حية حين نتشاركها، لا حين نجمّدها لطمأنة المترددين."
+        ],
+        [
+          "Je me méfie des discours qui célèbrent la diversité tout en demandant à chacun de se taire.",
+          "أتحفظ على الخطابات التي تمجد التنوع بينما تطلب من الجميع الصمت.",
+          "ژه مُ ميفيي دي ديسكور كي سليبر لا ديڤيرسيتي تو آوان دوماندان آ شكان دو سُ تير.",
+          "Je me méfie des discours qui célèbrent la diversité tout en demandant à chacun de se taire.",
+          "أتحفظ على الخطابات التي تمجد التنوع بينما تطلب من الجميع الصمت."
+        ],
+        [
+          "Dans une ville ouverte, les accents se croisent sans se corriger, et c'est souvent très bon signe.",
+          "في مدينة منفتحة، تتلاقى اللهجات من دون تصحيح، وهذا غالبًا علامة جيدة جدًا.",
+          "دان زون ڤيل اوڤيرت، لي زاكسان سُ كروآس سان سُ كورِجيه، إي سِي سوافان تري بون سين.",
+          "Dans une ville ouverte, les accents se croisent sans se corriger, et c'est souvent très bon signe.",
+          "في مدينة منفتحة، تتلاقى اللهجات من دون تصحيح، وهذا غالبًا علامة جيدة جدًا."
+        ],
+        [
+          "La vraie hospitalité commence quand on renonce à faire entrer tout le monde dans le même moule.",
+          "الضيافة الحقيقية تبدأ عندما نتخلى عن محاولة إدخال الجميع في القالب نفسه.",
+          "لا ڤري أوسبيتاليتي كومانص كان تون رونونس آ فيه أَنتره تو لو موند دان لو ميم مول.",
+          "La vraie hospitalité commence quand on renonce à faire entrer tout le monde dans le même moule.",
+          "الضيافة الحقيقية تبدأ عندما نتخلى عن محاولة إدخال الجميع في القالب نفسه."
+        ]
+      ]
+    },
+    {
+      "topic": "الحياة في مدينة جديدة",
+      "words": [
+        [
+          "Au début, la ville m'intimidait; maintenant, je lis ses détours comme on apprend une langue étrangère.",
+          "في البداية كانت المدينة تربكني؛ أما الآن فأقرأ طرقاتها كما يتعلم المرء لغة أجنبية.",
+          "أو ديبو، لا ڤيل مينتيميدييه؛ مانتنان، ژه لي سِ دوتور كوماون أپران يون لانغ إتراڭير.",
+          "Au début, la ville m'intimidait; maintenant, je lis ses détours comme on apprend une langue étrangère.",
+          "في البداية كانت المدينة تربكني؛ أما الآن فأقرأ طرقاتها كما يتعلم المرء لغة أجنبية."
+        ],
+        [
+          "Je n'ai pas encore d'adresse favorite, mais j'ai déjà mes heures creuses et mes raccourcis secrets.",
+          "ليس لدي بعد عنوان مفضل، لكن لدي بالفعل ساعاتي الهادئة واختصاراتي السرية.",
+          "ژه نيه پا آنكور دادرِس فافوريت، مي ژيه ديجا ميز أور كروز إي ميز راكورسي سيكري.",
+          "Je n'ai pas encore d'adresse favorite, mais j'ai déjà mes heures creuses et mes raccourcis secrets.",
+          "ليس لدي بعد عنوان مفضل، لكن لدي بالفعل ساعاتي الهادئة واختصاراتي السرية."
+        ],
+        [
+          "Chaque quartier impose son rythme; il faut du temps pour distinguer l'âme d'une rue de son bruit.",
+          "كل حي يفرض إيقاعه؛ ويحتاج المرء إلى وقت ليميز روح الشارع من ضجيجه.",
+          "شاك كارتیيه آنپوز سون ريتْم؛ إيل فو دو تان بور ديستانجيه لام دين روغ دو سون بروي.",
+          "Chaque quartier impose son rythme; il faut du temps pour distinguer l'âme d'une rue de son bruit.",
+          "كل حي يفرض إيقاعه؛ ويحتاج المرء إلى وقت ليميز روح الشارع من ضجيجه."
+        ],
+        [
+          "Je me suis surpris à aimer une boulangerie parce qu'elle me disait bonjour avant les autres.",
+          "فوجئت بأنني أحببت مخبزًا لأنه كان يحييني قبل الآخرين.",
+          "ژه مُ سوي سوربري آ إيميه يون بولانژري پارسكيل م ديزي بونجور آڤان لي زوتر.",
+          "Je me suis surpris à aimer une boulangerie parce qu'elle me disait bonjour avant les autres.",
+          "فوجئت بأنني أحببت مخبزًا لأنه كان يحييني قبل الآخرين."
+        ],
+        [
+          "Dans une ville nouvelle, même les embouteillages deviennent des leçons de patience.",
+          "في مدينة جديدة، حتى الاختناقات المرورية تصبح دروسًا في الصبر.",
+          "دان زون ڤيل نوفيل، ميم ليزانبوتاييژ دوڤيان دي لُصون دو پاتيانس.",
+          "Dans une ville nouvelle, même les embouteillages deviennent des leçons de patience.",
+          "في مدينة جديدة، حتى الاختناقات المرورية تصبح دروسًا في الصبر."
+        ],
+        [
+          "Au fil des semaines, j'ai cessé de chercher mes habitudes et j'ai commencé à inventer les miennes.",
+          "مع مرور الأسابيع، توقفت عن البحث عن عادتي وبدأت أبتكر عادتي الخاصة.",
+          "أو في دي سْميَن، ژيه سيسيه دو شيرشيه ميز عابيتود إي ژيه كومانسيه آ آنڤانتيه لي ميين.",
+          "Au fil des semaines, j'ai cessé de chercher mes habitudes et j'ai commencé à inventer les miennes.",
+          "مع مرور الأسابيع، توقفت عن البحث عن عادتي وبدأت أبتكر عادتي الخاصة."
+        ],
+        [
+          "La solitude d'une ville inconnue n'est pas toujours un vide; parfois, c'est un espace à apprivoiser.",
+          "وحدة مدينة مجهولة ليست دائمًا فراغًا؛ أحيانًا تكون مساحة يجب ترويضها.",
+          "لا سوليتيود دين ڤيل أنكونيو ني پا توژور أَنْ ڤيد؛ پارفوا، سِي أَنْ إيسپاس آ أپريڤوازيه.",
+          "La solitude d'une ville inconnue n'est pas toujours un vide; parfois, c'est un espace à apprivoiser.",
+          "وحدة مدينة مجهولة ليست دائمًا فراغًا؛ أحيانًا تكون مساحة يجب ترويضها."
+        ],
+        [
+          "J'apprécie le moment où les visages finissent par devenir familiers sans qu'on ait besoin de se présenter.",
+          "أقدّر اللحظة التي تصبح فيها الوجوه مألوفة من دون حاجة إلى التعريف بالنفس.",
+          "ژاپريسيه لو موُمان وُ لي ڤيزاج فينيس بار دوڤنير فاميلييه سان كون ئي بزوين دو سُ پْريزانتيه.",
+          "J'apprécie le moment où les visages finissent par devenir familiers sans qu'on ait besoin de se présenter.",
+          "أقدّر اللحظة التي تصبح فيها الوجوه مألوفة من دون حاجة إلى التعريف بالنفس."
+        ],
+        [
+          "Il faut accepter de se perdre un peu pour découvrir ce qu'aucun plan ne montre.",
+          "يجب قبول الضياع قليلًا لاكتشاف ما لا يظهره أي مخطط.",
+          "إيل فو أكسيپتيه دو سُ پيردر أَنْ پُر ديكوفير سُ كوكَنْ پلان نُ مونت.",
+          "Il faut accepter de se perdre un peu pour découvrir ce qu'aucun plan ne montre.",
+          "يجب قبول الضياع قليلًا لاكتشاف ما لا يظهره أي مخطط."
+        ],
+        [
+          "À mesure que je connais la ville, elle cesse d'être un décor et devient une complice.",
+          "كلما عرفت المدينة أكثر، توقفت عن كونها ديكورًا وأصبحت شريكة لي.",
+          "آ ميزور كو ژه كونيه لا ڤيل، إيل سيس ديتـر أَنْ ديكور إي دوڤيان أُن كومپليس.",
+          "À mesure que je connais la ville, elle cesse d'être un décor et devient une complice.",
+          "كلما عرفت المدينة أكثر، توقفت عن كونها ديكورًا وأصبحت شريكة لي."
+        ]
+      ]
+    },
+    {
+      "topic": "السياحة المسؤولة",
+      "words": [
+        [
+          "Voyager responsable, ce n'est pas renoncer au plaisir; c'est apprendre à ne pas confondre visite et prédation.",
+          "السفر المسؤول لا يعني التخلي عن المتعة؛ بل يعني أن نتعلم ألا نخلط بين الزيارة والاستنزاف.",
+          "ڤواياجيه ريسپونسابل، سُ ني پا رونونسيه أو پليزور؛ سِي زاپراندر آ نُ پا كونفوندر ڤيزيت إي پريداصيون.",
+          "Voyager responsable, ce n'est pas renoncer au plaisir; c'est apprendre à ne pas confondre visite et prédation.",
+          "السفر المسؤول لا يعني التخلي عن المتعة؛ بل يعني أن نتعلم ألا نخلط بين الزيارة والاستنزاف."
+        ],
+        [
+          "Avant de photographier un lieu, je me demande toujours ce que ma présence lui coûte.",
+          "قبل أن أصور مكانًا، أسأل نفسي دائمًا ما الذي تكلفه له حضوري.",
+          "أڤان دو فوتوغرافييه أَنْ ليو، ژه مُ دوماند تورژور سُ كو ما پريزانس لوي كوت.",
+          "Avant de photographier un lieu, je me demande toujours ce que ma présence lui coûte.",
+          "قبل أن أصور مكانًا، أسأل نفسي دائمًا ما الذي تكلفه له حضوري."
+        ],
+        [
+          "Le tourisme de masse laisse parfois des cartes postales, mais il emporte des équilibres fragiles.",
+          "السياحة الجماعية تترك أحيانًا بطاقات بريدية، لكنها تقتلع توازنات هشة.",
+          "لو توريسم دو ماس ليس پارفوا دي كارت پوستال، مي إيل آنپورت ديز إيكيليبْر فراجيل.",
+          "Le tourisme de masse laisse parfois des cartes postales, mais il emporte des équilibres fragiles.",
+          "السياحة الجماعية تترك أحيانًا بطاقات بريدية، لكنها تقتلع توازنات هشة."
+        ],
+        [
+          "Je préfère payer un peu plus cher pour un hébergement local qui respecte les habitants.",
+          "أفضل أن أدفع أكثر قليلًا مقابل إقامة محلية تحترم السكان.",
+          "ژه پريفير پييه أَنْ پُ پلوس شير بور أَنْ إيبرژمان لوكال كي ريسپكت ليزابيتان.",
+          "Je préfère payer un peu plus cher pour un hébergement local qui respecte les habitants.",
+          "أفضل أن أدفع أكثر قليلًا مقابل إقامة محلية تحترم السكان."
+        ],
+        [
+          "Une ville se découvre mieux quand on y circule à pied, au lieu de la consommer comme un produit.",
+          "تُكتشف المدينة على نحو أفضل حين نتجول فيها سيرًا على الأقدام، بدل استهلاكها كأنها منتج.",
+          "يون ڤيل سُ ديكوفْر ميئو كان تون ي سيركول آ پييه، أو ليو دو لا كونسوميه كوما أَنْ پرودوي.",
+          "Une ville se découvre mieux quand on y circule à pied, au lieu de la consommer comme un produit.",
+          "تُكتشف المدينة على نحو أفضل حين نتجول فيها سيرًا على الأقدام، بدل استهلاكها كأنها منتج."
+        ],
+        [
+          "Je me fie davantage aux artisans qu'aux boutiques trop lisses qui vendent le folklore en série.",
+          "أثق أكثر بالحرفيين من المحلات اللامعة جدًا التي تبيع الفولكلور بالجملة.",
+          "ژه مُ فيي دافانتاژ أو زارتيزان كو بوتيك ترو ليس كي ڤاند لو فولكلور آن سيري.",
+          "Je me fie davantage aux artisans qu'aux boutiques trop lisses qui vendent le folklore en série.",
+          "أثق أكثر بالحرفيين من المحلات اللامعة جدًا التي تبيع الفولكلور بالجملة."
+        ],
+        [
+          "Respecter les usages locaux n'est pas se brider; c'est reconnaître qu'on est invité.",
+          "احترام العادات المحلية ليس تقييدًا للنفس؛ بل هو الاعتراف بأننا ضيوف.",
+          "ريسپكتيه ليز أوزاج لوكَو ني پا سُ بريدِه؛ سِي ركونيتـر كُون إي آنڤيتيه.",
+          "Respecter les usages locaux n'est pas se brider; c'est reconnaître qu'on est invité.",
+          "احترام العادات المحلية ليس تقييدًا للنفس؛ بل هو الاعتراف بأننا ضيوف."
+        ],
+        [
+          "Quand l'eau manque, quand les sentiers s'érodent, le voyageur attentif sait réduire son empreinte.",
+          "عندما يندر الماء وتتهالك المسارات، يعرف المسافر الواعي كيف يقلص أثره.",
+          "كان لو مانك، كان لي سانتيي سيرود، لو ڤواياجير أتانتي سَي ريدويـر سون آنپرينت.",
+          "Quand l'eau manque, quand les sentiers s'érodent, le voyageur attentif sait réduire son empreinte.",
+          "عندما يندر الماء وتتهالك المسارات، يعرف المسافر الواعي كيف يقلص أثره."
+        ],
+        [
+          "Un bon guide ne récite pas; il aide à voir autrement sans imposer un seul récit.",
+          "الدليل الجيد لا يلقن؛ بل يساعد على رؤية الأمور بشكل مختلف من دون فرض حكاية واحدة.",
+          "أَنْ بون غيد نُ ريسيت پا؛ إيل إيد آ ڤوار اوترومون سان أنپوزيه أَنْ سول ريسي.",
+          "Un bon guide ne récite pas; il aide à voir autrement sans imposer un seul récit.",
+          "الدليل الجيد لا يلقن؛ بل يساعد على رؤية الأمور بشكل مختلف من دون فرض حكاية واحدة."
+        ],
+        [
+          "Le plus bel hommage qu'on puisse rendre à un lieu, c'est d'y revenir sans l'abîmer.",
+          "أجمل تكريم يمكن أن نقدمه لمكان هو أن نعود إليه من دون أن نشوهه.",
+          "لو پلوز بيل أوماج كُون پوييس راندر آ أَنْ ليو، سِي دي ڤنور سان لابييميه.",
+          "Le plus bel hommage qu'on puisse rendre à un lieu, c'est d'y revenir sans l'abîmer.",
+          "أجمل تكريم يمكن أن نقدمه لمكان هو أن نعود إليه من دون أن نشوهه."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة النفسية والراحة",
+      "words": [
+        [
+          "Prendre soin de sa santé mentale, ce n’est pas céder à la fragilité, c’est refuser de se laisser happer par l’urgence.",
+          "الاعتناء بالصحة النفسية ليس استسلامًا للهشاشة، بل رفضٌ للانجراف خلف الاستعجال.",
+          "براندْر سْوان دو سا سانتي مانتال، سْ نِ با سيدي لا فراجيليتي، سِ رِفيوزي دو سْ لاسي هابّي بار لورجانس.",
+          "Prendre soin de sa santé mentale, ce n’est pas céder à la fragilité, c’est refuser de se laisser happer par l’urgence.",
+          "الاعتناء بالصحة النفسية ليس استسلامًا للهشاشة، بل رفضٌ للانجراف خلف الاستعجال."
+        ],
+        [
+          "Un esprit reposé lit les mêmes faits avec plus de finesse et moins de panique.",
+          "العقل المستريح يقرأ الحقائق نفسها بقدر أكبر من الدقة وبقدر أقل من الهلع.",
+          "أُن إسبري ريپوزي لي لِ ميم فاي أڤيك پلُس دو فينِس إ موان دو پانيك.",
+          "Un esprit reposé lit les mêmes faits avec plus de finesse et moins de panique.",
+          "العقل المستريح يقرأ الحقائق نفسها بقدر أكبر من الدقة وبقدر أقل من الهلع."
+        ],
+        [
+          "Parfois, la vraie lucidité consiste à reconnaître qu’il faut ralentir avant de se briser.",
+          "أحيانًا تكمن البصيرة الحقيقية في الاعتراف بضرورة الإبطاء قبل الانكسار.",
+          "پارفوا، لا ڤروا لوسيديتي كونسيت أ ركُنّيتْر كيل فو رالونتير أڤان دو س بروزي.",
+          "Parfois, la vraie lucidité consiste à reconnaître qu’il faut ralentir avant de se briser.",
+          "أحيانًا تكمن البصيرة الحقيقية في الاعتراف بضرورة الإبطاء قبل الانكسار."
+        ],
+        [
+          "Les silences bien choisis valent souvent mieux qu’un flot de paroles qui rassurent mal.",
+          "الصمت المختار بحكمة يكون غالبًا أفضل من سيل كلمات يطمئن بصورة رديئة.",
+          "لي صيلانس بيان شوازي ڤال سوفان ميو كُون فو دو بارول كي راسوور مال.",
+          "Les silences bien choisis valent souvent mieux qu’un flot de paroles qui rassurent mal.",
+          "الصمت المختار بحكمة يكون غالبًا أفضل من سيل كلمات يطمئن بصورة رديئة."
+        ],
+        [
+          "On peut demander de l’aide sans dramatiser, comme on ouvrirait une fenêtre dans une pièce étouffante.",
+          "يمكن طلب المساعدة من دون تهويل، كما لو أننا نفتح نافذة في غرفة خانقة.",
+          "وون پو دماندي دو ليد سان دراماتيزي، كوم وون أوڤريريه أون فنيتر دانزون بييس إتوفانْت.",
+          "On peut demander de l’aide sans dramatiser, comme on ouvrirait une fenêtre dans une pièce étouffante.",
+          "يمكن طلب المساعدة من دون تهويل، كما لو أننا نفتح نافذة في غرفة خانقة."
+        ],
+        [
+          "La fatigue émotionnelle ne fait pas de bruit, mais elle finit par brouiller le jugement.",
+          "الإرهاق العاطفي لا يُحدث ضجيجًا، لكنه ينتهي إلى تشويش الحكم.",
+          "لا فاتيغ إيموسيونيل نُ فِي پا دو بروي، ماي إل فيني بار برويي لُ جوغمان.",
+          "La fatigue émotionnelle ne fait pas de bruit, mais elle finit par brouiller le jugement.",
+          "الإرهاق العاطفي لا يُحدث ضجيجًا، لكنه ينتهي إلى تشويش الحكم."
+        ],
+        [
+          "Ce n’est pas se replier que de poser des limites; c’est souvent la condition d’un vrai lien.",
+          "وضع الحدود ليس انكفاءً؛ بل هو كثيرًا ما يكون شرطًا لعلاقة حقيقية.",
+          "س نِ پا س رُپليي ك دو پوزي دي ليميت؛ سِ سوفان لا كونديسيون دُون ڤري لين.",
+          "Ce n’est pas se replier que de poser des limites; c’est souvent la condition d’un vrai lien.",
+          "وضع الحدود ليس انكفاءً؛ بل هو كثيرًا ما يكون شرطًا لعلاقة حقيقية."
+        ],
+        [
+          "Quand l’esprit s’acharne, il confond parfois l’exigence avec la cruauté.",
+          "حين يبالغ الذهن في التشدد، يخلط أحيانًا بين الصرامة والقسوة.",
+          "كان لاسپري ساخارن، إيل كوندفون بارفوا لزِگزانس أڤيك لا كرواوتي.",
+          "Quand l’esprit s’acharne, il confond parfois l’exigence avec la cruauté.",
+          "حين يبالغ الذهن في التشدد، يخلط أحيانًا بين الصرامة والقسوة."
+        ],
+        [
+          "La sérénité n’efface pas les problèmes; elle leur retire simplement leur pouvoir de vacarme.",
+          "السكينة لا تمحو المشكلات؛ لكنها تسلبها ببساطة قدرتها على إحداث الضجيج.",
+          "لا سيرينيتي نيفاس پا لي بربلم؛ إل لور ريتير سِمبلمان لور پوڤوار دو ڤاكارم.",
+          "La sérénité n’efface pas les problèmes; elle leur retire simplement leur pouvoir de vacarme.",
+          "السكينة لا تمحو المشكلات؛ لكنها تسلبها ببساطة قدرتها على إحداث الضجيج."
+        ],
+        [
+          "Mieux vaut une respiration honnête qu’une performance de bien-être impossible à tenir.",
+          "الأفضل أن يكون التنفس صادقًا من أداءٍ زائفٍ للراحة يستحيل الحفاظ عليه.",
+          "مييه ڤو أون رِسپيراسيون أونِت كُون پرفورمانس دو بيان-إتر إمپوسيبْل أ تيغير.",
+          "Mieux vaut une respiration honnête qu’une performance de bien-être impossible à tenir.",
+          "الأفضل أن يكون التنفس صادقًا من أداءٍ زائفٍ للراحة يستحيل الحفاظ عليه."
+        ]
+      ]
+    },
+    {
+      "topic": "التوازن بين العمل والحياة",
+      "words": [
+        [
+          "L’équilibre entre le travail et la vie ne se décrète pas; il se négocie au quotidien.",
+          "التوازن بين العمل والحياة لا يُفرض بقرار؛ بل يُدار ويُعاد التفاوض عليه يوميًا.",
+          "ليكيليبْر أونتر لو ترڤاي إ لا ڤي نُ سِ ديكريت با؛ إيل س نيغوسيي أو كوتيديان.",
+          "L’équilibre entre le travail et la vie ne se décrète pas; il se négocie au quotidien.",
+          "التوازن بين العمل والحياة لا يُفرض بقرار؛ بل يُدار ويُعاد التفاوض عليه يوميًا."
+        ],
+        [
+          "Quand le bureau déborde, c’est souvent la maison qui paie la facture invisible.",
+          "حين يفيض المكتب عن حدّه، يكون البيت غالبًا من يدفع الفاتورة غير المرئية.",
+          "كان لو بيرو ديبورد، سِ سوفان لا ميزون كي پييه لا فاتيور أونڤيزيبْل.",
+          "Quand le bureau déborde, c’est souvent la maison qui paie la facture invisible.",
+          "حين يفيض المكتب عن حدّه، يكون البيت غالبًا من يدفع الفاتورة غير المرئية."
+        ],
+        [
+          "On ne gagne rien à confondre disponibilité et disponibilité totale de soi.",
+          "لا نكسب شيئًا حين نخلط بين الجاهزية وبين التنازل الكامل عن الذات.",
+          "وون نُ كاني ريان أ كوندفوندر ديسپونيبيليتي إ ديسپونيبيليتي توتال دو سوا.",
+          "On ne gagne rien à confondre disponibilité et disponibilité totale de soi.",
+          "لا نكسب شيئًا حين نخلط بين الجاهزية وبين التنازل الكامل عن الذات."
+        ],
+        [
+          "Savoir fermer l’ordinateur à l’heure juste peut valoir davantage qu’une longue démonstration de sérieux.",
+          "قد يكون إغلاق الحاسوب في الوقت المناسب أبلغ من أي استعراض طويل للجدية.",
+          "ساڤوار فرميه لوردي ناتور أ لور جوست پو ڤالوار داڤانتاج كُون لونغ دي مونستراسيون دو سيريو.",
+          "Savoir fermer l’ordinateur à l’heure juste peut valoir davantage qu’une longue démonstration de sérieux.",
+          "قد يكون إغلاق الحاسوب في الوقت المناسب أبلغ من أي استعراض طويل للجدية."
+        ],
+        [
+          "Il y a une élégance discrète à protéger ses soirées sans en faire un manifeste.",
+          "في حماية الأمسيات دون تحويل ذلك إلى بيانٍ صريح، قدرٌ من الأناقة الهادئة.",
+          "إيل يا أون إيليغانس ديسكريت أ پروتيجي سي سوارِي سانزان فير أون مانيڤِست.",
+          "Il y a une élégance discrète à protéger ses soirées sans en faire un manifeste.",
+          "في حماية الأمسيات دون تحويل ذلك إلى بيانٍ صريح، قدرٌ من الأناقة الهادئة."
+        ],
+        [
+          "Un agenda saturé n’est pas toujours une preuve d’efficacité; parfois, c’est surtout un aveu de mauvaise méthode.",
+          "الروزنامة المزدحمة ليست دائمًا دليل كفاءة؛ وأحيانًا تكون اعترافًا بسوء التنظيم.",
+          "أون أجندا ساتوري نِ پا توجور أون بروڤ ديفيكاسيتي؛ بارفوا، سِ سورتو أون أڤو دو موڤيز ميتود.",
+          "Un agenda saturé n’est pas toujours une preuve d’efficacité; parfois, c’est surtout un aveu de mauvaise méthode.",
+          "الروزنامة المزدحمة ليست دائمًا دليل كفاءة؛ وأحيانًا تكون اعترافًا بسوء التنظيم."
+        ],
+        [
+          "Le vrai luxe n’est pas de travailler sans cesse, mais de pouvoir penser sans être pressé.",
+          "الترف الحقيقي ليس أن نعمل بلا توقف، بل أن نستطيع التفكير من دون استعجال.",
+          "لو ڤري لوكس نِ پا دو ترڤايي سان سيس، ماي دو پوڤوار پانسي سان إتر پريسي.",
+          "Le vrai luxe n’est pas de travailler sans cesse, mais de pouvoir penser sans être pressé.",
+          "الترف الحقيقي ليس أن نعمل بلا توقف، بل أن نستطيع التفكير من دون استعجال."
+        ],
+        [
+          "Une vie soutenable commence quand on cesse de sacraliser l’épuisement.",
+          "تبدأ الحياة القابلة للاستمرار حين نتوقف عن تقديس الإنهاك.",
+          "أون ڤي سو تنابْل كومانس كان وون سيس دو ساكراليزي ل إپويزُمان.",
+          "Une vie soutenable commence quand on cesse de sacraliser l’épuisement.",
+          "تبدأ الحياة القابلة للاستمرار حين نتوقف عن تقديس الإنهاك."
+        ],
+        [
+          "Les frontières nettes évitent bien des malentendus que la bonne volonté ne suffit pas à réparer.",
+          "الحدود الواضحة تتجنب كثيرًا من سوء الفهم الذي لا تكفي النية الحسنة لإصلاحه.",
+          "لي فرونتيات نِت إڤيت بيان دي مالونتاندو كُ لا بون ڤولونتي نُ سفي پا أ ريپاري.",
+          "Les frontières nettes évitent bien des malentendus que la bonne volonté ne suffit pas à réparer.",
+          "الحدود الواضحة تتجنب كثيرًا من سوء الفهم الذي لا تكفي النية الحسنة لإصلاحه."
+        ],
+        [
+          "Travailler avec discernement, c’est refuser l’agitation comme unique horizon.",
+          "العمل بتمييز يعني رفض الاضطراب بوصفه الأفق الوحيد.",
+          "ترڤايي أڤيك ديسيرنمان، سِ رِفيوزي لاجيتاسيون كوم يونيك أوريزون.",
+          "Travailler avec discernement, c’est refuser l’agitation comme unique horizon.",
+          "العمل بتمييز يعني رفض الاضطراب بوصفه الأفق الوحيد."
+        ]
+      ]
+    },
+    {
+      "topic": "حماية البيئة",
+      "words": [
+        [
+          "Protéger l’environnement, c’est moins donner des leçons qu’accepter de changer ses réflexes.",
+          "حماية البيئة تعني أقل تعليم الناس وأكثر قبول تغيير العادات التلقائية.",
+          "پروتيجي لونڤيرونمان، سِ موان دوني دي لسون ك أكتوربتيه دو شانجي سي ريفليكْس.",
+          "Protéger l’environnement, c’est moins donner des leçons qu’accepter de changer ses réflexes.",
+          "حماية البيئة تعني أقل تعليم الناس وأكثر قبول تغيير العادات التلقائية."
+        ],
+        [
+          "La nature ne manque pas de beauté; c’est notre manière de l’exploiter qui manque de retenue.",
+          "الطبيعة لا ينقصها الجمال؛ بل ينقص طريقة استغلالنا لها، وهي تفتقر إلى الضبط.",
+          "لا ناتيور نُ مانك پا دو بوتي؛ سِ نوتْر مانير دو ليكسبلوايتي كي مانك دو رتنو.",
+          "La nature ne manque pas de beauté; c’est notre manière de l’exploiter qui manque de retenue.",
+          "الطبيعة لا ينقصها الجمال؛ بل ينقص طريقة استغلالنا لها، وهي تفتقر إلى الضبط."
+        ],
+        [
+          "Réduire les déchets n’a rien de modeste quand on mesure l’effet à l’échelle d’une ville.",
+          "تقليل النفايات ليس أمرًا متواضعًا حين نقيس أثره على مستوى مدينة.",
+          "ريدوير لي ديشي نا ريان دو مودِست كان وون ميزور ليفيه أ ليسكيل د يون ڤيل.",
+          "Réduire les déchets n’a rien de modeste quand on mesure l’effet à l’échelle d’une ville.",
+          "تقليل النفايات ليس أمرًا متواضعًا حين نقيس أثره على مستوى مدينة."
+        ],
+        [
+          "Il suffit parfois d’une habitude en moins pour alléger tout un système.",
+          "يكفي أحيانًا التخلّي عن عادة واحدة لتخفيف عبء منظومة كاملة.",
+          "إيل سفي بارفوا ديون عابيتيد أَن موان پور أليجي توزان سيستم.",
+          "Il suffit parfois d’une habitude en moins pour alléger tout un système.",
+          "يكفي أحيانًا التخلّي عن عادة واحدة لتخفيف عبء منظومة كاملة."
+        ],
+        [
+          "Parler de sobriété n’est pas prêcher la privation; c’est chercher la justesse.",
+          "الحديث عن الترشيد ليس وعظًا بالحرمان؛ بل هو بحث عن الاعتدال الدقيق.",
+          "پارلي دو سوبرييتي نِ پا پريشي لا پريڤاسيون؛ سِ شيرشي لا جوستيس.",
+          "Parler de sobriété n’est pas prêcher la privation; c’est chercher la justesse.",
+          "الحديث عن الترشيد ليس وعظًا بالحرمان؛ بل هو بحث عن الاعتدال الدقيق."
+        ],
+        [
+          "Les solutions durables sont souvent moins spectaculaires, mais beaucoup plus tenaces.",
+          "الحلول المستدامة غالبًا أقل بهرجة، لكنها أشد رسوخًا بكثير.",
+          "لي سولوسيون ديورابْل سون سوفان موان سبيكتاكولير، ماي بوكو پلُس تِنّاس.",
+          "Les solutions durables sont souvent moins spectaculaires, mais beaucoup plus tenaces.",
+          "الحلول المستدامة غالبًا أقل بهرجة، لكنها أشد رسوخًا بكثير."
+        ],
+        [
+          "Ce n’est pas l’indifférence qui sauvera les ressources, mais une vigilance partagée.",
+          "ليس اللامبالاة ما ينقذ الموارد، بل اليقظة المشتركة.",
+          "س نِ پا لانديفيرانس كي سوفرا لي ريسورس، ماي أون ڤيجيلانس پارتاجي.",
+          "Ce n’est pas l’indifférence qui sauvera les ressources, mais une vigilance partagée.",
+          "ليس اللامبالاة ما ينقذ الموارد، بل اليقظة المشتركة."
+        ],
+        [
+          "Un parc bien pensé vaut parfois mieux qu’un discours alarmiste.",
+          "قد تكون حديقة مخططة جيدًا أنفع أحيانًا من خطاب إنذاري.",
+          "أون بارك بيان پانسي ڤو بارفوا ميو كُون ديسكور ألارميست.",
+          "Un parc bien pensé vaut parfois mieux qu’un discours alarmiste.",
+          "قد تكون حديقة مخططة جيدًا أنفع أحيانًا من خطاب إنذاري."
+        ],
+        [
+          "La transition écologique demande de la cohérence, pas des slogans commodes.",
+          "التحول البيئي يتطلب انسجامًا، لا شعاراتٍ مريحة.",
+          "لا ترانزي سيون إيكولوجيك دُماند دو لا كوئرانس، پا دي سلوغان كومود.",
+          "La transition écologique demande de la cohérence, pas des slogans commodes.",
+          "التحول البيئي يتطلب انسجامًا، لا شعاراتٍ مريحة."
+        ],
+        [
+          "Quand chacun fait sa part, la modestie des gestes finit par déplacer des montagnes.",
+          "حين يؤدي كل واحد دوره، تنتهي بساطة الأفعال إلى تحريك الجبال.",
+          "كان شاكَن في سا بار، لا مودستي دي جوست فيني بار ديپلاسي دي مونتان.",
+          "Quand chacun fait sa part, la modestie des gestes finit par déplacer des montagnes.",
+          "حين يؤدي كل واحد دوره، تنتهي بساطة الأفعال إلى تحريك الجبال."
+        ]
+      ]
+    },
+    {
+      "topic": "الاستهلاك المسؤول",
+      "words": [
+        [
+          "Consommer avec discernement, ce n’est pas se priver de plaisir, c’est refuser l’achat réflexe.",
+          "الاستهلاك بوعي ليس حرمانًا من المتعة، بل رفضًا للشراء التلقائي.",
+          "كونسومي أڤيك ديسيرنمان، س نِ پا س بريفِي دو پلِزيير، سِ رِفيوزي لاشا ريفليكْس.",
+          "Consommer avec discernement, ce n’est pas se priver de plaisir, c’est refuser l’achat réflexe.",
+          "الاستهلاك بوعي ليس حرمانًا من المتعة، بل رفضًا للشراء التلقائي."
+        ],
+        [
+          "Le désir est vif, mais il devient vite un piètre conseiller quand la publicité parle plus fort.",
+          "الرغبة قوية، لكنها تصبح مستشارًا ضعيفًا سريعًا حين يعلو صوت الإعلان.",
+          "لو دِزير إ ويف، ماي إيل ديفيان ڤيت أَن پيتْر كونسِييه كان لا پوبليسيتي بارل پلُس فور.",
+          "Le désir est vif, mais il devient vite un piètre conseiller quand la publicité parle plus fort.",
+          "الرغبة قوية، لكنها تصبح مستشارًا ضعيفًا سريعًا حين يعلو صوت الإعلان."
+        ],
+        [
+          "Acheter moins n’a rien d’austère si l’on choisit mieux et plus longtemps.",
+          "الشراء الأقل ليس زهدًا جافًا إذا اخترنا أفضل واحتفظنا بالأشياء مدة أطول.",
+          "أشتي موان نا ريان دوستير سي لون شوازي ميو إ پلُس لونتان.",
+          "Acheter moins n’a rien d’austère si l’on choisit mieux et plus longtemps.",
+          "الشراء الأقل ليس زهدًا جافًا إذا اخترنا أفضل واحتفظنا بالأشياء مدة أطول."
+        ],
+        [
+          "La bonne affaire qui encombre l’étagère finit souvent par coûter trop cher.",
+          "الصفقة الجيدة التي تملأ الرف تنتهي غالبًا إلى أن تصبح باهظة الكلفة.",
+          "لا بون أفير كي أَنْكومبْر ليتاجير فيني سوفان بار كوتر ترو شير.",
+          "La bonne affaire qui encombre l’étagère finit souvent par coûter trop cher.",
+          "الصفقة الجيدة التي تملأ الرف تنتهي غالبًا إلى أن تصبح باهظة الكلفة."
+        ],
+        [
+          "Un objet utile, réparé à temps, a plus de valeur qu’un remplacement tapageur.",
+          "غرض مفيد أُصلح في الوقت المناسب أرفع قيمةً من بديلٍ صاخب.",
+          "أون أوبجي يوتيل، ريپاري أ تام، أ پلُس دو ڤالور كُون رابلسمان تاباجور.",
+          "Un objet utile, réparé à temps, a plus de valeur qu’un remplacement tapageur.",
+          "غرض مفيد أُصلح في الوقت المناسب أرفع قيمةً من بديلٍ صاخب."
+        ],
+        [
+          "La modération n’est pas une morale de comptable; c’est une intelligence de l’usage.",
+          "الاعتدال ليس أخلاق محاسب؛ بل هو ذكاء في الاستعمال.",
+          "لا موديراسيون نِ پا يون مورا ل دو كونتابْل؛ سِتون أَنْتليجانس دو لوزاج.",
+          "La modération n’est pas une morale de comptable; c’est une intelligence de l’usage.",
+          "الاعتدال ليس أخلاق محاسب؛ بل هو ذكاء في الاستعمال."
+        ],
+        [
+          "On peut se laisser séduire par l’abondance sans se laisser duper par elle.",
+          "يمكن الانجذاب إلى الوفرة من دون أن نُخدع بها.",
+          "وون پو س لاسي سيدوير بار لابوندانس سان س لاسي ديپي بار إيل.",
+          "On peut se laisser séduire par l’abondance sans se laisser duper par elle.",
+          "يمكن الانجذاب إلى الوفرة من دون أن نُخدع بها."
+        ],
+        [
+          "Réparer, louer, partager: ces verbes discrets valent mieux qu’un gaspillage élégant.",
+          "الإصلاح والاستئجار والمشاركة: أفعال هادئة أفضل من تبذير أنيق.",
+          "ريپاري، لويي، پارتاجيه: سي ڤيرب ديسكري ڤال ميو كُون غاسپيياج إيليغان.",
+          "Réparer, louer, partager: ces verbes discrets valent mieux qu’un gaspillage élégant.",
+          "الإصلاح والاستئجار والمشاركة: أفعال هادئة أفضل من تبذير أنيق."
+        ],
+        [
+          "Le consommateur responsable n’est pas celui qui se fait punir, mais celui qui choisit son pouvoir.",
+          "المستهلك المسؤول ليس من يُعاقَب، بل من يختار استخدام قدرته.",
+          "لو كونسوماتور ريسپونسابل نِ پا سيلوي كي سُ في پونيير، ماي سيلوي كي شوازي سون پوڤوار.",
+          "Le consommateur responsable n’est pas celui qui se fait punir, mais celui qui choisit son pouvoir.",
+          "المستهلك المسؤول ليس من يُعاقَب، بل من يختار استخدام قدرته."
+        ],
+        [
+          "Acheter avec mesure, c’est donner une chance à ce qui mérite vraiment de durer.",
+          "الشراء باعتدال هو إعطاء فرصة لما يستحق فعلًا أن يدوم.",
+          "أشتي أڤيك ميزور، سِ دوني أون شانْس أ سُ كي ميريت ڤرمان دو دوري.",
+          "Acheter avec mesure, c’est donner une chance à ce qui mérite vraiment de durer.",
+          "الشراء باعتدال هو إعطاء فرصة لما يستحق فعلًا أن يدوم."
+        ]
+      ]
+    },
+    {
+      "topic": "الابتكار والتغيير",
+      "words": [
+        [
+          "L’innovation n’est pas un éclat soudain; elle naît souvent d’une question posée au bon moment.",
+          "الابتكار ليس ومضة مفاجئة؛ بل ينشأ غالبًا من سؤال طُرح في اللحظة المناسبة.",
+          "لينوفياسيون نِ پا أَن إيكلا سودان؛ إل نيت سوفان ديون كِستيون پوزي أو بون مومون.",
+          "L’innovation n’est pas un éclat soudain; elle naît souvent d’une question posée au bon moment.",
+          "الابتكار ليس ومضة مفاجئة؛ بل ينشأ غالبًا من سؤال طُرح في اللحظة المناسبة."
+        ],
+        [
+          "Changer n’exige pas toujours de tout raser; parfois, il suffit de déplacer le centre de gravité.",
+          "التغيير لا يتطلب دائمًا هدم كل شيء؛ أحيانًا يكفي نقل مركز الثقل.",
+          "شانجي نيكسيج پا توجور دو تو رازِي؛ بارفوا، إيل سفي دوپلاسي لو سانتر دو غراڤيتي.",
+          "Changer n’exige pas toujours de tout raser; parfois, il suffit de déplacer le centre de gravité.",
+          "التغيير لا يتطلب دائمًا هدم كل شيء؛ أحيانًا يكفي نقل مركز الثقل."
+        ],
+        [
+          "Les meilleures idées ne crient pas; elles s’imposent par leur justesse et leur tenue.",
+          "أفضل الأفكار لا تصرخ؛ بل تفرض نفسها بدقتها وثباتها.",
+          "لي مييير زيدي نُ كريي پا؛ إيل سيمپوز بار لور جوستيس إ لور تينو.",
+          "Les meilleures idées ne crient pas; elles s’imposent par leur justesse et leur tenue.",
+          "أفضل الأفكار لا تصرخ؛ بل تفرض نفسها بدقتها وثباتها."
+        ],
+        [
+          "L’audace sans méthode n’est qu’un feu d’artifice; la méthode sans audace reste muette.",
+          "الجرأة بلا منهج ليست سوى ألعاب نارية؛ والمنهج بلا جرأة يبقى صامتًا.",
+          "لوداس سان ميتود نِ كُون فو دارتيڤيس؛ لا ميتود سان لوداس رست مويت.",
+          "L’audace sans méthode n’est qu’un feu d’artifice; la méthode sans audace reste muette.",
+          "الجرأة بلا منهج ليست سوى ألعاب نارية؛ والمنهج بلا جرأة يبقى صامتًا."
+        ],
+        [
+          "Une entreprise qui refuse de se réinventer finit par confondre stabilité et inertie.",
+          "المؤسسة التي ترفض إعادة ابتكار نفسها تنتهي إلى خلط الاستقرار بالجمود.",
+          "أون أونترپْرِيز كي ريفيوزي دو س ريينڤونتي فيني بار كوندفوندر ستابيليتي إينيرسي.",
+          "Une entreprise qui refuse de se réinventer finit par confondre stabilité et inertie.",
+          "المؤسسة التي ترفض إعادة ابتكار نفسها تنتهي إلى خلط الاستقرار بالجمود."
+        ],
+        [
+          "On n’adopte pas une technologie parce qu’elle brille, mais parce qu’elle résout quelque chose.",
+          "لا نعتمد تقنية لأنها لامعة، بل لأنها تحل شيئًا ما.",
+          "وون نادوبت پا أون تكنولوجي پارس كيل بريل، ماي پارس كيل ريزو كيلك شوز.",
+          "On n’adopte pas une technologie parce qu’elle brille, mais parce qu’elle résout quelque chose.",
+          "لا نعتمد تقنية لأنها لامعة، بل لأنها تحل شيئًا ما."
+        ],
+        [
+          "Le progrès utile laisse derrière lui moins de bruit que de résultats tangibles.",
+          "التقدم المفيد يترك وراءه ضجيجًا أقل ونتائج ملموسة أكثر.",
+          "لو بروغري يوتيل لِس ديريير لوي موان دو بروي ك دو ريزيولتات تانجيبل.",
+          "Le progrès utile laisse derrière lui moins de bruit que de résultats tangibles.",
+          "التقدم المفيد يترك وراءه ضجيجًا أقل ونتائج ملموسة أكثر."
+        ],
+        [
+          "Chaque rupture bien pensée ressemble moins à une provocation qu’à une clarification.",
+          "كل قطيعة مُحكمة التفكير تشبه توضيحًا أكثر مما تشبه استفزازًا.",
+          "شاك رپتور بيان پانسي ريسونبْل موان أ يون پروڤوكاسيون ك أون كلاريفيكاسيون.",
+          "Chaque rupture bien pensée ressemble moins à une provocation qu’à une clarification.",
+          "كل قطيعة مُحكمة التفكير تشبه توضيحًا أكثر مما تشبه استفزازًا."
+        ],
+        [
+          "Le changement devient crédible quand il améliore la vie sans demander l’adoration.",
+          "يصبح التغيير مقنعًا حين يحسن الحياة من دون طلب الإعجاب.",
+          "لو شانجومان ديفيان كريديبل كان إيل أَميليور لا ڤي سان دُماندي لادوراسيون.",
+          "Le changement devient crédible quand il améliore la vie sans demander l’adoration.",
+          "يصبح التغيير مقنعًا حين يحسن الحياة من دون طلب الإعجاب."
+        ],
+        [
+          "Innover, c’est parfois faire simple là où tout le monde compliquait sans nécessité.",
+          "الابتكار يعني أحيانًا جعل الأمور بسيطة حيث كان الجميع يعقدها بلا ضرورة.",
+          "ينوڤي، سِ بارفوا فير سامبْل لا و توا لو موند كومپليكي سان نيسيسيتي.",
+          "Innover, c’est parfois faire simple là où tout le monde compliquait sans nécessité.",
+          "الابتكار يعني أحيانًا جعل الأمور بسيطة حيث كان الجميع يعقدها بلا ضرورة."
+        ]
+      ]
+    },
+    {
+      "topic": "قراءة الأخبار بوعي",
+      "words": [
+        [
+          "À lire certains titres, on croirait que tout vacille, alors que le fond du dossier demeure beaucoup plus nuancé.",
+          "عند قراءة بعض العناوين، قد يظن المرء أن كل شيء يتداعى، بينما يبقى جوهر الملف أكثر تدرجًا وتعقيدًا بكثير.",
+          "آ لير سرتان تيتْر، أون كروايرا كي تو فاكيل، ألور كُ لُ فون دو دوسيي ديمور بوكو بلس نيوانسِي.",
+          "À lire certains titres, on croirait que tout vacille, alors que le fond du dossier demeure beaucoup plus nuancé.",
+          "عند قراءة بعض العناوين، قد يظن المرء أن كل شيء يتداعى، بينما يبقى جوهر الملف أكثر تدرجًا وتعقيدًا بكثير."
+        ],
+        [
+          "Un chiffre isolé fait toujours impression, mais sans contexte il ne prouve pas grand-chose.",
+          "رقم منفرد يثير الانطباع دائمًا، لكنه من دون سياق لا يثبت الكثير.",
+          "أُن شيفر إيزوليه في تُجور إمبرِسيون، مي سان كونتِكست إيل نُ بروف با غران شوز.",
+          "Un chiffre isolé fait toujours impression, mais sans contexte il ne prouve pas grand-chose.",
+          "رقم منفرد يثير الانطباع دائمًا، لكنه من دون سياق لا يثبت الكثير."
+        ],
+        [
+          "Quand un article juxtapose menace et certitude, il cherche souvent moins à informer qu'à orienter.",
+          "حين يضع مقال التهديد واليقين جنبًا إلى جنب، فهو غالبًا يسعى إلى التوجيه أكثر من الإخبار.",
+          "كان أُن آرتيكْل جوكستابوز مِناس و سِرتيتي، إيل شيرش سوفان موآن آ أوطيه ك أوريانتِه.",
+          "Quand un article juxtapose menace et certitude, il cherche souvent moins à informer qu'à orienter.",
+          "حين يضع مقال التهديد واليقين جنبًا إلى جنب، فهو غالبًا يسعى إلى التوجيه أكثر من الإخبار."
+        ],
+        [
+          "Je me méfie des formulations qui martèlent l'urgence, car elles servent parfois un angle plus qu'un fait.",
+          "أتحفظ على الصياغات التي تطرق على الإلحاح، لأنها تخدم أحيانًا زاوية نظر أكثر من حقيقة.",
+          "جُ م ميفيي دي فورمولاسيون كي مارتيُل لورجانس، كار إيل سيرف بَرفوازان أُن آنغل بلس ك أُن فاي.",
+          "Je me méfie des formulations qui martèlent l'urgence, car elles servent parfois un angle plus qu'un fait.",
+          "أتحفظ على الصياغات التي تطرق على الإلحاح، لأنها تخدم أحيانًا زاوية نظر أكثر من حقيقة."
+        ],
+        [
+          "Un bon lecteur distingue l'information vérifiée de la mise en scène destinée à capter l'attention.",
+          "القارئ الجيد يميز بين المعلومة المتحققة وبين العرض المصمم لاختطاف الانتباه.",
+          "أُن بون لكتور ديستانغ لِينفورماسيون فيريفييه دو لا ميز أَنْ سِين ديستنِيه آ كابتِيه لاتونسْيون.",
+          "Un bon lecteur distingue l'information vérifiée de la mise en scène destinée à capter l'attention.",
+          "القارئ الجيد يميز بين المعلومة المتحققة وبين العرض المصمم لاختطاف الانتباه."
+        ],
+        [
+          "Les corrections discrètes en bas de page en disent parfois plus long que le papier lui-même.",
+          "التصحيحات الخفية أسفل الصفحة تقول أحيانًا أكثر مما يقوله النص نفسه.",
+          "ليه كوركسيون ديسكريت أَن با دو باج أَنْ دِزان س بَرفوا بلس لونغ ك لُ باپييه لوي-مِم.",
+          "Les corrections discrètes en bas de page en disent parfois plus long que le papier lui-même.",
+          "التصحيحات الخفية أسفل الصفحة تقول أحيانًا أكثر مما يقوله النص نفسه."
+        ],
+        [
+          "On peut relayer une alerte sans dramatiser, à condition de ne pas confondre prudence et panique.",
+          "يمكن تمرير تنبيه من دون تهويل، بشرط ألا نخلط بين الحذر والذعر.",
+          "أون پُ رُلَييه أُون أَلتِر سان دراماتيزيه، آ كونديتيون دو نُ با كُفوندر پوردانس إيه پانِيك.",
+          "On peut relayer une alerte sans dramatiser, à condition de ne pas confondre prudence et panique.",
+          "يمكن تمرير تنبيه من دون تهويل، بشرط ألا نخلط بين الحذر والذعر."
+        ],
+        [
+          "Ce qui n'est pas dit explicitement pèse parfois davantage que les déclarations les plus nettes.",
+          "ما لا يُقال صراحةً يثقل أحيانًا أكثر من التصريحات الأكثر وضوحًا.",
+          "سُ كِي نِه با دي إكسبليسيتمون بيز بَرفوا دافاج تَج كُ لي ديكلاراسيون لي بلس نِت.",
+          "Ce qui n'est pas dit explicitement pèse parfois davantage que les déclarations les plus nettes.",
+          "ما لا يُقال صراحةً يثقل أحيانًا أكثر من التصريحات الأكثر وضوحًا."
+        ],
+        [
+          "Il faut lire entre les lignes, mais sans y projeter ses propres certitudes.",
+          "يجب القراءة بين السطور، ولكن من دون إسقاط قناعاتنا الخاصة عليها.",
+          "إيل فو لير أَنْتْر لِي لينْي، مي سان يي بروجتيه سِ پروپ سِرتيتود.",
+          "Il faut lire entre les lignes, mais sans y projeter ses propres certitudes.",
+          "يجب القراءة بين السطور، ولكن من دون إسقاط قناعاتنا الخاصة عليها."
+        ],
+        [
+          "Une information solide résiste aux gros titres, et c'est souvent là qu'elle gagne en crédibilité.",
+          "المعلومة الصلبة تصمد أمام العناوين الكبيرة، وغالبًا هناك تكتسب مصداقيتها.",
+          "أون إنفورماسيون سوليد ريزيست أو غرو تيتْر، إي سِت سُوفان لا كِل غين أَنْ كريدِبيتِيه.",
+          "Une information solide résiste aux gros titres, et c'est souvent là qu'elle gagne en crédibilité.",
+          "المعلومة الصلبة تصمد أمام العناوين الكبيرة، وغالبًا هناك تكتسب مصداقيتها."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة بين البدائل",
+      "words": [
+        [
+          "Entre ces deux options, la différence décisive tient moins au prix qu'à l'usage réel qu'on en fera.",
+          "بين هذين الخيارين، يكمن الفرق الحاسم أقل في السعر منه في الاستخدام الفعلي الذي سنجنيه منه.",
+          "أَنتر سي دو زوبسيون، لا ديفيرانس ديسيزيف تيان موآن أو پري ك آ لُزاژ رييل ك أون أَنْ فيرا.",
+          "Entre ces deux options, la différence décisive tient moins au prix qu'à l'usage réel qu'on en fera.",
+          "بين هذين الخيارين، يكمن الفرق الحاسم أقل في السعر منه في الاستخدام الفعلي الذي سنجنيه منه."
+        ],
+        [
+          "La version la plus séduisante n'est pas toujours celle qui résiste le mieux à la routine.",
+          "النسخة الأكثر إغراءً ليست دائمًا التي تصمد أفضل أمام الروتين.",
+          "لا ڤيرسيون لا پلس سيديوزانت نِه با تُجور سيل كي ريزيست لُ مييو آ لا روتين.",
+          "La version la plus séduisante n'est pas toujours celle qui résiste le mieux à la routine.",
+          "النسخة الأكثر إغراءً ليست دائمًا التي تصمد أفضل أمام الروتين."
+        ],
+        [
+          "Il vaut parfois mieux choisir une solution sobre qu'un compromis brillant, mais vite encombrant.",
+          "أحيانًا يكون من الأفضل اختيار حل بسيط بدلًا من تسوية لامعة لكنها سرعان ما تصبح مرهقة.",
+          "إيل فو بَرفوا مييو شوازيير أُون سولوسيون سوبْر ك أُن كومپرومي برييان، مي ڤيت أَنْكومبران.",
+          "Il vaut parfois mieux choisir une solution sobre qu'un compromis brillant, mais vite encombrant.",
+          "أحيانًا يكون من الأفضل اختيار حل بسيط بدلًا من تسوية لامعة لكنها سرعان ما تصبح مرهقة."
+        ],
+        [
+          "Si l'on compare sérieusement, il faut compter ce que chaque option exige vraiment, pas seulement promet.",
+          "إذا قارنّا بجدية، فعلينا احتساب ما تتطلبه كل صيغة فعليًا، لا ما تعد به فقط.",
+          "سي لون كومپار سيريزمان، إيل فو كونتيه سُ كُ شاك أوبسيون إِكزيج ڤرَمان، با سُلمون پْروميه.",
+          "Si l'on compare sérieusement, il faut compter ce que chaque option exige vraiment, pas seulement promet.",
+          "إذا قارنّا بجدية، فعلينا احتساب ما تتطلبه كل صيغة فعليًا، لا ما تعد به فقط."
+        ],
+        [
+          "La meilleure alternative est souvent celle qui laisse le plus de marge quand les choses se compliquent.",
+          "أفضل بديل هو غالبًا الذي يترك أكبر هامش عندما تتعقد الأمور.",
+          "لا مييور ألتيرناتيف إيه سُوفان سيل كي ليس لُ بلس دو مارج كان لي شوز سُ كومپليك.",
+          "La meilleure alternative est souvent celle qui laisse le plus de marge quand les choses se compliquent.",
+          "أفضل بديل هو غالبًا الذي يترك أكبر هامش عندما تتعقد الأمور."
+        ],
+        [
+          "À force de vouloir tout gagner, on risque de perdre l'avantage discret qui faisait pencher la balance.",
+          "حين نريد ربح كل شيء، نخاطر بفقدان الأفضلية الخفية التي كانت ترجّح الكفة.",
+          "آ فورس دو ڤولوار تو غانييه، أون ريسك دو پيردر لافانتاج ديسكريه كي فِزيه پانشيه لا بالانس.",
+          "À force de vouloir tout gagner, on risque de perdre l'avantage discret qui faisait pencher la balance.",
+          "حين نريد ربح كل شيء، نخاطر بفقدان الأفضلية الخفية التي كانت ترجّح الكفة."
+        ],
+        [
+          "Ce choix paraît moins spectaculaire, mais il s'avère souvent plus durable à l'épreuve des faits.",
+          "يبدو هذا الاختيار أقل إثارة، لكنه يثبت غالبًا أنه أكثر دوامًا أمام اختبار الواقع.",
+          "سُ شوا پاري موآن سْپكتاكولير، مي إيل سافير سُوفان پلس دورابل آ ل إپرُوف دي في.",
+          "Ce choix paraît moins spectaculaire, mais il s'avère souvent plus durable à l'épreuve des faits.",
+          "يبدو هذا الاختيار أقل إثارة، لكنه يثبت غالبًا أنه أكثر دوامًا أمام اختبار الواقع."
+        ],
+        [
+          "Comparer, ce n'est pas aligner des avantages; c'est mesurer ce que l'on accepte de sacrifier.",
+          "المقارنة ليست رصّ المزايا؛ إنها قياس ما نقبل بالتضحية به.",
+          "كومپارِي، سِ نِه با ألينيه دي زافانتاج؛ سِ مِزورِه سُ كُ لون نَكْسَبت دو سَكريفِييه.",
+          "Comparer, ce n'est pas aligner des avantages; c'est mesurer ce que l'on accepte de sacrifier.",
+          "المقارنة ليست رصّ المزايا؛ إنها قياس ما نقبل بالتضحية به."
+        ],
+        [
+          "Une option peut sembler plus chère au départ et revenir moins coûteuse sur la durée.",
+          "قد يبدو خيار ما أغلى في البداية ثم يثبت أنه أقل كلفة على المدى الطويل.",
+          "أون أوبسيون پُ سانبليه پلس شير أو ديبار و رُڤنيير موآن كوتوز سور لا دورييه.",
+          "Une option peut sembler plus chère au départ et revenir moins coûteuse sur la durée.",
+          "قد يبدو خيار ما أغلى في البداية ثم يثبت أنه أقل كلفة على المدى الطويل."
+        ],
+        [
+          "Le bon arbitrage ne cherche pas l'option parfaite, mais celle qui convient le mieux au cadre donné.",
+          "الترجيح الجيد لا يبحث عن الخيار المثالي، بل عن ما يلائم الإطار المعطى على أفضل نحو.",
+          "لُ بون آربيتراج نُ شيرش با لوبسيون بارفيت، مي سيل كي كونفْيَان لُ مييو أو كادر دونيه.",
+          "Le bon arbitrage ne cherche pas l'option parfaite, mais celle qui convient le mieux au cadre donné.",
+          "الترجيح الجيد لا يبحث عن الخيار المثالي، بل عن ما يلائم الإطار المعطى على أفضل نحو."
+        ]
+      ]
+    },
+    {
+      "topic": "تنظيم الحجج",
+      "words": [
+        [
+          "Pour convaincre, il ne suffit pas d'empiler des arguments; il faut leur donner un ordre qui se tienne.",
+          "للإقناع، لا يكفي تكديس الحجج؛ بل يجب ترتيبها في نسق متماسك.",
+          "پور كونڤانكر، إيل نُ سُفي با دأَمپييه دي زارغومون؛ إيل فو لور دونيه أُن أوردر كي سُ تيان.",
+          "Pour convaincre, il ne suffit pas d'empiler des arguments; il faut leur donner un ordre qui se tienne.",
+          "للإقناع، لا يكفي تكديس الحجج؛ بل يجب ترتيبها في نسق متماسك."
+        ],
+        [
+          "Je commencerais par l'objection la plus forte, afin de la désamorcer avant qu'elle ne domine.",
+          "كنت سأبدأ بأقوى اعتراض، كي أفككه قبل أن يهيمن.",
+          "جُ كومانسراي بار لوبجكسيون لا پلس فورت، أفان دو لا ديزامورسِه أفان كِل نُ دومين.",
+          "Je commencerais par l'objection la plus forte, afin de la désamorcer avant qu'elle ne domine.",
+          "كنت سأبدأ بأقوى اعتراض، كي أفككه قبل أن يهيمن."
+        ],
+        [
+          "Un bon plan d'argumentation fait circuler le lecteur du constat vers l'évidence, sans le brusquer.",
+          "الخطة الحجاجية الجيدة تقود القارئ من الملاحظة إلى البديهة من دون دفعه بعنف.",
+          "أُن بون پلان دارغومانتاسيون في سيركوليه لُ لكتور دو كونستات ڤير لِڤيدانس، سان لُ بروسكِه.",
+          "Un bon plan d'argumentation fait circuler le lecteur du constat vers l'évidence, sans le brusquer.",
+          "الخطة الحجاجية الجيدة تقود القارئ من الملاحظة إلى البديهة من دون دفعه بعنف."
+        ],
+        [
+          "Si l'on multiplie les idées, on perd vite la ligne directrice qui donne du poids au raisonnement.",
+          "إذا كثّفنا الأفكار، نفقد سريعًا الخط الإرشادي الذي يمنح الاستدلال ثقله.",
+          "سي لون مولتيپليه ليزيديه، أون پير ڤيت لا لين ديرِكتريس كي دون دو پوا أو ريزونمان.",
+          "Si l'on multiplie les idées, on perd vite la ligne directrice qui donne du poids au raisonnement.",
+          "إذا كثّفنا الأفكار، نفقد سريعًا الخط الإرشادي الذي يمنح الاستدلال ثقله."
+        ],
+        [
+          "Mieux vaut une transition nette qu'une suite de phrases qui semblent juxtaposées au hasard.",
+          "الأفضل انتقال واضح بدل سلسلة جمل تبدو موضوعة بجانب بعضها عشوائيًا.",
+          "مييو فو أون ترانزيزيون نِت كون سويت دو فراز كي سانبل جوكستاپوزيه أو آزار.",
+          "Mieux vaut une transition nette qu'une suite de phrases qui semblent juxtaposées au hasard.",
+          "الأفضل انتقال واضح بدل سلسلة جمل تبدو موضوعة بجانب بعضها عشوائيًا."
+        ],
+        [
+          "La force d'une thèse tient aussi à ce qu'elle reconnaît ses limites au lieu de les masquer.",
+          "قوة الأطروحة تقوم أيضًا على اعترافها بحدودها بدلًا من إخفائها.",
+          "لا فورس د يون تيز تيان أوسي آ سِل رُكونيت سيس ليميت أُ ليو دو لي ماسكيه.",
+          "La force d'une thèse tient aussi à ce qu'elle reconnaît ses limites au lieu de les masquer.",
+          "قوة الأطروحة تقوم أيضًا على اعترافها بحدودها بدلًا من إخفائها."
+        ],
+        [
+          "Un raisonnement convainc davantage quand il anticipe la contre-attaque au lieu de l'ignorer.",
+          "الاستدلال يقنع أكثر عندما يتوقع الرد المضاد بدلًا من تجاهله.",
+          "أُن ريزونمان كونڤانك دافاج كان إيل أَنْتيسيب لا كونتراتاك أُ ليو دو لينيوره.",
+          "Un raisonnement convainc davantage quand il anticipe la contre-attaque au lieu de l'ignorer.",
+          "الاستدلال يقنع أكثر عندما يتوقع الرد المضاد بدلًا من تجاهله."
+        ],
+        [
+          "L'ironie a sa place, mais seulement si elle clarifie le propos au lieu de le brouiller.",
+          "للسخرية مكانها، لكن فقط إذا أوضحت الفكرة بدلًا من تشويشها.",
+          "ليروني آ سا بلاس، مي سولمان سي إيل كْلاريفي لُ پروپوز أو ليو دو لُ برويييه.",
+          "L'ironie a sa place, mais seulement si elle clarifie le propos au lieu de le brouiller.",
+          "للسخرية مكانها، لكن فقط إذا أوضحت الفكرة بدلًا من تشويشها."
+        ],
+        [
+          "Une conclusion réussie ne répète pas le début; elle en tire la portée avec élégance.",
+          "الخاتمة الناجحة لا تكرر البداية؛ بل تستخلص منها دلالتها بأناقة.",
+          "أون كونكلوزيون ريُسي نُ ريبيت با لُ ديبو؛ إيل أَنْ تير لا بورتيه أفِك إليغانس.",
+          "Une conclusion réussie ne répète pas le début; elle en tire la portée avec élégance.",
+          "الخاتمة الناجحة لا تكرر البداية؛ بل تستخلص منها دلالتها بأناقة."
+        ],
+        [
+          "Dans un débat, la clarté l'emporte souvent sur l'emphase, même quand le ton se veut vif.",
+          "في الجدل، تغلب الوضوح غالبًا على المبالغة، حتى عندما تكون النبرة حادة.",
+          "دان أُن ديبا، لا كلارتي لامپورت سُوفان سور لامفاز، مِم كان لُ تون سُ فو فيف.",
+          "Dans un débat, la clarté l'emporte souvent sur l'emphase, même quand le ton se veut vif.",
+          "في الجدل، تغلب الوضوح غالبًا على المبالغة، حتى عندما تكون النبرة حادة."
+        ]
+      ]
+    },
+    {
+      "topic": "تفسير البيانات",
+      "words": [
+        [
+          "Une courbe qui monte n'explique rien à elle seule; il faut savoir ce qu'elle cache derrière son allure.",
+          "منحنى صاعد لا يفسر شيئًا بمفرده؛ يجب معرفة ما يخفيه وراء مظهره.",
+          "أون كورب كي مونت نِكسبليك ريان آ إيل سول؛ إيل فو سافوار سُ كِل كاش دريير سون ألوور.",
+          "Une courbe qui monte n'explique rien à elle seule; il faut savoir ce qu'elle cache derrière son allure.",
+          "منحنى صاعد لا يفسر شيئًا بمفرده؛ يجب معرفة ما يخفيه وراء مظهره."
+        ],
+        [
+          "Les chiffres parlent, certes, mais ils ne parlent jamais sans la grammaire du contexte.",
+          "الأرقام تتكلم، نعم، لكنها لا تتكلم أبدًا من دون نحو السياق.",
+          "لي شيفر بارل، سِرت، مي إيل نُ بارل جاميه سان لا غرامير دو كونتِكست.",
+          "Les chiffres parlent, certes, mais ils ne parlent jamais sans la grammaire du contexte.",
+          "الأرقام تتكلم، نعم، لكنها لا تتكلم أبدًا من دون نحو السياق."
+        ],
+        [
+          "Une hausse ponctuelle peut masquer une tendance plus plate, voire un simple bruit statistique.",
+          "قد تخفي زيادة عابرة اتجاهًا أكثر تسطحًا، أو حتى مجرد ضجيج إحصائي.",
+          "أون أوس بونكتويل پُ ماسكيه أُون تاندانْس بلس پلات، ڤوار أُن سانپل بروي ستاتِستيك.",
+          "Une hausse ponctuelle peut masquer une tendance plus plate, voire un simple bruit statistique.",
+          "قد تخفي زيادة عابرة اتجاهًا أكثر تسطحًا، أو حتى مجرد ضجيج إحصائي."
+        ],
+        [
+          "Avant de commenter un indicateur, je vérifie toujours la méthode qui l'a produit.",
+          "قبل التعليق على مؤشر، أتحقق دائمًا من المنهجية التي أفرزته.",
+          "أڤان دو كومانتيه أُن أنديكاتور، جُ فيريفي توجور لا ميتود كي لا برودوي.",
+          "Avant de commenter un indicateur, je vérifie toujours la méthode qui l'a produit.",
+          "قبل التعليق على مؤشر، أتحقق دائمًا من المنهجية التي أفرزته."
+        ],
+        [
+          "Une moyenne flatteuse peut gommer des écarts importants entre les groupes observés.",
+          "متوسط مريح قد يمحو فوارق مهمة بين المجموعات المرصودة.",
+          "أون مويَن فلاتوز پُ غوميه دي زكار إمپورطان أَنتر لي گروب أوزيرفيه.",
+          "Une moyenne flatteuse peut gommer des écarts importants entre les groupes observés.",
+          "متوسط مريح قد يمحو فوارق مهمة بين المجموعات المرصودة."
+        ],
+        [
+          "Quand la dispersion s'élargit, la lecture du seul total devient franchement trompeuse.",
+          "عندما يتسع التشتت، تصبح قراءة الإجمالي وحده مضللة بوضوح.",
+          "كان لا ديسپيرسيون سيلارجيت، لا لُكتور دو سول توتال دُڤيَان فرانشمان ترومپوز.",
+          "Quand la dispersion s'élargit, la lecture du seul total devient franchement trompeuse.",
+          "عندما يتسع التشتت، تصبح قراءة الإجمالي وحده مضللة بوضوح."
+        ],
+        [
+          "Je préfère un graphique modeste et lisible à une infographie qui brouille l'essentiel.",
+          "أفضل رسمًا بيانيًا متواضعًا ومقروءًا على إنفوغرافيك يربك الجوهر.",
+          "جُ پريفير أُن غرافيك مودِست إي لیزيبْل آ أُون أَنفوغرافيك كي برويي لِسانسييل.",
+          "Je préfère un graphique modeste et lisible à une infographie qui brouille l'essentiel.",
+          "أفضل رسمًا بيانيًا متواضعًا ومقروءًا على إنفوغرافيك يربك الجوهر."
+        ],
+        [
+          "Un bon analyste cherche d'abord les ruptures, puis les continuités qui les relient.",
+          "المحلل الجيد يبحث أولًا عن الانقطاعات، ثم عن الاستمرارات التي تربطها.",
+          "أُن بون آنالِست شيرش دابور لي روبتور، پوي لي كونتينويتِه كي لي رُليين.",
+          "Un bon analyste cherche d'abord les ruptures, puis les continuités qui les relient.",
+          "المحلل الجيد يبحث أولًا عن الانقطاعات، ثم عن الاستمرارات التي تربطها."
+        ],
+        [
+          "Le signal utile n'est pas toujours spectaculaire; il est parfois discret, mais régulier.",
+          "الإشارة المفيدة ليست دائمًا لافتة؛ فهي أحيانًا خفية لكنها منتظمة.",
+          "لُ سيغنال يوتيل نِه با تُجور سْپكتاكولير؛ إيل إيه بَرفوا ديسكريه، مي ريجوليه.",
+          "Le signal utile n'est pas toujours spectaculaire; il est parfois discret, mais régulier.",
+          "الإشارة المفيدة ليست دائمًا لافتة؛ فهي أحيانًا خفية لكنها منتظمة."
+        ],
+        [
+          "Lire les données, c'est accepter de corriger ses intuitions quand elles s'obstinent.",
+          "قراءة البيانات تعني قبول تصحيح الحدس عندما يصر على الخطأ.",
+          "لير لي دونيه، سِت أَكسيپتيه دو كورجيه سِ زانتويتيون كان إِل سوبستين.",
+          "Lire les données, c'est accepter de corriger ses intuitions quand elles s'obstinent.",
+          "قراءة البيانات تعني قبول تصحيح الحدس عندما يصر على الخطأ."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط للمستقبل",
+      "words": [
+        [
+          "Je ne veux pas prédire l'avenir, seulement construire des options assez souples pour l'accueillir.",
+          "لا أريد التنبؤ بالمستقبل، بل فقط بناء خيارات مرنة بما يكفي لاستقباله.",
+          "جُ نُ ڤو با پريدير لافينير، سُلمان كونستروير دي زوبسيون أسي سوبل پور لاكييه.",
+          "Je ne veux pas prédire l'avenir, seulement construire des options assez souples pour l'accueillir.",
+          "لا أريد التنبؤ بالمستقبل، بل فقط بناء خيارات مرنة بما يكفي لاستقباله."
+        ],
+        [
+          "Un bon projet laisse de la place à l'imprévu, car tout verrouiller reviendrait à se priver d'élan.",
+          "المشروع الجيد يترك مجالًا للمفاجأة، لأن إحكام الإغلاق الكامل يعني حرمان النفس من الزخم.",
+          "أُن بون پروجي ليس دو لا پلاس آ لامپريفو، كار تو ڤيروييه رُڤياندراي آ سُ بريڤي دِلان.",
+          "Un bon projet laisse de la place à l'imprévu, car tout verrouiller reviendrait à se priver d'élan.",
+          "المشروع الجيد يترك مجالًا للمفاجأة، لأن إحكام الإغلاق الكامل يعني حرمان النفس من الزخم."
+        ],
+        [
+          "Mieux vaut avancer par étapes réversibles que promettre un grand saut impossible à corriger.",
+          "الأفضل التقدم بخطوات قابلة للعكس بدل أن نعد بقفزة كبيرة يستحيل تصحيحها.",
+          "مييو فو أڤانسِه بار إتپ ريفيرسيبل ك پْروميتْر أُن غران سو إِمپوسيبْل آ كورجيه.",
+          "Mieux vaut avancer par étapes réversibles que promettre un grand saut impossible à corriger.",
+          "الأفضل التقدم بخطوات قابلة للعكس بدل أن نعد بقفزة كبيرة يستحيل تصحيحها."
+        ],
+        [
+          "Planifier n'est pas figer; c'est préparer des marges de manœuvre avant que les contraintes serrent.",
+          "التخطيط ليس تجميدًا؛ بل إعداد هوامش حركة قبل أن تضيق القيود.",
+          "پلانيفييه نِه با فيجيه؛ سِت پريپاريه دي مارج دو مانوڤر أفان كُ لي كونترانت سِر.",
+          "Planifier n'est pas figer; c'est préparer des marges de manœuvre avant que les contraintes serrent.",
+          "التخطيط ليس تجميدًا؛ بل إعداد هوامش حركة قبل أن تضيق القيود."
+        ],
+        [
+          "Je regarde toujours ce qu'il faudra arrêter pour pouvoir continuer l'essentiel.",
+          "أنظر دائمًا إلى ما سيتعين إيقافه حتى يمكن مواصلة الأهم.",
+          "جُ رُغارد توجور سُ كيل فودرا أَريتِه پور پوفوار كونتينييه لِسانسييل.",
+          "Je regarde toujours ce qu'il faudra arrêter pour pouvoir continuer l'essentiel.",
+          "أنظر دائمًا إلى ما سيتعين إيقافه حتى يمكن مواصلة الأهم."
+        ],
+        [
+          "L'ambition durable se mesure moins à l'ampleur du rêve qu'à la cohérence des moyens.",
+          "الطموح المستدام يُقاس أقل بحجم الحلم منه بتناسق الوسائل.",
+          "لامبيسيون دورابل سُ مِزور موآن آ لامپلور دو ريف ك آ لا كوهيرانس دي موين.",
+          "L'ambition durable se mesure moins à l'ampleur du rêve qu'à la cohérence des moyens.",
+          "الطموح المستدام يُقاس أقل بحجم الحلم منه بتناسق الوسائل."
+        ],
+        [
+          "Si les circonstances changent, le cap doit rester lisible sans devenir rigide.",
+          "إذا تغيرت الظروف، يجب أن يبقى المسار واضحًا من دون أن يتحول إلى جمود.",
+          "سي لي سيركونستانس شانج، لُ كاپ دو رستير ليزيبل سان دُڤنير ريجيد.",
+          "Si les circonstances changent, le cap doit rester lisible sans devenir rigide.",
+          "إذا تغيرت الظروف، يجب أن يبقى المسار واضحًا من دون أن يتحول إلى جمود."
+        ],
+        [
+          "Un avenir crédible se bâtit avec des choix modestes, répétés sans bruit mais sans relâche.",
+          "المستقبل الموثوق يُبنى بقرارات صغيرة، متكررة بصمت لكن بلا هوادة.",
+          "أُن أڤينير كريدِيبْل سُ باتي أفِك دي شوا مودِست، رِيپتيه سان بروي مي سان رِلاش.",
+          "Un avenir crédible se bâtit avec des choix modestes, répétés sans bruit mais sans relâche.",
+          "المستقبل الموثوق يُبنى بقرارات صغيرة، متكررة بصمت لكن بلا هوادة."
+        ],
+        [
+          "Je préfère une trajectoire claire à une promesse grandiose qui se dissout au premier obstacle.",
+          "أفضّل مسارًا واضحًا على وعد ضخم يذوب عند أول عائق.",
+          "جُ پريفير أُون تراجيكتوار كلير آ أُون پْروميس غرانديواز كي سُ ديسو أو پْرمييه أوبستاكل.",
+          "Je préfère une trajectoire claire à une promesse grandiose qui se dissout au premier obstacle.",
+          "أفضّل مسارًا واضحًا على وعد ضخم يذوب عند أول عائق."
+        ],
+        [
+          "Prévoir l'avenir, c'est surtout apprendre à rester prêt sans s'illusionner.",
+          "استشراف المستقبل يعني أساسًا تعلم الجاهزية من دون أوهام.",
+          "پريڤوار لافينير، سِت سورتو أَپراندر آ رُستير پري سان سيلوزيونيه.",
+          "Prévoir l'avenir, c'est surtout apprendre à rester prêt sans s'illusionner.",
+          "استشراف المستقبل يعني أساسًا تعلم الجاهزية من دون أوهام."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب والتأمل",
+      "words": [
+        [
+          "À force d'errer sans but, j'ai compris que l'égarement peut parfois affiner le regard.",
+          "بعد طول التشرّد بلا هدف، فهمت أن الضياع قد يصقل النظرة أحيانًا.",
+          "آ فور دير سون بو، جي كومبري ك لغيرمون بوت بارفوازين أفيني لى رگا",
+          "À force d'errer sans but, j'ai compris que l'égarement peut parfois affiner le regard.",
+          "بعد طول التشرّد بلا هدف، فهمت أن الضياع قد يصقل النظرة أحيانًا."
+        ],
+        [
+          "Je croyais gagner du temps en allant vite; j'ai surtout appris que la hâte le dévore.",
+          "كنت أظن أني أربح الوقت حين أستعجل، لكني تعلّمت أساسًا أن العجلة تلتهمه.",
+          "جُ كرْوَايَ غاني دو تان أون ألان فيت؛ جي سورتو أبري ك لا آت لُدڤور",
+          "Je croyais gagner du temps en allant vite; j'ai surtout appris que la hâte le dévore.",
+          "كنت أظن أني أربح الوقت حين أستعجل، لكني تعلّمت أساسًا أن العجلة تلتهمه."
+        ],
+        [
+          "Le silence d'une gare vide m'a révélé combien l'attente peut devenir une forme de présence.",
+          "لقد كشف لي صمت محطة فارغة إلى أي حد يمكن للانتظار أن يصير شكلاً من الحضور.",
+          "لُ صيلانس دُين غار ڤيد ما ريفيلي كومان لانتانت بوت دڤنيغ يون فورم دو بريزونْس",
+          "Le silence d'une gare vide m'a révélé combien l'attente peut devenir une forme de présence.",
+          "لقد كشف لي صمت محطة فارغة إلى أي حد يمكن للانتظار أن يصير شكلاً من الحضور."
+        ],
+        [
+          "Quand tout vacille, on découvre qu'une certitude perdue vaut mieux qu'une illusion intacte.",
+          "عندما يتزعزع كل شيء، نكتشف أن يقينًا مفقودًا خير من وهمٍ سليم.",
+          "كان تو فاسيي، أون ديكوڤر ك يون سيرتيتود بيردو ڤو ميي ك يون إيليوزيون أَنْتاكت",
+          "Quand tout vacille, on découvre qu'une certitude perdue vaut mieux qu'une illusion intacte.",
+          "عندما يتزعزع كل شيء، نكتشف أن يقينًا مفقودًا خير من وهمٍ سليم."
+        ],
+        [
+          "J'ai longtemps confondu la discrétion avec la faiblesse; en réalité, elle exige une solide maîtrise.",
+          "خلطت طويلًا بين التحفّظ والضعف؛ وفي الحقيقة إنه يتطلب سيطرة راسخة.",
+          "جي لونتانغ كونفوندو لا ديسكريسيون أڤيك لا فائبليس؛ أَنْ رِياليتي، إل إغزِيج يون سوليد مايتغيز",
+          "J'ai longtemps confondu la discrétion avec la faiblesse; en réalité, elle exige une solide maîtrise.",
+          "خلطت طويلًا بين التحفّظ والضعف؛ وفي الحقيقة إنه يتطلب سيطرة راسخة."
+        ],
+        [
+          "Un échec bien digéré m'a appris davantage qu'un succès qu'on applaudit trop vite.",
+          "فشل تمّ استيعابه جيدًا علّمني أكثر من نجاح يُصفَّق له بسرعة.",
+          "أَن إشيك بيان ديجيري ما أبري داڤانتاژ ك أَن سُكسيه كونز أپلودي ترو فيت",
+          "Un échec bien digéré m'a appris davantage qu'un succès qu'on applaudit trop vite.",
+          "فشل تمّ استيعابه جيدًا علّمني أكثر من نجاح يُصفَّق له بسرعة."
+        ],
+        [
+          "Je me méfie des certitudes trop propres: elles cachent souvent ce qu'elles prétendent expliquer.",
+          "أتحفظ من اليقينيات النظيفة أكثر من اللازم؛ فهي كثيرًا ما تُخفي ما تزعم تفسيره.",
+          "جُ مُ ميفي دي سيرتيتود ترو بروپ؛ إل كاش سَوڤان سُ كيل بْريتانْد إكسبليكَي",
+          "Je me méfie des certitudes trop propres: elles cachent souvent ce qu'elles prétendent expliquer.",
+          "أتحفظ من اليقينيات النظيفة أكثر من اللازم؛ فهي كثيرًا ما تُخفي ما تزعم تفسيره."
+        ],
+        [
+          "À la fin, ce qui reste n'est pas toujours ce qu'on a voulu sauver, mais ce qu'on a compris.",
+          "في النهاية، ما يبقى ليس دائمًا ما أردنا إنقاذه، بل ما فهمناه.",
+          "آ لا فان، سُ كي رست نيه پا توجور سُ كون آ ڤولو سوفي، مي سُ كون آ كومبري",
+          "À la fin, ce qui reste n'est pas toujours ce qu'on a voulu sauver, mais ce qu'on a compris.",
+          "في النهاية، ما يبقى ليس دائمًا ما أردنا إنقاذه، بل ما فهمناه."
+        ],
+        [
+          "Je préfère une vérité modeste à une belle théorie qui n'affronte jamais le réel.",
+          "أفضل حقيقة متواضعة على نظرية جميلة لا تواجه الواقع أبدًا.",
+          "جُ بريفير يون ڤيريتي موديست آ يون بيل تيوري كي نافرونت جمي لُ ريايل",
+          "Je préfère une vérité modeste à une belle théorie qui n'affronte jamais le réel.",
+          "أفضل حقيقة متواضعة على نظرية جميلة لا تواجه الواقع أبدًا."
+        ],
+        [
+          "Même lorsqu'on se tait, on laisse parfois paraître une opinion plus nette que des discours.",
+          "حتى عندما نصمت، قد نُظهر أحيانًا رأيًا أوضح من الخطب.",
+          "ميم لوورسكون سُ تيه، أون لَيس بارفوا پاريتغ يون أوبينيون پلو نيت ك دي ديسكور",
+          "Même lorsqu'on se tait, on laisse parfois paraître une opinion plus nette que des discours.",
+          "حتى عندما نصمت، قد نُظهر أحيانًا رأيًا أوضح من الخطب."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات الاجتماعية",
+      "words": [
+        [
+          "Il sait écouter sans monopoliser la conversation, et c'est souvent là que naît la confiance.",
+          "هو يعرف كيف يصغي دون أن يحتكر الحديث، وغالبًا من هناك تنشأ الثقة.",
+          "إيل سى إكوتي سان مونوبوليزي لا كونڤيرساسيون، إي سى سَوڤان لا ك نيت لا كونفيانس",
+          "Il sait écouter sans monopoliser la conversation, et c'est souvent là que naît la confiance.",
+          "هو يعرف كيف يصغي دون أن يحتكر الحديث، وغالبًا من هناك تنشأ الثقة."
+        ],
+        [
+          "Entre amis, un désaccord franc vaut mieux qu'une politesse qui laisse tout pourrir.",
+          "بين الأصدقاء، خلاف صريح خير من مجاملة تترك كل شيء يتعفّن.",
+          "أونتر أمي، أَن ديزاكور فرون ڤو ميي ك يون بوليتيس كِي لَيس تو بورير",
+          "Entre amis, un désaccord franc vaut mieux qu'une politesse qui laisse tout pourrir.",
+          "بين الأصدقاء، خلاف صريح خير من مجاملة تترك كل شيء يتعفّن."
+        ],
+        [
+          "Elle a le tact de dire non sans humilier, ce qui est plus rare qu'on ne le croit.",
+          "لديها ذوق في قول لا من دون إحراج، وهذا أندر مما نعتقد.",
+          "إيل آ لو تاكت دو دير نون سان أومييي، سُ كي إه پلو غار كون نُ لو كروى",
+          "Elle a le tact de dire non sans humilier, ce qui est plus rare qu'on ne le croit.",
+          "لديها ذوق في قول لا من دون إحراج، وهذا أندر مما نعتقد."
+        ],
+        [
+          "Dans les grandes tablées, il observe d'abord, puis il parle juste assez pour compter.",
+          "في الولائم الكبيرة، يراقب أولًا ثم يتكلم بالقدر الكافي ليُحسب حسابه.",
+          "دان لي غران تابلي، إيل أوبسيرڤ دابور، پوي إيل پارل جوست آسي بور كونتي",
+          "Dans les grandes tablées, il observe d'abord, puis il parle juste assez pour compter.",
+          "في الولائم الكبيرة، يراقب أولًا ثم يتكلم بالقدر الكافي ليُحسب حسابه."
+        ],
+        [
+          "Je tiens aux liens simples: ils résistent mieux aux malentendus que les serments bruyants.",
+          "أقدّر الروابط البسيطة؛ فهي تصمد أمام سوء الفهم أكثر من الوعود الصاخبة.",
+          "جُ تيان أو ليان سَンプْل؛ إيل ريزِست ميي أو مالانتندو ك لى سيرمان برويان",
+          "Je tiens aux liens simples: ils résistent mieux aux malentendus que les serments bruyants.",
+          "أقدّر الروابط البسيطة؛ فهي تصمد أمام سوء الفهم أكثر من الوعود الصاخبة."
+        ],
+        [
+          "On peut se voir tous les jours et rester lointains; tout dépend de ce qu'on partage vraiment.",
+          "يمكن أن نلتقي كل يوم ونبقى بعيدين؛ فكل شيء يعتمد على ما نتقاسمه حقًا.",
+          "أون پُ سُ ڤوار تو لى جور إي رستيه لوانتان؛ تو ديپان دو سُ كون پارتاژ ڤغمان",
+          "On peut se voir tous les jours et rester lointains; tout dépend de ce qu'on partage vraiment.",
+          "يمكن أن نلتقي كل يوم ونبقى بعيدين؛ فكل شيء يعتمد على ما نتقاسمه حقًا."
+        ],
+        [
+          "Le respect n'a rien d'abstrait: il se mesure à la manière dont on contredit sans écraser.",
+          "الاحترام ليس مجرد فكرة مجردة؛ بل يقاس بطريقة الاعتراض من دون سحق الآخر.",
+          "لُ ريسپيه نا ريان دابستغيه؛ إيل سُ ميزور آ لا مانيير دون أون كونتغيدي سان زغاسي",
+          "Le respect n'a rien d'abstrait: il se mesure à la manière dont on contredit sans écraser.",
+          "الاحترام ليس مجرد فكرة مجردة؛ بل يقاس بطريقة الاعتراض من دون سحق الآخر."
+        ],
+        [
+          "Quand quelqu'un tombe, les meilleurs alliés ne font pas de bruit: ils restent et agissent.",
+          "عندما يتعثر أحد، أفضل الحلفاء لا يثيرون ضجيجًا؛ بل يبقون ويتصرفون.",
+          "كان كيلكون تونب، لي ميييه زالييه نُ فون پا دو بروي؛ إيل رست أ إي إيجيس",
+          "Quand quelqu'un tombe, les meilleurs alliés ne font pas de bruit: ils restent et agissent.",
+          "عندما يتعثر أحد، أفضل الحلفاء لا يثيرون ضجيجًا؛ بل يبقون ويتصرفون."
+        ],
+        [
+          "J'apprécie les gens qui parlent net, même si leur franchise bouscule un peu l'assemblée.",
+          "أقدّر الناس الذين يتحدثون بوضوح، حتى لو أربك صراحةُهم الحاضرين قليلًا.",
+          "ژاپريسي لي جان كي پارل نيت، ميم سي لور فرونشيز بوسكول أَن پُ لاسامبلي",
+          "J'apprécie les gens qui parlent net, même si leur franchise bouscule un peu l'assemblée.",
+          "أقدّر الناس الذين يتحدثون بوضوح، حتى لو أربك صراحةُهم الحاضرين قليلًا."
+        ],
+        [
+          "Une relation solide n'étouffe pas les différences; elle leur donne une place habitable.",
+          "العلاقة المتينة لا تخنق الاختلافات؛ بل تمنحها مكانًا قابلًا للعيش.",
+          "يون غيلاتسيون سُليد نيتوف پا لي ديفيرانس؛ إيل لور دون يون بلاس آبيتابل",
+          "Une relation solide n'étouffe pas les différences; elle leur donne une place habitable.",
+          "العلاقة المتينة لا تخنق الاختلافات؛ بل تمنحها مكانًا قابلًا للعيش."
+        ]
+      ]
+    },
+    {
+      "topic": "المشاركة المجتمعية",
+      "words": [
+        [
+          "Participer ne consiste pas seulement à voter, mais à rendre le quotidien un peu plus lisible.",
+          "المشاركة لا تعني فقط التصويت، بل أيضًا جعل الحياة اليومية أوضح قليلًا.",
+          "پارتيسيپي نُ كونسيست پا سُلَمون آ ڤوتي، مي آ روندغ لُ كوتيديان أَن پُ پلو ليزابل",
+          "Participer ne consiste pas seulement à voter, mais à rendre le quotidien un peu plus lisible.",
+          "المشاركة لا تعني فقط التصويت، بل أيضًا جعل الحياة اليومية أوضح قليلًا."
+        ],
+        [
+          "Le bénévolat révèle parfois ce que le discours civique oublie: la patience des petites mains.",
+          "يكشف التطوع أحيانًا ما ينساه الخطاب المدني: صبر الأيدي الصغيرة.",
+          "لُ بينڤولَا ريفيل بارفوا سُ ك لُ ديسكور سيفيك اوبلي: لا پاتيانس دي پُتيت مام",
+          "Le bénévolat révèle parfois ce que le discours civique oublie: la patience des petites mains.",
+          "يكشف التطوع أحيانًا ما ينساه الخطاب المدني: صبر الأيدي الصغيرة."
+        ],
+        [
+          "Quand un quartier s'organise, on voit soudain que la proximité peut devenir une force.",
+          "عندما ينظم حيّ نفسه، نرى فجأة أن القرب يمكن أن يصبح قوة.",
+          "كان أَن كارتيي سورغانيز، أون ڤوا سودان ك لا پروكسي مي پُ دڤنيغ يون فورس",
+          "Quand un quartier s'organise, on voit soudain que la proximité peut devenir une force.",
+          "عندما ينظم حيّ نفسه، نرى فجأة أن القرب يمكن أن يصبح قوة."
+        ],
+        [
+          "Je préfère une action discrète à une indignation spectaculaire qui s'éteint dès le lendemain.",
+          "أفضل فعلًا هادئًا على غضب استعراضي ينطفئ في اليوم التالي.",
+          "جُ بريفير يون أكسيون ديسكريت آ يون اندينيغاسيون سپكتاكولير كي سيتان دے لُ لاندمان",
+          "Je préfère une action discrète à une indignation spectaculaire qui s'éteint dès le lendemain.",
+          "أفضل فعلًا هادئًا على غضب استعراضي ينطفئ في اليوم التالي."
+        ],
+        [
+          "On se sent utile dès qu'on apporte une solution concrète, même minuscule, à un vrai besoin.",
+          "نشعر بالفائدة فور تقديم حل ملموس، ولو ضئيلًا، لحاجة حقيقية.",
+          "أون سُ سانت يوتيل دې كونز أبورت يون سولوسيون كونكريت، ميم مينوسكول، آ أَن ڤغوا بزون",
+          "On se sent utile dès qu'on apporte une solution concrète, même minuscule, à un vrai besoin.",
+          "نشعر بالفائدة فور تقديم حل ملموس، ولو ضئيلًا، لحاجة حقيقية."
+        ],
+        [
+          "La solidarité n'a rien de grandiloquent; elle commence souvent par un geste bien placé.",
+          "التضامن ليس فيه شيء متعاظم؛ إنه يبدأ غالبًا بإشارة في مكانها الصحيح.",
+          "لا سوليداريتي نا ريان دو غرانديلوكوان؛ إيل كومانس سَوڤان پار أَن ژيست بيان پلاسَي",
+          "La solidarité n'a rien de grandiloquent; elle commence souvent par un geste bien placé.",
+          "التضامن ليس فيه شيء متعاظم؛ إنه يبدأ غالبًا بإشارة في مكانها الصحيح."
+        ],
+        [
+          "Dans les réunions publiques, il faut moins promettre que clarifier ce qui bloque vraiment.",
+          "في الاجتماعات العامة، ينبغي التوضيح أكثر من الوعد بشأن ما يعوق الأمر حقًا.",
+          "دان لي ريونيون پوبليك، إيل فو موين بروميتر ك كلغيفييه سُ كي بلوك ڤغمان",
+          "Dans les réunions publiques, il faut moins promettre que clarifier ce qui bloque vraiment.",
+          "في الاجتماعات العامة، ينبغي التوضيح أكثر من الوعد بشأن ما يعوق الأمر حقًا."
+        ],
+        [
+          "Un bon projet ne cherche pas les honneurs: il cherche d'abord à durer sans se déformer.",
+          "المشروع الجيد لا يطلب الأوسمة؛ بل يسعى أولًا إلى الاستمرار من دون تشويه.",
+          "أَن بون پروجي نُ شيرش پا لي زونور؛ إيل شيرش دابور آ ديغي سان سُ دي فورمي",
+          "Un bon projet ne cherche pas les honneurs: il cherche d'abord à durer sans se déformer.",
+          "المشروع الجيد لا يطلب الأوسمة؛ بل يسعى أولًا إلى الاستمرار من دون تشويه."
+        ],
+        [
+          "Il y a du courage à défendre le commun sans confisquer la parole des autres.",
+          "هناك شجاعة في الدفاع عن الشأن المشترك من دون الاستحواذ على كلام الآخرين.",
+          "إيل ي آ دو كوراج آ دفاندغ لُ كومُن سان كونفيسكَي لا پارول دي زوتر",
+          "Il y a du courage à défendre le commun sans confisquer la parole des autres.",
+          "هناك شجاعة في الدفاع عن الشأن المشترك من دون الاستحواذ على كلام الآخرين."
+        ],
+        [
+          "La vie collective avance quand chacun accepte de céder un peu pour que tout tienne.",
+          "تتقدم الحياة الجماعية عندما يقبل كل واحد أن يتنازل قليلًا كي يبقى كل شيء متماسكًا.",
+          "لا ڤي كولِكتيف آڤانس كان شَكان أَكسپت دو سيدي أَن پُ بور كُ تو تيين",
+          "La vie collective avance quand chacun accepte de céder un peu pour que tout tienne.",
+          "تتقدم الحياة الجماعية عندما يقبل كل واحد أن يتنازل قليلًا كي يبقى كل شيء متماسكًا."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن المشاعر",
+      "words": [
+        [
+          "Je ne suis pas toujours triste; parfois, je suis seulement traversé par une fatigue sans nom.",
+          "لست حزينًا دائمًا؛ أحيانًا لا أمرّ إلا بتعبٍ لا اسم له.",
+          "جُ نُ سوي پا توجور تْغِست؛ بارفوا، جُ سوي سُلمان تغاڤِرسي پار يون فاتيغ سان نوم",
+          "Je ne suis pas toujours triste; parfois, je suis seulement traversé par une fatigue sans nom.",
+          "لست حزينًا دائمًا؛ أحيانًا لا أمرّ إلا بتعبٍ لا اسم له."
+        ],
+        [
+          "Sa remarque m'a blessé moins par sa dureté que par son exactitude.",
+          "لم تجرحني ملاحظته لشدتها بقدر دقتها.",
+          "سا غمارك ما بليسي موين پار سا ديغتي ك پار سون إګزاكتيتود",
+          "Sa remarque m'a blessé moins par sa dureté que par son exactitude.",
+          "لم تجرحني ملاحظته لشدتها بقدر دقتها."
+        ],
+        [
+          "J'ai ri pour ne pas céder à l'angoisse, mais le rire avait un goût de défense.",
+          "ضحكت كي لا أستسلم للقلق، لكن الضحكة كان لها طعم الدفاع.",
+          "جي ري بور نُ پا سيدي آ لونغواس، مي لُ غير أڤيه أَن غوت دو ديڤانس",
+          "J'ai ri pour ne pas céder à l'angoisse, mais le rire avait un goût de défense.",
+          "ضحكت كي لا أستسلم للقلق، لكن الضحكة كان لها طعم الدفاع."
+        ],
+        [
+          "Quand je suis ému, je parle plus juste, comme si l'essentiel refusait les détours.",
+          "عندما أتأثر، أتحدث بدقة أكبر، كأن الجوهر يرفض الالتفافات.",
+          "كان جُ سوي إمو، جُ پارل پلو جوست، كوم سي ليسانسيل ريفوزي لي ديتور",
+          "Quand je suis ému, je parle plus juste, comme si l'essentiel refusait les détours.",
+          "عندما أتأثر، أتحدث بدقة أكبر، كأن الجوهر يرفض الالتفافات."
+        ],
+        [
+          "Je maîtrise mal mes colères; pourtant, j'apprends à leur donner une forme respirable.",
+          "لا أُحسن ضبط غضبي؛ ومع ذلك أتعلم أن أمنحه شكلًا يمكن التنفس معه.",
+          "جُ مايتغيز مال مي كولير؛ پورتان، ژاپغون آ لور دوني يون فورم ريسپيرابل",
+          "Je maîtrise mal mes colères; pourtant, j'apprends à leur donner une forme respirable.",
+          "لا أُحسن ضبط غضبي؛ ومع ذلك أتعلم أن أمنحه شكلًا يمكن التنفس معه."
+        ],
+        [
+          "Le soulagement arrive parfois trop tard pour être triomphal, mais il n'en est pas moins réel.",
+          "يأتي الارتياح أحيانًا متأخرًا لدرجة تمنعه من أن يكون انتصاريًا، لكنه يظل حقيقيًا.",
+          "لُ سولاجمونت أغايف بارفوا ترو تار بور إتر تْغيونفَال، مي إيل نان إه پا موين ريايل",
+          "Le soulagement arrive parfois trop tard pour être triomphal, mais il n'en est pas moins réel.",
+          "يأتي الارتياح أحيانًا متأخرًا لدرجة تمنعه من أن يكون انتصاريًا، لكنه يظل حقيقيًا."
+        ],
+        [
+          "Je n'aime pas dramatiser, mais je refuse aussi de maquiller ce qui me pèse.",
+          "لا أحب المبالغة، لكنني أرفض أيضًا تجميل ما يثقلني.",
+          "جُ نيم پا دراماتيزي، مي جُ رفوز أوسي دو ماكيي سُ كي مُ پيز",
+          "Je n'aime pas dramatiser, mais je refuse aussi de maquiller ce qui me pèse.",
+          "لا أحب المبالغة، لكنني أرفض أيضًا تجميل ما يثقلني."
+        ],
+        [
+          "La joie sincère a quelque chose de sobre; elle n'a pas besoin d'un grand décor.",
+          "الفرح الصادق فيه شيء من البساطة؛ لا يحتاج إلى ديكور كبير.",
+          "لا ژوَاع سانسير آ كيلك شوز دو سوفر؛ إيل نا پا بزوِين دَان غران ديكور",
+          "La joie sincère a quelque chose de sobre; elle n'a pas besoin d'un grand décor.",
+          "الفرح الصادق فيه شيء من البساطة؛ لا يحتاج إلى ديكور كبير."
+        ],
+        [
+          "Je me sens vulnérable quand je parle vrai, mais c'est souvent le prix de la clarté.",
+          "أشعر بالهشاشة حين أتكلم بصدق، لكن هذا غالبًا ثمن الوضوح.",
+          "جُ مُ سان فولنيرابل كان جُ پارل ڤغاي، مي سى سَوڤان لُ بري دو لا كلارتي",
+          "Je me sens vulnérable quand je parle vrai, mais c'est souvent le prix de la clarté.",
+          "أشعر بالهشاشة حين أتكلم بصدق، لكن هذا غالبًا ثمن الوضوح."
+        ],
+        [
+          "Même dans la déception, il reste une dignité qu'on ne devrait jamais négocier.",
+          "حتى في الخيبة، تبقى كرامة لا ينبغي المساومة عليها أبدًا.",
+          "ميم دان لا ديسپسيون، إيل رست يون ديجنيتي كون نُ دفغيه جمي نيغوسيي",
+          "Même dans la déception, il reste une dignité qu'on ne devrait jamais négocier.",
+          "حتى في الخيبة، تبقى كرامة لا ينبغي المساومة عليها أبدًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الفن والأدب",
+      "words": [
+        [
+          "Un bon roman ne donne pas des réponses; il affine les questions jusqu'à l'inquiétude féconde.",
+          "الرواية الجيدة لا تقدم أجوبة؛ بل تصقل الأسئلة حتى القلق المثمر.",
+          "أَن بون غومان نُ دون پا دي غابونس؛ إيل أفيني لي كستان جوسكا لانكييتود فيكوند",
+          "Un bon roman ne donne pas des réponses; il affine les questions jusqu'à l'inquiétude féconde.",
+          "الرواية الجيدة لا تقدم أجوبة؛ بل تصقل الأسئلة حتى القلق المثمر."
+        ],
+        [
+          "La peinture me touche quand elle suggère plus qu'elle n'explique, sans jamais chercher l'effet facile.",
+          "يلمسني الرسم حين يلمّح أكثر مما يشرح، من دون أن يطارد الأثر السهل.",
+          "لا بانتيوغ مُ توش كان إيل سوجيهغ پلو كيل نيكسبليك، سان ژامي شيرشي ليفي فاسيل",
+          "La peinture me touche quand elle suggère plus qu'elle n'explique, sans jamais chercher l'effet facile.",
+          "يلمسني الرسم حين يلمّح أكثر مما يشرح، من دون أن يطارد الأثر السهل."
+        ],
+        [
+          "Un vers puissant tient parfois à un silence bien placé entre deux images.",
+          "قد يعتمد بيت شعري قوي أحيانًا على صمت موضوع في مكانه بين صورتين.",
+          "أَن ڤير پويسان تيان بارفوا آ أَن صيلانس بيان پلاسَي أونتر دو زيماج",
+          "Un vers puissant tient parfois à un silence bien placé entre deux images.",
+          "قد يعتمد بيت شعري قوي أحيانًا على صمت موضوع في مكانه بين صورتين."
+        ],
+        [
+          "J'aime les œuvres qui résistent à l'usage rapide et récompensent les relectures.",
+          "أحب الأعمال التي تقاوم الاستهلاك السريع وتكافئ إعادة القراءة.",
+          "جيم لي زوڤر كي ريزِست آ لوزاج غابيد إي ريكومپانس لي غُلِكتوغ",
+          "J'aime les œuvres qui résistent à l'usage rapide et récompensent les relectures.",
+          "أحب الأعمال التي تقاوم الاستهلاك السريع وتكافئ إعادة القراءة."
+        ],
+        [
+          "Le théâtre, quand il est juste, fait entendre ce que la politesse sociale voudrait taire.",
+          "المسرح، حين يكون محكمًا، يجعلنا نسمع ما قد ترغب اللياقة الاجتماعية في كتمه.",
+          "لُ تيآتر، كان إيل إه جوست، فيت أونتاندغ سُ ك لا بوليتيس سوسيال ڤودغيه تير",
+          "Le théâtre, quand il est juste, fait entendre ce que la politesse sociale voudrait taire.",
+          "المسرح، حين يكون محكمًا، يجعلنا نسمع ما قد ترغب اللياقة الاجتماعية في كتمه."
+        ],
+        [
+          "Une chanson peut dire l'époque avec une précision qu'aucun rapport ne possède.",
+          "يمكن لأغنية أن تصف العصر بدقة لا يملكها أي تقرير.",
+          "يون شانسون پُ دير لِيپوك أڤيك يون بريسيزيون كوكَن ږاپور نُ پوزيد",
+          "Une chanson peut dire l'époque avec une précision qu'aucun rapport ne possède.",
+          "يمكن لأغنية أن تصف العصر بدقة لا يملكها أي تقرير."
+        ],
+        [
+          "Je me fie aux auteurs qui laissent des angles morts, car le lecteur doit achever le sens.",
+          "أثق بالمؤلفين الذين يتركون زوايا عمياء، لأن القارئ عليه أن يُتمّ المعنى.",
+          "جُ مُ في أو أوتور كي لَيس ديزانگل مور، كار لُ لكتور دوا أشيفي لُ سانس",
+          "Je me fie aux auteurs qui laissent des angles morts, car le lecteur doit achever le sens.",
+          "أثق بالمؤلفين الذين يتركون زوايا عمياء، لأن القارئ عليه أن يُتمّ المعنى."
+        ],
+        [
+          "L'art n'embellit pas le réel; il lui donne parfois une forme supportable ou explosive.",
+          "الفن لا يجمّل الواقع؛ بل يمنحه أحيانًا شكلًا محتمل التحمل أو انفجاريًا.",
+          "لار نانبليي پا لُ ريايل؛ إيل لوي دون بارفوا يون فورم سبورتابل أُ إكسبلوسيف",
+          "L'art n'embellit pas le réel; il lui donne parfois une forme supportable ou explosive.",
+          "الفن لا يجمّل الواقع؛ بل يمنحه أحيانًا شكلًا محتمل التحمل أو انفجاريًا."
+        ],
+        [
+          "Il faut un grand souffle pour écrire simplement sans appauvrir la nuance.",
+          "يحتاج المرء إلى نفس طويل ليكتب ببساطة من دون إفقار الدلالة.",
+          "إيل فو أَن غران سوفل بور إكغغيف سيمپلمان سانز اپوڤغِغ لا نيوانس",
+          "Il faut un grand souffle pour écrire simplement sans appauvrir la nuance.",
+          "يحتاج المرء إلى نفس طويل ليكتب ببساطة من دون إفقار الدلالة."
+        ],
+        [
+          "Quand une œuvre vieillit bien, elle ne rassure pas: elle devient plus précise, donc plus libre.",
+          "عندما يشيخ عمل فني جيدًا، لا يطمئننا؛ بل يغدو أدقّ، وبالتالي أحرّ.",
+          "كان يون اوڤر ڤييي بيان، إيل نُ غاسور پا؛ إيل دڤيان پلو بريسيز، دونك پلو ليبر",
+          "Quand une œuvre vieillit bien, elle ne rassure pas: elle devient plus précise, donc plus libre.",
+          "عندما يشيخ عمل فني جيدًا، لا يطمئننا؛ بل يغدو أدقّ، وبالتالي أحرّ."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوية والانتماء",
+      "words": [
+        [
+          "Je me sens chez moi là où l’on peut parler sans se travestir, même si l’adresse change.",
+          "أشعر أنني في بيتي حيث يمكن للمرء أن يتكلم من دون تكلّف، حتى لو تغيّر العنوان.",
+          "جُو مَ سُونس شَي مُوا لا أُو لُون بُو تْ بارْلِيه سون تْ سُ تْرَوِسْتِير، ميم سِي لَادْرَسْ شَانْجْ.",
+          "Je me sens chez moi là où l’on peut parler sans se travestir, même si l’adresse change.",
+          "أشعر أنني في بيتي حيث يمكن للمرء أن يتكلم من دون تكلّف، حتى لو تغيّر العنوان."
+        ],
+        [
+          "Mon accent me trahit parfois, mais il raconte aussi les lieux qui m’ont façonné.",
+          "لكنّ لهجتي تفضحني أحيانًا، إلا أنها تروي أيضًا الأمكنة التي شكّلتني.",
+          "مُونْ أَكْسَانْ مْ تْرَايِي بَارْفُوَا، مَي إيلْ رَكُونْتْ أُوسِي لَي لْيُو كِي مُونْ فَاسُونْنِيه.",
+          "Mon accent me trahit parfois, mais il raconte aussi les lieux qui m’ont façonné.",
+          "لكنّ لهجتي تفضحني أحيانًا، إلا أنها تروي أيضًا الأمكنة التي شكّلتني."
+        ],
+        [
+          "Je n’ai jamais cru qu’appartenir signifiait se fondre; pour moi, c’est aussi garder des aspérités.",
+          "لم أؤمن يومًا بأن الانتماء يعني الذوبان؛ فهو بالنسبة إليّ أيضًا الحفاظ على الزوايا الحادّة.",
+          "جُو نِي جَامَي كْرُو كَابَارْتَنِير سِينِيفْيَاي سْ فُونْدْرْ؛ بُورْ مُوا، سِي توُسِي غَارْدِيه دِي زَاسْبِيرِيتِيه.",
+          "Je n’ai jamais cru qu’appartenir signifiait se fondre; pour moi, c’est aussi garder des aspérités.",
+          "لم أؤمن يومًا بأن الانتماء يعني الذوبان؛ فهو بالنسبة إليّ أيضًا الحفاظ على الزوايا الحادّة."
+        ],
+        [
+          "À force de circuler entre plusieurs milieux, j’ai appris que l’identité se négocie sans cesse.",
+          "بفضل التنقّل بين عوالم متعددة، تعلّمت أن الهوية تُعاد التفاوض بشأنها باستمرار.",
+          "اَ فُورْسْ دْ سِيرْكُولِيه أَنْتْرْ بْلُوزْيُورْ مِليو، جِي أَبْرِي كِي لِيدَنْتِيتِيه سْ نِيغُوسْيِي سانْ سِيسْ.",
+          "À force de circuler entre plusieurs milieux, j’ai appris que l’identité se négocie sans cesse.",
+          "بفضل التنقّل بين عوالم متعددة، تعلّمت أن الهوية تُعاد التفاوض بشأنها باستمرار."
+        ],
+        [
+          "Je revendique mes origines sans les ériger en frontière, car l’héritage n’est pas un mur.",
+          "أدافع عن أصولي من دون أن أجعلها حدودًا، لأن الإرث ليس جدارًا.",
+          "جُو رِفَنْدِيكْ مِي زُورِيجِينْ سانْ لِي زِيرِيجِيه أَنْ فْرُونْتْييرْ، كَارْ لِيهْرِيتَاجْ نِي بَاسْ أُونْ مُورْ.",
+          "Je revendique mes origines sans les ériger en frontière, car l’héritage n’est pas un mur.",
+          "أدافع عن أصولي من دون أن أجعلها حدودًا، لأن الإرث ليس جدارًا."
+        ],
+        [
+          "Dans une ville étrangère, je finis souvent par reconnaître ce qui, en moi, demande une place.",
+          "في مدينة غريبة، أجد نفسي كثيرًا ما أتعرف إلى ما يطلب مكانًا في داخلي.",
+          "دانْ زُونْ فِيلْ إِتْرَانْجِيرْ، جُو فِينِي سُوفَانْ بَارْ رُوكُونِّيترْ سْ كِي، أَنْ مُوا، دْمانْدْ أُونْ بْلاسْ.",
+          "Dans une ville étrangère, je finis souvent par reconnaître ce qui, en moi, demande une place.",
+          "في مدينة غريبة، أجد نفسي كثيرًا ما أتعرف إلى ما يطلب مكانًا في داخلي."
+        ],
+        [
+          "On me demande d’où je viens, comme si une seule réponse pouvait résumer toute une vie.",
+          "يُسألونني من أين أتيت، كأن جوابًا واحدًا قادر على تلخيص حياة كاملة.",
+          "أُونْ مْ دْمانْدْ دُو جُو فِيَنْ، كُومْ سِي يُونْ سُولْ رِيبُونْسْ بُوفَيْ رِيزُومِيه تُوتْ أُونْ فِي.",
+          "On me demande d’où je viens, comme si une seule réponse pouvait résumer toute une vie.",
+          "يُسألونني من أين أتيت، كأن جوابًا واحدًا قادر على تلخيص حياة كاملة."
+        ],
+        [
+          "Je préfère les appartenances souples, celles qui laissent entrer le doute et la nuance.",
+          "أفضّل الانتماءات المرنة، تلك التي تترك مجالًا للشك وللتدرّج الدلالي.",
+          "جُو پْرِيفِيرْ لِي زَابَارْتِنَانْسْ سُوبْلْ، سِلْ كِي لَيْسْ أَنْتْرِيه لُو دُوتْ إيه لا نُوانْسْ.",
+          "Je préfère les appartenances souples, celles qui laissent entrer le doute et la nuance.",
+          "أفضّل الانتماءات المرنة، تلك التي تترك مجالًا للشك وللتدرّج الدلالي."
+        ],
+        [
+          "Quand je parle de ma famille, je mesure à quel point le lien peut être à la fois tendre et conflictuel.",
+          "عندما أتحدث عن عائلتي، أعي كم يمكن للرابطة أن تكون حنونة وصدامية في آن واحد.",
+          "كانْ جُو بَارْلْ دْ مَا فَامِي، جُو مْيُوزُورْ اَ كَلْ پْوَانْ لُو لْيَانْ پُوتْ إِترْ اَ لا فُوَا تَنْدْرْ إيه كُونْفْلِيكْتْيُولْ.",
+          "Quand je parle de ma famille, je mesure à quel point le lien peut être à la fois tendre et conflictuel.",
+          "عندما أتحدث عن عائلتي، أعي كم يمكن للرابطة أن تكون حنونة وصدامية في آن واحد."
+        ],
+        [
+          "Je ne cherche pas à être exemplaire; je cherche seulement à ne pas me renier.",
+          "لا أسعى إلى أن أكون مثاليًا؛ إنما أسعى فقط إلى ألا أنكر نفسي.",
+          "جُو نُو شِرْشْ بَاسْ اَ إترْ إِيجْزَانْپْلِيرْ؛ جُو شِرْشْ سُولْ مَانْ اَ نُو بَاسْ مْ رُونيي.",
+          "Je ne cherche pas à être exemplaire; je cherche seulement à ne pas me renier.",
+          "لا أسعى إلى أن أكون مثاليًا؛ إنما أسعى فقط إلى ألا أنكر نفسي."
+        ]
+      ]
+    },
+    {
+      "topic": "الأخلاق والمسؤولية",
+      "words": [
+        [
+          "On juge souvent la morale à ses grands discours, alors qu’elle se vérifie dans les gestes minuscules.",
+          "غالبًا ما يُحكم على الأخلاق من خطاباتها الكبرى، مع أنها تُختبر في الأفعال الصغيرة جدًا.",
+          "أُونْ جُوجْ سُوفَانْ لا مُورَالْ اَ سِي غْرانْ دِيسْكُورْ، أَلُورْ كْيِلْ سْ فِيرِيفِي دانْ لِي جِيشْتْ مِينُوسْكُولْ.",
+          "On juge souvent la morale à ses grands discours, alors qu’elle se vérifie dans les gestes minuscules.",
+          "غالبًا ما يُحكم على الأخلاق من خطاباتها الكبرى، مع أنها تُختبر في الأفعال الصغيرة جدًا."
+        ],
+        [
+          "La responsabilité commence quand on cesse de se cacher derrière le mot “système”.",
+          "تبدأ المسؤولية عندما نكفّ عن الاختباء خلف كلمة «النظام».",
+          "لا رِيسْپُونْسَابِيلِيتِيه كُومَانْسْ كانْ أُونْ سِيسْ دْ سْ كَاشِي دِيرْييرْ لُو مُوا سِيسْتِيمْ.",
+          "La responsabilité commence quand on cesse de se cacher derrière le mot “système”.",
+          "تبدأ المسؤولية عندما نكفّ عن الاختباء خلف كلمة «النظام»."
+        ],
+        [
+          "Je me méfie des certitudes morales qui s’énoncent sans accepter la complexité des faits.",
+          "أتحفّظ على اليقينيات الأخلاقية التي تُقال من دون قبول تعقيد الوقائع.",
+          "جُو مْ مِيْفِي دِي سِيرْتِيتُودْ مُورَالْ كِي سِينُونْسْ سانْ نْ أَكْسِبْتِيه لا كُومْپْلِيكْسِيتِيه دِي فِي.",
+          "Je me méfie des certitudes morales qui s’énoncent sans accepter la complexité des faits.",
+          "أتحفّظ على اليقينيات الأخلاقية التي تُقال من دون قبول تعقيد الوقائع."
+        ],
+        [
+          "Être juste ne consiste pas à avoir toujours raison, mais à corriger vite ce qui blesse.",
+          "العدل لا يعني أن تكون على صواب دائمًا، بل أن تُصحّح بسرعة ما يؤذي.",
+          "إترْ جُوستْ نُو كُونْسِيسْتْ بَاسْ اَ زَافْوَارْ تُوجُورْ رِيزُونْ، مَي اَ كُورِيجِيه فِيتْ سْ كِي بْلِيسْ.",
+          "Être juste ne consiste pas à avoir toujours raison, mais à corriger vite ce qui blesse.",
+          "العدل لا يعني أن تكون على صواب دائمًا، بل أن تُصحّح بسرعة ما يؤذي."
+        ],
+        [
+          "Quand on promet trop, on finit parfois par dévaluer la parole qu’on voulait défendre.",
+          "عندما نَعِد كثيرًا، قد نُنقِص أحيانًا من قيمة الكلمة التي أردنا الدفاع عنها.",
+          "كانْ أُونْ پْرُومِيه تْرُو، أُونْ فِينِي بَارْ دِيفَالْيُوَيه لا بَارُولْ كُونْ ڤْوُلَيه دِيفَنْدْرْ.",
+          "Quand on promet trop, on finit parfois par dévaluer la parole qu’on voulait défendre.",
+          "عندما نَعِد كثيرًا، قد نُنقِص أحيانًا من قيمة الكلمة التي أردنا الدفاع عنها."
+        ],
+        [
+          "Je préfère l’honnêteté du doute aux certitudes qui dispensent de réfléchir.",
+          "أفضّل صدق الشك على اليقينيات التي تعفي من التفكير.",
+          "جُو پْرِيفِيرْ لُو نِيْتْتِيتِيه دُو دُوتْ اَوْ سِيرْتِيتُودْ كِي دِيسْپَنْسْ دْ ريفْلِيشِيرْ.",
+          "Je préfère l’honnêteté du doute aux certitudes qui dispensent de réfléchir.",
+          "أفضّل صدق الشك على اليقينيات التي تعفي من التفكير."
+        ],
+        [
+          "Le pardon n’efface pas tout; il ouvre seulement un espace où l’on peut répondre autrement.",
+          "المغفرة لا تمحو كل شيء؛ إنها تفتح فقط مجالًا للرد بطريقة مختلفة.",
+          "لُو پَارْدُونْ نِيفَاسْ بَاسْ تُوتْ؛ إيلْ أُوفْرْ سُولْ مَانْ أَنْ إِسْپَاسْ أُو لُونْ پُوتْ رِيبُونْدْرْ أُوترْ مَانْ.",
+          "Le pardon n’efface pas tout; il ouvre seulement un espace où l’on peut répondre autrement.",
+          "المغفرة لا تمحو كل شيء؛ إنها تفتح فقط مجالًا للرد بطريقة مختلفة."
+        ],
+        [
+          "Agir pour le bien commun suppose parfois de renoncer à briller, et ce n’est pas rien.",
+          "العمل من أجل الصالح العام يقتضي أحيانًا التخلي عن الظهور، وهذا ليس أمرًا هينًا.",
+          "أَجِيرْ پُورْ لُو بْيَنْ كُومُونْ سُوبُوزْ پَارْفُوَا دْ رُنُونْسِيه اَ بْرِيييِيه، إيه سْ نِي بَاسْ رْيَانْ.",
+          "Agir pour le bien commun suppose parfois de renoncer à briller, et ce n’est pas rien.",
+          "العمل من أجل الصالح العام يقتضي أحيانًا التخلي عن الظهور، وهذا ليس أمرًا هينًا."
+        ],
+        [
+          "Je ne crois pas aux excuses élégantes quand les actes restent pauvres.",
+          "لا أؤمن بالأعذار الأنيقة حين تبقى الأفعال فقيرة.",
+          "جُو نُو كْرُو بَاسْ اَوْ إِكْسْكُوزْ إِلِيجَانْتْ كانْ لِي زَاكْتْ رِيسْتْ پُوفْرْ.",
+          "Je ne crois pas aux excuses élégantes quand les actes restent pauvres.",
+          "لا أؤمن بالأعذار الأنيقة حين تبقى الأفعال فقيرة."
+        ],
+        [
+          "La vraie éthique se voit quand personne ne regarde, surtout quand il serait facile de tricher.",
+          "تظهر الأخلاق الحقيقية عندما لا يراقب أحد، خاصة حين يكون الغش سهلًا.",
+          "لا ڤْرِي إِيتِيكْ سْ ڤُوا كانْ پيرْسُونْ نُو رِغَارْدْ، سُورْتُو كانْ إيلْ سْرِيه فَاسِيلْ دْ تْرِيشِيه.",
+          "La vraie éthique se voit quand personne ne regarde, surtout quand il serait facile de tricher.",
+          "تظهر الأخلاق الحقيقية عندما لا يراقب أحد، خاصة حين يكون الغش سهلًا."
+        ]
+      ]
+    },
+    {
+      "topic": "البحث والنقاش الأكاديمي",
+      "words": [
+        [
+          "Dans un article solide, l’argument le plus discret peut parfois porter plus loin que l’effet d’annonce.",
+          "في مقال متين، قد يحمل الأثر الأكثر خفاءً أحيانًا أبعد من الضجيج الإعلامي.",
+          "دانْ زُونْ آرتِيكْلْ سُولِيدْ، لَارْگُومَانْ لُو پْلُو دِيسْكْرِي پُوتْ پَارْفُوَا پُورْتِيه پْلُو لْوَانْ كْ لُو فِيفِي دَانُونْسْ.",
+          "Dans un article solide, l’argument le plus discret peut parfois porter plus loin que l’effet d’annonce.",
+          "في مقال متين، قد يحمل الأثر الأكثر خفاءً أحيانًا أبعد من الضجيج الإعلامي."
+        ],
+        [
+          "Une bonne recherche n’empile pas les sources; elle les met en dialogue pour faire émerger du sens.",
+          "البحث الجيد لا يكدّس المصادر؛ بل يضعها في حوار لإبراز المعنى.",
+          "يُونْ بُونْ رِشِرشْ نُومْپِيلْ بَاسْ لِي سُورْسْ؛ إِلْ لِي مِتْ أَنْ دِيَالُوغْ پُورْ فِيرْ إيمِيرْجِيه دُو سَانْسْ.",
+          "Une bonne recherche n’empile pas les sources; elle les met en dialogue pour faire émerger du sens.",
+          "البحث الجيد لا يكدّس المصادر؛ بل يضعها في حوار لإبراز المعنى."
+        ],
+        [
+          "Je défends les nuances, non par goût du flou, mais parce qu’elles évitent les faux procès.",
+          "أدافع عن الفروق الدقيقة، لا حبًا في الضبابية، بل لأنها تتفادى الأحكام الجائرة.",
+          "جُو دِيفَنْدْ لِي نُوانْسْ، نُونْ بَارْ غُو دُو فْلُو، مِي بَارْسْ كْيِلْ زِيفِيتْ لِي فَو پْرُوسِيه.",
+          "Je défends les nuances, non par goût du flou, mais parce qu’elles évitent les faux procès.",
+          "أدافع عن الفروق الدقيقة، لا حبًا في الضبابية، بل لأنها تتفادى الأحكام الجائرة."
+        ],
+        [
+          "Un résultat convaincant vaut mieux qu’une théorie brillante qui ne résiste pas à l’épreuve.",
+          "النتيجة المقنعة أفضل من نظرية لامعة لا تصمد أمام الاختبار.",
+          "أَنْ رِيزُولْتَا كُونْڤَانْكَنْ ڤُو مْيُو كْيُونْ تِيهُورِي بْرِييَانْتْ كِي نُو رِيزِيسْتْ بَاسْ اَ لِيهْپْرُوفْ.",
+          "Un résultat convaincant vaut mieux qu’une théorie brillante qui ne résiste pas à l’épreuve.",
+          "النتيجة المقنعة أفضل من نظرية لامعة لا تصمد أمام الاختبار."
+        ],
+        [
+          "Je lis volontiers les contre-arguments, car ils obligent le texte à ne pas se croire suffisant.",
+          "أقرأ باهتمام الحجج المضادة، لأنها تُجبر النص على ألا يظن نفسه كافيًا.",
+          "جُو لِي ڤُولُونْتِييه لِي كُونْتْرَارْگُومَانْ، كَارْ إيلْ زُوبْلِيجْ لُو تِكْسْتْ اَ نُو بَاسْ سْ كْرُوَارْ سُوفِيسَانْ.",
+          "Je lis volontiers les contre-arguments, car ils obligent le texte à ne pas se croire suffisant.",
+          "أقرأ باهتمام الحجج المضادة، لأنها تُجبر النص على ألا يظن نفسه كافيًا."
+        ],
+        [
+          "La méthode compte, bien sûr, mais la question qu’on oublie de poser en dit souvent davantage.",
+          "المنهج مهم طبعًا، لكن السؤال الذي ننسى طرحه يكشف غالبًا أكثر.",
+          "لا مِيثُودْ كُونْتْ، بْيَنْ سُورْ، مِي لا كِيسْتيُونْ كُونْ نُوبْلِي دْ پُوزِيه أَنْ دِي سُوفَانْ دَافَانْتَاجْ.",
+          "La méthode compte, bien sûr, mais la question qu’on oublie de poser en dit souvent davantage.",
+          "المنهج مهم طبعًا، لكن السؤال الذي ننسى طرحه يكشف غالبًا أكثر."
+        ],
+        [
+          "Je me méfie des conclusions hâtives: elles rassurent vite et trompent longtemps.",
+          "أحذر من الاستنتاجات المتسرعة: فهي تُطمئن سريعًا وتُضلّل طويلًا.",
+          "جُو مْ مِيْفِي دِي كُونْكْلُوزْيُونْ زَاتِيفْ: إِلْ رَسُورْ سَنْ ڤِيتْ إيه تْرُومْپْ لُونْغْتَانْ.",
+          "Je me méfie des conclusions hâtives: elles rassurent vite et trompent longtemps.",
+          "أحذر من الاستنتاجات المتسرعة: فهي تُطمئن سريعًا وتُضلّل طويلًا."
+        ],
+        [
+          "Dans le séminaire, le désaccord a été fécond parce qu’il n’a pas tourné à la posture.",
+          "في الندوة، كان الخلاف مثمرًا لأنه لم يتحول إلى استعراض للمواقف.",
+          "دانْ لُو سِيمِينَيرْ، لُو دِيزَاكُورْ اَ إِتِيه فِيكُونْ بَارْسْ كِيلْ نَا بَاسْ تُورْنِيه اَ لا پُوسْتْورْ.",
+          "Dans le séminaire, le désaccord a été fécond parce qu’il n’a pas tourné à la posture.",
+          "في الندوة، كان الخلاف مثمرًا لأنه لم يتحول إلى استعراض للمواقف."
+        ],
+        [
+          "Une bibliographie riche ne remplace pas la pensée, mais elle l’empêche de s’endormir.",
+          "قائمة المراجع الغنية لا تعوّض التفكير، لكنها تمنعه من النوم.",
+          "يُونْ بِيِبْليُوغْرَافِي رِيشْ نُو رُمْپْلاسْ بَاسْ لا پَنْسِيه، مِي إِلْ لَنْپِيشْ دْ سَانْدُورْمِيرْ.",
+          "Une bibliographie riche ne remplace pas la pensée, mais elle l’empêche de s’endormir.",
+          "قائمة المراجع الغنية لا تعوّض التفكير، لكنها تمنعه من النوم."
+        ],
+        [
+          "Je préfère une question bien posée à une réponse qui ferme trop vite le débat.",
+          "أفضّل سؤالًا محكم الصياغة على جواب يغلق النقاش بسرعة فائقة.",
+          "جُو پْرِيفِيرْ يُونْ كِيسْتيُونْ بْيَنْ پُوزِيه اَ يُونْ رِيبُونْسْ كِي فِيرْمْ تْرُو ڤِيتْ لُو دِيبَا.",
+          "Je préfère une question bien posée à une réponse qui ferme trop vite le débat.",
+          "أفضّل سؤالًا محكم الصياغة على جواب يغلق النقاش بسرعة فائقة."
+        ]
+      ]
+    },
+    {
+      "topic": "فهم المعاني الضمنية",
+      "words": [
+        [
+          "Il a dit “comme tu veux” avec un sourire si mince que je n’ai pas insisté.",
+          "قال «كما تريد» بابتسامة خفيفة جدًا حتى إنني لم أُلحّ.",
+          "إيلْ اَ دِي «كُومْ تُو ڤُو» أَڤِيكْ أَنْ سْوومِيرْ سِي مَانْسْ كْ جُو نِي بَاسْ أَنْسِيسْتِيه.",
+          "Il a dit “comme tu veux” avec un sourire si mince que je n’ai pas insisté.",
+          "قال «كما تريد» بابتسامة خفيفة جدًا حتى إنني لم أُلحّ."
+        ],
+        [
+          "Son silence, plus que ses mots, signalait qu’il avait déjà tranché.",
+          "كان صمته، أكثر من كلماته، يدل على أنه حسم الأمر مسبقًا.",
+          "سُونْ سِيلَانْسْ، پْلُو كْ سِي مُوا، سِيجْنَالْيِيه كْ إيلْ زَافِيه دِيجَا تْرَانْشِيه.",
+          "Son silence, plus que ses mots, signalait qu’il avait déjà tranché.",
+          "كان صمته، أكثر من كلماته، يدل على أنه حسم الأمر مسبقًا."
+        ],
+        [
+          "Elle m’a félicité d’un ton trop impeccable pour être vraiment spontané.",
+          "هنّأتني بنبرة متقنة أكثر من اللازم بحيث لا تبدو عفوية حقًا.",
+          "إِلْ مَا فِيلِيسِيتِيه دُونْ تُونْ تْرُو أنْپِكْبْلْ پُورْ إترْ ڤْرِيْ مَانْ سْپُونْتَانِيه.",
+          "Elle m’a félicité d’un ton trop impeccable pour être vraiment spontané.",
+          "هنّأتني بنبرة متقنة أكثر من اللازم بحيث لا تبدو عفوية حقًا."
+        ],
+        [
+          "Quand il parle de “petit malentendu”, il faut entendre un problème bien plus sérieux.",
+          "عندما يتحدث عن «سوء تفاهم بسيط»، ينبغي فهم أن المسألة أخطر بكثير.",
+          "كانْ إيلْ بَارْلْ دْ «پْتِي مَالْانْتَنْدُو»، إيلْ فُو أَنْتَنْدْرْ أَنْ پْرُوبْلِيمْ بْيَنْ پْلُو سِيرْيُو.",
+          "Quand il parle de “petit malentendu”, il faut entendre un problème bien plus sérieux.",
+          "عندما يتحدث عن «سوء تفاهم بسيط»، ينبغي فهم أن المسألة أخطر بكثير."
+        ],
+        [
+          "Je lis entre les lignes sans chercher un drame partout; parfois, le sous-texte suffit.",
+          "أقرأ ما بين السطور من دون البحث عن دراما في كل مكان؛ فالسياق الضمني يكفي أحيانًا.",
+          "جُو لِي أَنْتْرْ لِي لِينْجْ سانْ شِرْشِيه أَنْ دْرَامْ پَارْتُو؛ پَارْفُوَا، لُو سُوسْ تِكْسْتْ سُوفِي.",
+          "Je lis entre les lignes sans chercher un drame partout; parfois, le sous-texte suffit.",
+          "أقرأ ما بين السطور من دون البحث عن دراما في كل مكان؛ فالسياق الضمني يكفي أحيانًا."
+        ],
+        [
+          "Un compliment peut être une manière polie de demander qu’on s’explique davantage.",
+          "قد يكون الثناء طريقة مهذبة لطلب مزيد من التوضيح.",
+          "أَنْ كُونْپْلِيمَانْ پُوتْ إترْ يُونْ مَانْييرْ پُولِي دْ دْمانْدِيه كُونْ سِيكْسْپْلِيكْ دَافَانْتَاجْ.",
+          "Un compliment peut être une manière polie de demander qu’on s’explique davantage.",
+          "قد يكون الثناء طريقة مهذبة لطلب مزيد من التوضيح."
+        ],
+        [
+          "Il n’a pas contesté mon idée; il l’a simplement rangée dans la catégorie des naïvetés.",
+          "لم يعارض فكرتي؛ بل وضعها ببساطة في خانة السذاجة.",
+          "إيلْ نَا بَاسْ كُونْتِيسْتِيه مُونْ إيدِيه؛ إيلْ لَا سِمْپْلْمَانْ رَانْجِيه دانْ لا كَاتِيغُورِي دِي نَايِيفْتِيه.",
+          "Il n’a pas contesté mon idée; il l’a simplement rangée dans la catégorie des naïvetés.",
+          "لم يعارض فكرتي؛ بل وضعها ببساطة في خانة السذاجة."
+        ],
+        [
+          "Je me fie au ton, aux pauses, aux détours; souvent, c’est là que le vrai message se glisse.",
+          "أعتمد على النبرة، وعلى التوقفات، وعلى الالتفافات؛ فغالبًا هناك يتسلل المعنى الحقيقي.",
+          "جُو مْ فِي اَوْ تُونْ، اَوْ بوزْ، اَوْ دِتُورْ؛ سُوفَانْ، سِي لا كْ لُو ڤْرِي مِسَاجْ سْ غْلِيسْ.",
+          "Je me fie au ton, aux pauses, aux détours; souvent, c’est là que le vrai message se glisse.",
+          "أعتمد على النبرة، وعلى التوقفات، وعلى الالتفافات؛ فغالبًا هناك يتسلل المعنى الحقيقي."
+        ],
+        [
+          "Sa modestie affichée cache peut-être une stratégie bien calculée.",
+          "قد يكون تواضعه المعلن يخفي خطة محسوبة جيدًا.",
+          "سَا مُودِيسْتِي اَفِيشِيه كَاشْ پُوتْ إترْ أُونْ سْتْرَاتِيجِي بْيَنْ كَالْكُولِيه.",
+          "Sa modestie affichée cache peut-être une stratégie bien calculée.",
+          "قد يكون تواضعه المعلن يخفي خطة محسوبة جيدًا."
+        ],
+        [
+          "Lorsqu’il dit “ce n’est rien”, il attend souvent qu’on reconnaisse tout le reste.",
+          "عندما يقول «ليس هذا شيئًا»، فهو غالبًا ينتظر أن نعترف بما وراءه.",
+          "لُورْسْكِلْ دِي «سْ نِي رْيَانْ»، إيلْ أَتَانْدْ سُوفَانْ كُونْ رُوكُوغْنِيسْ تُوتْ لُو رِيسْتْ.",
+          "Lorsqu’il dit “ce n’est rien”, il attend souvent qu’on reconnaisse tout le reste.",
+          "عندما يقول «ليس هذا شيئًا»، فهو غالبًا ينتظر أن نعترف بما وراءه."
+        ]
+      ]
+    },
+    {
+      "topic": "التكيّف مع الغموض",
+      "words": [
+        [
+          "Je peux vivre avec l’incertitude, à condition qu’elle ne me prive pas d’agir.",
+          "أستطيع التعايش مع عدم اليقين، بشرط ألا تحرمني من الفعل.",
+          "جُو پُو ڤِيفْرْ أَڤِيكْ لَانْسِيرْتِيتُودْ، اَ كُونْدِيسْيُونْ كْ إِلْ نُو مْ پْرِيفْ بَاسْ دَاجِيرْ.",
+          "Je peux vivre avec l’incertitude, à condition qu’elle ne me prive pas d’agir.",
+          "أستطيع التعايش مع عدم اليقين، بشرط ألا تحرمني من الفعل."
+        ],
+        [
+          "L’ambiguïté n’est pas une défaite; c’est parfois le prix d’une situation complexe.",
+          "الغموض ليس هزيمة؛ بل هو أحيانًا ثمنُ وضعٍ معقّد.",
+          "لَامْبِيجْوِيتِيه نِي بَاسْ يُونْ دِيفِيتْ؛ سِي پَارْفُوَا لُو پْرِي دُونْ سِيتُوَاسْيُونْ كُونْپْلِيكْسْ.",
+          "L’ambiguïté n’est pas une défaite; c’est parfois le prix d’une situation complexe.",
+          "الغموض ليس هزيمة؛ بل هو أحيانًا ثمنُ وضعٍ معقّد."
+        ],
+        [
+          "Quand tout n’est pas clair, je préfère avancer prudemment plutôt que confondre vitesse et lucidité.",
+          "عندما لا يكون كل شيء واضحًا، أفضّل التقدّم بحذر بدل الخلط بين السرعة والبصيرة.",
+          "كانْ تُوتْ نِي بَاسْ كْليرْ، جُو پْرِيفِيرْ زَافَانْسِيه پْرُودْمَانْ پْلُوتُو كْ كُونْفُونْدْرْ ڤِيتِيسْ إيه لُوسِيدِيتِيه.",
+          "Quand tout n’est pas clair, je préfère avancer prudemment plutôt que confondre vitesse et lucidité.",
+          "عندما لا يكون كل شيء واضحًا، أفضّل التقدّم بحذر بدل الخلط بين السرعة والبصيرة."
+        ],
+        [
+          "Le doute me sert de boussole quand les repères habituels cessent de fonctionner.",
+          "يفيدني الشك كبوصلة عندما تتوقف المعالم المعتادة عن العمل.",
+          "لُو دُوتْ مْ سِيرْ دْ بُوسُولْ كانْ لِي رِپِيرْ زَابِيتُوئيلْ سِيسْ دْ فُونْكْسيُونِيه.",
+          "Le doute me sert de boussole quand les repères habituels cessent de fonctionner.",
+          "يفيدني الشك كبوصلة عندما تتوقف المعالم المعتادة عن العمل."
+        ],
+        [
+          "Je n’attends pas des réponses parfaites; je demande des pistes honnêtes pour continuer.",
+          "لا أنتظر إجابات مثالية؛ بل أطلب مسارات صادقة لمواصلة الطريق.",
+          "جُو نَاتَانْ بَاسْ دِي رِيبُونْسْ پَارْفِيتْ؛ جُو دْمانْدْ دِي پِيتْ أُنِيتْ پُورْ كُونْتِينُوِيه.",
+          "Je n’attends pas des réponses parfaites; je demande des pistes honnêtes pour continuer.",
+          "لا أنتظر إجابات مثالية؛ بل أطلب مسارات صادقة لمواصلة الطريق."
+        ],
+        [
+          "Il faut parfois accepter de ne pas savoir encore, sans transformer ce manque en panique.",
+          "يجب أحيانًا قبول عدم المعرفة بعد، من دون تحويل هذا النقص إلى هلع.",
+          "إيلْ فُو پَارْفُوَا أَكْسِبْتِيه دْ نُو بَاسْ سَڤْوَارْ أَنْكُورْ، سانْ تْرَانْسْفُورْمِيه سْ مَانْكْ أَنْ پَانِيكْ.",
+          "Il faut parfois accepter de ne pas savoir encore, sans transformer ce manque en panique.",
+          "يجب أحيانًا قبول عدم المعرفة بعد، من دون تحويل هذا النقص إلى هلع."
+        ],
+        [
+          "Dans le brouillard, on avance moins vite, mais on évite bien des fausses routes.",
+          "في الضباب، نتحرك أبطأ، لكننا نتجنب كثيرًا من المسارات الخاطئة.",
+          "دانْ لُو بْرُويَارْ، أُونْ زَافَانْسْ مُوَانْ ڤِيتْ، مِي أُونْ نِيفِيتْ بْيَنْ دِي فَوْسْ رُوتْ.",
+          "Dans le brouillard, on avance moins vite, mais on évite bien des fausses routes.",
+          "في الضباب، نتحرك أبطأ، لكننا نتجنب كثيرًا من المسارات الخاطئة."
+        ],
+        [
+          "Je peux tolérer le flou, pas l’hypocrisie; les deux sont brouillés, mais pas confondus.",
+          "أستطيع تحمّل الغموض، لا النفاق؛ فهما قد يبدوان متشابكين، لكنهما ليسا شيئًا واحدًا.",
+          "جُو پُو تُولِيرِيه لُو فْلُو، بَاسْ لِيپُوكْرِيزِي؛ لِي دْو سُونْ بْرُوييه، مِي بَاسْ كُونْفُونْدُو.",
+          "Je peux tolérer le flou, pas l’hypocrisie; les deux sont brouillés, mais pas confondus.",
+          "أستطيع تحمّل الغموض، لا النفاق؛ فهما قد يبدوان متشابكين، لكنهما ليسا شيئًا واحدًا."
+        ],
+        [
+          "Le plus sage n’est pas toujours celui qui tranche, mais celui qui laisse mûrir.",
+          "الأحكم ليس دائمًا من يحسم، بل من يترك الأمور تنضج.",
+          "لُو پْلُو سَاجْ نِي بَاسْ تُوجُورْ سْلُوي كِي تْرَانْشْ، مِي سْلُوي كِي لَيْسْ مْورِيرْ.",
+          "Le plus sage n’est pas toujours celui qui tranche, mais celui qui laisse mûrir.",
+          "الأحكم ليس دائمًا من يحسم، بل من يترك الأمور تنضج."
+        ],
+        [
+          "Au lieu de chercher une certitude totale, j’essaie d’habiter les zones grises avec discipline.",
+          "بدل البحث عن يقين كامل، أحاول أن أعيش المناطق الرمادية بانضباط.",
+          "اَوْ لْيُو دْ شِرْشِيه يُونْ سِيرْتِيتُودْ تُوتَالْ، جِي إِسِيه دَابِيتِيه لِي زُونْ غْرِيزْ أَڤِيكْ دِيسِبْلِينْ.",
+          "Au lieu de chercher une certitude totale, j’essaie d’habiter les zones grises avec discipline.",
+          "بدل البحث عن يقين كامل، أحاول أن أعيش المناطق الرمادية بانضباط."
+        ]
+      ]
+    },
+    {
+      "topic": "الأسلوب الرسمي وغير الرسمي",
+      "words": [
+        [
+          "Dans votre courrier, je vous prie de bien vouloir confirmer votre disponibilité avant vendredi.",
+          "في رسالتكم، أرجو منكم التكرّم بتأكيد توافركم قبل يوم الجمعة.",
+          "دان فوتر كوررييه، ژُ فو بري دُ بان فوجوار كونفيرمِه فوتر ديسپونِبيليتِ أفانت فاندردي.",
+          "Dans votre courrier, je vous prie de bien vouloir confirmer votre disponibilité avant vendredi.",
+          "في رسالتكم، أرجو منكم التكرّم بتأكيد توافركم قبل يوم الجمعة."
+        ],
+        [
+          "Si cela vous convient, on peut se retrouver plus tard autour d’un café pour en parler tranquillement.",
+          "إذا كان ذلك يناسبكم، يمكننا أن نلتقي لاحقًا على فنجان قهوة لنتحدث بهدوء.",
+          "سي سُلا فو كونفيان، أون پُ سُ رُتروفِه پلو تار أوتور دان كافي بور آن پارلِه ترانكيلمَان.",
+          "Si cela vous convient, on peut se retrouver plus tard autour d’un café pour en parler tranquillement.",
+          "إذا كان ذلك يناسبكم، يمكننا أن نلتقي لاحقًا على فنجان قهوة لنتحدث بهدوء."
+        ],
+        [
+          "Je me permets de vous écrire, car votre avis m’aiderait à trancher sans précipitation.",
+          "أسمح لنفسي أن أكتب إليكم، لأن رأيكم سيساعدني على الحسم دون تسرّع.",
+          "ژُ مُ پرمِ دو فو زِكْرير، كار فوتر آفيس ميدِرَي آ ترانشِه سانس پرسِيپيتاسيون.",
+          "Je me permets de vous écrire, car votre avis m’aiderait à trancher sans précipitation.",
+          "أسمح لنفسي أن أكتب إليكم، لأن رأيكم سيساعدني على الحسم دون تسرّع."
+        ],
+        [
+          "Franchement, ton idée tient debout, mais elle gagnerait à être expliquée un peu mieux.",
+          "بصراحة، فكرتك متماسكة، لكنها ستكسب كثيرًا لو شُرحت بشكل أفضل قليلًا.",
+          "فرانشمان، تون إديه تيان دُبو، مَي إِل غاغنُرَي آ إتر إكسبليكه أَن بُ ميُ.",
+          "Franchement, ton idée tient debout, mais elle gagnerait à être expliquée un peu mieux.",
+          "بصراحة، فكرتك متماسكة، لكنها ستكسب كثيرًا لو شُرحت بشكل أفضل قليلًا."
+        ],
+        [
+          "Dans un contexte professionnel, il vaut mieux rester courtois sans devenir trop cérémonieux.",
+          "في سياق مهني، من الأفضل أن تبقى مهذبًا من دون أن تصبح متكلفًا أكثر من اللازم.",
+          "دان زان كونتِكست پروفيسيونيل، إيل فو ميُ رُستِ كورتوا سان دُفُنيع ترو سِرِمونيُ.",
+          "Dans un contexte professionnel, il vaut mieux rester courtois sans devenir trop cérémonieux.",
+          "في سياق مهني، من الأفضل أن تبقى مهذبًا من دون أن تصبح متكلفًا أكثر من اللازم."
+        ],
+        [
+          "Tu peux me tutoyer si tu veux, mais au téléphone, gardons un ton simple et respectueux.",
+          "يمكنك أن تخاطبني بصيغة غير رسمية إذا أردت، لكن لنبقِ على الهاتف بنبرة بسيطة ومحترمة.",
+          "تو پُ م تُتوايِه سي تو فو، مَي أو تيليفون، غاردون أَن تون سامبل إيه رِسپكتيو.",
+          "Tu peux me tutoyer si tu veux, mais au téléphone, gardons un ton simple et respectueux.",
+          "يمكنك أن تخاطبني بصيغة غير رسمية إذا أردت، لكن لنبقِ على الهاتف بنبرة بسيطة ومحترمة."
+        ],
+        [
+          "Votre silence m’a surpris, non par son intensité, mais par sa longueur inhabituelle.",
+          "صمتكم فاجأني، لا من حيث حدته، بل من حيث طوله غير المعتاد.",
+          "فوتر سايلانس ما سورپري، نون پار سون تانسيتيه، مَي پار سا لونغور إينابيتويل.",
+          "Votre silence m’a surpris, non par son intensité, mais par sa longueur inhabituelle.",
+          "صمتكم فاجأني، لا من حيث حدته، بل من حيث طوله غير المعتاد."
+        ],
+        [
+          "Entre nous, il faut parfois savoir dire non avec élégance pour éviter des malentendus.",
+          "بيننا، ينبغي أحيانًا أن نعرف كيف نقول لا بأناقة لتجنّب سوء الفهم.",
+          "أونتر نُو، إيل فو پارفوا سافوار دير نون أڤيك إيليغانس پور إڤيتِه دي مالانتاندو.",
+          "Entre nous, il faut parfois savoir dire non avec élégance pour éviter des malentendus.",
+          "بيننا، ينبغي أحيانًا أن نعرف كيف نقول لا بأناقة لتجنّب سوء الفهم."
+        ],
+        [
+          "Je vous remercie de votre proposition; elle mérite d’être examinée avec attention.",
+          "أشكركم على اقتراحكم؛ إنه يستحق أن يُدرس بعناية.",
+          "ژُ فو رُمرسي دو فوتر پروپوزيسيون، إيل مُريت دتر إكزامينيه أڤيك أتانسيون.",
+          "Je vous remercie de votre proposition; elle mérite d’être examinée avec attention.",
+          "أشكركم على اقتراحكم؛ إنه يستحق أن يُدرس بعناية."
+        ],
+        [
+          "Si tu veux mon avis, cette formule passe mieux à l’oral qu’à l’écrit.",
+          "إذا أردت رأيي، فهذه الصياغة تنجح شفهيًا أكثر منها كتابيًا.",
+          "سي تو فو مون آفيس، سِت فورمول پَس ميُ آ لورال كآ لِكري.",
+          "Si tu veux mon avis, cette formule passe mieux à l’oral qu’à l’écrit.",
+          "إذا أردت رأيي، فهذه الصياغة تنجح شفهيًا أكثر منها كتابيًا."
+        ]
+      ]
+    },
+    {
+      "topic": "البلاغة والتعبير الدقيق",
+      "words": [
+        [
+          "Sa réponse était brève, mais chaque mot semblait pesé comme s’il avait été choisi à la lumière.",
+          "كان جوابه موجزًا، لكن كل كلمة بدت موزونة كأنها اختيرت على ضوءٍ ساطع.",
+          "سا رِپونس إتيه برِف، مَي شاك موت سامبلَي پُزي كوم سيل آفَي إتيه شوازي آ لا لُميير.",
+          "Sa réponse était brève, mais chaque mot semblait pesé comme s’il avait été choisi à la lumière.",
+          "كان جوابه موجزًا، لكن كل كلمة بدت موزونة كأنها اختيرت على ضوءٍ ساطع."
+        ],
+        [
+          "Plus il parlait, plus le doute devenait clair, jusqu’à prendre la forme d’une évidence gênante.",
+          "كلما تحدث أكثر، اتضح الشك أكثر، حتى اتخذ شكل بداهة محرجة.",
+          "پلو إيل پارلي، پلو لُ دوت دُفنَي كلير، ژوسكا پراندْر لا فورم دون إڤيدانس ژانانت.",
+          "Plus il parlait, plus le doute devenait clair, jusqu’à prendre la forme d’une évidence gênante.",
+          "كلما تحدث أكثر، اتضح الشك أكثر، حتى اتخذ شكل بداهة محرجة."
+        ],
+        [
+          "Il ne cherchait pas à convaincre, seulement à déplacer subtilement le centre du débat.",
+          "لم يكن يسعى إلى الإقناع، بل إلى نقل مركز النقاش بمهارة.",
+          "إيل نُ شيرشيه پا آ كونفانكر، سُلمان آ ديپلاسه سوبتيلمَان لُ سانتر دُ ديبا.",
+          "Il ne cherchait pas à convaincre, seulement à déplacer subtilement le centre du débat.",
+          "لم يكن يسعى إلى الإقناع، بل إلى نقل مركز النقاش بمهارة."
+        ],
+        [
+          "Cette formulation dit beaucoup sans tout dire, et c’est précisément ce qui la rend efficace.",
+          "هذه الصياغة تقول الكثير من دون أن تقول كل شيء، وهذا تحديدًا ما يجعلها فعالة.",
+          "سِت فورمولاسيون دي بوكو سان تو دير، إي سِه پرِسيزيمَان سُ كي لا ران إيفيكاس.",
+          "Cette formulation dit beaucoup sans tout dire, et c’est précisément ce qui la rend efficace.",
+          "هذه الصياغة تقول الكثير من دون أن تقول كل شيء، وهذا تحديدًا ما يجعلها فعالة."
+        ],
+        [
+          "Son calme n’était pas de l’indifférence; c’était une manière de tenir la pression à distance.",
+          "هدوءه لم يكن لا مبالاة؛ بل كان طريقة لإبقاء الضغط بعيدًا.",
+          "سون كالم نِتيه پا دولانديفيرانس، سِتيه أون مانيير دو تنيير لا پرسيون آ ديستانس.",
+          "Son calme n’était pas de l’indifférence; c’était une manière de tenir la pression à distance.",
+          "هدوءه لم يكن لا مبالاة؛ بل كان طريقة لإبقاء الضغط بعيدًا."
+        ],
+        [
+          "L’argument paraît simple, mais sa force tient à ce qu’il laisse volontairement dans l’ombre.",
+          "تبدو الحجة بسيطة، لكن قوتها تكمن فيما تتركه عمدًا في الظل.",
+          "لارغومان پَرَي سامبل، مَي سا فورس تيان آ سُ كيل لِس ڤولونتَرمَان دان لومبر.",
+          "L’argument paraît simple, mais sa force tient à ce qu’il laisse volontairement dans l’ombre.",
+          "تبدو الحجة بسيطة، لكن قوتها تكمن فيما تتركه عمدًا في الظل."
+        ],
+        [
+          "À force de nuances, il finit par dire l’essentiel sans hausser le ton.",
+          "بكثرة الدقائق، ينتهي به الأمر إلى قول الجوهر من دون رفع صوته.",
+          "آ فورس دو نُانس، إيل فِني پار دير لِسانسييل سان أوسي لُ تون.",
+          "À force de nuances, il finit par dire l’essentiel sans hausser le ton.",
+          "بكثرة الدقائق، ينتهي به الأمر إلى قول الجوهر من دون رفع صوته."
+        ],
+        [
+          "La métaphore n’embellit pas le propos; elle en révèle la tension cachée.",
+          "الاستعارة لا تزيّن الفكرة؛ بل تكشف التوتر الكامن فيها.",
+          "لا ميتافور نَنبَيلي پا لُ پروپو، إل أَنْ رِڤيل لا تانسيون كاشيه.",
+          "La métaphore n’embellit pas le propos; elle en révèle la tension cachée.",
+          "الاستعارة لا تزيّن الفكرة؛ بل تكشف التوتر الكامن فيها."
+        ],
+        [
+          "Il opposait la prudence à l’enthousiasme, non pour refroidir l’élan, mais pour le rendre durable.",
+          "كان يضع الحذر مقابل الحماس، لا ليُطفئ الاندفاع، بل ليجعله قابلًا للاستمرار.",
+          "إيل أپوزي لا پرودانس آ لاناتوزيازْم، نون پور روفروآدير ليلان، مَي پور لُ راندر دورابل.",
+          "Il opposait la prudence à l’enthousiasme, non pour refroidir l’élan, mais pour le rendre durable.",
+          "كان يضع الحذر مقابل الحماس، لا ليُطفئ الاندفاع، بل ليجعله قابلًا للاستمرار."
+        ],
+        [
+          "Sa phrase la plus juste était aussi la moins spectaculaire.",
+          "كانت أدقّ جملة قالها هي أيضًا الأقل استعراضية.",
+          "سا فراز لا پلو زوست إتيه أوسي لا موآن سْپِكتاكيولير.",
+          "Sa phrase la plus juste était aussi la moins spectaculaire.",
+          "كانت أدقّ جملة قالها هي أيضًا الأقل استعراضية."
+        ]
+      ]
+    },
+    {
+      "topic": "النقد البنّاء",
+      "words": [
+        [
+          "Ton exposé est solide, mais il gagnerait à annoncer plus tôt la conclusion pour guider l’auditoire.",
+          "عرضك متين، لكنه سيكسب لو أعلن النتيجة مبكرًا أكثر ليقود المستمعين.",
+          "تون إكسبوزي إ سوليد، مَي إيل غاغنُرَي آ أنونسِه پلو تو لا كونكليوزيون پور گيدي لوديتوار.",
+          "Ton exposé est solide, mais il gagnerait à annoncer plus tôt la conclusion pour guider l’auditoire.",
+          "عرضك متين، لكنه سيكسب لو أعلن النتيجة مبكرًا أكثر ليقود المستمعين."
+        ],
+        [
+          "L’idée est intéressante, pourtant certains exemples restent trop vagues pour emporter l’adhésion.",
+          "الفكرة مثيرة للاهتمام، غير أن بعض الأمثلة ما تزال غامضة أكثر من اللازم لإقناع الجمهور.",
+          "ليه إديه إنتيرسانت، پورتان سرتان زامپْل رست ترو ڤاغ پور أَنْپورتِه لادهيزيون.",
+          "L’idée est intéressante, pourtant certains exemples restent trop vagues pour emporter l’adhésion.",
+          "الفكرة مثيرة للاهتمام، غير أن بعض الأمثلة ما تزال غامضة أكثر من اللازم لإقناع الجمهور."
+        ],
+        [
+          "Je te conseillerais de couper le passage en deux, afin que ton argument respire mieux.",
+          "أنصحك بتقسيم الفقرة إلى قسمين، كي تتنفس حجتك بشكل أفضل.",
+          "ژُ تُ كونسِييُرَي دو كُپي لُ پاساج آن دو، أفان كُ تون أرغومان رِسْپير ميُ.",
+          "Je te conseillerais de couper le passage en deux, afin que ton argument respire mieux.",
+          "أنصحك بتقسيم الفقرة إلى قسمين، كي تتنفس حجتك بشكل أفضل."
+        ],
+        [
+          "Le fond est convaincant; en revanche, le rythme manque parfois d’élan.",
+          "المضمون مقنع؛ لكن الإيقاع يفتقر أحيانًا إلى الحيوية.",
+          "لُ فون إ كونفانكان، آن روانش، لُ ريتْم مانك پارفوا ديلان.",
+          "Le fond est convaincant; en revanche, le rythme manque parfois d’élan.",
+          "المضمون مقنع؛ لكن الإيقاع يفتقر أحيانًا إلى الحيوية."
+        ],
+        [
+          "Si tu simplifies certains liens logiques, ton propos deviendra plus net sans perdre sa finesse.",
+          "إذا بسّطت بعض الروابط المنطقية، سيصبح طرحك أوضح من دون أن يفقد دقته.",
+          "سي تو سامپليفِي سرتان لْيان لوژيك، تون پروپو دُڤياندرَا پلو نِه سان پِردر سا فِيناس.",
+          "Si tu simplifies certains liens logiques, ton propos deviendra plus net sans perdre sa finesse.",
+          "إذا بسّطت بعض الروابط المنطقية، سيصبح طرحك أوضح من دون أن يفقد دقته."
+        ],
+        [
+          "La démonstration va dans la bonne direction, mais elle mériterait davantage de transitions.",
+          "البرهنة تسير في الاتجاه الصحيح، لكنها تستحق مزيدًا من الانتقالات.",
+          "لا ديمونستراسيون ڤا دان لا بون ديريكسيون، مَي إِل مِريتُرَي داڤانتاژ دو ترانزيشيون.",
+          "La démonstration va dans la bonne direction, mais elle mériterait davantage de transitions.",
+          "البرهنة تسير في الاتجاه الصحيح، لكنها تستحق مزيدًا من الانتقالات."
+        ],
+        [
+          "Je reconnais la qualité de ton travail; toutefois, la dernière partie manque encore de relief.",
+          "أعترف بجودة عملك؛ ومع ذلك، ما زال الجزء الأخير يفتقر إلى البروز.",
+          "ژُ رُكوني لا كواليتيه دو تون ترڤاي، توتفوا، لا ديرنيير پارتي مانك آنكور دو رُلييف.",
+          "Je reconnais la qualité de ton travail; toutefois, la dernière partie manque encore de relief.",
+          "أعترف بجودة عملك؛ ومع ذلك، ما زال الجزء الأخير يفتقر إلى البروز."
+        ],
+        [
+          "Ton angle est prometteur, à condition d’écarter quelques répétitions superflues.",
+          "زاويتك واعدة، بشرط إزالة بعض التكرارات الزائدة.",
+          "تون آنغل إ پروميتور، آ كونديسيون دكارتِه كِلك رِپيتيسيون سوبِرفلو.",
+          "Ton angle est prometteur, à condition d’écarter quelques répétitions superflues.",
+          "زاويتك واعدة، بشرط إزالة بعض التكرارات الزائدة."
+        ],
+        [
+          "Au lieu d’accumuler les preuves, choisis-en moins, mais fais-les parler davantage.",
+          "بدلًا من تكديس الأدلة، اختر أقل منها، لكن اجعلها تتكلم أكثر.",
+          "أو ليُ داكيومولي لي بروف، شوازي زان موآن، مَي فِيه لِه پارلِه داڤانتاژ.",
+          "Au lieu d’accumuler les preuves, choisis-en moins, mais fais-les parler davantage.",
+          "بدلًا من تكديس الأدلة، اختر أقل منها، لكن اجعلها تتكلم أكثر."
+        ],
+        [
+          "Ta dernière remarque est pertinente; il suffit maintenant de la formuler avec plus de netteté.",
+          "ملاحظتك الأخيرة وجيهة؛ يكفي الآن أن تُصاغ بوضوح أكبر.",
+          "تا ديرنيير رُمارك إ پِرتينانت، إيل سُفي مَنتنان دو لا فورمولِه أڤيك پلو دو نِتي.",
+          "Ta dernière remarque est pertinente; il suffit maintenant de la formuler avec plus de netteté.",
+          "ملاحظتك الأخيرة وجيهة؛ يكفي الآن أن تُصاغ بوضوح أكبر."
+        ]
+      ]
+    },
+    {
+      "topic": "السخرية والتلميح",
+      "words": [
+        [
+          "Bien sûr, tout s’est déroulé exactement comme prévu, ce qui explique sans doute notre étonnement.",
+          "طبعًا، سار كل شيء تمامًا كما كان مخططًا له، وهذا على الأرجح يفسر دهشتنا.",
+          "بيان سور، تو سِه دِرولي إغزامان كوم پِرفو، سُ كي إكسبليغ سان دود نوتر إتونمان.",
+          "Bien sûr, tout s’est déroulé exactement comme prévu, ce qui explique sans doute notre étonnement.",
+          "طبعًا، سار كل شيء تمامًا كما كان مخططًا له، وهذا على الأرجح يفسر دهشتنا."
+        ],
+        [
+          "Il prétendait vouloir aller vite, et il a surtout multiplié les détours très convaincants.",
+          "كان يدّعي أنه يريد الإسراع، لكنه في الواقع كثّر الالتفافات المقنعة جدًا.",
+          "إيل پرُتانديه ڤولوار آلِه ڤيت، إي إيل آ سورتو مولتيپليي لي ديتور ترِي كونفانكان.",
+          "Il prétendait vouloir aller vite, et il a surtout multiplié les détours très convaincants.",
+          "كان يدّعي أنه يريد الإسراع، لكنه في الواقع كثّر الالتفافات المقنعة جدًا."
+        ],
+        [
+          "Quel courage admirable: il a laissé les autres faire le travail pendant qu’il surveillait le résultat.",
+          "يا له من شجاعة مدهشة: ترك الآخرين يقومون بالعمل بينما كان يراقب النتيجة.",
+          "كِل كوراج أدميرابل، إيل آ لِسه لي اوتر فير لُ ترڤاي پاندان كيل سورفيييه لُ رِزولتا.",
+          "Quel courage admirable: il a laissé les autres faire le travail pendant qu’il surveillait le résultat.",
+          "يا له من شجاعة مدهشة: ترك الآخرين يقومون بالعمل بينما كان يراقب النتيجة."
+        ],
+        [
+          "Sa modestie est touchante; il n’a pas attendu qu’on le félicite pour rappeler ses mérites.",
+          "تواضعه مؤثر؛ لم ينتظر أن يهنئه أحد حتى يذكّر الجميع بإنجازاته.",
+          "سا مودِستي إ توشان، إيل نا پا أتاندو كون لُ فليسيت پور رَپِلِه سي ميريت.",
+          "Sa modestie est touchante; il n’a pas attendu qu’on le félicite pour rappeler ses mérites.",
+          "تواضعه مؤثر؛ لم ينتظر أن يهنئه أحد حتى يذكّر الجميع بإنجازاته."
+        ],
+        [
+          "Évidemment, personne n’avait pensé à vérifier les détails avant de lancer la machine.",
+          "من البديهي أن أحدًا لم يفكر في التحقق من التفاصيل قبل تشغيل الآلة.",
+          "إڤيدامان، پِرسون نافَي پانسي آ ڤيريفيه لي ديتاي أفانت دو لانسه لا ماشين.",
+          "Évidemment, personne n’avait pensé à vérifier les détails avant de lancer la machine.",
+          "من البديهي أن أحدًا لم يفكر في التحقق من التفاصيل قبل تشغيل الآلة."
+        ],
+        [
+          "Tu parles d’une surprise: tout le monde savait déjà ce qu’il venait annoncer.",
+          "أيّ مفاجأة تتحدث عنها: كان الجميع يعرفون مسبقًا ما جاء يعلنه.",
+          "تو پارل دون سُرپريز، تو لُ موند سْفيه دِجا سُ كيل فِنَي أنونسِه.",
+          "Tu parles d’une surprise: tout le monde savait déjà ce qu’il venait annoncer.",
+          "أيّ مفاجأة تتحدث عنها: كان الجميع يعرفون مسبقًا ما جاء يعلنه."
+        ],
+        [
+          "Il a salué l’esprit d’équipe, puis il a pris seul le mérite quand les applaudissements sont venus.",
+          "مجّد روح الفريق، ثم نسب الفضل إلى نفسه وحده عندما جاء التصفيق.",
+          "إيل آ ساليو لِسپري دِكِيب، پوي إيل آ پري سول لُ ميريت كان لي زاپلوديسمان سون فونو.",
+          "Il a salué l’esprit d’équipe, puis il a pris seul le mérite quand les applaudissements sont venus.",
+          "مجّد روح الفريق، ثم نسب الفضل إلى نفسه وحده عندما جاء التصفيق."
+        ],
+        [
+          "Son regard disait tout, surtout lorsqu’il assurait n’avoir aucune arrière-pensée.",
+          "كانت نظراته تقول كل شيء، خاصة حين يؤكد أنه لا يخفي أي نية مبيتة.",
+          "سون رُغار ديزيه تو، سورتو لورسكيل آسوري نافوار أكون آريير-پانسِه.",
+          "Son regard disait tout, surtout lorsqu’il assurait n’avoir aucune arrière-pensée.",
+          "كانت نظراته تقول كل شيء، خاصة حين يؤكد أنه لا يخفي أي نية مبيتة."
+        ],
+        [
+          "Quelle délicatesse: il a corrigé tout le monde devant tout le monde.",
+          "يا لها من رهافة: صحّح للجميع أمام الجميع.",
+          "كِل دِليكاتيس، إيل آ كورِيژه تو لُ موند دُفان تو لُ موند.",
+          "Quelle délicatesse: il a corrigé tout le monde devant tout le monde.",
+          "يا لها من رهافة: صحّح للجميع أمام الجميع."
+        ],
+        [
+          "On aurait presque cru qu’il cherchait une solution, à en juger par l’énergie qu’il mettait à compliquer la question.",
+          "كاد المرء يظن أنه يبحث عن حل، إذا حكمنا بالطاقة التي كان يبددها في تعقيد المسألة.",
+          "أون أورَي پْرِسك كرو كيل شيرشيه أون سولوسيون، آ آن ژوژه پار لانرجيه كيل مِتَي آ كومپليكِه لا كِستان.",
+          "On aurait presque cru qu’il cherchait une solution, à en juger par l’énergie qu’il mettait à compliquer la question.",
+          "كاد المرء يظن أنه يبحث عن حل، إذا حكمنا بالطاقة التي كان يبددها في تعقيد المسألة."
+        ]
+      ]
+    },
+    {
+      "topic": "إعادة الصياغة والتلخيص",
+      "words": [
+        [
+          "En d’autres termes, il ne s’agit pas d’un refus, mais d’un report soigneusement justifié.",
+          "بعبارة أخرى، الأمر ليس رفضًا، بل تأجيل مبرر بعناية.",
+          "آن دوتر تيرم، إيل نُ ساژي پا دون رُفو، مَي دون رُپور سوانيامان ژوسْتيفيه.",
+          "En d’autres termes, il ne s’agit pas d’un refus, mais d’un report soigneusement justifié.",
+          "بعبارة أخرى، الأمر ليس رفضًا، بل تأجيل مبرر بعناية."
+        ],
+        [
+          "Pour faire simple, son projet avance, mais à un rythme plus mesuré que prévu.",
+          "باختصار، مشروعه يتقدم، لكن بوتيرة أبطأ مما كان متوقعًا.",
+          "پور فير سامبل، سون پروژي آفانس، مَي آ أَن ريتْم پلو ميزوري كُ پرفو.",
+          "Pour faire simple, son projet avance, mais à un rythme plus mesuré que prévu.",
+          "باختصار، مشروعه يتقدم، لكن بوتيرة أبطأ مما كان متوقعًا."
+        ],
+        [
+          "Autrement dit, il a choisi la prudence plutôt que l’effet d’annonce.",
+          "بمعنى آخر، اختار الحذر بدلًا من الأثر الإعلامي المبهر.",
+          "أوترمان دي، إيل آ شوازي لا پرودانس پلوتو كُ لفَي دانونس.",
+          "Autrement dit, il a choisi la prudence plutôt que l’effet d’annonce.",
+          "بمعنى آخر، اختار الحذر بدلًا من الأثر الإعلامي المبهر."
+        ],
+        [
+          "Si je résume, vous acceptez le principe, mais pas encore toutes ses conséquences.",
+          "إذا لخصت، فأنتم تقبلون المبدأ، لكن ليس بعد كل تبعاته.",
+          "سي ژُ رِزوم، فو زاكسيپتي لُ پرانسيپ، مَي پا زانكور تو سي كونسِكانس.",
+          "Si je résume, vous acceptez le principe, mais pas encore toutes ses conséquences.",
+          "إذا لخصت، فأنتم تقبلون المبدأ، لكن ليس بعد كل تبعاته."
+        ],
+        [
+          "En somme, la réunion a clarifié les positions sans résoudre la divergence principale.",
+          "خلاصة القول، أوضح الاجتماع المواقف من دون أن يحل الخلاف الأساسي.",
+          "آن سوم، لا ريونيون آ كلاريفي لي پوزيسيون سان ريزودر لا ديفيرجانس پرانسيبال.",
+          "En somme, la réunion a clarifié les positions sans résoudre la divergence principale.",
+          "خلاصة القول، أوضح الاجتماع المواقف من دون أن يحل الخلاف الأساسي."
+        ],
+        [
+          "Dit plus brièvement, il faut encore arbitrer entre rapidité et solidité.",
+          "وبصياغة أقصر، لا يزال علينا الموازنة بين السرعة والمتانة.",
+          "دي پلو بريڤمان، إيل فو آنكور أربيتري آنتر رابيديتيه إي سوليديتيه.",
+          "Dit plus brièvement, il faut encore arbitrer entre rapidité et solidité.",
+          "وبصياغة أقصر، لا يزال علينا الموازنة بين السرعة والمتانة."
+        ],
+        [
+          "Autant le dire nettement: le problème n’est pas technique, il est surtout organisationnel.",
+          "لنقلها بوضوح: المشكلة ليست تقنية، بل تنظيمية بالدرجة الأولى.",
+          "أوتان لُ دير نِتمان، لُ پروبليم نِ پا تكنيك، إيل إ سورتو أورغانيزاسيونيل.",
+          "Autant le dire nettement: le problème n’est pas technique, il est surtout organisationnel.",
+          "لنقلها بوضوح: المشكلة ليست تقنية، بل تنظيمية بالدرجة الأولى."
+        ],
+        [
+          "En d’autres mots, ce qui change, ce n’est pas l’objectif, mais la manière d’y parvenir.",
+          "بكلمات أخرى، ما يتغير ليس الهدف، بل الطريقة للوصول إليه.",
+          "آن دوتر موت، سُ كي شانژ، سُ نِ پا لوجكتيف، مَي لا مانيير دي بارڤانير.",
+          "En d’autres mots, ce qui change, ce n’est pas l’objectif, mais la manière d’y parvenir.",
+          "بكلمات أخرى، ما يتغير ليس الهدف، بل الطريقة للوصول إليه."
+        ],
+        [
+          "Pour résumer l’essentiel, la réponse est positive, à condition d’ajuster quelques points.",
+          "لتلخيص الجوهر، الجواب إيجابي، بشرط تعديل بعض النقاط.",
+          "پور رِزومِه لِسانسييل، لا رِپونس إ پوزيتيف، آ كونديسيون دژوستيه كِلك پوان.",
+          "Pour résumer l’essentiel, la réponse est positive, à condition d’ajuster quelques points.",
+          "لتلخيص الجوهر، الجواب إيجابي، بشرط تعديل بعض النقاط."
+        ],
+        [
+          "En clair, il faut moins promettre et davantage montrer.",
+          "بوضوح: ينبغي الوعد أقل، والإظهار أكثر.",
+          "آن كلير، إيل فو موآن پْروميتْر إي داڤانتاژ مونتري.",
+          "En clair, il faut moins promettre et davantage montrer.",
+          "بوضوح: ينبغي الوعد أقل، والإظهار أكثر."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

@@ -23,3 +23,14 @@ entries and caused otherwise valid Turkish B1 text to be discarded.
 
 **How to apply:** Generate phonetics in bounded groups, repair missing indices,
 and reuse saved source text rather than regenerating the entire level.
+
+Validate the script of every letter in Arabic phonetic hints using Arabic
+Script_Extensions, not just the presence of one Arabic character.
+
+**Why:** Advanced batches included isolated Georgian/Japanese/Cyrillic/Latin
+letters despite otherwise Arabic hints. Arabic tatweel is a legitimate Common
+script character, so strict Script=Arabic alone also produces false positives.
+
+**How to apply:** Repair only affected pronunciation fields while preserving the
+native sentence and IDs. Audit reports can also misidentify an item's level or
+field: match the exact quoted source text before accepting any correction.

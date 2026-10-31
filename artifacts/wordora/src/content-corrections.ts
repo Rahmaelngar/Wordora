@@ -1,7 +1,37 @@
 import type { Word } from './data';
+import advancedLanguageFixes from './advanced-language-fixes.json';
 
 // Reviewed editorial corrections survive content regeneration and preserve IDs.
-export const contentCorrections: Record<string, Partial<Omit<Word, 'id'>>> = {
+const reviewedCorrections: Record<string, Partial<Omit<Word, 'id'>>> = {
+  'english-c1-expand-3-9': { arabicMeaning: 'تحسنت النسخة النهائية حين دعوا إلى النقد مبكرًا، عندما كانت التغييرات لا تزال قليلة الكلفة.', exampleArabic: 'تحسنت النسخة النهائية حين دعوا إلى النقد مبكرًا، عندما كانت التغييرات لا تزال قليلة الكلفة.' },
+  'english-c1-expand-22-2': { arabicMeaning: 'في الدوائر القريبة، تعتمد الثقة غالبًا على الاستمرارية أكثر من قوة المشاعر، خاصةً حين يشتد الضغط.', exampleArabic: 'في الدوائر القريبة، تعتمد الثقة غالبًا على الاستمرارية أكثر من قوة المشاعر، خاصةً حين يشتد الضغط.' },
+  'english-b2-expand-23-9': { arabicMeaning: 'حتى بضع ساعات من المساعدة يمكن أن تحدث فرقًا واضحًا عندما يكون المجتمع تحت الضغط.', exampleArabic: 'حتى بضع ساعات من المساعدة يمكن أن تحدث فرقًا واضحًا عندما يكون المجتمع تحت الضغط.' },
+  'english-c2-expand-25-1': { arabicMeaning: 'الرواية الجيدة لا تكتفي بالترفيه؛ بل تعيد بهدوء تشكيل تصورك لما يستطيع الناس فعله.', exampleArabic: 'الرواية الجيدة لا تكتفي بالترفيه؛ بل تعيد بهدوء تشكيل تصورك لما يستطيع الناس فعله.' },
+  'english-c2-expand-7-9': { arabicMeaning: 'أحفظ المحادثات الصعبة لا لأعيشها مجددًا، بل لأتذكر كم يسهل أن تنحرف النبرة عن المقصود.', exampleArabic: 'أحفظ المحادثات الصعبة لا لأعيشها مجددًا، بل لأتذكر كم يسهل أن تنحرف النبرة عن المقصود.' },
+  'french-c1-expand-12-4': { arabicMeaning: 'الاستراحات المناسبة لا تُبطئ المسار المهني؛ بل تجعل مواصلته أكثر استدامة.', exampleArabic: 'الاستراحات المناسبة لا تُبطئ المسار المهني؛ بل تجعل مواصلته أكثر استدامة.' },
+  'french-c1-expand-12-5': { term: 'On peut aimer son métier sans lui laisser dicter l’ensemble du quotidien.', example: 'On peut aimer son métier sans lui laisser dicter l’ensemble du quotidien.', pronunciation: 'أون پُ إيميه سون ميتييه سان لوي ليسيه ديكتيه لانسامبل دو كوتيديان.' },
+  'french-b2-expand-15-6': { term: 'Je trouve intéressant d’expérimenter, même si le premier essai ne marche pas toujours.', example: 'Je trouve intéressant d’expérimenter, même si le premier essai ne marche pas toujours.', pronunciation: 'جُ تروڤ أنتيريسان ديكسپيريمونتيه، ميم سي لُ پرومييه إسي نُ مارش پا توجور.' },
+  'french-c1-expand-15-9': { arabicMeaning: 'عندما تترسخ ثقافة الاختبار، لا تعود الجرأة استثناءً.', exampleArabic: 'عندما تترسخ ثقافة الاختبار، لا تعود الجرأة استثناءً.' },
+  'spanish-c2-expand-11-1': { arabicMeaning: 'أحيانًا لا يحتاج العقل إلى مزيد من النصائح، بل إلى ضجيج أقل؛ فقد تفيد نزهة وصمت ووقت هادئ بعد الظهر أكثر من مئة خطاب.', exampleArabic: 'أحيانًا لا يحتاج العقل إلى مزيد من النصائح، بل إلى ضجيج أقل؛ فقد تفيد نزهة وصمت ووقت هادئ بعد الظهر أكثر من مئة خطاب.' },
+  'spanish-c2-expand-15-6': { term: 'La tecnología útil no deslumbra por su brillo, sino por el problema que resuelve con discreción.', example: 'La tecnología útil no deslumbra por su brillo, sino por el problema que resuelve con discreción.' },
+  'spanish-c2-expand-16-1': { arabicMeaning: 'يبدو الخبر موضوعيًا، لكنه يغفل تحديدًا ما يغيّر فهمه بالكامل.', exampleArabic: 'يبدو الخبر موضوعيًا، لكنه يغفل تحديدًا ما يغيّر فهمه بالكامل.' },
+  'spanish-c2-expand-25-9': { arabicMeaning: 'يصبح الأدب عظيمًا عندما يصغي إلى المهمّشين من دون أن يحوّلهم إلى زينة.', exampleArabic: 'يصبح الأدب عظيمًا عندما يصغي إلى المهمّشين من دون أن يحوّلهم إلى زينة.' },
+  'german-c1-expand-3-5': { arabicMeaning: 'تنمو الثقة عندما تُحترم الوعود ويُطرح النقد بأسلوب يركّز على الحلول لا على الأشخاص.', exampleArabic: 'تنمو الثقة عندما تُحترم الوعود ويُطرح النقد بأسلوب يركّز على الحلول لا على الأشخاص.' },
+  'german-c1-expand-5-5': { arabicMeaning: 'ينشأ الانطباع المهني أيضًا من الحديث بندّية مع الحفاظ على التركيز على الموضوع.', exampleArabic: 'ينشأ الانطباع المهني أيضًا من الحديث بندّية مع الحفاظ على التركيز على الموضوع.' },
+  'german-c1-expand-5-6': { arabicMeaning: 'أصوغ أهدافي بحيث تبدو طموحة، ولكن واقعية.', exampleArabic: 'أصوغ أهدافي بحيث تبدو طموحة، ولكن واقعية.' },
+  'german-c1-expand-6-8': { arabicMeaning: 'بدا قرارها حذرًا في البداية، لكنه تبيّن لاحقًا أنه بعيد النظر على نحو مفاجئ.', exampleArabic: 'بدا قرارها حذرًا في البداية، لكنه تبيّن لاحقًا أنه بعيد النظر على نحو مفاجئ.' },
+  'german-c2-expand-32-3': { arabicMeaning: 'ليس كل نقد قاسيًا؛ فأحيانًا يكون التحفّظ نفسه الوسيلة الأكثر حدّة.', exampleArabic: 'ليس كل نقد قاسيًا؛ فأحيانًا يكون التحفّظ نفسه الوسيلة الأكثر حدّة.' },
+  'italian-b2-expand-4-5': { arabicMeaning: 'إذا ارتفعت النبرة، أحاول إعادة الحوار إلى أمور ملموسة.', exampleArabic: 'إذا ارتفعت النبرة، أحاول إعادة الحوار إلى أمور ملموسة.' },
+  'italian-b2-expand-13-1': { arabicMeaning: 'إذا واصلنا استخدام السيارة لكل تنقّل قصير، فسيزداد التلوث أكثر.', exampleArabic: 'إذا واصلنا استخدام السيارة لكل تنقّل قصير، فسيزداد التلوث أكثر.' },
+  'italian-b2-expand-16-5': { arabicMeaning: 'قبل أن أكوّن رأيًا، أقارن روايتين على الأقل وأبحث عن البيانات التي تدعم النص أو تدحضه.', exampleArabic: 'قبل أن أكوّن رأيًا، أقارن روايتين على الأقل وأبحث عن البيانات التي تدعم النص أو تدحضه.' },
+  'italian-b2-expand-21-9': { arabicMeaning: 'اليوم أشعر بمزيد من الحذر، لكنني أيضًا أكثر حرية في الاختيار من دون أن يقودني القلق.', exampleArabic: 'اليوم أشعر بمزيد من الحذر، لكنني أيضًا أكثر حرية في الاختيار من دون أن يقودني القلق.' },
+  'italian-c1-expand-11-7': { arabicMeaning: 'لا تكفي الدعوة إلى الاسترخاء؛ بل ينبغي تهيئة ظروف عملية تجعل الراحة مجدّدة للنشاط حقًا، لا بالاسم فقط.', exampleArabic: 'لا تكفي الدعوة إلى الاسترخاء؛ بل ينبغي تهيئة ظروف عملية تجعل الراحة مجدّدة للنشاط حقًا، لا بالاسم فقط.' },
+  'italian-c2-expand-21-10': { arabicMeaning: 'في النهاية، ما يبقى ليس كمال الحكاية، بل حقيقتها الأكثر تواضعًا وصمودًا.', exampleArabic: 'في النهاية، ما يبقى ليس كمال الحكاية، بل حقيقتها الأكثر تواضعًا وصمودًا.' },
+  'italian-c2-expand-2-10': { arabicMeaning: 'تنشأ الثقة عندما يرى الطرف الآخر أنني لا أستخدم الاحترام كحيلة، بل كمنهج.', exampleArabic: 'تنشأ الثقة عندما يرى الطرف الآخر أنني لا أستخدم الاحترام كحيلة، بل كمنهج.' },
+  'italian-c2-expand-7-8': { arabicMeaning: 'عندما يتعقّد نقاش متسلسل، يكون تلخيص صادق أنفع من عشر رسائل متهوّرة.', exampleArabic: 'عندما يتعقّد نقاش متسلسل، يكون تلخيص صادق أنفع من عشر رسائل متهوّرة.' },
+  'italian-c2-expand-9-7': { arabicMeaning: 'تتغيّر الحياة اليومية عندما تعرف أين تشتري الخبز، وأين تتوقّف أيضًا لالتقاط أنفاسك.', exampleArabic: 'تتغيّر الحياة اليومية عندما تعرف أين تشتري الخبز، وأين تتوقّف أيضًا لالتقاط أنفاسك.' },
+  'turkish-b2-expand-16-1': { term: 'Haberi okudum ama karar vermeden önce başlığa değil, kaynağa ve tarihe bakarım.', example: 'Haberi okudum ama karar vermeden önce başlığa değil, kaynağa ve tarihe bakarım.', arabicMeaning: 'قرأت الخبر، لكنني قبل أن أحكم عليه أنظر إلى مصدره وتاريخه، لا إلى عنوانه.', exampleArabic: 'قرأت الخبر، لكنني قبل أن أحكم عليه أنظر إلى مصدره وتاريخه، لا إلى عنوانه.' },
+  'turkish-b2-expand-3-7': { arabicMeaning: 'عندما تتغيّر الخطة، من الأذكى إعادة ترتيب المهام والحفاظ على سير العمل بدلًا من الذعر.', exampleArabic: 'عندما تتغيّر الخطة، من الأذكى إعادة ترتيب المهام والحفاظ على سير العمل بدلًا من الذعر.' },
   'turkish-b1-expand-6-6': { arabicMeaning: 'إذا أنهيت هذا التقرير اليوم فسأرتاح غدًا أكثر.', exampleArabic: 'إذا أنهيت هذا التقرير اليوم فسأرتاح غدًا أكثر.' },
   'turkish-b1-expand-11-5': { arabicMeaning: 'أحيانًا تكون تجربة طريق مختلف أكثر فاعلية.', exampleArabic: 'أحيانًا تكون تجربة طريق مختلف أكثر فاعلية.' },
   'turkish-b1-expand-12-7': { arabicMeaning: 'تعلمت أشياء كثيرة أثناء عيشي في تلك المدينة.', exampleArabic: 'تعلمت أشياء كثيرة أثناء عيشي في تلك المدينة.' },
@@ -20,3 +50,8 @@ export const contentCorrections: Record<string, Partial<Omit<Word, 'id'>>> = {
   'italian-a1-expand-3-1': { exampleArabic: 'التيشيرت أبيض.' },
   'italian-b1-expand-12-14': { arabicMeaning: 'إجابته فاجأتني كثيرًا.', exampleArabic: 'إجابته فاجأتني كثيرًا.', pronunciation: 'لا سوا ريسبوستا مي ها سورپريزو مولتو.' },
 };
+const generatedCorrections: Record<string, Partial<Omit<Word, 'id'>>> = advancedLanguageFixes;
+export const contentCorrections: Record<string, Partial<Omit<Word, 'id'>>> = Object.fromEntries(
+  [...new Set([...Object.keys(generatedCorrections), ...Object.keys(reviewedCorrections)])]
+    .map(id => [id, { ...generatedCorrections[id], ...reviewedCorrections[id] }]),
+);

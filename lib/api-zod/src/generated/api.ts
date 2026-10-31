@@ -89,15 +89,15 @@ export const getWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
 
 export const getWordoraProgressResponseDailyActivityCorrectWordIdsItemMax = 100;
 
-export const getWordoraProgressResponseDailyActivityCorrectWordIdsMax = 3000;
+export const getWordoraProgressResponseDailyActivityCorrectWordIdsMax = 10000;
 
 export const getWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax = 100;
 
-export const getWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 500;
+export const getWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 1000;
 
 export const getWordoraProgressResponseDailyActivityReviewedWordIdsItemMax = 100;
 
-export const getWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
+export const getWordoraProgressResponseDailyActivityReviewedWordIdsMax = 10000;
 
 
 
@@ -141,15 +141,15 @@ export const saveWordoraProgressBodyLessonStudyStudiedWordIdsMax = 200;
 
 export const saveWordoraProgressBodyDailyActivityCorrectWordIdsItemMax = 100;
 
-export const saveWordoraProgressBodyDailyActivityCorrectWordIdsMax = 3000;
+export const saveWordoraProgressBodyDailyActivityCorrectWordIdsMax = 10000;
 
 export const saveWordoraProgressBodyDailyActivityCompletedLessonIdsItemMax = 100;
 
-export const saveWordoraProgressBodyDailyActivityCompletedLessonIdsMax = 500;
+export const saveWordoraProgressBodyDailyActivityCompletedLessonIdsMax = 1000;
 
 export const saveWordoraProgressBodyDailyActivityReviewedWordIdsItemMax = 100;
 
-export const saveWordoraProgressBodyDailyActivityReviewedWordIdsMax = 3000;
+export const saveWordoraProgressBodyDailyActivityReviewedWordIdsMax = 10000;
 
 
 
@@ -189,15 +189,15 @@ export const saveWordoraProgressResponseLessonStudyStudiedWordIdsMax = 200;
 
 export const saveWordoraProgressResponseDailyActivityCorrectWordIdsItemMax = 100;
 
-export const saveWordoraProgressResponseDailyActivityCorrectWordIdsMax = 3000;
+export const saveWordoraProgressResponseDailyActivityCorrectWordIdsMax = 10000;
 
 export const saveWordoraProgressResponseDailyActivityCompletedLessonIdsItemMax = 100;
 
-export const saveWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 500;
+export const saveWordoraProgressResponseDailyActivityCompletedLessonIdsMax = 1000;
 
 export const saveWordoraProgressResponseDailyActivityReviewedWordIdsItemMax = 100;
 
-export const saveWordoraProgressResponseDailyActivityReviewedWordIdsMax = 3000;
+export const saveWordoraProgressResponseDailyActivityReviewedWordIdsMax = 10000;
 
 
 

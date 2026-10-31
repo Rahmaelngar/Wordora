@@ -18,7 +18,7 @@ import turkishA1 from './curriculum/turkish-A1.json';
 import turkishA2 from './curriculum/turkish-A2.json';
 import turkishB1 from './curriculum/turkish-B1.json';
 
-const packets: Record<LanguageId, Record<Level, typeof englishA1>> = {
+const packets: Record<LanguageId, Record<Extract<Level, 'A1' | 'A2' | 'B1'>, typeof englishA1>> = {
   english: { A1: englishA1, A2: englishA2, B1: englishB1 },
   french: { A1: frenchA1, A2: frenchA2, B1: frenchB1 },
   spanish: { A1: spanishA1, A2: spanishA2, B1: spanishB1 },

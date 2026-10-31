@@ -8,12 +8,13 @@ import { languages, lessons } from "../../wordora/src/data";
 const output = resolve(import.meta.dirname, "../../../generated-artifacts/curriculum-audit");
 await mkdir(output, { recursive: true });
 const requested = process.argv.find(arg => arg.startsWith("--language="))?.split("=")[1];
+const selectedLevels = process.argv.find(arg => arg.startsWith("--levels="))?.split("=")[1].split(",");
 const queue = languages.filter(language => (!requested || language.id === requested) && lessons.some(lesson => lesson.languageId === language.id));
 let cursor = 0;
 async function worker() {
   while (cursor < queue.length) {
     const language = queue[cursor++];
-    const entries = lessons.filter(lesson => lesson.languageId === language.id).flatMap(lesson => lesson.words.map(word =>
+    const entries = lessons.filter(lesson => lesson.languageId === language.id && (!selectedLevels || selectedLevels.includes(lesson.level))).flatMap(lesson => lesson.words.map(word =>
       [word.id, word.term, word.arabicMeaning, ...(word.example === word.term ? [] : [word.example, word.exampleArabic])]));
     const response = await openai.chat.completions.create({
       model: "gpt-5.4-mini", reasoning_effort: "low", max_completion_tokens: 4000,

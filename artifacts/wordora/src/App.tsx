@@ -266,14 +266,14 @@ function LearnPage() {
     <div style={{marginTop:28,color:'#928b9e',fontSize:'.86rem'}}>{localOnly?'ملف محلي: تقدّمك محفوظ على هذا الجهاز فقط. أنشئ حساباً لمزامنته.':'تقدّمك محفوظ في حسابك.'}{localOnly&&<Link href="/sign-up" style={{color:'#704cce',fontWeight:700,marginRight:6}} data-testid="link-sync-account">إنشاء حساب</Link>}</div>
   </main>;
 }
-const levelLabels:Record<Level,string>={A1:'مفردات أساسية',A2:'عبارات حياتية',B1:'جمل ومواقف'};
+const levelLabels:Record<Level,string>={A1:'مفردات أساسية',A2:'عبارات حياتية',B1:'جمل ومواقف',B2:'نقاش وتعبير',C1:'تواصل متقدم',C2:'إتقان ومرونة'};
 const arNum=(n:number)=>n.toLocaleString('ar-EG');
 function LevelTabs({lang,completed}:{lang:LanguageId;completed:string[]}) {
   const [active,setActive]=useState<Level>('A1');
   const [showAll,setShowAll]=useState(false);
   useEffect(()=>setShowAll(false),[active,lang]);
   const tabRefs=useRef<(HTMLButtonElement|null)[]>([]);
-  const info=levelRules.map(r=>{const list=lessons.filter(l=>l.languageId===lang&&l.level===r.level);return {...r,list,entries:list.reduce((n,l)=>n+l.words.length,0),done:list.filter(l=>completed.includes(l.id)).length,unlocked:isLevelUnlocked(completed,lang,r.level)};});
+  const info=levelRules.map(r=>{const list=lessons.filter(l=>l.languageId===lang&&l.level===r.level);return {...r,list,entries:list.reduce((n,l)=>n+l.words.length,0),done:list.filter(l=>completed.includes(l.id)).length,unlocked:isLevelUnlocked(completed,lang,r.level)};}).filter(level=>level.list.length>0);
   const cur=info.find(i=>i.level===active)!;
   const prevLevel=info[info.findIndex(i=>i.level===active)-1];
   const onKey=(e:ReactKeyboardEvent,i:number)=>{const d=e.key==='ArrowLeft'?1:e.key==='ArrowRight'?-1:0;let n=e.key==='Home'?0:e.key==='End'?info.length-1:d?(i+d+info.length)%info.length:-1;if(n<0)return;e.preventDefault();setActive(info[n].level);tabRefs.current[n]?.focus();};
@@ -378,7 +378,7 @@ function buildQuiz(lesson:Lesson):QuizQuestion[] {
       ? [...new Set(lesson.words.map(w=>w.arabicMeaning))].sort(()=>Math.random()-.5)
       : [...new Set(lesson.words.map(w=>w.term))].sort(()=>Math.random()-.5);
     const answer=kind==='اختيار من متعدد'?word.arabicMeaning:kind==='أكمل العبارة'?clozeTerm:word.term;
-    const prompt=kind==='اختيار من متعدد'?'ما معنى هذه الكلمة؟':kind==='اختيار الترجمة الصحيحة'?'اختر الترجمة الصحيحة لهذه الكلمة':kind==='مطابقة'?'صِل كل كلمة بمعناها':kind==='أكمل العبارة'?'أكمل الجملة بالكلمة المناسبة':'اكتب ترجمة الكلمة إلى اللغة التي تتعلّمها';
+    const prompt=kind==='اختيار من متعدد'?'ما المعنى الصحيح؟':kind==='اختيار الترجمة الصحيحة'?'اختر الترجمة الصحيحة':kind==='مطابقة'?'صِل كل عنصر بمعناه':kind==='أكمل العبارة'?'أكمل الجملة بالكلمة المناسبة':'اكتب الترجمة باللغة التي تتعلّمها';
     return {word,pair,kind,choices,answer,prompt};
   });
 }
@@ -412,7 +412,7 @@ function Quiz({lesson,onComplete}:{lesson:Lesson;onComplete:(score:number,total:
      {q.kind==='اختيار الترجمة الصحيحة'&&<><div style={{fontSize:'1.25rem',fontWeight:800,color:'#4c8a75',marginBottom:18}}>{q.word.arabicMeaning}</div>{q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.word.term)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} dir="ltr" data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}</>}
      {q.kind==='مطابقة'&&<div className="matching-list">{[q.word,q.pair!].map((item,i)=><label className="matching-row" key={item.id}><b dir="ltr">{item.term}</b><select value={matchingAnswers[i]} onChange={e=>setMatchingAnswers(old=>{const next:[string,string]=[...old];next[i]=e.target.value;return next;})} disabled={checked} data-testid={`select-match-${qIndex}-${i}`}><option value="">اختاري المعنى</option>{q.choices.map(choice=><option key={choice} value={choice}>{choice}</option>)}</select></label>)}<button className="btn btn-primary" onClick={()=>submit()} disabled={checked||!matchingAnswers[0]||!matchingAnswers[1]} data-testid="button-check-matching">تحقّقي من المطابقة <Check size={17}/></button></div>}
      {q.kind==='أكمل العبارة'&&<><div className="example-line quiz-sentence" dir="ltr">{fillSentence}</div>{q.choices.map((choice,i)=><button key={`${q.word.id}-${i}`} className={`quiz-option ${checked&&normalizeAnswer(choice)===normalizeAnswer(q.answer)?'correct':''} ${checked&&normalizeAnswer(answer)===normalizeAnswer(choice)&&!correct?'wrong':''}`} onClick={()=>submit(choice)} disabled={checked} dir="ltr" data-testid={`button-quiz-option-${qIndex}-${i}`}>{choice}</button>)}</>}
-     {q.kind==='ترجمة كتابية'&&<form onSubmit={e=>{e.preventDefault();submit();}}><div style={{fontSize:'1.25rem',fontWeight:800,color:'#4c8a75',marginBottom:12}}>{q.word.arabicMeaning}</div><label className="field"><span>اكتب الكلمة باللغة التي تتعلّمها</span><input value={answer} onChange={e=>setAnswer(e.target.value)} disabled={checked} placeholder="اكتب الترجمة هنا" dir="auto" data-testid={`input-quiz-answer-${qIndex}`}/></label><button type="submit" className="btn btn-primary" disabled={checked||!answer.trim()} data-testid="button-check-answer">تحقّق من الإجابة <Check size={17}/></button></form>}
+     {q.kind==='ترجمة كتابية'&&<form onSubmit={e=>{e.preventDefault();submit();}}><div style={{fontSize:'1.25rem',fontWeight:800,color:'#4c8a75',marginBottom:12}}>{q.word.arabicMeaning}</div><label className="field"><span>اكتب {q.word.term===q.word.example?'الجملة':'الكلمة أو التعبير'} باللغة التي تتعلّمها</span>{q.word.term.length>65?<textarea rows={3} value={answer} onChange={e=>setAnswer(e.target.value)} disabled={checked} placeholder="اكتب الترجمة هنا" dir="auto" data-testid={`input-quiz-answer-${qIndex}`}/>:<input value={answer} onChange={e=>setAnswer(e.target.value)} disabled={checked} placeholder="اكتب الترجمة هنا" dir="auto" data-testid={`input-quiz-answer-${qIndex}`}/>}</label><button type="submit" className="btn btn-primary" disabled={checked||!answer.trim()} data-testid="button-check-answer">تحقّق من الإجابة <Check size={17}/></button></form>}
      {checked&&<div className={`feedback ${correct?'ok':'no'}`} data-testid={`status-quiz-feedback-${qIndex}`}>{correct?'إجابة صحيحة، أحسنت!':q.kind==='مطابقة'?<>ليست المطابقة صحيحة. الإجابات: <strong>{q.word.term} — {q.word.arabicMeaning}، {q.pair?.term} — {q.pair?.arabicMeaning}</strong></>:<>ليست هذه الإجابة. الإجابة الصحيحة: <strong>{q.answer}</strong></>}</div>}
     {checked&&<button className="btn btn-primary" style={{marginTop:18}} onClick={next} data-testid="button-next-question">{qIndex===questions.length-1?'إنهاء الاختبار':'السؤال التالي'} <ChevronLeft size={16}/></button>}
   </section>;
@@ -423,9 +423,7 @@ function ProgressPage() {
   const language=languages.find(l=>l.id===progress.selectedLanguage);
   const languageLessons=lessons.filter(l=>l.languageId===progress.selectedLanguage);
   const languageCompleted=languageLessons.filter(l=>progress.completedLessons.includes(l.id));
-  const a1Count=languageLessons.filter(l=>l.level==='A1'&&progress.completedLessons.includes(l.id)).length;
-  const a2Count=languageLessons.filter(l=>l.level==='A2'&&progress.completedLessons.includes(l.id)).length;
-  const currentLevel=a2Count>=2?'B1':a1Count>=4?'A2':'A1';
+  const currentLevel=language?[...levelRules].reverse().find(rule=>isLevelUnlocked(progress.completedLessons,language.id,rule.level))?.level??'A1':'A1';
   const progressPercent=languageLessons.length?Math.round(languageCompleted.length/languageLessons.length*100):0;
   const badges=[
     {id:'first-lesson',title:'أول خطوة',detail:'إكمال أول درس',earned:progress.completedLessons.length>=1},
@@ -481,7 +479,7 @@ function AboutPage() {
     <h1 className="page-title" style={{marginTop:10}}>الكلمات تفتح عوالم جديدة.</h1>
     <p className="page-subtitle" style={{maxWidth:720}}>Wordora مساحة تعلّم لغات للناطقين بالعربية، صُممت لتجعل البداية بسيطة ومشجعة. نؤمن أن جملة واحدة تقولها بثقة قد تكون بداية حكاية جديدة.</p>
     <div className="feature-grid">
-      <article className="feature-panel"><BookOpen size={24}/><h3>مستويات مرتبة وواضحة</h3><p>A1 للمبتدئين، ثم A2، ثم B1: كلمات وعبارات وجمل تتدرّج في الصعوبة، مع النطق والترجمة العربية.</p></article>
+      <article className="feature-panel"><BookOpen size={24}/><h3>مستويات مرتبة وواضحة</h3><p>A1 ثم A2 ثم B1 ثم B2 ثم C1 ثم C2: من البداية إلى التعبير المتقدم، مع النطق والترجمة العربية. المحتوى تدريبي ولا يمثّل شهادة اعتماد للمستوى.</p></article>
       <article className="feature-panel alt"><Globe2 size={24}/><h3>{languages.length} لغات، خطوة واحدة</h3><p>{languages.map(language=>language.arabicName).join('، ')} — تعلّم من خلال العربية.</p></article>
     </div>
     <div className="panel" style={{marginTop:18,maxWidth:760}}><h2 style={{marginTop:0,color:'#3c2b70'}}>خصوصيتك أولاً</h2><p style={{lineHeight:1.8,color:'#777286',marginBottom:0}}>يمكنك تجربة Wordora دون حساب. يُحفظ تقدّم الملف المحلي على جهازك، وعند إنشاء حساب يمكنك مزامنته. لا نعرض إحصاءات تقديرية؛ إنجازك يعكس ما أنهيته فعلاً.</p></div>

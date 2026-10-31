@@ -1,0 +1,2630 @@
+{
+  "lessons": [
+    {
+      "topic": "التعلّم المستقل",
+      "words": [
+        [
+          "I keep a reading log not to look disciplined, but to notice where my understanding quietly breaks down.",
+          "أحتفظ بسجل للقراءة لا لأبدو منضبطًا، بل لألاحظ أين يتعثر فهمي بهدوء.",
+          "آي كيب أ ريدِنغ لوج نات تو لوك دِسْبِلِنْد، بَت تو نوتِس وير ماي أندرستاندِنغ كوايِتلي بريكس داون.",
+          "I keep a reading log not to look disciplined, but to notice where my understanding quietly breaks down.",
+          "أحتفظ بسجل للقراءة لا لأبدو منضبطًا، بل لألاحظ أين يتعثر فهمي بهدوء."
+        ],
+        [
+          "When a tutorial feels too easy, I raise the bar by rewriting the task in my own words.",
+          "عندما يبدو الدرس التعليمي سهلًا أكثر من اللازم، أرفع التحدي بإعادة صياغة المهمة بكلماتي.",
+          "وِن أ تُوتُورْيَل فيلز تو إيزِي، آي ريز ذا بار باي ري رايتِنغ ذا تاسك إن ماي أون وِردز.",
+          "When a tutorial feels too easy, I raise the bar by rewriting the task in my own words.",
+          "عندما يبدو الدرس التعليمي سهلًا أكثر من اللازم، أرفع التحدي بإعادة صياغة المهمة بكلماتي."
+        ],
+        [
+          "I do not chase every new method; I test it against what I already know and keep what lasts.",
+          "لا ألاحق كل طريقة جديدة؛ بل أختبرها بما أعرفه أصلًا وأحتفظ بما يصمد.",
+          "آي دو نات تشيس إيفري نيو مِثَد؛ آي تِست إِت أَگينْست ووت آي أولرِدي نو أند كيب ووت لاستس.",
+          "I do not chase every new method; I test it against what I already know and keep what lasts.",
+          "لا ألاحق كل طريقة جديدة؛ بل أختبرها بما أعرفه أصلًا وأحتفظ بما يصمد."
+        ],
+        [
+          "A difficult chapter is useful only if I stop skimming and sit with the awkward parts.",
+          "الفصل الصعب يكون مفيدًا فقط إذا توقفت عن التصفح السريع وجلست مع الأجزاء المربكة.",
+          "أَ دِفِكَلْت تشابتر إز يوسْفُل أونلي إِف آي ستوب سْكِمِنغ أند سِت وِذ ذي أوكْوَرد بارتس.",
+          "A difficult chapter is useful only if I stop skimming and sit with the awkward parts.",
+          "الفصل الصعب يكون مفيدًا فقط إذا توقفت عن التصفح السريع وجلست مع الأجزاء المربكة."
+        ],
+        [
+          "I prefer notes that ask questions over notes that merely record facts.",
+          "أفضل الملاحظات التي تطرح أسئلة على تلك التي تكتفي بتسجيل الحقائق.",
+          "آي پْرِفِر نوتس ذات آسك كْوِسْتْشِنز أوڤَر نوتس ذات ميرلي رِكورد فاكتس.",
+          "I prefer notes that ask questions over notes that merely record facts.",
+          "أفضل الملاحظات التي تطرح أسئلة على تلك التي تكتفي بتسجيل الحقائق."
+        ],
+        [
+          "If a concept still feels vague tomorrow, I know I have not really learned it yet.",
+          "إذا ظل المفهوم غامضًا غدًا، فسأعرف أنني لم أتعلمه حقًا بعد.",
+          "إِف أ كُنْسِپْت سْتِل فيلز ڤيغ تُمورو، آي نو آي هاف نات رِلي لِرنْد إِت يِت.",
+          "If a concept still feels vague tomorrow, I know I have not really learned it yet.",
+          "إذا ظل المفهوم غامضًا غدًا، فسأعرف أنني لم أتعلمه حقًا بعد."
+        ],
+        [
+          "I learn faster when I explain an idea to someone else and hear where my logic wobbles.",
+          "أتعلم أسرع عندما أشرح فكرة لشخص آخر وأسمع أين يختلّ منطقها.",
+          "آي لِرن فاستَر وِن آي إكْسْپْلين أَن آيديا تو سَمْوَن إلس أند هير وير ماي لوجِك ووبُلْز.",
+          "I learn faster when I explain an idea to someone else and hear where my logic wobbles.",
+          "أتعلم أسرع عندما أشرح فكرة لشخص آخر وأسمع أين يختلّ منطقها."
+        ],
+        [
+          "A good resource does not give me answers; it trains me to ask sharper questions.",
+          "لا يمنحني المورد الجيد الإجابات؛ بل يدربني على طرح أسئلة أدق.",
+          "أَ گود ريسورس داز نات گِڤ مي آنسرز؛ إِت ترينز مي تو آسك شاربَر كْوِسْتْشِنز.",
+          "A good resource does not give me answers; it trains me to ask sharper questions.",
+          "لا يمنحني المورد الجيد الإجابات؛ بل يدربني على طرح أسئلة أدق."
+        ],
+        [
+          "I set small deadlines for myself because open-ended plans tend to drift.",
+          "أضع لنفسي مواعيد نهائية صغيرة لأن الخطط المفتوحة تميل إلى التلاشي.",
+          "آي سِت سمول ديدلاينز فور ماي سِلف بِكوز أوبِن-إندِد بلانز تِند تو دْرِفت.",
+          "I set small deadlines for myself because open-ended plans tend to drift.",
+          "أضع لنفسي مواعيد نهائية صغيرة لأن الخطط المفتوحة تميل إلى التلاشي."
+        ],
+        [
+          "Independent study works best when curiosity leads and discipline quietly follows.",
+          "يكون التعلّم المستقل أفضل ما يكون عندما تقود الفضولية ويأتي الانضباط بعدها بهدوء.",
+          "إِندِپِنْدَنت ستَدي وُرْكس بِست وِن كْيُورِيَسِتي ليدز أند دِسْبِلِن فولوْز كوايِتلي.",
+          "Independent study works best when curiosity leads and discipline quietly follows.",
+          "يكون التعلّم المستقل أفضل ما يكون عندما تقود الفضولية ويأتي الانضباط بعدها بهدوء."
+        ]
+      ]
+    },
+    {
+      "topic": "التفاوض باحترام",
+      "words": [
+        [
+          "I can disagree with your proposal without treating it like a personal offense.",
+          "يمكنني أن أختلف مع اقتراحك من دون أن أتعامل معه كإهانة شخصية.",
+          "آي كان دِسَگْري وِذ يور پْرُوزَل وِذَوت تريتِنغ إِت لايك أ پِرْسُنَل أُفِنْس.",
+          "I can disagree with your proposal without treating it like a personal offense.",
+          "يمكنني أن أختلف مع اقتراحك من دون أن أتعامل معه كإهانة شخصية."
+        ],
+        [
+          "If we both explain our limits plainly, the conversation gets more productive, not colder.",
+          "إذا شرحنا حدودنا بوضوح، تصبح المحادثة أكثر إنتاجية لا أكثر برودًا.",
+          "إِف وي بوث إكْسْپلين آور لِمِتس پْلينلي، ذَ كُنڤِرْسَيْشَن گِتس مور پْرُودَكْتِڤ، نات كولدَر.",
+          "If we both explain our limits plainly, the conversation gets more productive, not colder.",
+          "إذا شرحنا حدودنا بوضوح، تصبح المحادثة أكثر إنتاجية لا أكثر برودًا."
+        ],
+        [
+          "I will not pretend to agree just to keep the room comfortable.",
+          "لن أتظاهر بالموافقة فقط للحفاظ على راحة الجو.",
+          "آي وِل نات پْرِتِنْد تو أگْري جَسْت تو كيب ذَ روم كَمْفَرْتَبُل.",
+          "I will not pretend to agree just to keep the room comfortable.",
+          "لن أتظاهر بالموافقة فقط للحفاظ على راحة الجو."
+        ],
+        [
+          "A respectful pause can say more than a polished argument.",
+          "يمكن للوقفة المحترمة أن تقول أكثر من حجة مصقولة.",
+          "أَ رِسْپِكْتْفُل پاز كان سَي مور ذان أ پالِشْت آرْگيُمَنْت.",
+          "A respectful pause can say more than a polished argument.",
+          "يمكن للوقفة المحترمة أن تقول أكثر من حجة مصقولة."
+        ],
+        [
+          "I asked for clarity, not because I doubted you, but because the stakes are high.",
+          "طلبت التوضيح لا لأنني شككت بك، بل لأن المخاطر عالية.",
+          "آي آسكْت فور كلارِتي، نات بِكوز آي داوْتِد يو، بَت بِكوز ذَ ستيكس آر هاي.",
+          "I asked for clarity, not because I doubted you, but because the stakes are high.",
+          "طلبت التوضيح لا لأنني شككت بك، بل لأن المخاطر عالية."
+        ],
+        [
+          "We can revisit the terms without reopening the whole dispute.",
+          "يمكننا إعادة النظر في الشروط من دون إعادة فتح الخلاف كله.",
+          "وي كان ريڤِزِت ذَ تِرمْز وِذَوت ري أوبِنِنغ ذَ هول دِسْپْيوت.",
+          "We can revisit the terms without reopening the whole dispute.",
+          "يمكننا إعادة النظر في الشروط من دون إعادة فتح الخلاف كله."
+        ],
+        [
+          "I respect your position, and I need you to respect mine in return.",
+          "أحترم موقفك، وأحتاج منك أن تحترم موقفي بالمقابل.",
+          "آي رِسْپِكْت يور پُزِشَن، أند آي نيد يو تو رِسْپِكْت ماين إن رِتورْن.",
+          "I respect your position, and I need you to respect mine in return.",
+          "أحترم موقفك، وأحتاج منك أن تحترم موقفي بالمقابل."
+        ],
+        [
+          "Let us separate the idea from the person so the discussion stays useful.",
+          "لنفصل الفكرة عن الشخص حتى تبقى المناقشة مفيدة.",
+          "لِت أَس سِپَرِيت ذَ آيديا فرَم ذَ پِرْسَن سو ذَ دِسْكَشَن ستيز يوسْفُل.",
+          "Let us separate the idea from the person so the discussion stays useful.",
+          "لنفصل الفكرة عن الشخص حتى تبقى المناقشة مفيدة."
+        ],
+        [
+          "I would rather lose a point than win by talking past you.",
+          "أفضل أن أخسر نقطة على أن أربح عبر تجاهلك في الحديث.",
+          "آي وود راذَر لوز أ پوينت ذان وِن باي توكِنغ پاست يو.",
+          "I would rather lose a point than win by talking past you.",
+          "أفضل أن أخسر نقطة على أن أربح عبر تجاهلك في الحديث."
+        ],
+        [
+          "A fair deal is easier to accept when both sides feel heard.",
+          "من الأسهل قبول صفقة عادلة عندما يشعر الطرفان بأنهما مسموعان.",
+          "أَ فير ديل إز إيزيَر تو أَسِپْت وِن بوث سايدز فيل هيرد.",
+          "A fair deal is easier to accept when both sides feel heard.",
+          "من الأسهل قبول صفقة عادلة عندما يشعر الطرفان بأنهما مسموعان."
+        ]
+      ]
+    },
+    {
+      "topic": "العمل الجماعي",
+      "words": [
+        [
+          "A strong team does not erase differences; it uses them before they harden into conflict.",
+          "الفريق القوي لا يمحو الاختلافات؛ بل يستفيد منها قبل أن تتصلب إلى صراع.",
+          "أَ سترونغ تيم داز نات إريز دِفرنسِز؛ إِت يوزِز ذِم بِفور ذَي هاردِن إنتو كُونْفْلِكت.",
+          "A strong team does not erase differences; it uses them before they harden into conflict.",
+          "الفريق القوي لا يمحو الاختلافات؛ بل يستفيد منها قبل أن تتصلب إلى صراع."
+        ],
+        [
+          "When roles are clear, people can focus on results instead of second-guessing each other.",
+          "عندما تكون الأدوار واضحة، يستطيع الناس التركيز على النتائج بدل التخمين بشأن بعضهم.",
+          "وِن رولز آر كلير، پِيپُل كان فوكَس أون رِزَلْتس إنْسْتِد أَف سِكند گِسِنغ إيتش أَذَر.",
+          "When roles are clear, people can focus on results instead of second-guessing each other.",
+          "عندما تكون الأدوار واضحة، يستطيع الناس التركيز على النتائج بدل التخمين بشأن بعضهم."
+        ],
+        [
+          "I do my best work when someone else challenges my first draft.",
+          "أؤدي أفضل عملي عندما يتحدى شخص آخر مسودتي الأولى.",
+          "آي دو ماي بِست وُرْك وِن سَمْوَن إلس تشالِنْجِز ماي فِرْست درافت.",
+          "I do my best work when someone else challenges my first draft.",
+          "أؤدي أفضل عملي عندما يتحدى شخص آخر مسودتي الأولى."
+        ],
+        [
+          "Good collaboration means sharing credit without keeping score.",
+          "التعاون الجيد يعني تقاسم الفضل من دون حساب النقاط.",
+          "گود كولابُرَيْشَن مينز شيرِنغ كْرِدِت وِذَوت كيبِنغ سكور.",
+          "Good collaboration means sharing credit without keeping score.",
+          "التعاون الجيد يعني تقاسم الفضل من دون حساب النقاط."
+        ],
+        [
+          "If a meeting goes in circles, I try to name the shared goal out loud.",
+          "إذا دارت الاجتماعات في حلقة مفرغة، أحاول أن أذكر الهدف المشترك بصوت عالٍ.",
+          "إِف أ ميتِنغ گوز إن سِركُلز، آي تراي تو نيم ذَ شيرْد گول آوت لاود.",
+          "If a meeting goes in circles, I try to name the shared goal out loud.",
+          "إذا دارت الاجتماعات في حلقة مفرغة، أحاول أن أذكر الهدف المشترك بصوت عالٍ."
+        ],
+        [
+          "We move faster when the quiet voices have room to speak.",
+          "نتحرك أسرع عندما تتاح للأصوات الهادئة مساحة للتحدث.",
+          "وي موڤ فاستَر وِن ذَ كْوايِت ڤويسِز هاف روم تو سْپيك.",
+          "We move faster when the quiet voices have room to speak.",
+          "نتحرك أسرع عندما تتاح للأصوات الهادئة مساحة للتحدث."
+        ],
+        [
+          "A teammate who asks for help early usually saves everyone time later.",
+          "زميل الفريق الذي يطلب المساعدة مبكرًا يوفر الوقت على الجميع لاحقًا.",
+          "أَ تيم ميت هو آسكْس فور هِلب إرلي يوزْجُوَلي سيفز إيفريوَن تايم ليتَر.",
+          "A teammate who asks for help early usually saves everyone time later.",
+          "زميل الفريق الذي يطلب المساعدة مبكرًا يوفر الوقت على الجميع لاحقًا."
+        ],
+        [
+          "I value a colleague who improves the plan instead of defending it at all costs.",
+          "أقدّر الزميل الذي يحسن الخطة بدل الدفاع عنها بأي ثمن.",
+          "آي ڤاليو أ كوليغ هو إمپْروفز ذَ بلان إنْسْتِد أَف دِفِنْدِنغ إِت أَت أول كوستس.",
+          "I value a colleague who improves the plan instead of defending it at all costs.",
+          "أقدّر الزميل الذي يحسن الخطة بدل الدفاع عنها بأي ثمن."
+        ],
+        [
+          "A team wins more reliably when it trusts rough notes more than neat speeches.",
+          "يفوز الفريق على نحو أوثق عندما يثق بالملاحظات الخام أكثر من الخطب المنمقة.",
+          "أَ تيم وِنز مور رِلايَبْلي وِن إِت تراستس رَف نوتس مور ذان نيت سْپيتشِز.",
+          "A team wins more reliably when it trusts rough notes more than neat speeches.",
+          "يفوز الفريق على نحو أوثق عندما يثق بالملاحظات الخام أكثر من الخطب المنمقة."
+        ],
+        [
+          "The best group work feels almost invisible because everyone has pulled in the same direction.",
+          "أفضل عمل جماعي يكاد يكون غير مرئي لأن الجميع جذب في الاتجاه نفسه.",
+          "ذَ بِست گروپ وُرْك فيلز أولموست إِنڤِزِبُل بِكوز إيفريوَن هاز پولْد إن ذَ سيم دايرِكْشَن.",
+          "The best group work feels almost invisible because everyone has pulled in the same direction.",
+          "أفضل عمل جماعي يكاد يكون غير مرئي لأن الجميع جذب في الاتجاه نفسه."
+        ]
+      ]
+    },
+    {
+      "topic": "حل النزاعات",
+      "words": [
+        [
+          "The first step in resolving a dispute is to lower the temperature, not to prove a point.",
+          "أول خطوة في حل النزاع هي خفض التوتر، لا إثبات صحة وجهة نظر.",
+          "ذَ فِرْست سْتِپ إن رِزولڤِنغ أ دِسْپْيوت إز تو لووَر ذَ تِمْپَرَتْشَر، نات تو پْروف أ پوينت.",
+          "The first step in resolving a dispute is to lower the temperature, not to prove a point.",
+          "أول خطوة في حل النزاع هي خفض التوتر، لا إثبات صحة وجهة نظر."
+        ],
+        [
+          "When I feel attacked, I try to answer the concern, not the tone.",
+          "عندما أشعر بالهجوم، أحاول أن أجيب عن القلق لا عن النبرة.",
+          "وِن آي فيل أَتاكت، آي تراي تو آنسر ذَ كَنْسِرن، نات ذَ تون.",
+          "When I feel attacked, I try to answer the concern, not the tone.",
+          "عندما أشعر بالهجوم، أحاول أن أجيب عن القلق لا عن النبرة."
+        ],
+        [
+          "A clean apology can open more doors than a clever excuse.",
+          "الاعتذار الصريح قد يفتح أبوابًا أكثر من العذر الذكي.",
+          "أَ كلين أَپُولَجِي كان أوبِن مور دورز ذان أ كْلِڤَر إِكْسْكْيُوس.",
+          "A clean apology can open more doors than a clever excuse.",
+          "الاعتذار الصريح قد يفتح أبوابًا أكثر من العذر الذكي."
+        ],
+        [
+          "I try to separate the harm from the intention, because both matter differently.",
+          "أحاول الفصل بين الضرر والنية، لأن كليهما مهم بطريقة مختلفة.",
+          "آي تراي تو سِپَرِيت ذَ هارم فرَم ذَ إنْتِنْشَن، بِكوز بوث ماتَر دِفْرَنتلي.",
+          "I try to separate the harm from the intention, because both matter differently.",
+          "أحاول الفصل بين الضرر والنية، لأن كليهما مهم بطريقة مختلفة."
+        ],
+        [
+          "If we keep interrupting each other, the real issue will stay buried.",
+          "إذا واصلنا مقاطعة بعضنا، فستبقى المشكلة الحقيقية مدفونة.",
+          "إِف وي كيب إِنْتَرَپْتِنغ إيتش أَذَر، ذَ ريل إِشُو وِل ستي بَريْد.",
+          "If we keep interrupting each other, the real issue will stay buried.",
+          "إذا واصلنا مقاطعة بعضنا، فستبقى المشكلة الحقيقية مدفونة."
+        ],
+        [
+          "I would rather set a boundary than turn a disagreement into a grudge.",
+          "أفضل أن أضع حدودًا على أن أحول الخلاف إلى حقد.",
+          "آي وود راذَر سِت أ باوندَري ذان تِرن أ دِسَگْريْمَنت إِنتو أ گْرَج.",
+          "I would rather set a boundary than turn a disagreement into a grudge.",
+          "أفضل أن أضع حدودًا على أن أحول الخلاف إلى حقد."
+        ],
+        [
+          "The fastest fix is not always the deepest one, and I try not to confuse them.",
+          "أسرع حل ليس دائمًا أعمق حل، وأحاول ألا أخلط بينهما.",
+          "ذَ فاستِست فِكس إز نات أولويز ذَ ديبِست وُن، أند آي تراي نات تو كَنْفْيُوز ذِم.",
+          "The fastest fix is not always the deepest one, and I try not to confuse them.",
+          "أسرع حل ليس دائمًا أعمق حل، وأحاول ألا أخلط بينهما."
+        ],
+        [
+          "We made progress only after we named what each of us was protecting.",
+          "لم نحرز تقدمًا إلا بعد أن سمّينا ما كان كل واحد منا يحميه.",
+          "وي ميد پراگرس أونلي آفتر وي نيمْد ووت إيتش أَف أَس واز پْرُوتِكتِنغ.",
+          "We made progress only after we named what each of us was protecting.",
+          "لم نحرز تقدمًا إلا بعد أن سمّينا ما كان كل واحد منا يحميه."
+        ],
+        [
+          "I can accept a difficult outcome more easily than a dishonest process.",
+          "يمكنني قبول نتيجة صعبة بسهولة أكبر من قبول مسار غير صادق.",
+          "آي كان أَكْسِپْت أَ دِفِكَلْت آوتْكَم مور إيزيلي ذان أَ دِسْأُنِست پْرُوسِس.",
+          "I can accept a difficult outcome more easily than a dishonest process.",
+          "يمكنني قبول نتيجة صعبة بسهولة أكبر من قبول مسار غير صادق."
+        ],
+        [
+          "Conflict softens when both sides start listening for what was meant, not just said.",
+          "يلين النزاع عندما يبدأ الطرفان في الإصغاء لما قُصد لا لما قيل فقط.",
+          "كُونْفْلِكت سوفتِنز وِن بوث سايدز ستارت لِسِنِنغ فور ووت واز مِنت، نات جَست سِد.",
+          "Conflict softens when both sides start listening for what was meant, not just said.",
+          "يلين النزاع عندما يبدأ الطرفان في الإصغاء لما قُصد لا لما قيل فقط."
+        ]
+      ]
+    },
+    {
+      "topic": "المقابلات المهنية",
+      "words": [
+        [
+          "I answer interview questions as if I were already part of the work, not auditioning for permission.",
+          "أجيب عن أسئلة المقابلة كما لو أنني جزء من العمل أصلًا، لا كأنني أتسابق لنيل الإذن.",
+          "آي آنسر إِنْتَرڤيو كْوِسْتْشِنز أَز إِف آي وِر أولرِدي بارت أَف ذَ وُرْك، نات أوديشنِنغ فور پِرْمِشَن.",
+          "I answer interview questions as if I were already part of the work, not auditioning for permission.",
+          "أجيب عن أسئلة المقابلة كما لو أنني جزء من العمل أصلًا، لا كأنني أتسابق لنيل الإذن."
+        ],
+        [
+          "A concise answer can sound stronger than a long one if it is grounded in evidence.",
+          "قد تبدو الإجابة الموجزة أقوى من الطويلة إذا كانت مبنية على دليل.",
+          "أَ كَنْسايس آنسر كان ساوند سترونگَر ذان أ لونغ وُن إِف إِت إز گْراونْدِد إن إڤِدَنس.",
+          "A concise answer can sound stronger than a long one if it is grounded in evidence.",
+          "قد تبدو الإجابة الموجزة أقوى من الطويلة إذا كانت مبنية على دليل."
+        ],
+        [
+          "I try to show judgment, not just enthusiasm, because both are part of the job.",
+          "أحاول إظهار الحكم السليم لا الحماس فقط، لأن كليهما جزء من الوظيفة.",
+          "آي تراي تو شو جَجْمَنت، نات جَست إِنْثُوزِيَزَم، بِكوز بوث آر بارت أَف ذَ جوب.",
+          "I try to show judgment, not just enthusiasm, because both are part of the job.",
+          "أحاول إظهار الحكم السليم لا الحماس فقط، لأن كليهما جزء من الوظيفة."
+        ],
+        [
+          "When I do not know something, I say so and explain how I would find out.",
+          "عندما لا أعرف شيئًا، أقول ذلك وأشرح كيف سأتحقق منه.",
+          "وِن آي دو نات نو سَمْثِنغ، آي سَي سو أند إكْسْپلين هاو آي وود فايند آوت.",
+          "When I do not know something, I say so and explain how I would find out.",
+          "عندما لا أعرف شيئًا، أقول ذلك وأشرح كيف سأتحقق منه."
+        ],
+        [
+          "I prepare stories that show impact, but I keep them honest and specific.",
+          "أستعد بحكايات تُظهر الأثر، لكنني أبقيها صادقة ومحددة.",
+          "آي پْرِپير ستوريز ذات شو إمپَكت، بَت آي كيب ذِم أُونِست أند سْپَسِفِك.",
+          "I prepare stories that show impact, but I keep them honest and specific.",
+          "أستعد بحكايات تُظهر الأثر، لكنني أبقيها صادقة ومحددة."
+        ],
+        [
+          "A good interviewer notices how you think when the answer is not obvious.",
+          "المحاور الجيد يلاحظ كيف تفكر عندما لا تكون الإجابة واضحة.",
+          "أَ گود إِنْتَرڤيُوَر نوتِسِز هاو يو ثِنك وِن ذَ آنسر إز نات أوبڤْيَس.",
+          "A good interviewer notices how you think when the answer is not obvious.",
+          "المحاور الجيد يلاحظ كيف تفكر عندما لا تكون الإجابة واضحة."
+        ],
+        [
+          "I speak about setbacks without blaming others or pretending they taught me nothing.",
+          "أتحدث عن العثرات من دون لوم الآخرين أو التظاهر بأنها لم تعلمني شيئًا.",
+          "آي سْپيك أباوت سِتْبَكس وِذَوت بْليمِنغ أَذَرْز أور پْرِتِنْدِنغ ذَي توت مي نَذِنغ.",
+          "I speak about setbacks without blaming others or pretending they taught me nothing.",
+          "أتحدث عن العثرات من دون لوم الآخرين أو التظاهر بأنها لم تعلمني شيئًا."
+        ],
+        [
+          "It helps to ask what success looks like six months in, not only on day one.",
+          "يفيد أن أسأل كيف يبدو النجاح بعد ستة أشهر، لا في اليوم الأول فقط.",
+          "إِت هِلْپس تو آسك ووت سَكْسِس لوكس لايك سِكس مَنثْس إن، نات أونلي أون داي وُن.",
+          "It helps to ask what success looks like six months in, not only on day one.",
+          "يفيد أن أسأل كيف يبدو النجاح بعد ستة أشهر، لا في اليوم الأول فقط."
+        ],
+        [
+          "I want the panel to remember my reasoning, not a rehearsed performance.",
+          "أريد أن يتذكرني فريق المقابلة بمنطقي لا بعرض محفوظ.",
+          "آي وونت ذَ پانَل تو رِمِمبَر ماي ريزُنِنغ، نات أ ريهرْسْت پِرْفورْمَنس.",
+          "I want the panel to remember my reasoning, not a rehearsed performance.",
+          "أريد أن يتذكرني فريق المقابلة بمنطقي لا بعرض محفوظ."
+        ],
+        [
+          "The strongest close is one that leaves them curious, not simply impressed.",
+          "أقوى خاتمة هي التي تتركهم فضوليين لا مبهورين فحسب.",
+          "ذَ سترونگِست كْلوز إز وُن ذات ليفز ذِم كْيُورِيَس، نات سِمْپْلي إمپْرِسْت.",
+          "The strongest close is one that leaves them curious, not simply impressed.",
+          "أقوى خاتمة هي التي تتركهم فضوليين لا مبهورين فحسب."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ القرارات",
+      "words": [
+        [
+          "I could have played it safe, but I chose the option that would stretch the team rather than merely preserve my own comfort.",
+          "كان بإمكاني أن أختار الطريق الآمن، لكنني فضّلت الخيار الذي يطوّر الفريق بدلًا من أن يحافظ فقط على راحتي.",
+          "آي كُد هاف بلايد إت سيف، بَت آي تشوز ذي أوبشِن ذات وُد سترِتش ذَ تيم راذَر ذان ميرلي بريزِرف ماي أون كَمفرت.",
+          "I could have played it safe, but I chose the option that would stretch the team rather than merely preserve my own comfort.",
+          "كان بإمكاني أن أختار الطريق الآمن، لكنني فضّلت الخيار الذي يطوّر الفريق بدلًا من أن يحافظ فقط على راحتي."
+        ],
+        [
+          "When the evidence was split, I set aside my first instinct and asked which mistake we could afford to make.",
+          "عندما كانت الأدلة متضاربة، وضعت حدسي الأول جانبًا وسألت: أي خطأ يمكننا تحمّلُه؟",
+          "وِن ذي إڤِدَنس واز سْپْلِت، آي سِت أسايد ماي فِرست إنتِستْ أند أَسْكد وِتش مِستيك وِي كُد أفورد تو ميك.",
+          "When the evidence was split, I set aside my first instinct and asked which mistake we could afford to make.",
+          "عندما كانت الأدلة متضاربة، وضعت حدسي الأول جانبًا وسألت: أي خطأ يمكننا تحمّلُه؟"
+        ],
+        [
+          "He said he wanted clarity, yet every answer he praised only made the decision harder to trust.",
+          "قال إنه يريد وضوحًا، لكن كل إجابة أثنى عليها زادت القرار صعوبةً في الثقة.",
+          "هي سِد هي وونتِد كلاريتي، يِت إڤري آنسر هي برايزْد أونلي مِيد ذَ دِسيجن هاردر تو ترَست.",
+          "He said he wanted clarity, yet every answer he praised only made the decision harder to trust.",
+          "قال إنه يريد وضوحًا، لكن كل إجابة أثنى عليها زادت القرار صعوبةً في الثقة."
+        ],
+        [
+          "Sometimes the smartest move is not to win the argument, but to leave room for a better one tomorrow.",
+          "أحيانًا أذكى خطوة ليست أن تكسب الجدل، بل أن تترك مساحةً لجدلٍ أفضل غدًا.",
+          "سَم تايمز ذَ سمارْتِست موف إِز نات تو وِن ذي آرجُمنت، بَت تو ليف روم فُر أ بَتَر وَن تُمارو.",
+          "Sometimes the smartest move is not to win the argument, but to leave room for a better one tomorrow.",
+          "أحيانًا أذكى خطوة ليست أن تكسب الجدل، بل أن تترك مساحةً لجدلٍ أفضل غدًا."
+        ],
+        [
+          "I prefer decisions that can survive a bad day, because perfect plans are often brittle in real life.",
+          "أفضّل القرارات التي تصمد أمام يوم سيئ، لأن الخطط المثالية غالبًا ما تكون هشّة في الواقع.",
+          "آي بِرفِر دِسيجِنز ذات كان سَرفايف أ باد داي، بِكوز بَرفِكت بلانز آر أُفِن بِرِتِل إن ريل لايف.",
+          "I prefer decisions that can survive a bad day, because perfect plans are often brittle in real life.",
+          "أفضّل القرارات التي تصمد أمام يوم سيئ، لأن الخطط المثالية غالبًا ما تكون هشّة في الواقع."
+        ],
+        [
+          "The more urgent the deadline, the more careful I become about what we are really saying yes to.",
+          "كلما كان الموعد النهائي أشد إلحاحًا، أصبحتُ أكثر حذرًا فيما نقول له نعم حقًا.",
+          "ذَ مور أَرجَنت ذَ ديدلاين، ذَ مور كيرفُل آي بِكَم أباوت وُت وِي آر ريلِي سايينغ يِس تو.",
+          "The more urgent the deadline, the more careful I become about what we are really saying yes to.",
+          "كلما كان الموعد النهائي أشد إلحاحًا، أصبحتُ أكثر حذرًا فيما نقول له نعم حقًا."
+        ],
+        [
+          "She did not change her mind loudly; she simply kept asking better questions until the room shifted.",
+          "لم تغيّر رأيها بصوت عالٍ؛ بل واصلت طرح أسئلة أفضل حتى تغيّر مزاج القاعة.",
+          "شي دِد نات تشينج هَر مايند لاودلي؛ شي سِمبلي كِبت أَسْكينج بَتَر كْوِسْتشِنز أَنْتِل ذَ روم شِفتِد.",
+          "She did not change her mind loudly; she simply kept asking better questions until the room shifted.",
+          "لم تغيّر رأيها بصوت عالٍ؛ بل واصلت طرح أسئلة أفضل حتى تغيّر مزاج القاعة."
+        ],
+        [
+          "A decision gains weight when you can explain the trade-off without hiding the cost.",
+          "يكتسب القرار ثقله عندما تستطيع شرح المقايضة من دون إخفاء التكلفة.",
+          "أ دِسيجن غينز ويت وِن يو كان إكْسبلين ذَ تْرَيْد-أوف وِذَاوت هايدِنغ ذَ كوست.",
+          "A decision gains weight when you can explain the trade-off without hiding the cost.",
+          "يكتسب القرار ثقله عندما تستطيع شرح المقايضة من دون إخفاء التكلفة."
+        ],
+        [
+          "I do not mind being second-guessing-proof; I mind being rushed into a choice that cannot be defended.",
+          "لا أمانع أن يكون قراري مقاومًا للشك، لكنني أمانع أن أُدفع إلى خيار لا يمكن الدفاع عنه.",
+          "آي دو نات مايند بِيِنغ سِكَنْد-گِسِنغ-پروف؛ آي مايند بِيِنغ رَشت إنتو أ تشويس ذات كانات بي دِفَندِد.",
+          "I do not mind being second-guessing-proof; I mind being rushed into a choice that cannot be defended.",
+          "لا أمانع أن يكون قراري مقاومًا للشك، لكنني أمانع أن أُدفع إلى خيار لا يمكن الدفاع عنه."
+        ],
+        [
+          "In the end, I chose the path that left us room to adapt, not the one that merely looked decisive.",
+          "في النهاية، اخترت المسار الذي يترك لنا مجالًا للتكيّف، لا الذي يبدو حاسمًا فقط.",
+          "إن ذي إند، آي تشوز ذَ پاث ذات لِفت أَس روم تو أداپت، نات ذَ وَن ذات ميرلي لوكت دِسايسِف.",
+          "In the end, I chose the path that left us room to adapt, not the one that merely looked decisive.",
+          "في النهاية، اخترت المسار الذي يترك لنا مجالًا للتكيّف، لا الذي يبدو حاسمًا فقط."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل الرقمي",
+      "words": [
+        [
+          "Her message sounded casual, but the timing made it feel like a carefully placed nudge.",
+          "بدا نصّها عابرًا، لكن التوقيت جعله يبدو كأنه تلميحٌ وُضع بعناية.",
+          "هَر مِسِج ساوندِد كاشوال، بَت ذَ تايمِنغ مِيد إت فيل لايك أ كيرفُلي پلیست نَج.",
+          "Her message sounded casual, but the timing made it feel like a carefully placed nudge.",
+          "بدا نصّها عابرًا، لكن التوقيت جعله يبدو كأنه تلميحٌ وُضع بعناية."
+        ],
+        [
+          "I do not trust a thread that grows warmer only after everyone has started watching.",
+          "لا أثق في محادثةٍ لا تصير أكثر لطفًا إلا بعد أن يبدأ الجميع بالمراقبة.",
+          "آي دو نات ترَست أ ثرِد ذات گروز وورمَر أونلي آفتر إڤري وَن هاز ستارتِد ووتشِنغ.",
+          "I do not trust a thread that grows warmer only after everyone has started watching.",
+          "لا أثق في محادثةٍ لا تصير أكثر لطفًا إلا بعد أن يبدأ الجميع بالمراقبة."
+        ],
+        [
+          "A short reply can be gracious, but a vague one often carries more weight than people admit.",
+          "قد يكون الرد القصير مهذبًا، لكن الرد الملتبس غالبًا ما يحمل وزنًا أكبر مما يعترف به الناس.",
+          "أ شورت رِپلاي كان بي غراشَس، بَت أ ڤيج وَن أُفِن كارِيز مور ويت ذان پيپِل أدمِت.",
+          "A short reply can be gracious, but a vague one often carries more weight than people admit.",
+          "قد يكون الرد القصير مهذبًا، لكن الرد الملتبس غالبًا ما يحمل وزنًا أكبر مما يعترف به الناس."
+        ],
+        [
+          "He uses punctuation the way some people use eye contact: sparingly, but with intent.",
+          "يستخدم علامات الترقيم كما يستخدم بعض الناس التواصل البصري: قليلًا، لكن بقصد.",
+          "هي يوزِز پَنْكتُويشن ذَ وِي سَم پيپِل يوز آي كُونتاكت: سپارِنغلي، بَت وِذ إنتِنت.",
+          "He uses punctuation the way some people use eye contact: sparingly, but with intent.",
+          "يستخدم علامات الترقيم كما يستخدم بعض الناس التواصل البصري: قليلًا، لكن بقصد."
+        ],
+        [
+          "When a conversation lives on a screen, silence can sound louder than a hundred words.",
+          "عندما تعيش المحادثة على الشاشة، قد يبدو الصمت أعلى صوتًا من مئة كلمة.",
+          "وِن أ كُونڤِرسَيْشِن لِڤز أون أ سكرين، سايلَنس كان ساوند لاودَر ذان أ هَندْرِد وِردز.",
+          "When a conversation lives on a screen, silence can sound louder than a hundred words.",
+          "عندما تعيش المحادثة على الشاشة، قد يبدو الصمت أعلى صوتًا من مئة كلمة."
+        ],
+        [
+          "I appreciate directness online, provided it does not pretend to be truth when it is only speed.",
+          "أقدّر المباشرة على الإنترنت، ما دامت لا تتظاهر بأنها الحقيقة وهي ليست سوى سرعة.",
+          "آي أپْريشييت دِرِكتنِس أونلاين، پروڤايدِد إت دَز نات پرِتِند تو بي ترُوث وِن إت إز أونلي سْپيد.",
+          "I appreciate directness online, provided it does not pretend to be truth when it is only speed.",
+          "أقدّر المباشرة على الإنترنت، ما دامت لا تتظاهر بأنها الحقيقة وهي ليست سوى سرعة."
+        ],
+        [
+          "The best digital etiquette is invisible: it keeps the exchange clear without turning it cold.",
+          "أفضل آداب التواصل الرقمي غير مرئية: تجعل التبادل واضحًا من دون أن تحوله إلى برود.",
+          "ذَ بِست دِجِتل إتيكِت إز إنڤِزِبُل: إت كيبس ذي إكستشينج كلير وِذَاوت تَرنِنغ إت كولد.",
+          "The best digital etiquette is invisible: it keeps the exchange clear without turning it cold.",
+          "أفضل آداب التواصل الرقمي غير مرئية: تجعل التبادل واضحًا من دون أن تحوله إلى برود."
+        ],
+        [
+          "A well-timed emoji can soften a line, but it cannot rescue a careless message.",
+          "قد يخفف رمزٌ تعبيري في وقته المناسب من حدّة العبارة، لكنه لا ينقذ رسالةً مهملة.",
+          "أ وِل-تايمْد إيموجي كان سافِن أ لاين، بَت إت كانات رِسكيو أ كيرلس مِسِج.",
+          "A well-timed emoji can soften a line, but it cannot rescue a careless message.",
+          "قد يخفف رمزٌ تعبيري في وقته المناسب من حدّة العبارة، لكنه لا ينقذ رسالةً مهملة."
+        ],
+        [
+          "I archive difficult chats, not to relive them, but to remember how easily tone can slip.",
+          "أحفظ المحادثات الصعبة لا لأعيد عيشها، بل لأتذكر كم يسهل أن ينزلق النبرة.",
+          "آي آر-كايف دِفِكُلت تشاتس، نات تو رِليف ذَم، بَت تو رِمِمبَر هاو إيزيلي تون كان سْلِپ.",
+          "I archive difficult chats, not to relive them, but to remember how easily tone can slip.",
+          "أحفظ المحادثات الصعبة لا لأعيد عيشها، بل لأتذكر كم يسهل أن ينزلق النبرة."
+        ],
+        [
+          "If a video call leaves no room for listening, it is just a louder version of mutual interruption.",
+          "إذا لم تترك مكالمة الفيديو مساحةً للاستماع، فهي مجرد نسخة أعلى صوتًا من المقاطعة المتبادلة.",
+          "إف أ ڤيديو كول ليفز نو روم فُر لِسْنِنغ، إت إز جَست أ لاودَر ڤيرجِن أُف ميوتْشُوَل إنتَروپشِن.",
+          "If a video call leaves no room for listening, it is just a louder version of mutual interruption.",
+          "إذا لم تترك مكالمة الفيديو مساحةً للاستماع، فهي مجرد نسخة أعلى صوتًا من المقاطعة المتبادلة."
+        ]
+      ]
+    },
+    {
+      "topic": "التنوع الثقافي",
+      "words": [
+        [
+          "Good manners travel well, but they look different in every language, and that is part of the lesson.",
+          "الذوق الحسن يسافر جيدًا، لكنه يبدو مختلفًا في كل لغة، وهذا جزء من الدرس.",
+          "غُد مانرز ترافِل وِل، بَت ذَي لوك دِفْرَنت إن إڤري لانغْوِج، أند ذات إز بارت أُف ذَ لِسِن.",
+          "Good manners travel well, but they look different in every language, and that is part of the lesson.",
+          "الذوق الحسن يسافر جيدًا، لكنه يبدو مختلفًا في كل لغة، وهذا جزء من الدرس."
+        ],
+        [
+          "I have learned that respect is not a script; it is the willingness to notice what others assume.",
+          "تعلمت أن الاحترام ليس نصًا محفوظًا؛ بل هو الاستعداد لملاحظة ما يفترضه الآخرون.",
+          "آي هاف لِرنْد ذات رِسپِكت إز نات أ سكرِپت؛ إت إز ذَ ويلِنغنِس تو نوتِس وُت أذَرز أَسوم.",
+          "I have learned that respect is not a script; it is the willingness to notice what others assume.",
+          "تعلمت أن الاحترام ليس نصًا محفوظًا؛ بل هو الاستعداد لملاحظة ما يفترضه الآخرون."
+        ],
+        [
+          "A shared meal can reveal more than a formal introduction, if you are patient enough to listen.",
+          "قد تكشف وجبةٌ مشتركة أكثر من التعارف الرسمي، إذا كنت صبورًا بما يكفي لتستمع.",
+          "أ شَرد ميل كان رِڤيل مور ذان أ فورمَل إنتَرَدَكشِن، إف يو آر پَيْشَنت إناف تو لِسِن.",
+          "A shared meal can reveal more than a formal introduction, if you are patient enough to listen.",
+          "قد تكشف وجبةٌ مشتركة أكثر من التعارف الرسمي، إذا كنت صبورًا بما يكفي لتستمع."
+        ],
+        [
+          "When people explain their customs, I try not to translate them into my own habits too quickly.",
+          "عندما يشرح الناس عاداتهم، أحاول ألا أترجمها سريعًا إلى عادتي أنا.",
+          "وِن پيپِل إكْسْپلين ذَيَر كاستَمز، آي تراي نات تو ترانزلايت ذَم إنتو ماي أون هابِتس تو كْوِكلي.",
+          "When people explain their customs, I try not to translate them into my own habits too quickly.",
+          "عندما يشرح الناس عاداتهم، أحاول ألا أترجمها سريعًا إلى عادتي أنا."
+        ],
+        [
+          "Differences become interesting once you stop treating your own norm as the default setting.",
+          "تصير الاختلافات مثيرة للاهتمام عندما تتوقف عن اعتبار معيارك الشخصي الإعداد الافتراضي.",
+          "دِفْرَنسِز بِكَم إنتِرِستِنغ وَنس يو ستوب تريتِنغ يور أون نورم آز ذَ دِفولت سِتِنغ.",
+          "Differences become interesting once you stop treating your own norm as the default setting.",
+          "تصير الاختلافات مثيرة للاهتمام عندما تتوقف عن اعتبار معيارك الشخصي الإعداد الافتراضي."
+        ],
+        [
+          "She never asked people to explain themselves twice, which made them far more willing to open up.",
+          "لم تطلب من الناس أن يشرحوا أنفسهم مرتين أبدًا، وهذا جعلهم أكثر استعدادًا للانفتاح.",
+          "شي نِڤَر أَسْكد پيپِل تو إكْسْپلين ذِمسِلڤز تويس، وِتش مِيد ذَم فار مور ويلِنغ تو أوبِن أَپ.",
+          "She never asked people to explain themselves twice, which made them far more willing to open up.",
+          "لم تطلب من الناس أن يشرحوا أنفسهم مرتين أبدًا، وهذا جعلهم أكثر استعدادًا للانفتاح."
+        ],
+        [
+          "Cultural fluency is less about collecting facts and more about catching the meaning behind the pause.",
+          "التمكن الثقافي أقلّ تعلقًا بجمع الحقائق وأكثر تعلقًا بالتقاط المعنى خلف التوقف.",
+          "كَلْتْشُرَل فْلُوينسي إز لِس أباوت كولِكتِنغ فاكتس أند مور أباوت كاتشِنغ ذَ مينِنغ بِهايند ذَ پوز.",
+          "Cultural fluency is less about collecting facts and more about catching the meaning behind the pause.",
+          "التمكن الثقافي أقلّ تعلقًا بجمع الحقائق وأكثر تعلقًا بالتقاط المعنى خلف التوقف."
+        ],
+        [
+          "A joke that lands in one place may drift badly in another, so humility is often the safest translator.",
+          "قد تنجح نكتة في مكان وتفشل فشلًا ذريعًا في آخر، لذا فالتواضع غالبًا هو المترجم الأكثر أمانًا.",
+          "أ جوك ذات لاندز إن وَن بلايس ماي دْرِفت بادلي إن أَنَذَر، سو هْيومِلِتي إز أُفِن ذَ سيفِست ترانسليتور.",
+          "A joke that lands in one place may drift badly in another, so humility is often the safest translator.",
+          "قد تنجح نكتة في مكان وتفشل فشلًا ذريعًا في آخر، لذا فالتواضع غالبًا هو المترجم الأكثر أمانًا."
+        ],
+        [
+          "I value the person who can disagree without turning difference into distance.",
+          "أقدّر الشخص القادر على الاختلاف من دون أن يحوّل الاختلاف إلى مسافة.",
+          "آي ڤالْيو ذَ پِرسِن هو كان دِسَغْري وِذَاوت تَرنِنغ دِفْرَنس إنتو دِستَنس.",
+          "I value the person who can disagree without turning difference into distance.",
+          "أقدّر الشخص القادر على الاختلاف من دون أن يحوّل الاختلاف إلى مسافة."
+        ],
+        [
+          "The richest conversations usually begin when everyone stops performing and starts asking.",
+          "أغنى الحوارات تبدأ عادةً عندما يتوقف الجميع عن الاستعراض ويبدأون في السؤال.",
+          "ذَ رِتشِست كُونڤِرسَيْشِنز يوجُوَلي بِگِن وِن إڤري وَن ستوبس پِرفورمِنغ أند ستارتس أَسْكينغ.",
+          "The richest conversations usually begin when everyone stops performing and starts asking.",
+          "أغنى الحوارات تبدأ عادةً عندما يتوقف الجميع عن الاستعراض ويبدأون في السؤال."
+        ]
+      ]
+    },
+    {
+      "topic": "الحياة في مدينة جديدة",
+      "words": [
+        [
+          "At first, the city felt unreadable, but I soon learned that its rhythm rewards patience more than confidence.",
+          "في البداية بدت المدينة عصية على الفهم، لكنني تعلمت سريعًا أن إيقاعها يكافئ الصبر أكثر من الثقة.",
+          "آت فِرست، ذَ سِتي فِلت أَنريدَبل، بَت آي سون لِرنْد ذات إتس رِذَم رِووردز پَيْشَنس مور ذان كُونفِدَنس.",
+          "At first, the city felt unreadable, but I soon learned that its rhythm rewards patience more than confidence.",
+          "في البداية بدت المدينة عصية على الفهم، لكنني تعلمت سريعًا أن إيقاعها يكافئ الصبر أكثر من الثقة."
+        ],
+        [
+          "My favorite route is not the fastest one; it is the one that teaches me how neighborhoods breathe.",
+          "طريقي المفضل ليس الأسرع؛ بل هو الذي يعلمني كيف تتنفس الأحياء.",
+          "ماي فَيْڤَرِت روت إز نات ذَ فاستِست وَن؛ إت إز ذَ وَن ذات تيتشِز مي هاو نَيْبَرهدز بْرِيث.",
+          "My favorite route is not the fastest one; it is the one that teaches me how neighborhoods breathe.",
+          "طريقي المفضل ليس الأسرع؛ بل هو الذي يعلمني كيف تتنفس الأحياء."
+        ],
+        [
+          "A city can make you anonymous in the morning and oddly known by evening.",
+          "قد تجعلك المدينة مجهولًا في الصباح ومألوفًا على نحو غريب بحلول المساء.",
+          "أ سِتي كان ميك يو أنونِمَس إن ذَ مورنينغ أند أودلي نون باي إيفنِنغ.",
+          "A city can make you anonymous in the morning and oddly known by evening.",
+          "قد تجعلك المدينة مجهولًا في الصباح ومألوفًا على نحو غريب بحلول المساء."
+        ],
+        [
+          "I have stopped asking where the center is, because the answer changes with every errand.",
+          "توقفت عن السؤال عن مركز المدينة، لأن الجواب يتبدل مع كل مشوار.",
+          "آي هاف ستوپْت أَسْكينغ وِير ذَ سِنتر إز، بِكوز ذَ آنسر تشينجِز وِذ إڤري إرَند.",
+          "I have stopped asking where the center is, because the answer changes with every errand.",
+          "توقفت عن السؤال عن مركز المدينة، لأن الجواب يتبدل مع كل مشوار."
+        ],
+        [
+          "The first friends I made were not the loudest ones; they were the people who noticed when I was tired.",
+          "أول الأصدقاء الذين كوّنتهم لم يكونوا الأشد صخبًا؛ بل كانوا من يلاحظون تعبي.",
+          "ذَ فِرست فرِندز آي مِيد وِر نات ذَ لاودِست وَنز؛ ذَي وِر ذَ پيپِل هو نوتِسْت وِن آي واز تايرْد.",
+          "The first friends I made were not the loudest ones; they were the people who noticed when I was tired.",
+          "أول الأصدقاء الذين كوّنتهم لم يكونوا الأشد صخبًا؛ بل كانوا من يلاحظون تعبي."
+        ],
+        [
+          "Rent is one lesson, transit is another, and learning to ask for help is the one I did not expect.",
+          "الإيجار درسٌ، والمواصلات درسٌ آخر، وتعلم طلب المساعدة هو ما لم أكن أتوقعه.",
+          "رِنت إز وَن لِسِن، ترانزِت إز أَنَذَر، أند لِرنِنغ تو أَسْك فُر هِلپ إز ذَ وَن آي دِد نات إكْسپِكت.",
+          "Rent is one lesson, transit is another, and learning to ask for help is the one I did not expect.",
+          "الإيجار درسٌ، والمواصلات درسٌ آخر، وتعلم طلب المساعدة هو ما لم أكن أتوقعه."
+        ],
+        [
+          "I like the feeling of building a routine from scratch, even if it begins with small, awkward victories.",
+          "أحب شعور بناء روتين من الصفر، حتى لو بدأ بانتصارات صغيرة ومحرجة.",
+          "آي لايك ذَ فيلِنغ أُف بِلْدِنغ أ روتين فرُم سْكراتش، إڤِن إف إت بِگِنز وِذ سمول، أوكورد ڤِكتَرِيز.",
+          "I like the feeling of building a routine from scratch, even if it begins with small, awkward victories.",
+          "أحب شعور بناء روتين من الصفر، حتى لو بدأ بانتصارات صغيرة ومحرجة."
+        ],
+        [
+          "The best places in a new city are often the ones nobody posts about.",
+          "أفضل الأماكن في مدينة جديدة غالبًا هي التي لا ينشر عنها أحد.",
+          "ذَ بِست پلیسِز إن أ نيو سِتي آر أُفِن ذَ وَنز نوبودي پوسْتس أباوت.",
+          "The best places in a new city are often the ones nobody posts about.",
+          "أفضل الأماكن في مدينة جديدة غالبًا هي التي لا ينشر عنها أحد."
+        ],
+        [
+          "I used to think I needed a map, but what I really needed was time to become familiar.",
+          "كنت أظن أنني أحتاج إلى خريطة، لكن ما كنت أحتاجه حقًا هو وقتًا لأصبح مألوفًا.",
+          "آي يوزْد تو ثِنك آي نيدِد أ ماب، بَت وُت آي ريلِي نيدِد واز تايم تو بِكَم فَميلْيَر.",
+          "I used to think I needed a map, but what I really needed was time to become familiar.",
+          "كنت أظن أنني أحتاج إلى خريطة، لكن ما كنت أحتاجه حقًا هو وقتًا لأصبح مألوفًا."
+        ],
+        [
+          "Living here has taught me that belonging is often assembled, not found all at once.",
+          "العيش هنا علمني أن الانتماء غالبًا يُبنى تدريجيًا، لا يُعثر عليه دفعةً واحدة.",
+          "لِڤِنغ هير هاز تَوْت مي ذات بِلونغِنغ إز أُفِن أَسِمبْلد، نات فاوند أول أَت وَنس.",
+          "Living here has taught me that belonging is often assembled, not found all at once.",
+          "العيش هنا علمني أن الانتماء غالبًا يُبنى تدريجيًا، لا يُعثر عليه دفعةً واحدة."
+        ]
+      ]
+    },
+    {
+      "topic": "السياحة المسؤولة",
+      "words": [
+        [
+          "I travel for wonder, but I try not to let wonder excuse wasteful habits.",
+          "أسافر بدافع الدهشة، لكنني أحاول ألا أجعل الدهشة ذريعةً للعادات المهدرة.",
+          "آي ترافِل فُر وَندَر، بَت آي تراي نات تو لِت وَندَر إكْسكيوز وِستفُل هابِتس.",
+          "I travel for wonder, but I try not to let wonder excuse wasteful habits.",
+          "أسافر بدافع الدهشة، لكنني أحاول ألا أجعل الدهشة ذريعةً للعادات المهدرة."
+        ],
+        [
+          "A place is not a backdrop for my photos; it is a home to people who live with the consequences.",
+          "المكان ليس مجرد خلفية لصورِي؛ إنه بيتٌ لأناس يعيشون تبعاته.",
+          "أ بلايس إز نات أ بادْدْرَاپ فُر ماي فوتوز؛ إت إز أ هوم تو پيپِل هو لِڤ وِذ ذَ كُونْسِكْوِنْسِز.",
+          "A place is not a backdrop for my photos; it is a home to people who live with the consequences.",
+          "المكان ليس مجرد خلفية لصورِي؛ إنه بيتٌ لأناس يعيشون تبعاته."
+        ],
+        [
+          "If I cannot respect the local pace, I have probably mistaken convenience for entitlement.",
+          "إذا لم أستطع احترام الإيقاع المحلي، فالغالب أنني خلطت بين الراحة والاستحقاق.",
+          "إف آي كانات رِسپِكت ذَ لوكل پيس، آي هاف پرابَبلي مِستَيْكِن كُونڤِينْيَنس فُر إنتايتلمنت.",
+          "If I cannot respect the local pace, I have probably mistaken convenience for entitlement.",
+          "إذا لم أستطع احترام الإيقاع المحلي، فالغالب أنني خلطت بين الراحة والاستحقاق."
+        ],
+        [
+          "I would rather buy less and learn more than collect souvenirs that only gather dust.",
+          "أفضّل أن أشتري أقل وأتعلم أكثر على أن أجمع تذكارات لا تفعل سوى جمع الغبار.",
+          "آي وُد راذَر باي لِس أند لِرن مور ذان كَلِكت سوڤِنيرز ذات أونلي گاذَر دَست.",
+          "I would rather buy less and learn more than collect souvenirs that only gather dust.",
+          "أفضّل أن أشتري أقل وأتعلم أكثر على أن أجمع تذكارات لا تفعل سوى جمع الغبار."
+        ],
+        [
+          "The responsible traveler asks who benefits, who pays, and who is rarely asked at all.",
+          "السائح المسؤول يسأل: من يستفيد؟ ومن يدفع؟ ومن نادرًا ما يُسأل أصلًا؟",
+          "ذَ رِسپونسِبُل ترافِلَر أَسْكس هو بِنيفِتس، هو پَيز، أند هو إز ريلِي أَسْكد أَت أول.",
+          "The responsible traveler asks who benefits, who pays, and who is rarely asked at all.",
+          "السائح المسؤول يسأل: من يستفيد؟ ومن يدفع؟ ومن نادرًا ما يُسأل أصلًا؟"
+        ],
+        [
+          "I try to leave a place as I found it, except with better understanding and fewer excuses.",
+          "أحاول أن أغادر المكان كما وجدته، لكن بفهمٍ أفضل وأعذارٍ أقل.",
+          "آي تراي تو ليف أ بلايس آز آي فاوند إت، إكْسِپت وِذ بَتَر أَندَستاندِنغ أند فْيُورَر إكْسكيوزز.",
+          "I try to leave a place as I found it, except with better understanding and fewer excuses.",
+          "أحاول أن أغادر المكان كما وجدته، لكن بفهمٍ أفضل وأعذارٍ أقل."
+        ],
+        [
+          "It is easy to call something authentic when you have not bothered to ask the people who keep it alive.",
+          "من السهل أن تصف شيئًا بالأصيل عندما لا تتكلف عناء سؤال من يحافظون عليه حيًا.",
+          "إت إز إيزي تو كول سَمْثِنغ أوثِنتِك وِن يو هاف نات باذَرْد تو أَسْك ذَ پيپِل هو كيب إت أليڤ.",
+          "It is easy to call something authentic when you have not bothered to ask the people who keep it alive.",
+          "من السهل أن تصف شيئًا بالأصيل عندما لا تتكلف عناء سؤال من يحافظون عليه حيًا."
+        ],
+        [
+          "I prefer guides who explain a site's fragility as well as its beauty.",
+          "أفضّل الأدلة السياحيين الذين يشرحون هشاشة الموقع كما يشرحون جماله.",
+          "آي بِرفِر گايدز هو إكْسْپلين أ سايتس فْراجِلِتي آز وِل آز إتس بيُوتي.",
+          "I prefer guides who explain a site's fragility as well as its beauty.",
+          "أفضّل الأدلة السياحيين الذين يشرحون هشاشة الموقع كما يشرحون جماله."
+        ],
+        [
+          "The cheapest trip can become expensive if it leaves the destination poorer than it found it.",
+          "قد تصبح الرحلة الأرخص باهظةً إذا جعلت الوجهة أفقر مما كانت عليه.",
+          "ذَ تشيپِست ترِپ كان بِكَم إكْسْپِنْسِف إف إت ليفز ذَ دِستِنَيْشِن پورَر ذان إت فاوند إت.",
+          "The cheapest trip can become expensive if it leaves the destination poorer than it found it.",
+          "قد تصبح الرحلة الأرخص باهظةً إذا جعلت الوجهة أفقر مما كانت عليه."
+        ],
+        [
+          "Real respect begins when curiosity stops taking and starts listening.",
+          "يبدأ الاحترام الحقيقي عندما تكفّ الفضولية عن الأخذ وتبدأ في الاستماع.",
+          "ريل رِسپِكت بِگِنز وِن كيورِيَسِتي ستوبس تَيْكِنغ أند ستارتس لِسْنِنغ.",
+          "Real respect begins when curiosity stops taking and starts listening.",
+          "يبدأ الاحترام الحقيقي عندما تكفّ الفضولية عن الأخذ وتبدأ في الاستماع."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة النفسية والراحة",
+      "words": [
+        [
+          "She looked calm on the outside, but her silence carried the weight of a week she had barely survived.",
+          "بدت هادئة من الخارج، لكن صمتها كان يحمل ثقل أسبوع بالكاد نجا منه.",
+          "شي لوكت كالم أون ذي آوتسايد، بات هر سايلنس كاريد ذي ويت أوف أ ويك شي هاد بيرلي سرفايفد.",
+          "She looked calm on the outside, but her silence carried the weight of a week she had barely survived.",
+          "بدت هادئة من الخارج، لكن صمتها كان يحمل ثقل أسبوع بالكاد نجا منه."
+        ],
+        [
+          "Sometimes the most honest thing you can say is that you are not fine, and you do not need to apologize for it.",
+          "أحيانًا أصدق ما يمكنك قوله هو أنك لست بخير، ولا حاجة لأن تعتذر عن ذلك.",
+          "سامتايمز ذي موست أونِست ثينغ يو كان ساي إز ذات يو آر نات فاين، أند يو دو نات نيد تو أبولوجايز فور إت.",
+          "Sometimes the most honest thing you can say is that you are not fine, and you do not need to apologize for it.",
+          "أحيانًا أصدق ما يمكنك قوله هو أنك لست بخير، ولا حاجة لأن تعتذر عن ذلك."
+        ],
+        [
+          "He treated rest as a luxury for years, until his own mind made it clear that recovery is not optional.",
+          "تعامل مع الراحة كأنها رفاهية لسنوات، إلى أن أوضح له عقله أن التعافي ليس خيارًا.",
+          "هي تريتد رست آز أ لكشري فور ييرز، أنتل هِز أون مايند ميد إت كليير ذات ريكَفَري إز نات أوبشنَل.",
+          "He treated rest as a luxury for years, until his own mind made it clear that recovery is not optional.",
+          "تعامل مع الراحة كأنها رفاهية لسنوات، إلى أن أوضح له عقله أن التعافي ليس خيارًا."
+        ],
+        [
+          "A good day for her was not the absence of stress, but the ability to meet it without being swallowed by it.",
+          "كان اليوم الجيد بالنسبة لها ليس غياب الضغط، بل القدرة على مواجهته من دون أن يبتلعها.",
+          "أ غود داي فور هر واز نات ذي أبسنس أوف سترِس، بات ذي أبِلِتي تو ميت إت ويذآوت بيينغ سوالود باي إت.",
+          "A good day for her was not the absence of stress, but the ability to meet it without being swallowed by it.",
+          "كان اليوم الجيد بالنسبة لها ليس غياب الضغط، بل القدرة على مواجهته من دون أن يبتلعها."
+        ],
+        [
+          "He did not need a dramatic reset; he needed boundaries, sleep, and a little less noise in his head.",
+          "لم يكن بحاجة إلى تغيير جذري؛ كان يحتاج إلى حدود ونوم وقليل أقل من الضجيج في رأسه.",
+          "هي دِد نات نيد أ دراماتيك ريسِت؛ هي نيدِد باوندَريز، سليب، أند أ لِتل لس نويز إن هِز هيد.",
+          "He did not need a dramatic reset; he needed boundaries, sleep, and a little less noise in his head.",
+          "لم يكن بحاجة إلى تغيير جذري؛ كان يحتاج إلى حدود ونوم وقليل أقل من الضجيج في رأسه."
+        ],
+        [
+          "Her friends learned that support is not always advice; sometimes it is simply staying long enough to listen.",
+          "تعلّم أصدقاؤها أن الدعم ليس دائمًا نصيحة؛ أحيانًا يكون مجرد البقاء مدة كافية للاستماع.",
+          "هر فريندز لِرنْد ذات سَپورت إز نات أولويز أدفايس؛ سامتايمز إت إز سيمبلي ستَيينغ لونغ إنَف تو لِسِن.",
+          "Her friends learned that support is not always advice; sometimes it is simply staying long enough to listen.",
+          "تعلّم أصدقاؤها أن الدعم ليس دائمًا نصيحة؛ أحيانًا يكون مجرد البقاء مدة كافية للاستماع."
+        ],
+        [
+          "There is nothing weak about asking for help when pretending to cope has become more exhausting than the problem itself.",
+          "لا شيء ضعيف في طلب المساعدة عندما يصبح التظاهر بالتكيف أكثر إنهاكًا من المشكلة نفسها.",
+          "ذير إز ناثينغ ويك أباوت آسكينغ فور هيلب وِن برِتندينغ تو كُوب هاز بِكم مور إكساوستينغ ذان ذي برابلم إتسِلف.",
+          "There is nothing weak about asking for help when pretending to cope has become more exhausting than the problem itself.",
+          "لا شيء ضعيف في طلب المساعدة عندما يصبح التظاهر بالتكيف أكثر إنهاكًا من المشكلة نفسها."
+        ],
+        [
+          "She stopped chasing perfect routines and started protecting her energy like something finite and precious.",
+          "توقفت عن ملاحقة الروتين المثالي وبدأت تحمي طاقتها كما لو كانت شيئًا محدودًا وثمينًا.",
+          "شي ستوبت تشيسينغ پِرفِكت روتينز أند ستارتِد پرُتكتينغ هر إنيرجي لايك سامثينغ فَاينايت أند پريشَس.",
+          "She stopped chasing perfect routines and started protecting her energy like something finite and precious.",
+          "توقفت عن ملاحقة الروتين المثالي وبدأت تحمي طاقتها كما لو كانت شيئًا محدودًا وثمينًا."
+        ],
+        [
+          "He found that naming his feelings made them less mysterious and far less powerful.",
+          "وجد أن تسمية مشاعره جعلتها أقل غموضًا وأضعف بكثير.",
+          "هي فاوند ذات نيمينغ هِز فيلينغز ميد ذم لس مِستيريَس أند فار لس پاورفول.",
+          "He found that naming his feelings made them less mysterious and far less powerful.",
+          "وجد أن تسمية مشاعره جعلتها أقل غموضًا وأضعف بكثير."
+        ],
+        [
+          "Peace of mind, she realized, is often built from small refusals: no to chaos, no to guilt, no to self-neglect.",
+          "أدركت أن راحة البال تُبنى غالبًا من رفضات صغيرة: لا للفوضى، لا للذنب، لا لإهمال الذات.",
+          "بيس أوف مايند، شي ريالايزد، إز أوفِن بِلْت فرُم سمول رِفيوزَلز: نو تو كاوس، نو تو غِلت، نو تو سِلف نِغليكت.",
+          "Peace of mind, she realized, is often built from small refusals: no to chaos, no to guilt, no to self-neglect.",
+          "أدركت أن راحة البال تُبنى غالبًا من رفضات صغيرة: لا للفوضى، لا للذنب، لا لإهمال الذات."
+        ]
+      ]
+    },
+    {
+      "topic": "التوازن بين العمل والحياة",
+      "words": [
+        [
+          "He answered emails at midnight for years, then wondered why his life began to feel like an unpaid extension of work.",
+          "كان يرد على الرسائل عند منتصف الليل لسنوات، ثم تساءل لماذا بدأت حياته تبدو كأنها امتداد غير مدفوع للعمل.",
+          "هي آنسَرد إيميلز أَت مِدنايت فور ييرز، ذِن وندرْد واي هِز لايف بِغان تو فيل لايك أن أونپيد إكستنشن أوف ورك.",
+          "He answered emails at midnight for years, then wondered why his life began to feel like an unpaid extension of work.",
+          "كان يرد على الرسائل عند منتصف الليل لسنوات، ثم تساءل لماذا بدأت حياته تبدو كأنها امتداد غير مدفوع للعمل."
+        ],
+        [
+          "A flexible schedule means little if every waking hour is quietly claimed by the job.",
+          "الجدول المرن لا يعني الكثير إذا كانت كل ساعة يقظة تُستولى عليها الوظيفة بصمت.",
+          "أ فلكسِبُل سِجدول مينز لِتل إِف إيفري ويكنغ آور إز كوايِتلي كلايمد باي ذي جوب.",
+          "A flexible schedule means little if every waking hour is quietly claimed by the job.",
+          "الجدول المرن لا يعني الكثير إذا كانت كل ساعة يقظة تُستولى عليها الوظيفة بصمت."
+        ],
+        [
+          "She refused the myth that ambition must arrive dressed as burnout.",
+          "رفضت الوهم القائل إن الطموح يجب أن يصل متنكّرًا في هيئة إنهاك.",
+          "شي رِفيوزد ذي مث ذات أمبِشَن مست أرايف دريست آز بيرن آوت.",
+          "She refused the myth that ambition must arrive dressed as burnout.",
+          "رفضت الوهم القائل إن الطموح يجب أن يصل متنكّرًا في هيئة إنهاك."
+        ],
+        [
+          "He became more effective after he learned that a shorter day can produce better thinking than a longer one.",
+          "أصبح أكثر فاعلية بعد أن تعلّم أن يومًا أقصر قد ينتج تفكيرًا أفضل من يوم أطول.",
+          "هي بِكيم مور إفكتِف آفتر هي لِرنْد ذات أ شورتَر داي كان پروديوس بِتر ثينكينغ ذان أ لونغَر وِن.",
+          "He became more effective after he learned that a shorter day can produce better thinking than a longer one.",
+          "أصبح أكثر فاعلية بعد أن تعلّم أن يومًا أقصر قد ينتج تفكيرًا أفضل من يوم أطول."
+        ],
+        [
+          "Her weekends stopped being a rescue mission the moment she stopped calling every unanswered message urgent.",
+          "توقفت عطلات نهاية الأسبوع عن أن تكون مهمة إنقاذ حين توقفت عن اعتبار كل رسالة بلا رد عاجلة.",
+          "هر ويك إندز ستوبت بيينغ أ ريسكيو مِشَن ذي مومِنت شي ستوبت كولينغ إيفري أَنانسرْد مِسِج أُرْجَنت.",
+          "Her weekends stopped being a rescue mission the moment she stopped calling every unanswered message urgent.",
+          "توقفت عطلات نهاية الأسبوع عن أن تكون مهمة إنقاذ حين توقفت عن اعتبار كل رسالة بلا رد عاجلة."
+        ],
+        [
+          "Work can matter deeply without becoming the only thing that proves you are useful.",
+          "يمكن للعمل أن يكون مهمًا بعمق من دون أن يصبح الشيء الوحيد الذي يثبت أنك مفيد.",
+          "وِرك كان ماتَر ديبلي ويذآوت بِكَمِينغ ذي أونلي ثينغ ذات پروفز يو آر يوسفُل.",
+          "Work can matter deeply without becoming the only thing that proves you are useful.",
+          "يمكن للعمل أن يكون مهمًا بعمق من دون أن يصبح الشيء الوحيد الذي يثبت أنك مفيد."
+        ],
+        [
+          "He set firmer hours not because he cared less, but because he wanted to care better.",
+          "وضع ساعات أكثر صرامة ليس لأنه صار أقل اكتراثًا، بل لأنه أراد أن يهتم بصورة أفضل.",
+          "هي سِت فِرمَر آوز نات بِكوز هي كيرد لس، بات بِكوز هي وونتِد تو كير بِتر.",
+          "He set firmer hours not because he cared less, but because he wanted to care better.",
+          "وضع ساعات أكثر صرامة ليس لأنه صار أقل اكتراثًا، بل لأنه أراد أن يهتم بصورة أفضل."
+        ],
+        [
+          "She discovered that saying no early often saves everyone from a mess later.",
+          "اكتشفت أن قول لا مبكرًا يوفر على الجميع كثيرًا من الفوضى لاحقًا.",
+          "شي دِسكفَرد ذات سايينغ نو إيرلي أوفِن سيفز إيفريوان فرُم أ مِس ليتَر.",
+          "She discovered that saying no early often saves everyone from a mess later.",
+          "اكتشفت أن قول لا مبكرًا يوفر على الجميع كثيرًا من الفوضى لاحقًا."
+        ],
+        [
+          "A life with boundaries is not smaller; it is simply harder to hijack.",
+          "الحياة ذات الحدود ليست أصغر؛ إنها ببساطة أصعب على الاختطاف.",
+          "أ لايف وِذ باوندَريز إز نات سمولَر؛ إت إز سيمبلي هاردر تو هايجاك.",
+          "A life with boundaries is not smaller; it is simply harder to hijack.",
+          "الحياة ذات الحدود ليست أصغر؛ إنها ببساطة أصعب على الاختطاف."
+        ],
+        [
+          "He stopped measuring devotion by how late he stayed and started measuring it by how well he lived.",
+          "توقف عن قياس التفاني بمدى تأخره في البقاء وبدأ يقيسه بمدى جودة عيشه.",
+          "هي ستوبت مِژرينغ دِڤوشَن باي هاو ليت هي ستيد أند ستارتِد مِژرينغ إت باي هاو ويل هي لِفد.",
+          "He stopped measuring devotion by how late he stayed and started measuring it by how well he lived.",
+          "توقف عن قياس التفاني بمدى تأخره في البقاء وبدأ يقيسه بمدى جودة عيشه."
+        ]
+      ]
+    },
+    {
+      "topic": "حماية البيئة",
+      "words": [
+        [
+          "The river looked cleaner after the cleanup, but the real victory was that the neighborhood had decided to care.",
+          "بدا النهر أنظف بعد حملة التنظيف، لكن النصر الحقيقي كان أن الحي قرر أن يهتم.",
+          "ذي رِڤَر لوكت كليينَر آفتر ذي كليين أب، بات ذي ريل ڤكتوري واز ذات ذي نايبرهود هاد ديسايدِد تو كير.",
+          "The river looked cleaner after the cleanup, but the real victory was that the neighborhood had decided to care.",
+          "بدا النهر أنظف بعد حملة التنظيف، لكن النصر الحقيقي كان أن الحي قرر أن يهتم."
+        ],
+        [
+          "He no longer called waste inevitable once he saw how much of it was a habit, not a law of nature.",
+          "لم يعد يعدّ الهدر حتميًا بعد أن رأى كم منه كان عادة لا قانونًا من قوانين الطبيعة.",
+          "هي نو لونغَر كولد ويست إِنِڤِتَبُل ونس هي سو هاو ماتش أوف إت واز أ هابِت، نات أ لو أوف نيتشَر.",
+          "He no longer called waste inevitable once he saw how much of it was a habit, not a law of nature.",
+          "لم يعد يعدّ الهدر حتميًا بعد أن رأى كم منه كان عادة لا قانونًا من قوانين الطبيعة."
+        ],
+        [
+          "They planted trees not as symbolism, but as a practical promise to future summers.",
+          "زرعوا الأشجار لا بوصفها رمزًا، بل كعهد عملي بصيف المستقبل.",
+          "ذَي بلانتِد تريز نات آز سِمبُلِزم، بات آز أ پراكتِكَل پرومِس تو فيوتشر سَمَرز.",
+          "They planted trees not as symbolism, but as a practical promise to future summers.",
+          "زرعوا الأشجار لا بوصفها رمزًا، بل كعهد عملي بصيف المستقبل."
+        ],
+        [
+          "A city breathes differently when shade, transport, and housing are planned with the climate in mind.",
+          "تتنفس المدينة بشكل مختلف عندما تُخطط الظلال والمواصلات والسكن مع وضع المناخ في الحسبان.",
+          "أ سِتي بريذز دِفرِنتلي وِن شيد، ترانسبورت، أند هاوزينغ آر بلاند وِذ ذي كلايمِت إن مايند.",
+          "A city breathes differently when shade, transport, and housing are planned with the climate in mind.",
+          "تتنفس المدينة بشكل مختلف عندما تُخطط الظلال والمواصلات والسكن مع وضع المناخ في الحسبان."
+        ],
+        [
+          "She chose to repair what she owned instead of replacing it at the first sign of wear.",
+          "اختارت أن تصلح ما تملكه بدلًا من استبداله عند أول علامة اهتراء.",
+          "شي تشوز تو رِپير وات شي أوند إنتِد أوف رِپليسِنغ إت أت ذي فِرست ساين أوف وِير.",
+          "She chose to repair what she owned instead of replacing it at the first sign of wear.",
+          "اختارت أن تصلح ما تملكه بدلًا من استبداله عند أول علامة اهتراء."
+        ],
+        [
+          "Small changes rarely make headlines, yet they often do more good than a grand speech.",
+          "التغييرات الصغيرة نادرًا ما تتصدر العناوين، ومع ذلك فهي غالبًا تصنع خيرًا أكثر من خطاب كبير.",
+          "سمول تشينجز ريرلي مِيك هيدلاينز، يِت ذَي أوفِن دو مور غود ذان أ غراند سبيتش.",
+          "Small changes rarely make headlines, yet they often do more good than a grand speech.",
+          "التغييرات الصغيرة نادرًا ما تتصدر العناوين، ومع ذلك فهي غالبًا تصنع خيرًا أكثر من خطاب كبير."
+        ],
+        [
+          "He learned that caring about nature is easier when it is tied to daily habits, not occasional guilt.",
+          "تعلّم أن الاهتمام بالطبيعة أسهل عندما يرتبط بعادات يومية لا بذنبٍ عابر.",
+          "هي لِرنْد ذات كيرينغ أباوت نيتشَر إز إيزيَر وِن إت إز تايد تو ديلي هابِتس، نات أوكيجُنَل غِلت.",
+          "He learned that caring about nature is easier when it is tied to daily habits, not occasional guilt.",
+          "تعلّم أن الاهتمام بالطبيعة أسهل عندما يرتبط بعادات يومية لا بذنبٍ عابر."
+        ],
+        [
+          "The most effective policy, she argued, is the one people can live with long enough to keep.",
+          "قالت إن أكثر السياسات فاعلية هي التي يمكن للناس العيش معها مدة كافية للاستمرار بها.",
+          "ذي موست إفكتِف پوليستي، شي آرجود، إز ذي وُن پيپُل كان لِف وِذ لونغ إنَف تو كيب.",
+          "The most effective policy, she argued, is the one people can live with long enough to keep.",
+          "قالت إن أكثر السياسات فاعلية هي التي يمكن للناس العيش معها مدة كافية للاستمرار بها."
+        ],
+        [
+          "He saw that conservation was not about going without; it was about wasting less of what matters.",
+          "رأى أن الحفاظ ليس عن الامتناع، بل عن إهدار أقل مما يهم.",
+          "هي سو ذات كونسِرفيشن واز نات أباوت غوينغ وِذآوت؛ إت واز أباوت ويستينغ لس أوف وات ماتَرز.",
+          "He saw that conservation was not about going without; it was about wasting less of what matters.",
+          "رأى أن الحفاظ ليس عن الامتناع، بل عن إهدار أقل مما يهم."
+        ],
+        [
+          "If every household treated energy as precious, the collective effect would be impossible to ignore.",
+          "لو تعامل كل منزل مع الطاقة بوصفها شيئًا ثمينًا، لكان الأثر الجماعي مستحيل التجاهل.",
+          "إف إيفري هاوسهولد تريتِد إنيرجي آز پريشَس، ذي كُلِكتِف إفكت وود بي إمپوسِبُل تو إغنور.",
+          "If every household treated energy as precious, the collective effect would be impossible to ignore.",
+          "لو تعامل كل منزل مع الطاقة بوصفها شيئًا ثمينًا، لكان الأثر الجماعي مستحيل التجاهل."
+        ]
+      ]
+    },
+    {
+      "topic": "الاستهلاك المسؤول",
+      "words": [
+        [
+          "He no longer bought things to impress strangers, which turned out to be the cheapest habit he ever dropped.",
+          "لم يعد يشتري الأشياء لإبهار الغرباء، واتضح أن ذلك كان أرخص عادة تخلص منها.",
+          "هي نو لونغَر بوت ثينغز تو إمپرس سترينجرز، وِتش تِرنْد آوت تو بي ذي تشيبست هابِت هي إيفَر دراپت.",
+          "He no longer bought things to impress strangers, which turned out to be the cheapest habit he ever dropped.",
+          "لم يعد يشتري الأشياء لإبهار الغرباء، واتضح أن ذلك كان أرخص عادة تخلص منها."
+        ],
+        [
+          "She learned that a tempting discount is not a saving if it leads to clutter she never wanted.",
+          "تعلّمت أن الخصم المغري ليس توفيرًا إذا كان يقود إلى فوضى لم تكن تريدها أصلًا.",
+          "شي لِرنْد ذات أ تِمبتِنغ دِسكَاونت إز نات أ سيفينغ إِف إت ليدز تو كلَتر شي نيفَر وونتِد.",
+          "She learned that a tempting discount is not a saving if it leads to clutter she never wanted.",
+          "تعلّمت أن الخصم المغري ليس توفيرًا إذا كان يقود إلى فوضى لم تكن تريدها أصلًا."
+        ],
+        [
+          "A responsible purchase begins before checkout, with the quieter question of whether it is needed at all.",
+          "تبدأ الشراءة المسؤولة قبل الدفع، بالسؤال الهادئ عما إذا كانت مطلوبة أصلًا.",
+          "أ رِسپونسِبُل پِرشَس بِجينز بِفور تشيك آوت، وِذ ذي كوايِتَر كوِشِن أوف وِذَر إت إز نيدِد أت أول.",
+          "A responsible purchase begins before checkout, with the quieter question of whether it is needed at all.",
+          "تبدأ الشراءة المسؤولة قبل الدفع، بالسؤال الهادئ عما إذا كانت مطلوبة أصلًا."
+        ],
+        [
+          "He favored repair over replacement because value, to him, included longevity as much as novelty.",
+          "فضّل الإصلاح على الاستبدال لأن القيمة عنده كانت تشمل طول العمر بقدر ما تشمل الجِدة.",
+          "هي فافَرد رِپير أوفر رِپليسمنت بِكوز ڤاليو، تو هِم، إِنكلودِد لونجِڤِتي آز ماتش آز نوفِلتي.",
+          "He favored repair over replacement because value, to him, included longevity as much as novelty.",
+          "فضّل الإصلاح على الاستبدال لأن القيمة عنده كانت تشمل طول العمر بقدر ما تشمل الجِدة."
+        ],
+        [
+          "She was careful with money, but not out of fear; she simply disliked paying twice for the same mistake.",
+          "كانت حذرة مع المال، لا بدافع الخوف، بل لأنها لا تحب أن تدفع مرتين ثمن الخطأ نفسه.",
+          "شي واز كيرفُل وِذ مَني، بات نات آوت أوف فيير؛ شي سيمبلي دِسلايكْد پيينغ تويس فور ذي سيم مِستيك.",
+          "She was careful with money, but not out of fear; she simply disliked paying twice for the same mistake.",
+          "كانت حذرة مع المال، لا بدافع الخوف، بل لأنها لا تحب أن تدفع مرتين ثمن الخطأ نفسه."
+        ],
+        [
+          "Buying less did not make life dull; it made her choices clearer and her space easier to enjoy.",
+          "شراء أقل لم يجعل الحياة مملة؛ بل جعل خياراتها أوضح ومساحتها أسهل للاستمتاع.",
+          "بايينغ لس دِد نات مِيك لايف دَل؛ إت ميد هر تشويسِز كليرَر أند هر سبيس إيزيَر تو إنتشوي.",
+          "Buying less did not make life dull; it made her choices clearer and her space easier to enjoy.",
+          "شراء أقل لم يجعل الحياة مملة؛ بل جعل خياراتها أوضح ومساحتها أسهل للاستمتاع."
+        ],
+        [
+          "He stopped confusing convenience with necessity, and the difference saved him both money and regret.",
+          "توقف عن الخلط بين الراحة والضرورة، وقد أنقذه هذا الفرق من المال والندم معًا.",
+          "هي ستوبت كونفيوزينغ كونڤينينس وِذ نِسِسِتي، أند ذي دِفرِنس سيفد هِم بوث مَني أند رِغريت.",
+          "He stopped confusing convenience with necessity, and the difference saved him both money and regret.",
+          "توقف عن الخلط بين الراحة والضرورة، وقد أنقذه هذا الفرق من المال والندم معًا."
+        ],
+        [
+          "A sturdy object that lasts is often more ethical than a shiny one that soon becomes trash.",
+          "الشيء المتين الذي يدوم غالبًا أكثر أخلاقية من شيء لامع سرعان ما يتحول إلى نفايات.",
+          "أ ستَردي أوبجِكت ذات لاستس إز أوفِن مور إيثِكَل ذان أ شايني وُن ذات سُون بِكَمز ترَش.",
+          "A sturdy object that lasts is often more ethical than a shiny one that soon becomes trash.",
+          "الشيء المتين الذي يدوم غالبًا أكثر أخلاقية من شيء لامع سرعان ما يتحول إلى نفايات."
+        ],
+        [
+          "She trusted reviews less than she trusted her own patience, which is how she avoided many impulse buys.",
+          "وثقت بتقييمات الآخرين أقل مما وثقت بصبرها، وهكذا تجنبت كثيرًا من الشراء الاندفاعي.",
+          "شي ترستِد رِڤيوز لس ذان شي ترستِد هر أون پيشنس، وِتش إز هاو شي أفويدِد مِني إمپلس بايز.",
+          "She trusted reviews less than she trusted her own patience, which is how she avoided many impulse buys.",
+          "وثقت بتقييمات الآخرين أقل مما وثقت بصبرها، وهكذا تجنبت كثيرًا من الشراء الاندفاعي."
+        ],
+        [
+          "Responsible consumption is not austerity; it is the discipline of choosing enough on purpose.",
+          "الاستهلاك المسؤول ليس تقشفًا؛ إنه انضباط اختيار الكفاية عن قصد.",
+          "رِسپونسِبُل كَنْسَمپشَن إز نات أستِرِتي؛ إت إز ذي دِسِپلِن أوف تشوزينغ إنَف أون پِرپَس.",
+          "Responsible consumption is not austerity; it is the discipline of choosing enough on purpose.",
+          "الاستهلاك المسؤول ليس تقشفًا؛ إنه انضباط اختيار الكفاية عن قصد."
+        ]
+      ]
+    },
+    {
+      "topic": "الابتكار والتغيير",
+      "words": [
+        [
+          "The best innovations rarely arrive looking perfect; they usually begin as useful answers to awkward problems.",
+          "أفضل الابتكارات نادرًا ما تصل في صورة مثالية؛ فهي عادة تبدأ كإجابات مفيدة لمشكلات محرجة.",
+          "ذي بِست إِنوفيشنز ريرلي أرايف لوكينغ پِرفِكت؛ ذَي يوجُلي بِجين آز يوسفُل أنسرز تو أوكد پروبلمز.",
+          "The best innovations rarely arrive looking perfect; they usually begin as useful answers to awkward problems.",
+          "أفضل الابتكارات نادرًا ما تصل في صورة مثالية؛ فهي عادة تبدأ كإجابات مفيدة لمشكلات محرجة."
+        ],
+        [
+          "She did not resist change because she feared it, but because she wanted the new version to be worth the cost.",
+          "لم تقاوم التغيير لأنها خافته، بل لأنها أرادت أن تكون النسخة الجديدة جديرة بالكلفة.",
+          "شي دِد نات رِزِست تشينج بِكوز شي فيرد إت، بات بِكوز شي وونتِد ذي نيو ڤِرژِن تو بي وِذ ذي كوست.",
+          "She did not resist change because she feared it, but because she wanted the new version to be worth the cost.",
+          "لم تقاوم التغيير لأنها خافته، بل لأنها أرادت أن تكون النسخة الجديدة جديرة بالكلفة."
+        ],
+        [
+          "He found that a small experiment can reveal more truth than a large opinion delivered with confidence.",
+          "وجد أن تجربة صغيرة قد تكشف حقيقة أكثر من رأي كبير يُلقى بثقة.",
+          "هي فاوند ذات أ سمول إكسبِرِمِنت كان رِڤيل مور تروث ذان أ لارج أپينيَن دِلِڤَرد وِذ كونفِدَنس.",
+          "He found that a small experiment can reveal more truth than a large opinion delivered with confidence.",
+          "وجد أن تجربة صغيرة قد تكشف حقيقة أكثر من رأي كبير يُلقى بثقة."
+        ],
+        [
+          "A company that never changes may call itself stable, but stability can also be a slow form of decline.",
+          "قد تسمي الشركة التي لا تتغير نفسها مستقرة، لكن الاستقرار قد يكون أيضًا شكلًا بطيئًا من التراجع.",
+          "أ كَمپَني ذات نيفَر تشينجز ماي كول إتسِلف ستِيبُل، بات ستَبِلِتي كان أولسو بي أ سلو فورم أوف دِكلاین.",
+          "A company that never changes may call itself stable, but stability can also be a slow form of decline.",
+          "قد تسمي الشركة التي لا تتغير نفسها مستقرة، لكن الاستقرار قد يكون أيضًا شكلًا بطيئًا من التراجع."
+        ],
+        [
+          "Innovation matters most when it simplifies real life rather than dressing up old inefficiency in new language.",
+          "تكتسب الابتكارات أهميتها القصوى عندما تبسط الحياة الواقعية بدلًا من تزيين عدم الكفاءة القديمة بلغة جديدة.",
+          "إِنوفيشن ماتَرز موست وِن إت سيمپْلِفايزِز ريل لايف راذَر ذان دريسينغ أب أولد إِنِفِشَنْسي إن نيو لانغوِج.",
+          "Innovation matters most when it simplifies real life rather than dressing up old inefficiency in new language.",
+          "تكتسب الابتكارات أهميتها القصوى عندما تبسط الحياة الواقعية بدلًا من تزيين عدم الكفاءة القديمة بلغة جديدة."
+        ],
+        [
+          "They learned to welcome feedback early, because the first awkward draft is easier to fix than the final failure.",
+          "تعلموا الترحيب بالملاحظات مبكرًا، لأن المسودة الأولى المرتبكة أسهل في الإصلاح من الفشل النهائي.",
+          "ذَي لِرنْد تو ويلكَم فيدباك إيرلي، بِكوز ذي فِرست أوكد درافْت إز إيزيَر تو فِكس ذان ذي فاينَل فِيليَر.",
+          "They learned to welcome feedback early, because the first awkward draft is easier to fix than the final failure.",
+          "تعلموا الترحيب بالملاحظات مبكرًا، لأن المسودة الأولى المرتبكة أسهل في الإصلاح من الفشل النهائي."
+        ],
+        [
+          "He was open to change, but not to buzzwords; he preferred solutions that could survive contact with reality.",
+          "كان منفتحًا على التغيير، لكن ليس على الكلمات الرنانة؛ فضّل الحلول التي يمكنها الصمود أمام الواقع.",
+          "هي واز أوبِن تو تشينج، بات نات تو بازوِردز؛ هي پرفَرد سَلويشنز ذات كُد سرفايف كونتاكت وِذ رِيالِتي.",
+          "He was open to change, but not to buzzwords; he preferred solutions that could survive contact with reality.",
+          "كان منفتحًا على التغيير، لكن ليس على الكلمات الرنانة؛ فضّل الحلول التي يمكنها الصمود أمام الواقع."
+        ],
+        [
+          "A smart system is one that stays adaptable when the assumptions it was built on begin to move.",
+          "النظام الذكي هو الذي يبقى قابلًا للتكيف عندما تبدأ الافتراضات التي بُني عليها في التحرك.",
+          "أ سمارت سِستم إز وُن ذات ستيز أداپتَبُل وِن ذي أَسَمپشنز إت واز بِلْت أون بِجين تو موڤ.",
+          "A smart system is one that stays adaptable when the assumptions it was built on begin to move.",
+          "النظام الذكي هو الذي يبقى قابلًا للتكيف عندما تبدأ الافتراضات التي بُني عليها في التحرك."
+        ],
+        [
+          "She saw that people accept new ideas faster when they are invited to shape them, not merely endure them.",
+          "رأت أن الناس يتقبلون الأفكار الجديدة أسرع عندما يُدعون إلى تشكيلها لا إلى تحملها فقط.",
+          "شي سو ذات پيپُل أكسِپت نيو أيديَز فاستَر وِن ذَي آر إنتايدِد تو شِيب ذم، نات ميرلي إنديور ذم.",
+          "She saw that people accept new ideas faster when they are invited to shape them, not merely endure them.",
+          "رأت أن الناس يتقبلون الأفكار الجديدة أسرع عندما يُدعون إلى تشكيلها لا إلى تحملها فقط."
+        ],
+        [
+          "Change, in the end, is less about disruption than about choosing not to let yesterday write tomorrow.",
+          "التغيير، في النهاية، أقل ارتباطًا بالاضطراب وأكثر ارتباطًا باختيار ألا يُملي الأمسُ الغدَ.",
+          "تشينج، إن ذي إند، إز لس أباوت دِسربشن ذان أباوت تشوزينغ نات تو لِت يِسترْدي رايت تومورو.",
+          "Change, in the end, is less about disruption than about choosing not to let yesterday write tomorrow.",
+          "التغيير، في النهاية، أقل ارتباطًا بالاضطراب وأكثر ارتباطًا باختيار ألا يُملي الأمسُ الغدَ."
+        ]
+      ]
+    },
+    {
+      "topic": "قراءة الأخبار بوعي",
+      "words": [
+        [
+          "The headline sounded decisive, but the article itself left room for doubt.",
+          "بدت العناوين حاسمة، لكن المقال نفسه ترك مجالًا للشك.",
+          "ذَ هَدلاين ساوندِد ديسايسِف، بَت ذي آرتِكُل إتسِلف لِفت روم فور داوت.",
+          "The headline sounded decisive, but the article itself left room for doubt.",
+          "بدت العناوين حاسمة، لكن المقال نفسه ترك مجالًا للشك."
+        ],
+        [
+          "When several outlets repeat the same claim, I still check who benefits from it.",
+          "عندما تكرر عدة وسائل ادعاءً واحدًا، أتحقق مع ذلك من المستفيد منه.",
+          "وِن سِفِرَل آوتلِتس رِبيت ذا سيم كليم، آي ستِل تشِك هو بِنيفِتس فرُم إت.",
+          "When several outlets repeat the same claim, I still check who benefits from it.",
+          "عندما تكرر عدة وسائل ادعاءً واحدًا، أتحقق مع ذلك من المستفيد منه."
+        ],
+        [
+          "A polished quote can hide a shaky argument if the context is missing.",
+          "قد تخفي عبارة مصقولة حجةً هشة إذا كان السياق مفقودًا.",
+          "أَ بولِشت كْووت كَن هايد أَ شَيْكي آرجُمنت إِف ذَ كونتِكست إِز مِسِنغ.",
+          "A polished quote can hide a shaky argument if the context is missing.",
+          "قد تخفي عبارة مصقولة حجةً هشة إذا كان السياق مفقودًا."
+        ],
+        [
+          "I trust reporting more when it distinguishes fact from interpretation.",
+          "أثق في التغطية أكثر حين تميز بين الحقائق والتأويل.",
+          "آي ترَست رِبورْتِنغ مور وِن إت دِستِنغوِشِز فاكت فرُم إنتِربريتَيْشَن.",
+          "I trust reporting more when it distinguishes fact from interpretation.",
+          "أثق في التغطية أكثر حين تميز بين الحقائق والتأويل."
+        ],
+        [
+          "The story changed tone halfway through, which made me reread the final paragraph.",
+          "تغيرت نبرة القصة في منتصفها، ما جعلني أعيد قراءة الفقرة الأخيرة.",
+          "ذَ ستوري تشينجد تون هافْوَي ثرو، وِتش ميد مي ريريد ذَ فاينَل باراغراف.",
+          "The story changed tone halfway through, which made me reread the final paragraph.",
+          "تغيرت نبرة القصة في منتصفها، ما جعلني أعيد قراءة الفقرة الأخيرة."
+        ],
+        [
+          "A single statistic is persuasive only until you ask what was left out.",
+          "لا تكون إحصائية واحدة مقنعة إلا إلى أن تسأل عمّا حُذف.",
+          "أَ سِنغِل ستَتِستِك إِز پِرْسْوَسِف أونلي أَنتِل يو آسك وُت واز لِفت آوت.",
+          "A single statistic is persuasive only until you ask what was left out.",
+          "لا تكون إحصائية واحدة مقنعة إلا إلى أن تسأل عمّا حُذف."
+        ],
+        [
+          "Even careful journalism can frame a fact so neatly that the bias slips by unnoticed.",
+          "حتى الصحافة الدقيقة قد تصوغ حقيقةً بمهارة بحيث يمر التحيز دون أن يُلاحظ.",
+          "إيفِن كيرفُل جَورْنَلِزَم كَن فرَيْم أَ فاكت سو نيتلي ذات ذَ بايَس سْلِپس باي أَناوتِست.",
+          "Even careful journalism can frame a fact so neatly that the bias slips by unnoticed.",
+          "حتى الصحافة الدقيقة قد تصوغ حقيقةً بمهارة بحيث يمر التحيز دون أن يُلاحظ."
+        ],
+        [
+          "I read the comments last, because they often reveal the argument nobody stated outright.",
+          "أقرأ التعليقات أخيرًا، لأنها كثيرًا ما تكشف الحجة التي لم يصرح بها أحد.",
+          "آي ريد ذَ كُمِنْتس لاست، بِكوز ذَيْ أوفِن رِفيل ذي آرجُمنت نوبادي ستَيْتِد آوترايت.",
+          "I read the comments last, because they often reveal the argument nobody stated outright.",
+          "أقرأ التعليقات أخيرًا، لأنها كثيرًا ما تكشف الحجة التي لم يصرح بها أحد."
+        ],
+        [
+          "The most useful article was the one that admitted what it could not confirm.",
+          "كانت المقالة الأكثر فائدة هي التي اعترفت بما لم تستطع تأكيده.",
+          "ذَ موست يوسفُل آرتِكُل واز ذي وَن ذات أَدْمِتِد وُت إت كود نوت كُنفيرم.",
+          "The most useful article was the one that admitted what it could not confirm.",
+          "كانت المقالة الأكثر فائدة هي التي اعترفت بما لم تستطع تأكيده."
+        ],
+        [
+          "Good readers notice what is emphasized, but they also notice what is quietly avoided.",
+          "القراء الجيدون يلاحظون ما يُشدد عليه، لكنهم يلاحظون أيضًا ما يُتجنب بهدوء.",
+          "گود ريدرز نوتِس وُت إز إِمفَسايزْد، بَت ذَيْ أولسو نوتِس وُت إز كْوايْتلي أَفويْدِد.",
+          "Good readers notice what is emphasized, but they also notice what is quietly avoided.",
+          "القراء الجيدون يلاحظون ما يُشدد عليه، لكنهم يلاحظون أيضًا ما يُتجنب بهدوء."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة بين البدائل",
+      "words": [
+        [
+          "A cheaper option is tempting, but the real cost may appear later.",
+          "الخيار الأرخص مغرٍ، لكن التكلفة الحقيقية قد تظهر لاحقًا.",
+          "أَ تشيپر أوپشَن إز تِمْپتِنغ، بَت ذَ ريل كوست مي أپير لَيْتَر.",
+          "A cheaper option is tempting, but the real cost may appear later.",
+          "الخيار الأرخص مغرٍ، لكن التكلفة الحقيقية قد تظهر لاحقًا."
+        ],
+        [
+          "I would rather choose the slower route if it saves energy for the rest of the day.",
+          "أفضل اختيار الطريق الأبطأ إذا كان سيوفر طاقة لبقية اليوم.",
+          "آي وود راذَر تشوز ذَ سْلوَر رووت إِف إت سَيْفس إنِرجي فور ذَ رِست أُف ذَ داي.",
+          "I would rather choose the slower route if it saves energy for the rest of the day.",
+          "أفضل اختيار الطريق الأبطأ إذا كان سيوفر طاقة لبقية اليوم."
+        ],
+        [
+          "Between convenience and durability, the answer depends on how often you will use it.",
+          "بين الراحة والمتانة، تتوقف الإجابة على عدد مرات استخدامه.",
+          "بِتوين كُنڤينْيَنس أند ديورَبِلِتي، ذي آنسَر دِپِنْدز أون هاو أوفِن يو وِل يوز إت.",
+          "Between convenience and durability, the answer depends on how often you will use it.",
+          "بين الراحة والمتانة، تتوقف الإجابة على عدد مرات استخدامه."
+        ],
+        [
+          "One plan is glamorous, the other is practical, and they do not reward the same priorities.",
+          "أحد الخيارين جذاب، والآخر عملي، ولا يكافئان الأولويات نفسها.",
+          "وَن پلان إز ڬلامَرَس، ذي أذَر إز پْرَكتِكَل، أند ذَيْ دو نوت رِوورد ذَ سيم پرايورِتيز.",
+          "One plan is glamorous, the other is practical, and they do not reward the same priorities.",
+          "أحد الخيارين جذاب، والآخر عملي، ولا يكافئان الأولويات نفسها."
+        ],
+        [
+          "If you compare them side by side, the gaps become more honest than the slogans.",
+          "إذا قارنت بينهما جنبًا إلى جنب، بدت الفروق أصدق من الشعارات.",
+          "إِف يو كُمْپير ذِم سايد باي سايد، ذَ ڬابس بِكَم مور أونِست ذان ذَ سْلوگَنز.",
+          "If you compare them side by side, the gaps become more honest than the slogans.",
+          "إذا قارنت بينهما جنبًا إلى جنب، بدت الفروق أصدق من الشعارات."
+        ],
+        [
+          "A premium service may look efficient, yet a simpler one can be easier to trust.",
+          "قد تبدو الخدمة المتميزة أكثر كفاءة، لكن الأبسط قد يكون أسهل ثقةً.",
+          "أَ پْريمْيَم سِرفِس مي لوك إِفِشَنْت، يِت أَ سِمْپْلَر وَن كَن بي إيزيَر تو ترَست.",
+          "A premium service may look efficient, yet a simpler one can be easier to trust.",
+          "قد تبدو الخدمة المتميزة أكثر كفاءة، لكن الأبسط قد يكون أسهل ثقةً."
+        ],
+        [
+          "The best alternative is not always the most impressive one on paper.",
+          "ليس البديل الأفضل دائمًا هو الأكثر إبهارًا على الورق.",
+          "ذَ بِست ألتِرنَتِف إز نوت أولْوَيْز ذَ موست إِمپْرِسِف وَن أون پېپَر.",
+          "The best alternative is not always the most impressive one on paper.",
+          "ليس البديل الأفضل دائمًا هو الأكثر إبهارًا على الورق."
+        ],
+        [
+          "I weighed flexibility against certainty and chose the option that left more room to adapt.",
+          "وازنت بين المرونة واليقين، واخترت الخيار الذي يترك مجالًا أوسع للتكيف.",
+          "آي ويد فْلِكْسِبِلِتي أگينست سِرتِنْتي أند تشوز ذي أوپشَن ذات لِفت مور روم تو أداپت.",
+          "I weighed flexibility against certainty and chose the option that left more room to adapt.",
+          "وازنت بين المرونة واليقين، واخترت الخيار الذي يترك مجالًا أوسع للتكيف."
+        ],
+        [
+          "The contrast is useful, because each choice exposes what the other quietly assumes.",
+          "المقارنة مفيدة لأن كل خيار يكشف ما يفترضه الآخر بصمت.",
+          "ذَ كونتراست إز يوسفُل، بِكوز إيتش تشويس إِكسپوزِز وُت ذي أذَر كْوايْتلي أَسومز.",
+          "The contrast is useful, because each choice exposes what the other quietly assumes.",
+          "المقارنة مفيدة لأن كل خيار يكشف ما يفترضه الآخر بصمت."
+        ],
+        [
+          "I prefer the option that is less dramatic and more likely to hold up in real life.",
+          "أفضّل الخيار الأقل دراميةً والأرجح صمودًا في الواقع.",
+          "آي پْرِفَر ذي أوپشَن ذات إز لِس دراماتِك أند مور لايكلي تو هولد أپ إِن ريل لايف.",
+          "I prefer the option that is less dramatic and more likely to hold up in real life.",
+          "أفضّل الخيار الأقل دراميةً والأرجح صمودًا في الواقع."
+        ]
+      ]
+    },
+    {
+      "topic": "تنظيم الحجج",
+      "words": [
+        [
+          "A strong argument begins with a clear claim and ends with evidence that can survive scrutiny.",
+          "تبدأ الحجة القوية بادعاء واضح وتنتهي بدليل يصمد أمام التدقيق.",
+          "أَ سترونغ آرجُمنت بِگِنز وِذ أَ كْلير كْليم أند إندز وِذ إڤِدَنس ذات كان سَرفايف سْكروتِني.",
+          "A strong argument begins with a clear claim and ends with evidence that can survive scrutiny.",
+          "تبدأ الحجة القوية بادعاء واضح وتنتهي بدليل يصمد أمام التدقيق."
+        ],
+        [
+          "I place my main point first so the listener knows exactly where the discussion stands.",
+          "أضع النقطة الرئيسة أولًا حتى يعرف المستمع موقف النقاش بدقة.",
+          "آي پْلايس ماي مين پويْنت فِرست سو ذَ لِسِنَر نوز إگزاكتلي وِير ذَ دَسكَشَن ستاندز.",
+          "I place my main point first so the listener knows exactly where the discussion stands.",
+          "أضع النقطة الرئيسة أولًا حتى يعرف المستمع موقف النقاش بدقة."
+        ],
+        [
+          "Good structure keeps the message from wandering into side issues.",
+          "يحفظ التنظيم الجيد الرسالة من التشتت في القضايا الجانبية.",
+          "گود سترَكچَر كيبس ذَ مِسِج فرُم واندِرِنغ إِنتو سايد إِشوز.",
+          "Good structure keeps the message from wandering into side issues.",
+          "يحفظ التنظيم الجيد الرسالة من التشتت في القضايا الجانبية."
+        ],
+        [
+          "I separate facts, examples, and conclusions so each part does its job.",
+          "أفصل بين الحقائق والأمثلة والاستنتاجات حتى يؤدي كل جزء دوره.",
+          "آي سِپَرَيْت فاكتس، إگزامپِلز، أند كَنكلوزِنز سو إيتش پارت دَز إتس جوب.",
+          "I separate facts, examples, and conclusions so each part does its job.",
+          "أفصل بين الحقائق والأمثلة والاستنتاجات حتى يؤدي كل جزء دوره."
+        ],
+        [
+          "If the reasoning is tidy, even a difficult position sounds more credible.",
+          "إذا كان التعليل مرتبًا، بدت حتى المواقف الصعبة أكثر مصداقية.",
+          "إِف ذَ ريزِنِنغ إز تايدي، إيفِن أَ دِفِكُلْت پوزِشَن ساوندز مور كرِدِبُل.",
+          "If the reasoning is tidy, even a difficult position sounds more credible.",
+          "إذا كان التعليل مرتبًا، بدت حتى المواقف الصعبة أكثر مصداقية."
+        ],
+        [
+          "A concession can strengthen the case, because it shows the writer is not bluffing.",
+          "قد يعزز الاستدراك الحجة لأنه يُظهر أن الكاتب لا يرتجل.",
+          "أَ كَنْسِشَن كَن سترونغْذِن ذَ كيس، بِكوز إت شوز ذَ رايتر إز نوت بلافِنغ.",
+          "A concession can strengthen the case, because it shows the writer is not bluffing.",
+          "قد يعزز الاستدراك الحجة لأنه يُظهر أن الكاتب لا يرتجل."
+        ],
+        [
+          "I avoid piling on reasons when one precise reason already does the work.",
+          "أتجنب تراكم الأسباب عندما يكفي سبب واحد دقيق.",
+          "آي أڤويد پايْلِنغ أون ريزنز وِن وَن پْرِسايس ريزن أولْرِدي دَز ذَ وِرك.",
+          "I avoid piling on reasons when one precise reason already does the work.",
+          "أتجنب تراكم الأسباب عندما يكفي سبب واحد دقيق."
+        ],
+        [
+          "The order matters, because the reader follows the path you build for them.",
+          "للترتيب أهمية، لأن القارئ يتبع المسار الذي تبنيه له.",
+          "ذي أوردر ماتَرز، بِكوز ذَ ريدَر فالووز ذَ پاث يو بيلد فور ذِم.",
+          "The order matters, because the reader follows the path you build for them.",
+          "للترتيب أهمية، لأن القارئ يتبع المسار الذي تبنيه له."
+        ],
+        [
+          "A fair argument anticipates objections instead of pretending they do not exist.",
+          "تتوقع الحجة المنصفة الاعتراضات بدلًا من التظاهر بعدم وجودها.",
+          "أَ فِير آرجُمنت أَنتِسِپَيْتس أوبجِكشَنز إِنسْتِد أُف پْرِتِنْدِنغ ذَيْ دو نوت إگْزِست.",
+          "A fair argument anticipates objections instead of pretending they do not exist.",
+          "تتوقع الحجة المنصفة الاعتراضات بدلًا من التظاهر بعدم وجودها."
+        ],
+        [
+          "When the conclusion matches the evidence, the whole piece feels settled rather than forced.",
+          "عندما يطابق الاستنتاج الأدلة، تبدو القطعة كلها محكمة لا متكلفة.",
+          "وِن ذَ كَنكلوزَن ماتشِز ذي إڤِدَنس، ذَ هول بيس فيلز سِتْلْد راذَر ذان فورْسْت.",
+          "When the conclusion matches the evidence, the whole piece feels settled rather than forced.",
+          "عندما يطابق الاستنتاج الأدلة، تبدو القطعة كلها محكمة لا متكلفة."
+        ]
+      ]
+    },
+    {
+      "topic": "تفسير البيانات",
+      "words": [
+        [
+          "The chart suggests growth, but the scale makes the increase look bigger than it is.",
+          "يوحي الرسم البياني بالنمو، لكن المقياس يجعل الزيادة تبدو أكبر مما هي عليه.",
+          "ذَ تشارت سُجِستس گروث، بَت ذَ سْكيل ميكس ذي إِنكريس لوك بِگَر ذان إت إز.",
+          "The chart suggests growth, but the scale makes the increase look bigger than it is.",
+          "يوحي الرسم البياني بالنمو، لكن المقياس يجعل الزيادة تبدو أكبر مما هي عليه."
+        ],
+        [
+          "A spike in one month may matter less than the longer trend underneath it.",
+          "قد يكون الارتفاع الحاد في شهر واحد أقل أهمية من الاتجاه الأطول تحته.",
+          "أَ سبايك إِن وَن مَنْث مي ماتَر لِس ذان ذَ لونغر تريند أندرنيث إت.",
+          "A spike in one month may matter less than the longer trend underneath it.",
+          "قد يكون الارتفاع الحاد في شهر واحد أقل أهمية من الاتجاه الأطول تحته."
+        ],
+        [
+          "Raw numbers tell part of the story, but percentages often tell the rest.",
+          "تروي الأرقام الخام جزءًا من القصة، لكن النسب المئوية تروي الباقي غالبًا.",
+          "رو نَمبرز تِل پارت أُف ذَ ستوري، بَت پِرْسِنْتِجِز أوفِن تِل ذَ رِست.",
+          "Raw numbers tell part of the story, but percentages often tell the rest.",
+          "تروي الأرقام الخام جزءًا من القصة، لكن النسب المئوية تروي الباقي غالبًا."
+        ],
+        [
+          "The difference between correlation and causation is where many readers go astray.",
+          "الفرق بين الارتباط والسببية هو موضع خطأ كثير من القراء.",
+          "ذَ دِفْرِنس بِتوين كوريليشن أند كوزَيْشَن إز وِير مِني ريدرز گو أستراي.",
+          "The difference between correlation and causation is where many readers go astray.",
+          "الفرق بين الارتباط والسببية هو موضع خطأ كثير من القراء."
+        ],
+        [
+          "I look for what is missing before I decide what the figures mean.",
+          "أبحث عمّا ينقص قبل أن أقرر معنى الأرقام.",
+          "آي لوك فور وُت إز مِسِنغ بِفور آي دِسايد وُت ذَ فِگرز مين.",
+          "I look for what is missing before I decide what the figures mean.",
+          "أبحث عمّا ينقص قبل أن أقرر معنى الأرقام."
+        ],
+        [
+          "An average can hide extremes, so I always ask how the data is distributed.",
+          "قد يخفي المتوسط القيم المتطرفة، لذا أسأل دائمًا كيف تتوزع البيانات.",
+          "آن أڤرِج كَن هايد إكستريمز، سو آي أولْوَيْز آسك هاو ذَ دايتا إز دِستْرِبيوتِد.",
+          "An average can hide extremes, so I always ask how the data is distributed.",
+          "قد يخفي المتوسط القيم المتطرفة، لذا أسأل دائمًا كيف تتوزع البيانات."
+        ],
+        [
+          "The label looks precise, yet the method behind it may be far less neat.",
+          "يبدو العنوان دقيقًا، لكن المنهج وراءه قد يكون أقل إحكامًا بكثير.",
+          "ذَ ليبُل لوكس پْرِسايس، يِت ذَ مِثَد بِهايند إت مي بي فار لِس نيت.",
+          "The label looks precise, yet the method behind it may be far less neat.",
+          "يبدو العنوان دقيقًا، لكن المنهج وراءه قد يكون أقل إحكامًا بكثير."
+        ],
+        [
+          "When uncertainty is acknowledged, the interpretation feels far more trustworthy.",
+          "عندما يُعترف بعدم اليقين، يصبح التفسير أكثر جدارة بالثقة.",
+          "وِن أَنْسِرتِنْتي إز أَكنولِجد، ذي إنتِرپريتَيْشَن فيلز فار مور ترَستْوِرذي.",
+          "When uncertainty is acknowledged, the interpretation feels far more trustworthy.",
+          "عندما يُعترف بعدم اليقين، يصبح التفسير أكثر جدارة بالثقة."
+        ],
+        [
+          "The visual is neat, but I want to know who collected the data and why.",
+          "المشهد البصري أنيق، لكنني أريد معرفة من جمع البيانات ولماذا.",
+          "ذَ ڤِجُوَل إز نيت، بَت آي وانت تو نو هو كَلِكتِد ذَ دايتا أند واي.",
+          "The visual is neat, but I want to know who collected the data and why.",
+          "المشهد البصري أنيق، لكنني أريد معرفة من جمع البيانات ولماذا."
+        ],
+        [
+          "A well-labeled graph can still mislead if the underlying question was poorly framed.",
+          "قد يضلل الرسم البياني الجيد التسمية إذا كانت المسألة الأساسية مصاغة على نحو سيئ.",
+          "أَ وِل لَيْبُلْد گراف كَن ستِل مِسْلِيد إِف ذي أندرلايِنغ كْوِسْتْشَن واز پُورلي فرَيْمْد.",
+          "A well-labeled graph can still mislead if the underlying question was poorly framed.",
+          "قد يضلل الرسم البياني الجيد التسمية إذا كانت المسألة الأساسية مصاغة على نحو سيئ."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط للمستقبل",
+      "words": [
+        [
+          "I am making room for change, because the future rarely follows a neat script.",
+          "أُفسح مجالًا للتغير، لأن المستقبل نادرًا ما يتبع نصًا مرتبًا.",
+          "آي أَم ميكِنغ روم فور تشينج، بِكوز ذَ فيوتشر ريرلي فالووز أَ نيت سْكرِپت.",
+          "I am making room for change, because the future rarely follows a neat script.",
+          "أُفسح مجالًا للتغير، لأن المستقبل نادرًا ما يتبع نصًا مرتبًا."
+        ],
+        [
+          "The wiser plan is the one that can bend without breaking.",
+          "الخطة الأذكى هي التي تستطيع الانحناء دون أن تنكسر.",
+          "ذَ وايزَر پلان إز ذَ وَن ذات كان بِنْد وِذآوت بريكِنغ.",
+          "The wiser plan is the one that can bend without breaking.",
+          "الخطة الأذكى هي التي تستطيع الانحناء دون أن تنكسر."
+        ],
+        [
+          "I keep my goals ambitious, but I set milestones that are actually reachable.",
+          "أحافظ على أهداف طموحة، لكنني أحدد مراحل يمكن بلوغها فعلًا.",
+          "آي كيب ماي گولز أمبِشَس، بَت آي سِت مايلستونز ذات آر أكتشُلي ريتشَبُل.",
+          "I keep my goals ambitious, but I set milestones that are actually reachable.",
+          "أحافظ على أهداف طموحة، لكنني أحدد مراحل يمكن بلوغها فعلًا."
+        ],
+        [
+          "A promising opportunity still needs a reality check before I commit to it.",
+          "لا تزال الفرصة الواعدة تحتاج إلى فحص واقعي قبل أن ألتزم بها.",
+          "أَ پرومِسِنغ أوبُرتونِتي ستِل نيدز أَ رِيالِتي تشيك بِفور آي كَمِت تو إت.",
+          "A promising opportunity still needs a reality check before I commit to it.",
+          "لا تزال الفرصة الواعدة تحتاج إلى فحص واقعي قبل أن ألتزم بها."
+        ],
+        [
+          "I would rather prepare quietly now than panic when the deadline arrives.",
+          "أفضل أن أستعد بهدوء الآن على أن أذعر عند حلول الموعد النهائي.",
+          "آي وود راذَر پْرِپير كْوايْتلي ناو ذان پانِك وِن ذَ دِدلاين أرايفز.",
+          "I would rather prepare quietly now than panic when the deadline arrives.",
+          "أفضل أن أستعد بهدوء الآن على أن أذعر عند حلول الموعد النهائي."
+        ],
+        [
+          "Good plans leave space for luck, error, and a few unexpected turns.",
+          "تترك الخطط الجيدة مساحة للحظ والخطأ وبعض المنعطفات غير المتوقعة.",
+          "گود پلانز ليف سْپيس فور لَك، إيرَر، أند أَ فيو أَنسْپِكتِد تِرنز.",
+          "Good plans leave space for luck, error, and a few unexpected turns.",
+          "تترك الخطط الجيدة مساحة للحظ والخطأ وبعض المنعطفات غير المتوقعة."
+        ],
+        [
+          "I prefer options that compound over time, even if they begin modestly.",
+          "أفضّل الخيارات التي تتراكم فائدتها مع الوقت، ولو بدأت متواضعة.",
+          "آي پْرِفَر أوپشَنز ذات كُمْپاوند أوڤَر تايم، إيفِن إِف ذَيْ بِگِن مودِستلي.",
+          "I prefer options that compound over time, even if they begin modestly.",
+          "أفضّل الخيارات التي تتراكم فائدتها مع الوقت، ولو بدأت متواضعة."
+        ],
+        [
+          "The next step should be small enough to start, but serious enough to matter.",
+          "ينبغي أن تكون الخطوة التالية صغيرة بما يكفي لبدئها، وجادة بما يكفي لتهم.",
+          "ذَ نِكست سْتِپ شود بي سمول إناف تو ستارت، بَت سيريَس إناف تو ماتَر.",
+          "The next step should be small enough to start, but serious enough to matter.",
+          "ينبغي أن تكون الخطوة التالية صغيرة بما يكفي لبدئها، وجادة بما يكفي لتهم."
+        ],
+        [
+          "I keep revisiting the plan, because a fixed mind is a poor guide to a moving world.",
+          "أعود إلى الخطة مرارًا، لأن الذهن الجامد دليل سيئ لعالم متحرك.",
+          "آي كيب رِڤِزِتِنغ ذَ پلان، بِكوز أَ فِكست مايند إز أَ پُور گايد تو أَ موڤِنغ وِرلد.",
+          "I keep revisiting the plan, because a fixed mind is a poor guide to a moving world.",
+          "أعود إلى الخطة مرارًا، لأن الذهن الجامد دليل سيئ لعالم متحرك."
+        ],
+        [
+          "The future feels less intimidating when I treat it as a series of choices.",
+          "يبدو المستقبل أقل إرهابًا عندما أتعامل معه كسلسلة من الخيارات.",
+          "ذَ فيوتشر فيلز لِس إنتِمِدَيْتِنغ وِن آي تريت إت أَز أَ سيريز أُف تشويسِز.",
+          "The future feels less intimidating when I treat it as a series of choices.",
+          "يبدو المستقبل أقل إرهابًا عندما أتعامل معه كسلسلة من الخيارات."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب والتأمل",
+      "words": [
+        [
+          "I used to chase certainty, but the longer I worked with people, the more I trusted careful doubt.",
+          "كنت ألاحق اليقين، لكن كلما عملت مع الناس أكثر، ازداد اعتمادي على الشك المتأني.",
+          "آي يوزد تو تشيس سيرتنٽي، بَت ذَ لونغَر آي وِركت وِذ بيبل، ذَ مور آي تْرَسْتِد كيرفُل داوت.",
+          "I used to chase certainty, but the longer I worked with people, the more I trusted careful doubt.",
+          "كنت ألاحق اليقين، لكن كلما عملت مع الناس أكثر، ازداد اعتمادي على الشك المتأني."
+        ],
+        [
+          "The trip was unremarkable on paper, yet it quietly rearranged what I thought I needed.",
+          "كانت الرحلة عادية على الورق، ومع ذلك أعادت بهدوء ترتيب ما كنت أظنه ضروريًا لي.",
+          "ذَ تْرِب واز أَنرِماركَبُل أون بيبر، يِت إت كْوايَتْلي ريرينجد وُت آي ثوت آي نيدِد.",
+          "The trip was unremarkable on paper, yet it quietly rearranged what I thought I needed.",
+          "كانت الرحلة عادية على الورق، ومع ذلك أعادت بهدوء ترتيب ما كنت أظنه ضروريًا لي."
+        ],
+        [
+          "I learned that hindsight flatters nobody; it simply makes our choices look cleaner than they were.",
+          "تعلمت أن النظر إلى الماضي لا يجامل أحدًا؛ إنه يجعل اختياراتنا تبدو أنظف مما كانت عليه.",
+          "آي لِرنْد ذات هاينْدسايت فْلاتَرز نوبادي؛ إت سِمْبْلي ميكس آور تشويسِز لوك كْلينَر ذان ذَي وِر.",
+          "I learned that hindsight flatters nobody; it simply makes our choices look cleaner than they were.",
+          "تعلمت أن النظر إلى الماضي لا يجامل أحدًا؛ إنه يجعل اختياراتنا تبدو أنظف مما كانت عليه."
+        ],
+        [
+          "When plans collapsed, I noticed how quickly I stopped bargaining with reality and started reading it.",
+          "عندما انهارت الخطط، لاحظتُ كم بسرعة توقفت عن المساومة مع الواقع وبدأت أقرأه.",
+          "وِين بلانز كولابسْت، آي نوتِسْت هاو كْوِكْلي آي ستوبْت بارْغِنِنغ وِذ رياليتي أند ستارتِد ريدِنغ إت.",
+          "When plans collapsed, I noticed how quickly I stopped bargaining with reality and started reading it.",
+          "عندما انهارت الخطط، لاحظتُ كم بسرعة توقفت عن المساومة مع الواقع وبدأت أقرأه."
+        ],
+        [
+          "I once thought consistency meant never changing; now I think it means changing without losing the thread.",
+          "كنت أظن أن الثبات يعني ألا أتغير أبدًا؛ أما الآن فأراه يعني التغير من دون فقدان الخيط.",
+          "آي ونس ثوت كَنْسِسْتِنْسي مِنت نِفَر تشينجِنغ؛ ناو آي ثِنك إت مِينز تشينجِنغ وِذَوت لوزِنغ ذَ ثرِد.",
+          "I once thought consistency meant never changing; now I think it means changing without losing the thread.",
+          "كنت أظن أن الثبات يعني ألا أتغير أبدًا؛ أما الآن فأراه يعني التغير من دون فقدان الخيط."
+        ],
+        [
+          "The silence after the argument felt harsher than the argument itself, because it left every sentence unfinished.",
+          "كان الصمت بعد الجدال أقسى من الجدال نفسه، لأنه ترك كل جملة غير مكتملة.",
+          "ذَ سايلِنس آفتر ذِي أرْغْيومِنت فِلت هارْشَر ذان ذِي أرْغْيومِنت إتسِلف، بِكوز إت لِفت إيفري سِنْتِنس أنفِنِشْت.",
+          "The silence after the argument felt harsher than the argument itself, because it left every sentence unfinished.",
+          "كان الصمت بعد الجدال أقسى من الجدال نفسه، لأنه ترك كل جملة غير مكتملة."
+        ],
+        [
+          "I keep a few old habits not out of nostalgia, but because they remind me how far I have moved on.",
+          "أحتفظ ببعض العادات القديمة لا بدافع الحنين، بل لأنها تذكرني بمدى ما تقدمت.",
+          "آي كيب أ فيو أُولد هابِتس نات آوت أُف نُستالجيا، بَت بِكوز ذَي رِمايند مي هاو فار آي هاف مووفد أون.",
+          "I keep a few old habits not out of nostalgia, but because they remind me how far I have moved on.",
+          "أحتفظ ببعض العادات القديمة لا بدافع الحنين، بل لأنها تذكرني بمدى ما تقدمت."
+        ],
+        [
+          "The most useful lesson was not to win every debate, but to hear what the other person was guarding.",
+          "أكثر درس نافع كان ألا أفوز بكل نقاش، بل أن أسمع ما كان الطرف الآخر يحرسه.",
+          "ذَ موست يوسفُل لِسِن واز نات تو وِن إيفري دِبيْت، بَت تو هير وُت ذي أذر برسِن واز غارْدِنغ.",
+          "The most useful lesson was not to win every debate, but to hear what the other person was guarding.",
+          "أكثر درس نافع كان ألا أفوز بكل نقاش، بل أن أسمع ما كان الطرف الآخر يحرسه."
+        ],
+        [
+          "Some memories grow clearer with time; others grow more honest, which is not quite the same thing.",
+          "بعض الذكريات تزداد وضوحًا مع الوقت؛ وأخرى تزداد صدقًا، وهذا ليس الشيء نفسه تمامًا.",
+          "سَم مِمُوريز غرو كليرَر وِذ تايم؛ أذرز غرو مور أونِست، وِتش إز نات كْوَايت ذَ سيم ثِنغ.",
+          "Some memories grow clearer with time; others grow more honest, which is not quite the same thing.",
+          "بعض الذكريات تزداد وضوحًا مع الوقت؛ وأخرى تزداد صدقًا، وهذا ليس الشيء نفسه تمامًا."
+        ],
+        [
+          "I no longer expect life to explain itself; I just try to listen long enough to catch its emphasis.",
+          "لم أعد أتوقع من الحياة أن تشرح نفسها؛ أحاول فقط أن أصغي طويلًا بما يكفي لألتقط موضع تأكيدها.",
+          "آي نو لونغَر إكسبِكت لايف تو إكسبْلين إتسِلف؛ آي جَست تراي تو لِسِن لونغ إنَف تو كاتش إتس إمفَسِس.",
+          "I no longer expect life to explain itself; I just try to listen long enough to catch its emphasis.",
+          "لم أعد أتوقع من الحياة أن تشرح نفسها؛ أحاول فقط أن أصغي طويلًا بما يكفي لألتقط موضع تأكيدها."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات الاجتماعية",
+      "words": [
+        [
+          "She never dominates the room, yet people listen when she speaks because she makes space for others.",
+          "هي لا تهيمن على المكان، ومع ذلك يصغي الناس حين تتكلم لأنها تترك مساحة للآخرين.",
+          "شي نِفَر دومِنَيْتس ذَ روم، يِت بيبل لِسِن وِن شي سبيكس بِكوز شي ميكس سْبيس فور أذرز.",
+          "She never dominates the room, yet people listen when she speaks because she makes space for others.",
+          "هي لا تهيمن على المكان، ومع ذلك يصغي الناس حين تتكلم لأنها تترك مساحة للآخرين."
+        ],
+        [
+          "In our circle, honesty matters more than charm, though a little tact usually helps the truth go down.",
+          "في دائرتنا، الصدق أهم من الجاذبية، مع أن قليلًا من الدبلوماسية يساعد الحقيقة على أن تُقبل.",
+          "إِن آور سِرْكُل، أونِستي مَتَرز مور ذان تشارم، ذو أ لِتِل تاكت يوزْجُوالي هيلپس ذَ تروث غو داون.",
+          "In our circle, honesty matters more than charm, though a little tact usually helps the truth go down.",
+          "في دائرتنا، الصدق أهم من الجاذبية، مع أن قليلًا من الدبلوماسية يساعد الحقيقة على أن تُقبل."
+        ],
+        [
+          "I value friends who can disagree without turning every conversation into a referendum on loyalty.",
+          "أقدّر الأصدقاء الذين يختلفون من دون تحويل كل محادثة إلى استفتاء على الولاء.",
+          "آي فالْيو فْرِندز هو كان دِسَغْري وِذَوت تِرْنِنغ إيفري كونفِرْسَيْشِن إنتو أ رِفَرِنْدَم أون لويَلتي.",
+          "I value friends who can disagree without turning every conversation into a referendum on loyalty.",
+          "أقدّر الأصدقاء الذين يختلفون من دون تحويل كل محادثة إلى استفتاء على الولاء."
+        ],
+        [
+          "A polite reply can be kinder than a grand gesture, especially when someone only wants to be heard.",
+          "قد يكون الرد المهذب ألطف من لفتة كبيرة، خصوصًا حين لا يريد أحد سوى أن يُسمع.",
+          "أ بولايت رِپْلاي كان بي كاينْدَر ذان أ غراند جِسْتشَر، إِسْبِشَلي وِن سَموان أونلي وانتس تو بي هِرد.",
+          "A polite reply can be kinder than a grand gesture, especially when someone only wants to be heard.",
+          "قد يكون الرد المهذب ألطف من لفتة كبيرة، خصوصًا حين لا يريد أحد سوى أن يُسمع."
+        ],
+        [
+          "We do not keep score out loud, but everyone notices who shows up when life becomes inconvenient.",
+          "لا نحسب الأمور بصوت عالٍ، لكن الجميع يلاحظ من يحضر عندما تصبح الحياة غير مريحة.",
+          "وي دو نات كيب سكور آوت لاود، بَت إيفريوان نوتِسِز هو شوز أب وِن لايف بِكَمْز إنكونفينينْت.",
+          "We do not keep score out loud, but everyone notices who shows up when life becomes inconvenient.",
+          "لا نحسب الأمور بصوت عالٍ، لكن الجميع يلاحظ من يحضر عندما تصبح الحياة غير مريحة."
+        ],
+        [
+          "He can be guarded at first, yet once he trusts you, his loyalty is practical rather than theatrical.",
+          "قد يكون متحفظًا في البداية، لكنه إذا وثق بك، كانت وفاؤه عمليًا أكثر منه استعراضيًا.",
+          "هي كان بي غاردِد أَت فِرست، يِت ونس هي تْرَسْتس يو، هِز لويَلتي إز برَكتِكَل راذَر ذان ثياتْرِكَل.",
+          "He can be guarded at first, yet once he trusts you, his loyalty is practical rather than theatrical.",
+          "قد يكون متحفظًا في البداية، لكنه إذا وثق بك، كانت وفاؤه عمليًا أكثر منه استعراضيًا."
+        ],
+        [
+          "Sometimes a family argument is less about the issue than about who gets to define the tone.",
+          "أحيانًا يكون الخلاف العائلي أقل تعلقًا بالموضوع وأكثر تعلقًا بمن يحدد النبرة.",
+          "سَمتايمز أ فامِلي أرْغْيومِنت إز لِس أباوت ذي إشيُو ذان أباوت هو گِتس تو دِفاين ذَ تون.",
+          "Sometimes a family argument is less about the issue than about who gets to define the tone.",
+          "أحيانًا يكون الخلاف العائلي أقل تعلقًا بالموضوع وأكثر تعلقًا بمن يحدد النبرة."
+        ],
+        [
+          "I prefer invitations that sound like genuine interest, not obligations dressed up as friendliness.",
+          "أفضّل الدعوات التي تبدو اهتمامًا حقيقيًا، لا التزامات متنكرة في هيئة ودّ.",
+          "آي برِفِر إِنفِتيشنز ذات ساوند لايك جِنْوين إنتِرِست، نات أبلِغيْشِنز درِست أب أز فريندْلِينِس.",
+          "I prefer invitations that sound like genuine interest, not obligations dressed up as friendliness.",
+          "أفضّل الدعوات التي تبدو اهتمامًا حقيقيًا، لا التزامات متنكرة في هيئة ودّ."
+        ],
+        [
+          "Good company does not require constant agreement; it requires enough ease to stay curious.",
+          "الرفقة الجيدة لا تتطلب اتفاقًا دائمًا؛ بل تتطلب قدرًا كافيًا من الارتياح لتبقى الفضول حاضرًا.",
+          "غود كَمْبَني دَز نات رِكْواير كونْستانت أَغْريْمَنت؛ إت رِكْوايرز إنَف إيز تو ستي كورْيَس.",
+          "Good company does not require constant agreement; it requires enough ease to stay curious.",
+          "الرفقة الجيدة لا تتطلب اتفاقًا دائمًا؛ بل تتطلب قدرًا كافيًا من الارتياح لتبقى الفضول حاضرًا."
+        ],
+        [
+          "I have learned that respect is often visible in the pauses, not just in the words people choose.",
+          "تعلمت أن الاحترام يظهر غالبًا في السكتات، لا في الكلمات التي يختارها الناس فقط.",
+          "آي هاف لِرنْد ذات رِسْپِكت إز أوفِن ڤِزِبُل إن ذَ باوزِز، نات جَست إن ذَ وِردز بيبل تشوز.",
+          "I have learned that respect is often visible in the pauses, not just in the words people choose.",
+          "تعلمت أن الاحترام يظهر غالبًا في السكتات، لا في الكلمات التي يختارها الناس فقط."
+        ]
+      ]
+    },
+    {
+      "topic": "المشاركة المجتمعية",
+      "words": [
+        [
+          "The best local projects begin small, because trust grows faster when people can see the work taking shape.",
+          "أفضل المشاريع المحلية تبدأ صغيرة، لأن الثقة تنمو أسرع عندما يرى الناس العمل وهو يتشكل.",
+          "ذَ بِست لوكل بْروجِكتس بِغِن سمول، بِكوز تْرَسْت غروز فاستَر وِن بيبل كان سي ذَ وِرك تيكِنغ شيپ.",
+          "The best local projects begin small, because trust grows faster when people can see the work taking shape.",
+          "أفضل المشاريع المحلية تبدأ صغيرة، لأن الثقة تنمو أسرع عندما يرى الناس العمل وهو يتشكل."
+        ],
+        [
+          "Volunteering taught me that competence matters, but consistency keeps communities from losing momentum.",
+          "علمني التطوع أن الكفاءة مهمة، لكن الاستمرارية هي ما يمنع المجتمعات من فقدان الزخم.",
+          "فولَنْتيرِنغ توت مي ذات كُمبِتَنس مَتَرز، بَت كَنْسِسْتِنْسي كيپس كميونِتيز فرَم لوزِنغ مومِنتَم.",
+          "Volunteering taught me that competence matters, but consistency keeps communities from losing momentum.",
+          "علمني التطوع أن الكفاءة مهمة، لكن الاستمرارية هي ما يمنع المجتمعات من فقدان الزخم."
+        ],
+        [
+          "People are more willing to help when a cause feels specific rather than vaguely admirable.",
+          "يكون الناس أكثر استعدادًا للمساعدة عندما تبدو القضية محددة لا مجرد نبيلة بشكل مبهم.",
+          "بيبل آر مور وِلِنغ تو هيلپ وِن أ كوز فيلز سْبِسِفِك راذَر ذان ڤيگْلي أدمِرَبُل.",
+          "People are more willing to help when a cause feels specific rather than vaguely admirable.",
+          "يكون الناس أكثر استعدادًا للمساعدة عندما تبدو القضية محددة لا مجرد نبيلة بشكل مبهم."
+        ],
+        [
+          "A crowded meeting can still be productive if someone is brave enough to name the practical next step.",
+          "قد يكون الاجتماع المزدحم مثمرًا إذا تجرأ أحد على تسمية الخطوة العملية التالية.",
+          "أ كراودِد ميتِنغ كان ستِل بي بْرَودَكتِف إِف سَموان إز بريف إنَف تو نيم ذَ برَكتِكَل نِكست سْتِپ.",
+          "A crowded meeting can still be productive if someone is brave enough to name the practical next step.",
+          "قد يكون الاجتماع المزدحم مثمرًا إذا تجرأ أحد على تسمية الخطوة العملية التالية."
+        ],
+        [
+          "What looks like bureaucracy from afar is often just the fragile machinery that keeps services fair.",
+          "ما يبدو بيروقراطية من بعيد هو غالبًا الآلية الهشّة التي تحفظ عدالة الخدمات.",
+          "وُت لوكس لايك بيوروكْرَسي فرَم أڤار إز أوفِن جَست ذَ فْرَاجِل مَشينَري ذات كيپس سِرفِسِز فِير.",
+          "What looks like bureaucracy from afar is often just the fragile machinery that keeps services fair.",
+          "ما يبدو بيروقراطية من بعيد هو غالبًا الآلية الهشّة التي تحفظ عدالة الخدمات."
+        ],
+        [
+          "I trust initiatives that leave people with more agency, not merely with a photo and a slogan.",
+          "أثق بالمبادرات التي تترك الناس بقدر أكبر من القدرة على الفعل، لا بصورة وشعار فقط.",
+          "آي تْرَسْت إِنِشِيَتِفز ذات ليف بيبل وِذ مور إيجِنْسي، نات مِرْلي وِذ أ فوتو أند أ سْلوقِن.",
+          "I trust initiatives that leave people with more agency, not merely with a photo and a slogan.",
+          "أثق بالمبادرات التي تترك الناس بقدر أكبر من القدرة على الفعل، لا بصورة وشعار فقط."
+        ],
+        [
+          "When neighbors collaborate, even modest fixes can change the mood of an entire street.",
+          "عندما يتعاون الجيران، يمكن حتى للإصلاحات البسيطة أن تغيّر مزاج شارع كامل.",
+          "وِن نِيبُرز كولابُرَيْت، إيفِن مودِست فِكسِز كان تشينج ذَ مود أڤ إنتاير ستريت.",
+          "When neighbors collaborate, even modest fixes can change the mood of an entire street.",
+          "عندما يتعاون الجيران، يمكن حتى للإصلاحات البسيطة أن تغيّر مزاج شارع كامل."
+        ],
+        [
+          "It is easy to praise civic spirit in theory; it is harder, and more useful, to show up on Tuesday.",
+          "من السهل مدح الروح المدنية نظريًا؛ أما الأصعب، والأكثر نفعًا، فهو الحضور يوم الثلاثاء.",
+          "إت إز إيزي تو بريز سِڤِك سْبيرِت إن ثيري؛ إت إز هاردَر، أند مور يوسفُل، تو شوز أب أون تشوزدي.",
+          "It is easy to praise civic spirit in theory; it is harder, and more useful, to show up on Tuesday.",
+          "من السهل مدح الروح المدنية نظريًا؛ أما الأصعب، والأكثر نفعًا، فهو الحضور يوم الثلاثاء."
+        ],
+        [
+          "A community earns resilience not by avoiding conflict, but by learning how to handle it without contempt.",
+          "تكتسب الجماعة القدرة على الصمود لا بتجنب الخلاف، بل بتعلم كيفية التعامل معه من دون احتقار.",
+          "أ كميونِتي إيرنز رِزِليَنس نات باي أفويدِنغ كونْفْلِكت، بَت باي لِرْنِنغ هاو تو هاندل إت وِذَوت كُونْتِمْپت.",
+          "A community earns resilience not by avoiding conflict, but by learning how to handle it without contempt.",
+          "تكتسب الجماعة القدرة على الصمود لا بتجنب الخلاف، بل بتعلم كيفية التعامل معه من دون احتقار."
+        ],
+        [
+          "The most meaningful outreach is rarely glamorous; it is usually patient, repeated, and locally grounded.",
+          "أكثر أشكال التواصل المجتمعي معنى نادرًا ما يكون لامعًا؛ إنه غالبًا صبور ومتكرر ومتوطن محليًا.",
+          "ذَ موست مينِنغفُل آوتْريتش إز ريرلي غلامَرس؛ إت إز يوجُوالي بَيْشَنت، رِپيتِد، أند لوكَللي گْراوندِد.",
+          "The most meaningful outreach is rarely glamorous; it is usually patient, repeated, and locally grounded.",
+          "أكثر أشكال التواصل المجتمعي معنى نادرًا ما يكون لامعًا؛ إنه غالبًا صبور ومتكرر ومتوطن محليًا."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن المشاعر",
+      "words": [
+        [
+          "I am not upset in a dramatic way; I am simply tired of pretending that everything is fine.",
+          "لست منزعجًا بطريقة درامية؛ أنا فقط متعب من التظاهر بأن كل شيء على ما يرام.",
+          "آي أَم نات أبْسِت إن أ دراماتِك واي؛ آي أَم سِمْبْلي تايرد أُف برِتِنْدِنغ ذات إيفريثِنغ إز فاين.",
+          "I am not upset in a dramatic way; I am simply tired of pretending that everything is fine.",
+          "لست منزعجًا بطريقة درامية؛ أنا فقط متعب من التظاهر بأن كل شيء على ما يرام."
+        ],
+        [
+          "There is relief in naming a feeling precisely, even when the name does not make it disappear.",
+          "يوجد ارتياح في تسمية الشعور بدقة، حتى عندما لا يجعله الاسم يختفي.",
+          "ذير إز رِليف إن نيمِنغ أ فيلِنغ برسِسْلي، إيفِن وِن ذَ نيم دَز نات ميك إت دِسَپير.",
+          "There is relief in naming a feeling precisely, even when the name does not make it disappear.",
+          "يوجد ارتياح في تسمية الشعور بدقة، حتى عندما لا يجعله الاسم يختفي."
+        ],
+        [
+          "I can forgive a mistake faster than I can forgive evasion; honesty repairs more than excuses do.",
+          "أستطيع أن أسامح الخطأ أسرع مما أسامح المراوغة؛ فالصدق يصلح أكثر مما تفعل الأعذار.",
+          "آي كان فورْگِڤ أ مِستيك فاستَر ذان آي كان فورْگِڤ إڤَيْژِن؛ أونِستي رِپيرز مور ذان إكْسْكيوزِز دو.",
+          "I can forgive a mistake faster than I can forgive evasion; honesty repairs more than excuses do.",
+          "أستطيع أن أسامح الخطأ أسرع مما أسامح المراوغة؛ فالصدق يصلح أكثر مما تفعل الأعذار."
+        ],
+        [
+          "Sometimes joy arrives quietly, without fireworks, and that makes it easier to trust.",
+          "أحيانًا يصل الفرح بهدوء، من دون ألعاب نارية، وهذا ما يجعله أسهل في الثقة.",
+          "سَمتايمز جوي أرايفز كْوايَتْلي، وِذَوت فايروِركس، أند ذات ميكس إت إيزيَر تو تْرَسْت.",
+          "Sometimes joy arrives quietly, without fireworks, and that makes it easier to trust.",
+          "أحيانًا يصل الفرح بهدوء، من دون ألعاب نارية، وهذا ما يجعله أسهل في الثقة."
+        ],
+        [
+          "I am comfortable with intensity, as long as it is honest and does not ask me to perform it back.",
+          "أنا مرتاح مع الشدة، ما دامت صادقة ولا تطلب مني أن أمثلها بالمثل.",
+          "آي أَم كَمفْترَبُل وِذ إِنْتِنْسِتي، أز لونغ أز إت إز أونِست أند دَز نات أسك مي تو پِرْفورم إت باك.",
+          "I am comfortable with intensity, as long as it is honest and does not ask me to perform it back.",
+          "أنا مرتاح مع الشدة، ما دامت صادقة ولا تطلب مني أن أمثلها بالمثل."
+        ],
+        [
+          "Grief is strange that way: it can narrow the world and sharpen it at the same time.",
+          "الحزن غريب على هذا النحو: يمكنه أن يضيق العالم ويجعله أكثر حدّة في الوقت نفسه.",
+          "غريف إز سترينج ذات واي: إت كان نيرو ذَ وِرلد أند شاربِن إت أَت ذَ سيم تايم.",
+          "Grief is strange that way: it can narrow the world and sharpen it at the same time.",
+          "الحزن غريب على هذا النحو: يمكنه أن يضيق العالم ويجعله أكثر حدّة في الوقت نفسه."
+        ],
+        [
+          "I do not always know what I feel, but I know when I am no longer willing to ignore it.",
+          "لا أعرف دائمًا ما أشعر به، لكني أعرف متى لا أعود مستعدًا لتجاهله.",
+          "آي دو نات أولْويز نو وُت آي فيل، بَت آي نو وِن آي أَم نو لونغَر وِلِنغ تو إغْنور إت.",
+          "I do not always know what I feel, but I know when I am no longer willing to ignore it.",
+          "لا أعرف دائمًا ما أشعر به، لكني أعرف متى لا أعود مستعدًا لتجاهله."
+        ],
+        [
+          "A calm voice can still carry anger; not every emotion announces itself with volume.",
+          "يمكن للصوت الهادئ أن يحمل الغضب أيضًا؛ فليس كل شعور يعلن نفسه بالصوت العالي.",
+          "أ كالم ڤويس كان ستِل كاري أنغَر؛ نات إيفري إيموشِن أنَونْسِز إتسِلف وِذ ڤوليوم.",
+          "A calm voice can still carry anger; not every emotion announces itself with volume.",
+          "يمكن للصوت الهادئ أن يحمل الغضب أيضًا؛ فليس كل شعور يعلن نفسه بالصوت العالي."
+        ],
+        [
+          "I appreciate tenderness that does not infantilize me, but simply meets me where I am.",
+          "أقدّر الرقة التي لا تعاملني كطفل، بل تلاقيني ببساطة حيث أنا.",
+          "آي أپْرِشِيَيت تِنْدِرْنِس ذات دَز نات إِنْفَنْتِلايز مي، بَت سِمْبْلي ميتس مي وِير آي أَم.",
+          "I appreciate tenderness that does not infantilize me, but simply meets me where I am.",
+          "أقدّر الرقة التي لا تعاملني كطفل، بل تلاقيني ببساطة حيث أنا."
+        ],
+        [
+          "Even when I say little, my silence is rarely empty; it is usually full of things I am still arranging.",
+          "حتى عندما أقول القليل، نادرًا ما يكون صمتي فارغًا؛ فهو غالبًا مليء بأشياء ما زلت أرتبها.",
+          "إيفِن وِن آي سي لِتِل، ماي سايلِنس إز ريرلي إمْپتي؛ إت إز يوجُوالي فول أُف ثِنغز آي أَم ستِل أراينجِنغ.",
+          "Even when I say little, my silence is rarely empty; it is usually full of things I am still arranging.",
+          "حتى عندما أقول القليل، نادرًا ما يكون صمتي فارغًا؛ فهو غالبًا مليء بأشياء ما زلت أرتبها."
+        ]
+      ]
+    },
+    {
+      "topic": "الفن والأدب",
+      "words": [
+        [
+          "A good novel does not merely entertain; it quietly reorganizes your sense of what people are capable of.",
+          "الرواية الجيدة لا تقتصر على الترفيه؛ إنها تعيد تنظيم إحساسك به ما الناس قادرون عليه.",
+          "أ غود نوفل دَز نات مِرْلي إِنْتِرْتين؛ إت كْوايَتْلي ري أُرْغَنايزِز يور سينس أڤ وُت بيبل آر كَيْپَبُل أُف.",
+          "A good novel does not merely entertain; it quietly reorganizes your sense of what people are capable of.",
+          "الرواية الجيدة لا تقتصر على الترفيه؛ إنها تعيد تنظيم إحساسك به ما الناس قادرون عليه."
+        ],
+        [
+          "I love essays that sound like thought in motion, not like a lecture wearing a softer jacket.",
+          "أحب المقالات التي تبدو فكراً في حركة، لا محاضرة ترتدي سترة ألطف.",
+          "آي لَڤ إِسَيْز ذات ساوند لايك ثوت إن موشن، نات لايك أ لِكْتْشَر وِيرِنغ أ سافْتر جاكِت.",
+          "I love essays that sound like thought in motion, not like a lecture wearing a softer jacket.",
+          "أحب المقالات التي تبدو فكراً في حركة، لا محاضرة ترتدي سترة ألطف."
+        ],
+        [
+          "The painting works because it refuses to explain itself too neatly.",
+          "اللوحة ناجحة لأنها ترفض أن تشرح نفسها بترتيب مفرط.",
+          "ذَ پينْتِنغ وِركس بِكوز إت رِفْيوزِز تو إكْسْپلين إتسِلف تو نِيتْلي.",
+          "The painting works because it refuses to explain itself too neatly.",
+          "اللوحة ناجحة لأنها ترفض أن تشرح نفسها بترتيب مفرط."
+        ],
+        [
+          "Some poems seem simple until you notice how much restraint is holding them together.",
+          "بعض القصائد تبدو بسيطة حتى تلاحظ كم من الضبط يمسكها معًا.",
+          "سَم پويمز سيم سِمْپُل أُنْتِل يو نوتِس هاو مَتش رِسترينت إز هولدِنغ ذَم تُگِذَر.",
+          "Some poems seem simple until you notice how much restraint is holding them together.",
+          "بعض القصائد تبدو بسيطة حتى تلاحظ كم من الضبط يمسكها معًا."
+        ],
+        [
+          "A stage performance becomes memorable when the actor leaves room for the audience to think.",
+          "تصبح العروض المسرحية لا تُنسى عندما يترك الممثل مساحة للجمهور كي يفكر.",
+          "أ ستيج پِرفورْمَنس بِكَمْز مِمُرَبُل وِن ذي أكتَر ليفز روم فور ذي أودِيَنس تو ثِنك.",
+          "A stage performance becomes memorable when the actor leaves room for the audience to think.",
+          "تصبح العروض المسرحية لا تُنسى عندما يترك الممثل مساحة للجمهور كي يفكر."
+        ],
+        [
+          "I trust criticism more when it is specific, generous, and brave enough to risk being unpopular.",
+          "أثق بالنقد أكثر عندما يكون محددًا وكريمًا وجريئًا بما يكفي ليخاطر بعدم الشعبية.",
+          "آي تْرَسْت كْرِتِسِزم مور وِن إت إز سْپِسِفِك، جِنَرَس، أند بريف إنَف تو رِسك بيِنغ آنْپأپْيولَر.",
+          "I trust criticism more when it is specific, generous, and brave enough to risk being unpopular.",
+          "أثق بالنقد أكثر عندما يكون محددًا وكريمًا وجريئًا بما يكفي ليخاطر بعدم الشعبية."
+        ],
+        [
+          "A well-placed line can do what a whole paragraph cannot: it can alter the weather of a scene.",
+          "قد تفعل جملة موضوعة بإحكام ما لا يستطيع فقرة كاملة فعله: تغيّر مناخ المشهد.",
+          "أ وِل-پلايست لاين كان دو وُت أ هول بارَغْراف كانات: إت كان ألتَر ذَ ويدر أڤ أ سين.",
+          "A well-placed line can do what a whole paragraph cannot: it can alter the weather of a scene.",
+          "قد تفعل جملة موضوعة بإحكام ما لا يستطيع فقرة كاملة فعله: تغيّر مناخ المشهد."
+        ],
+        [
+          "I admire artists who leave fingerprints of doubt inside their confidence.",
+          "أعجب بالفنانين الذين يتركون بصمات من الشك داخل ثقتهم.",
+          "آي أدمَاير آرْتِستس هو ليف فِنْگَرپْرِنْتس أڤ داوت إِنسايد ذير كُونفِدَنس.",
+          "I admire artists who leave fingerprints of doubt inside their confidence.",
+          "أعجب بالفنانين الذين يتركون بصمات من الشك داخل ثقتهم."
+        ],
+        [
+          "The best literary voices make complexity feel legible without making it small.",
+          "أفضل الأصوات الأدبية تجعل التعقيد مفهومًا من دون أن تجعله صغيرًا.",
+          "ذَ بِست لِتَرَري ڤويسِز ميك كومْپلِكسِتي فيل لِجِبُل وِذَوت ميكينغ إت سمول.",
+          "The best literary voices make complexity feel legible without making it small.",
+          "أفضل الأصوات الأدبية تجعل التعقيد مفهومًا من دون أن تجعله صغيرًا."
+        ],
+        [
+          "A moving ending does not close the book so much as it leaves the reader more alert.",
+          "النهاية المؤثرة لا تغلق الكتاب بقدر ما تترك القارئ أكثر يقظة.",
+          "أ مووفِنغ إندِنغ دَز نات كلووز ذَ بوك سو ماتش أز إت ليفز ذَ ريدر مور أَلِرت.",
+          "A moving ending does not close the book so much as it leaves the reader more alert.",
+          "النهاية المؤثرة لا تغلق الكتاب بقدر ما تترك القارئ أكثر يقظة."
+        ]
+      ]
+    },
+    {
+      "topic": "الهوية والانتماء",
+      "words": [
+        [
+          "I feel most myself when I can speak plainly, without having to translate my life for the room.",
+          "أشعر بأنني على طبيعتي أكثر عندما أستطيع أن أتحدث بوضوح، من دون أن أضطر إلى ترجمة حياتي للحاضرين.",
+          "آي فيل موست مايسيلف وِن آي كان سبيك بلينلي، وِذاوت هافينغ تو ترانزليت ماي لايف فور ذَ روم.",
+          "I feel most myself when I can speak plainly, without having to translate my life for the room.",
+          "أشعر بأنني على طبيعتي أكثر عندما أستطيع أن أتحدث بوضوح، من دون أن أضطر إلى ترجمة حياتي للحاضرين."
+        ],
+        [
+          "Home is less a place than a rhythm of voices, habits, and shared references.",
+          "الوطن أقلّ مكانًا منه إيقاعًا من الأصوات والعادات والإشارات المشتركة.",
+          "هوم إز لِس أ بليس ذان أ رِذم أڤ ڤويسِز، هابِتس، أند شيرد ريفرِنسِز.",
+          "Home is less a place than a rhythm of voices, habits, and shared references.",
+          "الوطن أقلّ مكانًا منه إيقاعًا من الأصوات والعادات والإشارات المشتركة."
+        ],
+        [
+          "I belong more easily where difference is noticed, but not treated like a problem.",
+          "أشعر بالانتماء بسهولة أكبر حيث يُلاحَظ الاختلاف، لكنه لا يُعامَل بوصفه مشكلة.",
+          "آي بِلونغ مور إيزيلي وِير دِفرَنس إز نوتِست، بَت نوت تريتِد لايك أ بروبلم.",
+          "I belong more easily where difference is noticed, but not treated like a problem.",
+          "أشعر بالانتماء بسهولة أكبر حيث يُلاحَظ الاختلاف، لكنه لا يُعامَل بوصفه مشكلة."
+        ],
+        [
+          "People often ask where I am from, as if one answer could carry the whole story.",
+          "كثيرًا ما يسألني الناس من أين أنا، وكأن إجابة واحدة تستطيع أن تحمل القصة كلها.",
+          "بيبل أوفِن أسك وِير آي آم فرُم، أز إِف ون آنسر كود كاري ذَ هول ستوري.",
+          "People often ask where I am from, as if one answer could carry the whole story.",
+          "كثيرًا ما يسألني الناس من أين أنا، وكأن إجابة واحدة تستطيع أن تحمل القصة كلها."
+        ],
+        [
+          "I have learned that loyalty to a place can survive disagreement with its politics.",
+          "تعلمتُ أن الولاء لمكان ما يمكنه أن يصمد رغم الاختلاف مع سياساته.",
+          "آي هاف لِرنْد ذات لويالتي تو أ بليس كان سُرفايف دِسَغريمنت وِذ إِتس بُلتِكس.",
+          "I have learned that loyalty to a place can survive disagreement with its politics.",
+          "تعلمتُ أن الولاء لمكان ما يمكنه أن يصمد رغم الاختلاف مع سياساته."
+        ],
+        [
+          "Sometimes the strongest bond is not shared blood, but shared effort over time.",
+          "أحيانًا تكون أقوى صلة ليست الدم المشترك، بل الجهد المشترك عبر الزمن.",
+          "سَمتايمز ذَ سترونغِست بوند إز نوت شيرد بلاد، بَت شيرد إِفَرت أوفر تايم.",
+          "Sometimes the strongest bond is not shared blood, but shared effort over time.",
+          "أحيانًا تكون أقوى صلة ليست الدم المشترك، بل الجهد المشترك عبر الزمن."
+        ],
+        [
+          "I can admire a tradition without pretending it fits me in every detail.",
+          "أستطيع أن أقدّر تقليدًا من دون أن أتظاهر بأنه يناسبني في كل تفصيل.",
+          "آي كان أدمَير أ تردِشن وِذاوت برِتندينغ إِت فِتس مي إن إڤري ديتيل.",
+          "I can admire a tradition without pretending it fits me in every detail.",
+          "أستطيع أن أقدّر تقليدًا من دون أن أتظاهر بأنه يناسبني في كل تفصيل."
+        ],
+        [
+          "An accent may mark where I came from, but it never tells the whole of who I am.",
+          "قد تُشير اللكنة إلى المكان الذي أتيتُ منه، لكنها لا تقول أبدًا كل ما أنا عليه.",
+          "آن أكسِنت ماي مارك وِير آي كيم فرُم، بَت إِت نِڤر تيلز ذَ هول أڤ هو آي آم.",
+          "An accent may mark where I came from, but it never tells the whole of who I am.",
+          "قد تُشير اللكنة إلى المكان الذي أتيتُ منه، لكنها لا تقول أبدًا كل ما أنا عليه."
+        ],
+        [
+          "I prefer communities that make room for overlap instead of demanding pure categories.",
+          "أفضّل المجتمعات التي تفسح مجالًا للتداخل بدلًا من المطالبة بفئات نقية.",
+          "آي برِفير كميونيتيز ذات ميك روم فور أوڤرلَب إنستِد أڤ ديمانْدِنغ بيور كاتِغوريز.",
+          "I prefer communities that make room for overlap instead of demanding pure categories.",
+          "أفضّل المجتمعات التي تفسح مجالًا للتداخل بدلًا من المطالبة بفئات نقية."
+        ],
+        [
+          "Belonging, at its best, feels less like being absorbed and more like being recognized.",
+          "الانتماء، في أفضل حالاته، يبدو أقل كأنه ابتلاع وأكثر كأنه اعتراف بك.",
+          "بِلونغينغ، آت إِتس بِست، فيلز لِس لايك بيينغ أبزوربت أند مور لايك بيينغ رِكوغنايزد.",
+          "Belonging, at its best, feels less like being absorbed and more like being recognized.",
+          "الانتماء، في أفضل حالاته، يبدو أقل كأنه ابتلاع وأكثر كأنه اعتراف بك."
+        ]
+      ]
+    },
+    {
+      "topic": "الأخلاق والمسؤولية",
+      "words": [
+        [
+          "If I benefit from a system, I cannot wash my hands of how it is maintained.",
+          "إذا استفدتُ من نظام ما، فلا أستطيع أن أتنصل من طريقة استمراره.",
+          "إف آي بِنِفِت فرُم أ سيستم، آي كانوت ووش ماي هاندز أڤ هاو إت إز مينتَيْند.",
+          "If I benefit from a system, I cannot wash my hands of how it is maintained.",
+          "إذا استفدتُ من نظام ما، فلا أستطيع أن أتنصل من طريقة استمراره."
+        ],
+        [
+          "Doing nothing can be a choice, and sometimes it is the most costly one.",
+          "عدم فعل شيء قد يكون خيارًا، وأحيانًا يكون هو الأكثر كلفة.",
+          "دوينغ نَثينغ كان بي أ تشويس، أند سَمتايمز إت إز ذَ موست كوستلي وَن.",
+          "Doing nothing can be a choice, and sometimes it is the most costly one.",
+          "عدم فعل شيء قد يكون خيارًا، وأحيانًا يكون هو الأكثر كلفة."
+        ],
+        [
+          "A clean conscience is not the same as a clean record.",
+          "الضمير النقي ليس هو نفسه السجل النظيف.",
+          "أ كْلين كُونشَنس إز نوت ذَ سيم أز أ كْلين ريكورد.",
+          "A clean conscience is not the same as a clean record.",
+          "الضمير النقي ليس هو نفسه السجل النظيف."
+        ],
+        [
+          "It is easy to praise principles when someone else pays the price.",
+          "من السهل مدح المبادئ عندما يدفع شخص آخر الثمن.",
+          "إت إز إيزي تو بريز برِنْسِپَلز وِن سَموان إلس بيز ذَ برايس.",
+          "It is easy to praise principles when someone else pays the price.",
+          "من السهل مدح المبادئ عندما يدفع شخص آخر الثمن."
+        ],
+        [
+          "Responsibility starts where convenient excuses stop sounding convincing.",
+          "تبدأ المسؤولية حين تتوقف الأعذار المريحة عن أن تبدو مقنعة.",
+          "رِسبونسِبِلِتي ستارتس وِير كَنڤينْيَنت إِكسكيوزِز ستوب ساوندينغ كَنڤِنْسِنغ.",
+          "Responsibility starts where convenient excuses stop sounding convincing.",
+          "تبدأ المسؤولية حين تتوقف الأعذار المريحة عن أن تبدو مقنعة."
+        ],
+        [
+          "I trust apologies more when they come with changed behavior, not polished language.",
+          "أثق بالاعتذارات أكثر حين تأتي مع سلوك متغير، لا مع لغة مصقولة.",
+          "آي ترَست أپولوجيز مور وِن ذي كم وِذ تشينجد بِهيڤيَر، نوت بولِشت لانغوِج.",
+          "I trust apologies more when they come with changed behavior, not polished language.",
+          "أثق بالاعتذارات أكثر حين تأتي مع سلوك متغير، لا مع لغة مصقولة."
+        ],
+        [
+          "Fairness is easier to defend in theory than in the room where trade-offs happen.",
+          "الإنصاف أسهل في الدفاع عنه نظريًا من الغرفة التي تحدث فيها المقايضات.",
+          "فيرنِس إز إيزيَر تو دِفِند إن ثيَري ذان إن ذَ روم وِير تريد-أوفز هابِن.",
+          "Fairness is easier to defend in theory than in the room where trade-offs happen.",
+          "الإنصاف أسهل في الدفاع عنه نظريًا من الغرفة التي تحدث فيها المقايضات."
+        ],
+        [
+          "When the rules are unclear, character shows up in the way we interpret them.",
+          "عندما تكون القواعد غير واضحة، يظهر الخُلُق في الطريقة التي نؤولها بها.",
+          "وِن ذَ رولز آر أَنكلير، كارَكتر شووز أپ إن ذَ واي وي إنترپريت ذِم.",
+          "When the rules are unclear, character shows up in the way we interpret them.",
+          "عندما تكون القواعد غير واضحة، يظهر الخُلُق في الطريقة التي نؤولها بها."
+        ],
+        [
+          "I would rather be corrected than quietly enabled.",
+          "أفضل أن يُصحَّح لي الخطأ على أن يُتغاضى عنه بصمت.",
+          "آي وود راذَر بي كُرِكتِد ذان كوَيتلي إنَيْبْلْد.",
+          "I would rather be corrected than quietly enabled.",
+          "أفضل أن يُصحَّح لي الخطأ على أن يُتغاضى عنه بصمت."
+        ],
+        [
+          "Ethics is not a halo; it is a practice of noticing what would be easiest to ignore.",
+          "الأخلاق ليست هالةً؛ إنها ممارسة ملاحظة ما سيكون من الأسهل تجاهله.",
+          "إثِكس إز نوت أ هيلو؛ إت إز أ برَكتِس أڤ نوتِسِنغ وُت وود بي إيزيَست تو إغنور.",
+          "Ethics is not a halo; it is a practice of noticing what would be easiest to ignore.",
+          "الأخلاق ليست هالةً؛ إنها ممارسة ملاحظة ما سيكون من الأسهل تجاهله."
+        ]
+      ]
+    },
+    {
+      "topic": "البحث والنقاش الأكاديمي",
+      "words": [
+        [
+          "A strong argument does not need theatrics; it needs clarity, evidence, and restraint.",
+          "الحجة القوية لا تحتاج إلى استعراض؛ إنها تحتاج إلى وضوح، وأدلة، وضبط للنفس.",
+          "أ سترونغ آرجومِنت داز نوت نيد ثياترِكس؛ إت نيدز كليرِتي، إڤيدِنس، أند رِسترينت.",
+          "A strong argument does not need theatrics; it needs clarity, evidence, and restraint.",
+          "الحجة القوية لا تحتاج إلى استعراض؛ إنها تحتاج إلى وضوح، وأدلة، وضبط للنفس."
+        ],
+        [
+          "The literature is less a verdict than a conversation we inherit and revise.",
+          "الدراسات السابقة أقلّ كونها حكمًا نهائيًا وأكثر كونها حوارًا نرثه ونراجعه.",
+          "ذَ لِترَچَر إز لِس أ ڤِردِكت ذان أ كُونڤِرسَيْشَن وي إيرِت أند رِڤاِز.",
+          "The literature is less a verdict than a conversation we inherit and revise.",
+          "الدراسات السابقة أقلّ كونها حكمًا نهائيًا وأكثر كونها حوارًا نرثه ونراجعه."
+        ],
+        [
+          "Good methodology is visible in what it rules out as much as in what it includes.",
+          "المنهجية الجيدة تظهر في ما تستبعده بقدر ما تظهر في ما تتضمنه.",
+          "غود ميثودولوجي إز ڤِزِبُل إن وُت إت رولز آوت أز مَتش أز إن وُت إت إنكلودز.",
+          "Good methodology is visible in what it rules out as much as in what it includes.",
+          "المنهجية الجيدة تظهر في ما تستبعده بقدر ما تظهر في ما تتضمنه."
+        ],
+        [
+          "I am wary of conclusions that arrive before the questions have done their work.",
+          "أتحفظ على الاستنتاجات التي تصل قبل أن تؤدي الأسئلة عملها.",
+          "آي آم ويري أڤ كَنكلوجِنز ذات أرايف بِفور ذَ كْوِسْتْشَنز هاف دَن ذير وُرك.",
+          "I am wary of conclusions that arrive before the questions have done their work.",
+          "أتحفظ على الاستنتاجات التي تصل قبل أن تؤدي الأسئلة عملها."
+        ],
+        [
+          "Replication is boring only to people who underestimate how often errors hide in the margins.",
+          "إعادة الاختبار مملة فقط لمن يستخفّ بمدى شيوع الأخطاء المختبئة في الهوامش.",
+          "رِپْلِكَيْشَن إز بوريِنغ أونلي تو بيپل هو أندَراستِمِيت هاو أوفِن إيررز هايد إن ذَ مارجِنز.",
+          "Replication is boring only to people who underestimate how often errors hide in the margins.",
+          "إعادة الاختبار مملة فقط لمن يستخفّ بمدى شيوع الأخطاء المختبئة في الهوامش."
+        ],
+        [
+          "A nuanced critique can improve a paper without reducing it to rubble.",
+          "يمكن لنقد دقيق أن يحسّن ورقةً بحثية من دون أن يحولها إلى أنقاض.",
+          "أ نيوانسْت كْرِتيك كان إمپروف أ بيپر وِذاوت رِديوسِنغ إت تو رَبُل.",
+          "A nuanced critique can improve a paper without reducing it to rubble.",
+          "يمكن لنقد دقيق أن يحسّن ورقةً بحثية من دون أن يحولها إلى أنقاض."
+        ],
+        [
+          "The hardest part of scholarship is often deciding what not to claim.",
+          "غالبًا ما يكون أصعب جزء في البحث هو أن تقرر ما الذي لا ينبغي ادعاؤه.",
+          "ذَ هارْدِست بارت أڤ سْكولَرشِپ إز أوفِن دِسايدِنغ وُت نوت تو كليم.",
+          "The hardest part of scholarship is often deciding what not to claim.",
+          "غالبًا ما يكون أصعب جزء في البحث هو أن تقرر ما الذي لا ينبغي ادعاؤه."
+        ],
+        [
+          "Peer review works best when disagreement is treated as a tool, not a threat.",
+          "يعمل التحكيم النظيري على أفضل وجه عندما يُعامَل الخلاف بوصفه أداةً لا تهديدًا.",
+          "بير رِڤيو وُركس بِست وِن دِسَغريمنت إز تريتِد أز أ تول، نوت أ ثرِت.",
+          "Peer review works best when disagreement is treated as a tool, not a threat.",
+          "يعمل التحكيم النظيري على أفضل وجه عندما يُعامَل الخلاف بوصفه أداةً لا تهديدًا."
+        ],
+        [
+          "A finding is strongest when it survives the temptation to overstate its reach.",
+          "يكون الاكتشاف أقوى عندما يصمد أمام إغراء المبالغة في مدى تأثيره.",
+          "أ فايندِنغ إز سترونغِست وِن إت سُرفايفز ذَ تِمْپتيشَن تو أوفرستيت إتس ريتش.",
+          "A finding is strongest when it survives the temptation to overstate its reach.",
+          "يكون الاكتشاف أقوى عندما يصمد أمام إغراء المبالغة في مدى تأثيره."
+        ],
+        [
+          "In serious debate, the goal is not to win a point, but to make the claim worth keeping.",
+          "في النقاش الجاد، الهدف ليس الفوز بنقطة، بل جعل الادعاء جديرًا بالاحتفاظ به.",
+          "إن سيريَس دِبيت، ذَ غول إز نوت تو وِن أ بوينت، بَت تو ميك ذَ كْليم وُرث كيبينغ.",
+          "In serious debate, the goal is not to win a point, but to make the claim worth keeping.",
+          "في النقاش الجاد، الهدف ليس الفوز بنقطة، بل جعل الادعاء جديرًا بالاحتفاظ به."
+        ]
+      ]
+    },
+    {
+      "topic": "فهم المعاني الضمنية",
+      "words": [
+        [
+          "She said she was fine, but her pause suggested otherwise.",
+          "قالت إنها بخير، لكن وقفتها أوحت بعكس ذلك.",
+          "شي سيد شي واز فاين، بَت هِر بوز سَجِستِد أَذَروايز.",
+          "She said she was fine, but her pause suggested otherwise.",
+          "قالت إنها بخير، لكن وقفتها أوحت بعكس ذلك."
+        ],
+        [
+          "His thanks were polite enough to close the subject, not warm enough to invite more of it.",
+          "كان شكره مهذبًا بما يكفي لإغلاق الموضوع، لا دافئًا بما يكفي لدعوة المزيد منه.",
+          "هِز ثانكس وِر بولايت إنَف تو كْلوز ذَ سَبجِكت، نوت وورم إنَف تو إنڤايت مور أڤ إِت.",
+          "His thanks were polite enough to close the subject, not warm enough to invite more of it.",
+          "كان شكره مهذبًا بما يكفي لإغلاق الموضوع، لا دافئًا بما يكفي لدعوة المزيد منه."
+        ],
+        [
+          "I heard the compliment, but I noticed the condition attached to it.",
+          "سمعتُ المجاملة، لكنني لاحظت الشرط المُلحق بها.",
+          "آي هِرد ذَ كُمپْلِمِنت، بَت آي نوتِستِد ذَ كَنشِن أَتاتشت تو إِت.",
+          "I heard the compliment, but I noticed the condition attached to it.",
+          "سمعتُ المجاملة، لكنني لاحظت الشرط المُلحق بها."
+        ],
+        [
+          "When someone says, 'Do whatever you want,' the real message may be the opposite.",
+          "عندما يقول أحدهم: «افعل ما تشاء»، فقد تكون الرسالة الحقيقية عكس ذلك.",
+          "وِن سَموان سيز، دو وُتإڤَر يو وونت، ذَ ريل مِسِج ماي بي ذَ أُپوزِت.",
+          "When someone says, 'Do whatever you want,' the real message may be the opposite.",
+          "عندما يقول أحدهم: «افعل ما تشاء»، فقد تكون الرسالة الحقيقية عكس ذلك."
+        ],
+        [
+          "A smile can soften a remark without making it harmless.",
+          "يمكن لابتسامة أن تلطف تعليقًا من دون أن تجعله غير مؤذٍ.",
+          "أ سمايل كان سوفِن أ رِمارك وِذاوت ميكنغ إِت هارملِس.",
+          "A smile can soften a remark without making it harmless.",
+          "يمكن لابتسامة أن تلطف تعليقًا من دون أن تجعله غير مؤذٍ."
+        ],
+        [
+          "I prefer honesty that risks awkwardness to courtesy that hides contempt.",
+          "أفضل الصراحة التي تخاطر بالإحراج على المجاملة التي تخفي الاحتقار.",
+          "آي برِفير أونِسْتي ذات رِسكس أوكوَردنِس تو كورتيسي ذات هايدز كَنتِمْت.",
+          "I prefer honesty that risks awkwardness to courtesy that hides contempt.",
+          "أفضل الصراحة التي تخاطر بالإحراج على المجاملة التي تخفي الاحتقار."
+        ],
+        [
+          "The silence after his reply said more than the reply itself.",
+          "الصمت الذي أعقب رده قال أكثر من الرد نفسه.",
+          "ذَ سايلِنس آفتر هِز رِپلاي سيد مور ذان ذَ رِپلاي إِتسِلف.",
+          "The silence after his reply said more than the reply itself.",
+          "الصمت الذي أعقب رده قال أكثر من الرد نفسه."
+        ],
+        [
+          "You do not need every implication spelled out when the pattern is already clear.",
+          "لا تحتاج إلى شرح كل إشارة ضمنية عندما يكون النمط واضحًا بالفعل.",
+          "يو دو نوت نيد إڤري إمپْلِكَيْشَن سْپِلد آوت وِن ذَ پاترن إز أولرِدي كلير.",
+          "You do not need every implication spelled out when the pattern is already clear.",
+          "لا تحتاج إلى شرح كل إشارة ضمنية عندما يكون النمط واضحًا بالفعل."
+        ],
+        [
+          "Sometimes a joke is doing diplomatic work that no one wants to name.",
+          "أحيانًا تقوم النكتة بعملٍ دبلوماسي لا يرغب أحد في تسميته.",
+          "سَمتايمز أ جوك إز دوينغ دِبلوماسِك وُرك ذات نو وَن وونتس تو نيم.",
+          "Sometimes a joke is doing diplomatic work that no one wants to name.",
+          "أحيانًا تقوم النكتة بعملٍ دبلوماسي لا يرغب أحد في تسميته."
+        ],
+        [
+          "What is left unsaid can reveal more about a room than the sentences spoken there.",
+          "ما يُترك غيرَ منطوق قد يكشف عن الغرفة أكثر من الجمل التي تُقال فيها.",
+          "وُت إز لِفت أَنْسيد كان رِڤيل مور أباوت أ روم ذان ذَ سِنْتِنسِز سْپوكِن ذير.",
+          "What is left unsaid can reveal more about a room than the sentences spoken there.",
+          "ما يُترك غيرَ منطوق قد يكشف عن الغرفة أكثر من الجمل التي تُقال فيها."
+        ]
+      ]
+    },
+    {
+      "topic": "التكيّف مع الغموض",
+      "words": [
+        [
+          "I do not need every answer today; some questions deserve to breathe.",
+          "لستُ بحاجة إلى كل إجابة اليوم؛ بعض الأسئلة تستحق أن تتنفس.",
+          "آي دو نوت نيد إڤري آنسر توداي؛ سَم كْوِسْتْشَنز دِزَرف تو بريذ.",
+          "I do not need every answer today; some questions deserve to breathe.",
+          "لستُ بحاجة إلى كل إجابة اليوم؛ بعض الأسئلة تستحق أن تتنفس."
+        ],
+        [
+          "Uncertainty is uncomfortable, but it can also keep judgment honest.",
+          "الغموض غير مريح، لكنه قد يبقي الحكم صادقًا أيضًا.",
+          "أَنْسِرتِنْتي إز أَنْكَمفرتَبُل، بَت إت كان أولسو كيب جَجْمَنت أونِست.",
+          "Uncertainty is uncomfortable, but it can also keep judgment honest.",
+          "الغموض غير مريح، لكنه قد يبقي الحكم صادقًا أيضًا."
+        ],
+        [
+          "I can plan carefully without pretending the future has signed the contract.",
+          "أستطيع أن أخطط بعناية من دون أن أتظاهر بأن المستقبل وقّع العقد.",
+          "آي كان بلان كيرفُلي وِذاوت برِتندينغ ذَ فيوتشر هاز سايند ذَ كُنترأكت.",
+          "I can plan carefully without pretending the future has signed the contract.",
+          "أستطيع أن أخطط بعناية من دون أن أتظاهر بأن المستقبل وقّع العقد."
+        ],
+        [
+          "When facts are incomplete, confidence should become modest, not theatrical.",
+          "عندما تكون الحقائق غير مكتملة، ينبغي للثقة أن تصبح متواضعة لا استعراضية.",
+          "وِن فاكتس آر إنكُمپْليت، كُونفِدَنس شود بِكم مودِست، نوت ثياترِكل.",
+          "When facts are incomplete, confidence should become modest, not theatrical.",
+          "عندما تكون الحقائق غير مكتملة، ينبغي للثقة أن تصبح متواضعة لا استعراضية."
+        ],
+        [
+          "A flexible mind can hold two possibilities without forcing a premature verdict.",
+          "يمكن للعقل المرن أن يحتفظ باحتمالين من دون أن يفرض حكمًا مسبقًا.",
+          "أ فْلِكْسِبُل مايند كان هولد تو پوسِبِلِتيز وِذاوت فورسِنغ أ بْرِميتشور ڤِردِكت.",
+          "A flexible mind can hold two possibilities without forcing a premature verdict.",
+          "يمكن للعقل المرن أن يحتفظ باحتمالين من دون أن يفرض حكمًا مسبقًا."
+        ],
+        [
+          "I would rather revise a position than defend it past the point of reason.",
+          "أفضل أن أراجع موقفًا على أن أدافع عنه بعد أن يتجاوز حدود المعقول.",
+          "آي وود راذَر رِڤاِز أ پوزِشن ذان دِفِند إِت باست ذَ بوينت أڤ ريزن.",
+          "I would rather revise a position than defend it past the point of reason.",
+          "أفضل أن أراجع موقفًا على أن أدافع عنه بعد أن يتجاوز حدود المعقول."
+        ],
+        [
+          "Ambiguity is not always a flaw; sometimes it is where nuance lives.",
+          "الغموض ليس دائمًا عيبًا؛ أحيانًا يكون هو المكان الذي تعيش فيه الدقة.",
+          "أمبِغيُتي إز نوت أولويز أ فلاو؛ سَمتايمز إت إز وِير نيوانس لِڤز.",
+          "Ambiguity is not always a flaw; sometimes it is where nuance lives.",
+          "الغموض ليس دائمًا عيبًا؛ أحيانًا يكون هو المكان الذي تعيش فيه الدقة."
+        ],
+        [
+          "If the path is unclear, I can still choose the next sensible step.",
+          "إذا كان الطريق غير واضح، فلا يزال بإمكاني اختيار الخطوة المنطقية التالية.",
+          "إف ذَ پاث إز أَنْكلير، آي كان ستِل تشوز ذَ نِكسْت سِنْسِبُل سْتِپ.",
+          "If the path is unclear, I can still choose the next sensible step.",
+          "إذا كان الطريق غير واضح، فلا يزال بإمكاني اختيار الخطوة المنطقية التالية."
+        ],
+        [
+          "Adaptation is not surrender; it is intelligence under changing weather.",
+          "التكيّف ليس استسلامًا؛ إنه ذكاء تحت طقس متغيّر.",
+          "أداپتيشَن إز نوت سَرينْدَر؛ إت إز إنتِلِجَنس أندر تشينجينغ وِذَر.",
+          "Adaptation is not surrender; it is intelligence under changing weather.",
+          "التكيّف ليس استسلامًا؛ إنه ذكاء تحت طقس متغيّر."
+        ],
+        [
+          "I trust processes that can live with ambiguity long enough to earn precision.",
+          "أثق بالعمليات التي تستطيع التعايش مع الغموض بما يكفي لتكسب الدقة.",
+          "آي ترَست بروسِسِز ذات كان لِڤ وِذ أمبِغيُتي لونغ إنَف تو إرن برسِجِن.",
+          "I trust processes that can live with ambiguity long enough to earn precision.",
+          "أثق بالعمليات التي تستطيع التعايش مع الغموض بما يكفي لتكسب الدقة."
+        ]
+      ]
+    },
+    {
+      "topic": "الأسلوب الرسمي وغير الرسمي",
+      "words": [
+        [
+          "I appreciate your prompt reply, and I will review the figures before our meeting.",
+          "أقدّر ردك السريع، وسأراجع الأرقام قبل اجتماعنا.",
+          "آي أَبْريشييت يور برومبت ري بلاي، أند آي وِل رِفيو ذَ فِيغيرز بيفور آور ميتينغ.",
+          "I appreciate your prompt reply, and I will review the figures before our meeting.",
+          "أقدّر ردك السريع، وسأراجع الأرقام قبل اجتماعنا."
+        ],
+        [
+          "Could you send the draft by Friday, so we can keep the schedule on track?",
+          "هل يمكنك إرسال المسودة بحلول يوم الجمعة، حتى نحافظ على الجدول في مساره؟",
+          "كود يو سِند ذَ درافت باي فراي دي، سو وي كان كيب ذَ سْكَجول أون تراك؟",
+          "Could you send the draft by Friday, so we can keep the schedule on track?",
+          "هل يمكنك إرسال المسودة بحلول يوم الجمعة، حتى نحافظ على الجدول في مساره؟"
+        ],
+        [
+          "Thanks for looping me in; I had not seen the earlier thread.",
+          "شكرًا لإشراكي في الأمر؛ لم أكن قد رأيت السلسلة السابقة.",
+          "ثانكس فور لوبينغ مي إن؛ آي هاد نات سين ذي إيرليَر ثْرِد.",
+          "Thanks for looping me in; I had not seen the earlier thread.",
+          "شكرًا لإشراكي في الأمر؛ لم أكن قد رأيت السلسلة السابقة."
+        ],
+        [
+          "We would be grateful if you could clarify the final terms in writing.",
+          "سنكون ممتنين لو تكرمت بتوضيح الشروط النهائية كتابةً.",
+          "وي وود بي غرايتفُل إِف يو كود كلاري فاي ذَ فاينَل تِرمز إن رايتينغ.",
+          "We would be grateful if you could clarify the final terms in writing.",
+          "سنكون ممتنين لو تكرمت بتوضيح الشروط النهائية كتابةً."
+        ],
+        [
+          "I’m fine with that plan, though I may tweak a few details later.",
+          "لا بأس لديّ بهذه الخطة، رغم أنني قد أُجري بعض التعديلات لاحقًا.",
+          "آيم فاين وِذ ذات بلان، ثو آي ماي تويك أ فو ديتيلز لايتر.",
+          "I’m fine with that plan, though I may tweak a few details later.",
+          "لا بأس لديّ بهذه الخطة، رغم أنني قد أُجري بعض التعديلات لاحقًا."
+        ],
+        [
+          "Please let me know if that sounds reasonable to you.",
+          "من فضلك أخبرني إن كان ذلك يبدو معقولًا لك.",
+          "بليز لِت مي نو إِف ذات ساوندز ريزَنَبُل تو يو.",
+          "Please let me know if that sounds reasonable to you.",
+          "من فضلك أخبرني إن كان ذلك يبدو معقولًا لك."
+        ],
+        [
+          "I’m not in a rush, but I would like a clear answer by tomorrow.",
+          "لستُ على عجلة، لكنني أود إجابة واضحة بحلول الغد.",
+          "آيم نات إن أ راش، بَت آي وود لايك أ كلير أنسر باي تومورو.",
+          "I’m not in a rush, but I would like a clear answer by tomorrow.",
+          "لستُ على عجلة، لكنني أود إجابة واضحة بحلول الغد."
+        ],
+        [
+          "That was a helpful explanation, and it made the decision much easier.",
+          "كان ذلك شرحًا مفيدًا، وقد جعل القرار أسهل بكثير.",
+          "ذات واز أ هِلفْفُل إكسبْلَنيشن، أند إِت مايد ذَ دِسِجن ماش إيزيَر.",
+          "That was a helpful explanation, and it made the decision much easier.",
+          "كان ذلك شرحًا مفيدًا، وقد جعل القرار أسهل بكثير."
+        ],
+        [
+          "Let’s keep this informal for now, and revisit the wording if needed.",
+          "لنُبقِ هذا غير رسمي الآن، ثم نراجع الصياغة إذا لزم الأمر.",
+          "لِتس كيب ذِس إنفورمَل فور ناو، أند ريفِزِت ذَ ووردينغ إِف نيدِد.",
+          "Let’s keep this informal for now, and revisit the wording if needed.",
+          "لنُبقِ هذا غير رسمي الآن، ثم نراجع الصياغة إذا لزم الأمر."
+        ],
+        [
+          "I’d rather speak plainly than dress the issue up in jargon.",
+          "أفضل أن أتحدث بوضوح بدلًا من تزيين القضية بالمصطلحات المعقدة.",
+          "آيد راذَر سبيك بلاينلي ذان درِس ذي إشو أَب إن جَارغُن.",
+          "I’d rather speak plainly than dress the issue up in jargon.",
+          "أفضل أن أتحدث بوضوح بدلًا من تزيين القضية بالمصطلحات المعقدة."
+        ]
+      ]
+    },
+    {
+      "topic": "البلاغة والتعبير الدقيق",
+      "words": [
+        [
+          "The proposal is not perfect, but it is a workable bridge between ideals and reality.",
+          "الاقتراح ليس مثاليًا، لكنه جسر عملي بين المثال والواقع.",
+          "ذَ بروبوزَل إِز نات بيرفِكت، بَت إِت إِز أ ووركَبُل بريج بتوين آيديَلز أند رياليتي.",
+          "The proposal is not perfect, but it is a workable bridge between ideals and reality.",
+          "الاقتراح ليس مثاليًا، لكنه جسر عملي بين المثال والواقع."
+        ],
+        [
+          "Her argument had weight because it joined evidence with restraint.",
+          "كان لحجتها وزن لأنها جمعت بين الدليل وضبط النفس.",
+          "هَر آرغيومَنت هاد ويت بيكوز إِت جويند إيفِدَنس وِذ رِسترينت.",
+          "Her argument had weight because it joined evidence with restraint.",
+          "كان لحجتها وزن لأنها جمعت بين الدليل وضبط النفس."
+        ],
+        [
+          "The report was concise without being blunt, which made it persuasive.",
+          "كان التقرير موجزًا من دون أن يكون فظًا، وهذا ما جعله مقنعًا.",
+          "ذَ رِبورْت واز كِنسايس وِذَوت بينغ بْلَنت، وِتش مايد إِت بِرسْوَيسِف.",
+          "The report was concise without being blunt, which made it persuasive.",
+          "كان التقرير موجزًا من دون أن يكون فظًا، وهذا ما جعله مقنعًا."
+        ],
+        [
+          "There is a quiet dignity in admitting uncertainty when the facts are incomplete.",
+          "ثمة كرامة هادئة في الاعتراف بعدم اليقين عندما تكون الحقائق غير مكتملة.",
+          "ذير إِز أ كوايِت دِغْنِتي إن أدمتينغ أَنْسيرتنْتي وِن ذَ فاكتس آر إنكُمْبليت.",
+          "There is a quiet dignity in admitting uncertainty when the facts are incomplete.",
+          "ثمة كرامة هادئة في الاعتراف بعدم اليقين عندما تكون الحقائق غير مكتملة."
+        ],
+        [
+          "The contrast sharpened the point: promises are easy, follow-through is rare.",
+          "لقد حَدَّ التباينُ الفكرة: الوعود سهلة، أما الاستمرار في التنفيذ فنادر.",
+          "ذَ كونتراست شارْپَند ذَ بوينت: برومِسِز آر إيزي، فالو-ثرو إِز رير.",
+          "The contrast sharpened the point: promises are easy, follow-through is rare.",
+          "لقد حَدَّ التباينُ الفكرة: الوعود سهلة، أما الاستمرار في التنفيذ فنادر."
+        ],
+        [
+          "A precise word can open a door that a grand speech only rattles.",
+          "الكلمة الدقيقة قد تفتح بابًا لا تفعله سوى الخطب الرنانة.",
+          "أَ بريسايس وورد كان أوبِن أ دور ذات أ جراند سبيتش أونلي راتلز.",
+          "A precise word can open a door that a grand speech only rattles.",
+          "الكلمة الدقيقة قد تفتح بابًا لا تفعله سوى الخطب الرنانة."
+        ],
+        [
+          "He balanced caution and ambition so well that neither felt forced.",
+          "وازن بين الحذر والطموح ببراعة حتى لم يشعر أيٌّ منهما بالتكلّف.",
+          "هي بالانست كوشَن أند أمبيشَن سو ويل ذات نَذَر فلت فورست.",
+          "He balanced caution and ambition so well that neither felt forced.",
+          "وازن بين الحذر والطموح ببراعة حتى لم يشعر أيٌّ منهما بالتكلّف."
+        ],
+        [
+          "The line landed because it was simple, not because it was loud.",
+          "وصلت العبارة بفعالية لأنها كانت بسيطة، لا لأنها كانت صاخبة.",
+          "ذَ لاين لانْدِد بيكوز إِت واز سيمبُل، نات بيكوز إِت واز لاود.",
+          "The line landed because it was simple, not because it was loud.",
+          "وصلت العبارة بفعالية لأنها كانت بسيطة، لا لأنها كانت صاخبة."
+        ],
+        [
+          "Good rhetoric does not hide the truth; it arranges it so people can hear it.",
+          "البلاغة الجيدة لا تخفي الحقيقة؛ بل ترتبها بحيث يستطيع الناس سماعها.",
+          "جود ريتورِك داز نات هايد ذَ ترُوث؛ إِت أرينجِز إِت سو بيپُل كان هير إِت.",
+          "Good rhetoric does not hide the truth; it arranges it so people can hear it.",
+          "البلاغة الجيدة لا تخفي الحقيقة؛ بل ترتبها بحيث يستطيع الناس سماعها."
+        ],
+        [
+          "The message gained force by saying less and implying more.",
+          "اكتسبت الرسالة قوةً حين قالت أقل وألمحت أكثر.",
+          "ذَ مِسِج گيند فورس باي سايينغ لِس أند إمپلايينغ مور.",
+          "The message gained force by saying less and implying more.",
+          "اكتسبت الرسالة قوةً حين قالت أقل وألمحت أكثر."
+        ]
+      ]
+    },
+    {
+      "topic": "النقد البنّاء",
+      "words": [
+        [
+          "Your draft has a strong opening, and the next step is to tighten the middle.",
+          "لدى مسودتك افتتاح قوي، والخطوة التالية هي إحكام القسم الأوسط.",
+          "يور درافت هاز أ سترونغ أوبنينغ، أند ذَ نِكست ستيب إِز تو تايْتِن ذَ مِدل.",
+          "Your draft has a strong opening, and the next step is to tighten the middle.",
+          "لدى مسودتك افتتاح قوي، والخطوة التالية هي إحكام القسم الأوسط."
+        ],
+        [
+          "The idea is solid, though it would benefit from a clearer structure.",
+          "الفكرة متينة، لكنها ستستفيد من بنية أوضح.",
+          "ذي آيديا إِز سوليْد، ثو إِت وود بِنِفِت فرَم أ كليرَر ستْرَكتشَر.",
+          "The idea is solid, though it would benefit from a clearer structure.",
+          "الفكرة متينة، لكنها ستستفيد من بنية أوضح."
+        ],
+        [
+          "I like the tone, but a few examples would make the point more concrete.",
+          "أعجبني الأسلوب، لكن بعض الأمثلة ستجعل الفكرة أكثر تحديدًا.",
+          "آي لايك ذَ تون، بَت أ فو إكزامپُلز وود ميك ذَ بوينت مور كُونكريت.",
+          "I like the tone, but a few examples would make the point more concrete.",
+          "أعجبني الأسلوب، لكن بعض الأمثلة ستجعل الفكرة أكثر تحديدًا."
+        ],
+        [
+          "If you shorten the introduction, the argument will land faster.",
+          "إذا اختصرت المقدمة، فستصل الحجة أسرع.",
+          "إِف يو شورتِن ذي إنتردَكشَن، ذي آرغيومَنت وِل لاند فاستَر.",
+          "If you shorten the introduction, the argument will land faster.",
+          "إذا اختصرت المقدمة، فستصل الحجة أسرع."
+        ],
+        [
+          "The data support your claim, but the conclusion needs a firmer bridge.",
+          "تدعم البيانات ادعاءك، لكن الخلاصة تحتاج إلى جسر أوثق.",
+          "ذَ داتا سَپورت يور كليم، بَت ذَ كنتْكلوزْشَن نيدز أ فرمَر بريج.",
+          "The data support your claim, but the conclusion needs a firmer bridge.",
+          "تدعم البيانات ادعاءك، لكن الخلاصة تحتاج إلى جسر أوثق."
+        ],
+        [
+          "You are close here; the last sentence just needs less repetition.",
+          "أنت قريب هنا؛ الجملة الأخيرة تحتاج فقط إلى تكرار أقل.",
+          "يو آر كلوس هير؛ ذَ لاست سِنْتَنس جَست نيدز لِس رِيپِتيشَن.",
+          "You are close here; the last sentence just needs less repetition.",
+          "أنت قريب هنا؛ الجملة الأخيرة تحتاج فقط إلى تكرار أقل."
+        ],
+        [
+          "That section works well, though the transition feels abrupt.",
+          "ذلك القسم يعمل جيدًا، لكن الانتقال يبدو مفاجئًا.",
+          "ذات سِكشَن ووركس ويل، ثو ذَ ترانزِشَن فيلز أبرَبت.",
+          "That section works well, though the transition feels abrupt.",
+          "ذلك القسم يعمل جيدًا، لكن الانتقال يبدو مفاجئًا."
+        ],
+        [
+          "I would keep the insight and remove the extra decoration.",
+          "كنتُ سأُبقي على الفكرة الثاقبة وأحذف الزخرفة الزائدة.",
+          "آي وود كيب ذي إنسايت أند رِموف ذي إكسترا دِكُرايشن.",
+          "I would keep the insight and remove the extra decoration.",
+          "كنتُ سأُبقي على الفكرة الثاقبة وأحذف الزخرفة الزائدة."
+        ],
+        [
+          "Your point becomes stronger when you name the trade-off directly.",
+          "تغدو فكرتك أقوى عندما تسمي المقايضة مباشرةً.",
+          "يور بوينت بِكَمز سترونغَر وِن يو نيم ذَ ترَيْد أوف دايركتلي.",
+          "Your point becomes stronger when you name the trade-off directly.",
+          "تغدو فكرتك أقوى عندما تسمي المقايضة مباشرةً."
+        ],
+        [
+          "The feedback is meant to help the work, not to soften the truth.",
+          "الهدف من الملاحظات هو تحسين العمل، لا تليين الحقيقة.",
+          "ذَ فيدباك إِز مِنت تو هِلب ذَ ورك، نات تو سوفتِن ذَ ترُوث.",
+          "The feedback is meant to help the work, not to soften the truth.",
+          "الهدف من الملاحظات هو تحسين العمل، لا تليين الحقيقة."
+        ]
+      ]
+    },
+    {
+      "topic": "السخرية والتلميح",
+      "words": [
+        [
+          "Oh wonderful, another meeting that could have been an email.",
+          "يا للروعة، اجتماع آخر كان يمكن أن يكون رسالة بريد إلكتروني.",
+          "أو وندرْفُل، أَنَذَر ميتينغ ذات كود هاف بين أن إيميل.",
+          "Oh wonderful, another meeting that could have been an email.",
+          "يا للروعة، اجتماع آخر كان يمكن أن يكون رسالة بريد إلكتروني."
+        ],
+        [
+          "He called it a quick fix, which is a charming way to describe chaos.",
+          "سماه حلًا سريعًا، وهي طريقة ساحرة لوصف الفوضى.",
+          "هي كولد إِت أ كْوِك فِكس، وِتش إِز أ تشارمِنغ واي تو دِسكرایب كَيْوس.",
+          "He called it a quick fix, which is a charming way to describe chaos.",
+          "سماه حلًا سريعًا، وهي طريقة ساحرة لوصف الفوضى."
+        ],
+        [
+          "I’m sure the plan is flawless, if you ignore every practical detail.",
+          "أنا متأكد أن الخطة بلا عيب، إذا تجاهلت كل تفصيل عملي.",
+          "آيم شور ذَ بلان إِز فْلولِس، إِف يو إِغنور إِفْري براكتِكَل ديتيل.",
+          "I’m sure the plan is flawless, if you ignore every practical detail.",
+          "أنا متأكد أن الخطة بلا عيب، إذا تجاهلت كل تفصيل عملي."
+        ],
+        [
+          "That was such a generous deadline, assuming sleep is optional.",
+          "كان ذلك موعدًا نهائيًا كريمًا جدًا، إذا افترضنا أن النوم اختياري.",
+          "ذات واز سَتش أ جينَرَس ديدلاين، أَسومينغ سليب إِز أوبشَنَل.",
+          "That was such a generous deadline, assuming sleep is optional.",
+          "كان ذلك موعدًا نهائيًا كريمًا جدًا، إذا افترضنا أن النوم اختياري."
+        ],
+        [
+          "Her apology was noted, and so was the thing she did twice.",
+          "سُجّل اعتذارها، وكذلك ما فعلته مرتين.",
+          "هَر أپولوجي واز نوتِد، أند سو واز ذَ ثينغ شي دِد تويس.",
+          "Her apology was noted, and so was the thing she did twice.",
+          "سُجّل اعتذارها، وكذلك ما فعلته مرتين."
+        ],
+        [
+          "He says he values transparency, which is why nobody knows what is happening.",
+          "يقول إنه يقدّر الشفافية، ولهذا لا يعرف أحد ما الذي يجري.",
+          "هي سَيز هي ڤاليُوز ترانسبارَنسي، وِتش إِز واي نوبودي نووز ووت إِز هاپِنينغ.",
+          "He says he values transparency, which is why nobody knows what is happening.",
+          "يقول إنه يقدّر الشفافية، ولهذا لا يعرف أحد ما الذي يجري."
+        ],
+        [
+          "That explanation was almost convincing, in the same way a postcard is almost a novel.",
+          "كان ذلك الشرح شبه مقنع، بالطريقة نفسها التي تكون بها البطاقة البريدية شبه رواية.",
+          "ذات إكسبْلَنيشن واز أولموسْت كَنڤِنسِنغ، إن ذَ سيم واي أ پوسْتكارْد إِز أولموسْت أ نوفَل.",
+          "That explanation was almost convincing, in the same way a postcard is almost a novel.",
+          "كان ذلك الشرح شبه مقنع، بالطريقة نفسها التي تكون بها البطاقة البريدية شبه رواية."
+        ],
+        [
+          "I admire the confidence; the facts are taking a day off.",
+          "أُعجب بالثقة؛ أما الحقائق فقد أخذت إجازة ليوم واحد.",
+          "آي أدمایَر ذَ كونفِدَنس؛ ذَ فاكتس آر تايْكينغ أ داي أوف.",
+          "I admire the confidence; the facts are taking a day off.",
+          "أُعجب بالثقة؛ أما الحقائق فقد أخذت إجازة ليوم واحد."
+        ],
+        [
+          "What a surprise, the shortcut created two extra steps.",
+          "يا للمفاجأة، لقد أنشأ الاختصار خطوتين إضافيتين.",
+          "ووت أ سَپرايز، ذَ شورْتكَت كرييتِد تو إكسترا ستيپس.",
+          "What a surprise, the shortcut created two extra steps.",
+          "يا للمفاجأة، لقد أنشأ الاختصار خطوتين إضافيتين."
+        ],
+        [
+          "I’m not saying it was rushed, but the paint was still thinking about drying.",
+          "لا أقول إنه كان متعجلًا، لكن الطلاء كان لا يزال يفكر في الجفاف.",
+          "آيم نات سايينغ إِت واز راشت، بَت ذَ پينت واز سْتِل ثِينكينغ أباوت درايينغ.",
+          "I’m not saying it was rushed, but the paint was still thinking about drying.",
+          "لا أقول إنه كان متعجلًا، لكن الطلاء كان لا يزال يفكر في الجفاف."
+        ]
+      ]
+    },
+    {
+      "topic": "إعادة الصياغة والتلخيص",
+      "words": [
+        [
+          "To put it briefly, the project succeeded because everyone stayed focused.",
+          "باختصار، نجح المشروع لأن الجميع حافظوا على تركيزهم.",
+          "تو پُت إِت بريفلي، ذَ بروجكت سَكسيدِد بيكوز إيفريوان سْتيْد فوكَست.",
+          "To put it briefly, the project succeeded because everyone stayed focused.",
+          "باختصار، نجح المشروع لأن الجميع حافظوا على تركيزهم."
+        ],
+        [
+          "In other words, the delay was useful because it exposed the weak points.",
+          "بعبارة أخرى، كان التأخير مفيدًا لأنه كشف النقاط الضعيفة.",
+          "إن أذَر ووردز، ذَ دِلاي واز يوسفُل بيكوز إِت إكسبوزْد ذَ ويك بوينتس.",
+          "In other words, the delay was useful because it exposed the weak points.",
+          "بعبارة أخرى، كان التأخير مفيدًا لأنه كشف النقاط الضعيفة."
+        ],
+        [
+          "So the main issue is not cost, but trust.",
+          "إذًا، القضية الأساسية ليست التكلفة، بل الثقة.",
+          "سو ذَ مين إشو إِز نات كوست، بَت ترَست.",
+          "So the main issue is not cost, but trust.",
+          "إذًا، القضية الأساسية ليست التكلفة، بل الثقة."
+        ],
+        [
+          "What you are really saying is that the plan needs more time, not more talk.",
+          "ما تقوله حقًا هو أن الخطة تحتاج إلى مزيد من الوقت، لا مزيد من الكلام.",
+          "ووت يو آر ريلي سايينغ إِز ذات ذَ بلان نيدز مور تايم، نات مور توك.",
+          "What you are really saying is that the plan needs more time, not more talk.",
+          "ما تقوله حقًا هو أن الخطة تحتاج إلى مزيد من الوقت، لا مزيد من الكلام."
+        ],
+        [
+          "In summary, the team made progress, but the deadline still needs respect.",
+          "خلاصة القول إن الفريق أحرز تقدمًا، لكن الموعد النهائي لا يزال يحتاج إلى الالتزام.",
+          "إن سَمَري، ذَ تيم مايد بروغرس، بَت ذَ ديدلاين سْتِل نيدز رِسْپِكت.",
+          "In summary, the team made progress, but the deadline still needs respect.",
+          "خلاصة القول إن الفريق أحرز تقدمًا، لكن الموعد النهائي لا يزال يحتاج إلى الالتزام."
+        ],
+        [
+          "The short version is that the first draft was promising, while the revision was decisive.",
+          "النسخة المختصرة هي أن المسودة الأولى كانت واعدة، بينما كانت المراجعة حاسمة.",
+          "ذَ شورْت ڤِرْشَن إِز ذات ذَ فِرست درافت واز برومِسِنغ، وايل ذَ رِڤِژَن واز دِسايسِف.",
+          "The short version is that the first draft was promising, while the revision was decisive.",
+          "النسخة المختصرة هي أن المسودة الأولى كانت واعدة، بينما كانت المراجعة حاسمة."
+        ],
+        [
+          "Put simply, we can improve speed without sacrificing care.",
+          "ببساطة، يمكننا تحسين السرعة من دون التضحية بالدقة.",
+          "پُت سيمپلي، وي كان إمپروف سبيد وِذَوت سَكرِفايسينغ كير.",
+          "Put simply, we can improve speed without sacrificing care.",
+          "ببساطة، يمكننا تحسين السرعة من دون التضحية بالدقة."
+        ],
+        [
+          "The takeaway is clear: good intentions matter, but execution matters more.",
+          "الخلاصة واضحة: النوايا الحسنة مهمة، لكن التنفيذ أهم.",
+          "ذَ تيك أواي إِز كلير: جود إنتِنشَنز ماتَر، بَت إِكزِكيُوشَن ماتَرْز مور.",
+          "The takeaway is clear: good intentions matter, but execution matters more.",
+          "الخلاصة واضحة: النوايا الحسنة مهمة، لكن التنفيذ أهم."
+        ],
+        [
+          "What follows is not a complaint, only a reminder to check the details.",
+          "ما يلي ليس شكوى، بل مجرد تذكير بمراجعة التفاصيل.",
+          "ووت فالووز إِز نات أ كومپلاينت، أونلي أ رِماينْدَر تو تشيك ذَ ديتيلز.",
+          "What follows is not a complaint, only a reminder to check the details.",
+          "ما يلي ليس شكوى، بل مجرد تذكير بمراجعة التفاصيل."
+        ],
+        [
+          "In one sentence, the message is to be bold, but not careless.",
+          "في جملة واحدة، الرسالة هي أن نكون جريئين، لكن من دون تهور.",
+          "إن وَن سِنْتَنس، ذَ مِسِج إِز تو بي بولد، بَت نات كيرلس.",
+          "In one sentence, the message is to be bold, but not careless.",
+          "في جملة واحدة، الرسالة هي أن نكون جريئين، لكن من دون تهور."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

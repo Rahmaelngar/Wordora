@@ -230,19 +230,19 @@ components:
       properties:
         correctWordIds:
           type: array
-          maxItems: 3000
+          maxItems: 10000
           items:
             type: string
             maxLength: 100
         completedLessonIds:
           type: array
-          maxItems: 500
+          maxItems: 1000
           items:
             type: string
             maxLength: 100
         reviewedWordIds:
           type: array
-          maxItems: 3000
+          maxItems: 10000
           items:
             type: string
             maxLength: 100
@@ -283,7 +283,7 @@ components:
             minimum: 0
         lessonStudy:
           type: object
-          maxProperties: 500
+          maxProperties: 2000
           additionalProperties:
             $ref: "#/components/schemas/LessonStudyState"
         dailyActivity:
@@ -327,7 +327,7 @@ components:
             minimum: 0
         lessonStudy:
           type: object
-          maxProperties: 500
+          maxProperties: 2000
           additionalProperties:
             $ref: "#/components/schemas/LessonStudyState"
         dailyActivity:

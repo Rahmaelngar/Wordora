@@ -65,16 +65,29 @@ content-matched narrated clip for every entry, generated on first request.
 `intro.tsx` shows the original logo briefly at each app load, with a skip button,
 without replaying the introduction on in-app navigation.
 
-The curriculum has 255 short lessons and 2700 learning entries across six languages
+The curriculum has 795 short lessons and 8100 learning entries across six languages
 (English, French, Spanish, German, Italian and Turkish):
-100 A1, 150 A2 and 200 B1 entries per language. The original 55 lessons/IDs remain
+100 A1, 150 A2, 200 B1, 250 B2, 300 C1 and 350 C2 entries per language. The original 55 lessons/IDs remain
 intact. `src/curriculum/*.json` contains the additions; B1 additions use complete
 sentences with matching full-sentence Arabic meanings and approximate pronunciation.
-Turkish has 450 entries across 45 short lessons. Recognition uses `tr-TR`;
+Turkish has 1350 entries across 135 short lessons. Recognition uses `tr-TR`;
 written-answer normalization preserves the Turkish dotted/dotless-I distinction.
 Reviewed editorial fixes are applied by `content-corrections.ts`, without changing
 word IDs or saved progress. Automated audit suggestions are reviewed, not applied
 blindly: valid French “je suis” can mean “I follow,” not only “I am.”
+
+`curriculum-levels.ts` defines the six ordered levels and their agreed counts.
+`advanced-curriculum.ts` maps the B2/C1/C2 JSON packets into the same lesson
+contract as the foundation curriculum; advanced entries are complete sentences
+with full Arabic meaning and phonetic pronunciation. Higher levels remain
+inspectable but unlock through completion: A2 after4 A1 lessons, B1 after2 A2,
+B2 after4 B1, C1 after5 B2 and C2 after6 C1. These learning materials do not
+constitute CEFR certification.
+
+The existing cloud progress JSON needs no database migration. Checkpoint limits
+cover2000 lessons and daily word/review limits cover10000 unique entries.
+The API accepts bounded4MB JSON bodies so complete learning histories are not
+rejected by Express's100KB default.
 When a four-word summary checkpoint is loaded after this expansion, the learner
 resumes at the first new word; saved words, points and completed-lesson IDs stay
 unchanged. Completion rewards are not granted again for previously completed lessons.
@@ -149,3 +162,16 @@ pnpm --filter @workspace/scripts exec tsx ./check-wordora.ts
 `artifacts/api-server/scripts/expand-curriculum.ts` is an optional resumable,
 billed AI content-authoring script, not needed to start the app. Do not rerun
 generation to merely launch or test the application.
+
+`artifacts/api-server/scripts/extend-advanced-levels.ts` prepares advanced content
+in cached50-entry batches, validates counts, uniqueness and Arabic-script
+pronunciation, and repairs only invalid/duplicate entries. Resume it with:
+`pnpm --filter @workspace/scripts exec tsx ../artifacts/api-server/scripts/extend-advanced-levels.ts`.
+It consumes AI credits for missing/invalid content only; cached drafts live in
+the ignored `generated-artifacts/advanced-curriculum-cache/` directory.
+
+`repair-advanced-arabic.ts` repairs mixed-script phonetic hints only; its
+`advanced-language-fixes.json` source overlay preserves native sentences/IDs.
+Reviewed corrections override that overlay. Regression checks verify every
+advanced pronunciation uses Arabic-script letters (including Persian extensions
+and tatweel), and that all8100 entries have a real cloze gap.

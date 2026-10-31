@@ -8,17 +8,17 @@
 
 export interface DailyLearningActivity {
   /**
-     * @maxItems 3000
+     * @maxItems 10000
      * @items.maxLength 100
      */
   correctWordIds: string[];
   /**
-     * @maxItems 500
+     * @maxItems 1000
      * @items.maxLength 100
      */
   completedLessonIds: string[];
   /**
-     * @maxItems 3000
+     * @maxItems 10000
      * @items.maxLength 100
      */
   reviewedWordIds: string[];

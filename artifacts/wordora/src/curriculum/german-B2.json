@@ -1,0 +1,1880 @@
+{
+  "lessons": [
+    {
+      "topic": "التعلّم المستقل",
+      "words": [
+        [
+          "Ich lerne am besten, wenn ich mir klare Ziele setze und meine Fortschritte jede Woche überprüfe.",
+          "أتعلم بأفضل شكل عندما أحدد لنفسي أهدافًا واضحة وأراجع تقدمي كل أسبوع.",
+          "إيش لِرْنِه آم بِسْتِن، فِن إيش مير كلاهَرْ تْسِيلِه تْسِتْسِه أوند ماينِه فورتْشْريتِه يِدِه فوشِه اُبِرْپْرُوڤِه.",
+          "Ich lerne am besten, wenn ich mir klare Ziele setze und meine Fortschritte jede Woche überprüfe.",
+          "أتعلم بأفضل شكل عندما أحدد لنفسي أهدافًا واضحة وأراجع تقدمي كل أسبوع."
+        ],
+        [
+          "Beim selbstständigen Lernen suche ich gezielt nach Quellen, die mein Wissen ergänzen und nicht nur wiederholen.",
+          "عند التعلّم الذاتي أبحث بشكل محدد عن مصادر تُكمل معرفتي ولا تكررها فقط.",
+          "بايم زِلْبْسْتْشْتَندِگِن لِرْنِن زوخِه إيش تْسِيلْت نَاخ كْڤِلِن، دِي ماين ڤِسِن إِرْغانْتْسِن أوند نِشت نُور ڤِدِرْهولِن.",
+          "Beim selbstständigen Lernen suche ich gezielt nach Quellen, die mein Wissen ergänzen und nicht nur wiederholen.",
+          "عند التعلّم الذاتي أبحث بشكل محدد عن مصادر تُكمل معرفتي ولا تكررها فقط."
+        ],
+        [
+          "Manchmal brauche ich mehr Zeit, um ein Thema wirklich zu verstehen, aber durch eigenes Üben bleibt es besser hängen.",
+          "أحيانًا أحتاج إلى وقت أكثر لأفهم موضوعًا حقًا، لكن من خلال الممارسة الذاتية يثبت أكثر.",
+          "مانشْمال براوخِه إيش مِير تسايت، أوم آين تيما ڤِرْكْلِيش تْسو ڤِرشْتِين، آبا دوخ آيْغِنِس أوبِن بلايبت إِس بِسّر هِنْغِن.",
+          "Manchmal brauche ich mehr Zeit, um ein Thema wirklich zu verstehen, aber durch eigenes Üben bleibt es besser hängen.",
+          "أحيانًا أحتاج إلى وقت أكثر لأفهم موضوعًا حقًا، لكن من خلال الممارسة الذاتية يثبت أكثر."
+        ],
+        [
+          "Wenn ich online lerne, achte ich darauf, seriöse Seiten von oberflächlichen Angeboten zu unterscheiden.",
+          "عندما أتعلم عبر الإنترنت، أحرص على التمييز بين المواقع الموثوقة والعروض السطحية.",
+          "فِن إيش أونلاين لِرْنِه، آخْتِه إيش دارَوف، زِريوزِه زايتِن فون أوبِرْفْلِيشْلِيشِن آنْگِبُوتِن تْسو أونتِرْشَايْدِن.",
+          "Wenn ich online lerne, achte ich darauf, seriöse Seiten von oberflächlichen Angeboten zu unterscheiden.",
+          "عندما أتعلم عبر الإنترنت، أحرص على التمييز بين المواقع الموثوقة والعروض السطحية."
+        ],
+        [
+          "Ich notiere mir neue Wörter sofort, sonst vergesse ich sie, bevor ich sie im Alltag anwenden kann.",
+          "أدوّن الكلمات الجديدة فورًا، وإلا أنساها قبل أن أتمكن من استخدامها في الحياة اليومية.",
+          "إيش نوتيْرِه مير نويِه ڤورتَر زوفورت، زونْست ڤِرْگِسِه إيش زي، بِفور إيش زي إيم آلْتاغ آنْڤِنْدِن كان.",
+          "Ich notiere mir neue Wörter sofort, sonst vergesse ich sie, bevor ich sie im Alltag anwenden kann.",
+          "أدوّن الكلمات الجديدة فورًا، وإلا أنساها قبل أن أتمكن من استخدامها في الحياة اليومية."
+        ],
+        [
+          "Beim Selbstlernen hilft es mir, Fehler als Hinweise zu sehen und nicht als Beweis für Unfähigkeit.",
+          "في التعلّم الذاتي يساعدني أن أرى الأخطاء كدلائل لا كدليل على عدم الكفاءة.",
+          "بايم زِلْبْسْتْلِرْنِن هِلْفت إِس مير، فِلهَر ألس هينْڤايْزِه تْسو زِين أوند نِشت ألس بِفايس فير أونفِهِيگْكایت.",
+          "Beim Selbstlernen hilft es mir, Fehler als Hinweise zu sehen und nicht als Beweis für Unfähigkeit.",
+          "في التعلّم الذاتي يساعدني أن أرى الأخطاء كدلائل لا كدليل على عدم الكفاءة."
+        ],
+        [
+          "Ich plane kleine Lernschritte, weil ich so motiviert bleibe und nicht alles auf einmal schaffen muss.",
+          "أخطط لخطوات تعلّم صغيرة لأنني أبقى متحفزًا بهذه الطريقة ولا يجب أن أنجز كل شيء دفعة واحدة.",
+          "إيش پْلاَنِه كلاينِه لِرْنْشْريتِه، فايل إيش زو موتيفيرت بلايبت أوند نِشت آلس أوف آينمال شافِن موس.",
+          "Ich plane kleine Lernschritte, weil ich so motiviert bleibe und nicht alles auf einmal schaffen muss.",
+          "أخطط لخطوات تعلّم صغيرة لأنني أبقى متحفزًا بهذه الطريقة ولا يجب أن أنجز كل شيء دفعة واحدة."
+        ],
+        [
+          "Auch wenn ein Kurs gut ist, lerne ich oft mehr, wenn ich zusätzlich eigene Beispiele formuliere.",
+          "حتى لو كانت الدورة جيدة، أتعلم غالبًا أكثر عندما أصوغ أمثلة خاصة بي أيضًا.",
+          "آوخ فِن آين كورس گوت إِست، لِرْنِه إيش أوفت مِير، فِن إيش تْسوتْسَتْتْليش آيْغِنِه بايْشپْيِله فورموليْرِه.",
+          "Auch wenn ein Kurs gut ist, lerne ich oft mehr, wenn ich zusätzlich eigene Beispiele formuliere.",
+          "حتى لو كانت الدورة جيدة، أتعلم غالبًا أكثر عندما أصوغ أمثلة خاصة بي أيضًا."
+        ],
+        [
+          "Ich frage nach, wenn ich etwas nicht verstehe, denn eigenständig zu lernen heißt nicht, alles allein zu raten.",
+          "أسأل عندما لا أفهم شيئًا، لأن التعلّم باستقلال لا يعني تخمين كل شيء وحدي.",
+          "إيش فراگِه نَاخ، فِن إيش إتْڤاس نِشت ڤِرشْتِيهِه، دِن آيْغِنْشْتَندِش تْسو لِرْنِن هايست نِشت، آلس ألالاين تْسو راتِن.",
+          "Ich frage nach, wenn ich etwas nicht verstehe, denn eigenständig zu lernen heißt nicht, alles allein zu raten.",
+          "أسأل عندما لا أفهم شيئًا، لأن التعلّم باستقلال لا يعني تخمين كل شيء وحدي."
+        ],
+        [
+          "Je besser ich meine Lernroutine einhalte, desto leichter fällt es mir, dranzubleiben.",
+          "كلما التزمت بروتين تعلّمي بشكل أفضل، أصبح من الأسهل عليّ الاستمرار.",
+          "يِه بِسّر إيش ماينه لِرْنْرُوتين آينْهالْتِه، دِسْتو لايْشْتِر فِلْت إِس مير، درانْتْسوبلايبِن.",
+          "Je besser ich meine Lernroutine einhalte, desto leichter fällt es mir, dranzubleiben.",
+          "كلما التزمت بروتين تعلّمي بشكل أفضل، أصبح من الأسهل عليّ الاستمرار."
+        ]
+      ]
+    },
+    {
+      "topic": "التفاوض باحترام",
+      "words": [
+        [
+          "Ich verstehe deinen Punkt, aber ich sehe die Lage etwas anders und möchte einen Kompromiss finden.",
+          "أفهم وجهة نظرك، لكنني أرى الوضع بشكل مختلف قليلًا وأرغب في إيجاد حل وسط.",
+          "إيش فِرْشْتِيهِه داينِن پونكت، آبا إيش زيه ديه لاگِه إتْڤاس أندِرس أوند موخْتِه آينِن كومپْروْمِس فِنْدِن.",
+          "Ich verstehe deinen Punkt, aber ich sehe die Lage etwas anders und möchte einen Kompromiss finden.",
+          "أفهم وجهة نظرك، لكنني أرى الوضع بشكل مختلف قليلًا وأرغب في إيجاد حل وسط."
+        ],
+        [
+          "Könnten wir den Termin um eine Woche verschieben, damit beide Seiten genug Zeit zur Vorbereitung haben?",
+          "هل يمكننا تأجيل الموعد أسبوعًا حتى يحصل الطرفان على وقت كافٍ للتحضير؟",
+          "كُنْتِن ڤير دين تِرْمين أوم آينِه ڤوخِه فِرشِيْبِن، داميت بايْدِه زايتِن گِنُوك تسايت تسور فُوربايْتُونگ هابِن؟",
+          "Könnten wir den Termin um eine Woche verschieben, damit beide Seiten genug Zeit zur Vorbereitung haben?",
+          "هل يمكننا تأجيل الموعد أسبوعًا حتى يحصل الطرفان على وقت كافٍ للتحضير؟"
+        ],
+        [
+          "Ich bin offen für deine Idee, solange wir vorher klären, wie der zusätzliche Aufwand verteilt wird.",
+          "أنا منفتح على فكرتك، ما دمنا نوضّح مسبقًا كيف سيتم توزيع الجهد الإضافي.",
+          "إيش بِين أوفِن فير داينه إديه، زولانْگِه ڤير فورْهَر كْليرِن، ڤي دِر تسوتْساتْتْلِيشِه أوفڤاند فِرْتايلت ڤيرت.",
+          "Ich bin offen für deine Idee, solange wir vorher klären, wie der zusätzliche Aufwand verteilt wird.",
+          "أنا منفتح على فكرتك، ما دمنا نوضّح مسبقًا كيف سيتم توزيع الجهد الإضافي."
+        ],
+        [
+          "Wir müssen nicht in allem übereinstimmen, aber wir sollten respektvoll bleiben und sachlich argumentieren.",
+          "لا يجب أن نتفق في كل شيء، لكن ينبغي أن نبقى محترمين ونجادل بشكل موضوعي.",
+          "ڤير موسِن نِشت إين آلِم أوبرآينْشْتِمِن، آبا ڤير زولْتِن رِسْپِكتْفول بلايبِن أوند زاخلِيش آرْگومِنْتيْرِن.",
+          "Wir müssen nicht in allem übereinstimmen, aber wir sollten respektvoll bleiben und sachlich argumentieren.",
+          "لا يجب أن نتفق في كل شيء، لكن ينبغي أن نبقى محترمين ونجادل بشكل موضوعي."
+        ],
+        [
+          "Wenn du mir deine Prioritäten erklärst, kann ich besser einschätzen, wo wir flexibel sein können.",
+          "إذا شرحت لي أولوياتك، أستطيع تقدير أين يمكننا أن نكون مرنين بشكل أفضل.",
+          "فِن دو مير داينه پريوريتاتِن إركْليرْست، كان إيش بِسّر آينْشِتْتْسِن، ڤو ڤير فْلِكْسيْبِل زاين كُنِن.",
+          "Wenn du mir deine Prioritäten erklärst, kann ich besser einschätzen, wo wir flexibel sein können.",
+          "إذا شرحت لي أولوياتك، أستطيع تقدير أين يمكننا أن نكون مرنين بشكل أفضل."
+        ],
+        [
+          "Ich möchte deine Einwände ernst nehmen, auch wenn ich am Ende trotzdem eine andere Lösung bevorzuge.",
+          "أريد أن آخذ اعتراضاتك بجدية، حتى لو فضّلت في النهاية حلًا آخر.",
+          "إيش موخْتِه داينه آينْڤانْدِه إرنست نِيمِن، آوخ فِن إيش آم إنده تْرُوتْسْدِم آينِه أندِرِه لوزونگ بِفورْتسوگِه.",
+          "Ich möchte deine Einwände ernst nehmen, auch wenn ich am Ende trotzdem eine andere Lösung bevorzuge.",
+          "أريد أن آخذ اعتراضاتك بجدية، حتى لو فضّلت في النهاية حلًا آخر."
+        ],
+        [
+          "Vielleicht finden wir eine Lösung, die für beide akzeptabel ist, wenn wir unsere Grenzen offen benennen.",
+          "ربما نجد حلًا مقبولًا للطرفين إذا سمّينا حدودنا بصراحة.",
+          "فلايشْت فِنْدِن ڤير آينِه لوزونگ، ديه فور بايْدِه أكتْسِپْتابِل إِست، فِن ڤير أونزِرِه گْرِنْتْسِن أوفِن بِنانِن.",
+          "Vielleicht finden wir eine Lösung, die für beide akzeptabel ist, wenn wir unsere Grenzen offen benennen.",
+          "ربما نجد حلًا مقبولًا للطرفين إذا سمّينا حدودنا بصراحة."
+        ],
+        [
+          "Ich schätze es, wenn du direkt sagst, was dir wichtig ist, statt zwischen den Zeilen zu sprechen.",
+          "أقدّر عندما تقول مباشرة ما يهمك بدلًا من التحدث بين السطور.",
+          "إيش شِتْسِه إِس، فِن دو ديرِكْت زاگْست، ڤاس دير ڤِشْتيش إِست، شتات تْسڤيشِن دين تسايلِن تْسو شْپْرِشِن.",
+          "Ich schätze es, wenn du direkt sagst, was dir wichtig ist, statt zwischen den Zeilen zu sprechen.",
+          "أقدّر عندما تقول مباشرة ما يهمك بدلًا من التحدث بين السطور."
+        ],
+        [
+          "Lass uns die Vor- und Nachteile ruhig vergleichen, damit wir eine tragfähige Entscheidung treffen.",
+          "دعنا نقارن بهدوء بين الإيجابيات والسلبيات حتى نتخذ قرارًا قابلًا للتنفيذ.",
+          "لاس أونْس ديه فور أوند ناخْتايله روْهِيخ ڤِرگلايْشِن، داميت ڤير آينِه تراگفايْهِگه إِنْتْشايْدونگ تْرِفِن.",
+          "Lass uns die Vor- und Nachteile ruhig vergleichen, damit wir eine tragfähige Entscheidung treffen.",
+          "دعنا نقارن بهدوء بين الإيجابيات والسلبيات حتى نتخذ قرارًا قابلًا للتنفيذ."
+        ],
+        [
+          "Ich kann deinen Vorschlag unterstützen, wenn wir die Aufgaben klarer aufteilen und die Last fair verteilen.",
+          "أستطيع دعم اقتراحك إذا وزعنا المهام بشكل أوضح ووزعنا العبء بعدل.",
+          "إيش كان داينِن فُورشْلاگ أونْتِرْشْتْتْسِن، فِن ڤير ديه أوفْگابِن كلايَر أوفْتايلِن أوند ديه لاست فِير فِرْتايلِن.",
+          "Ich kann deinen Vorschlag unterstützen, wenn wir die Aufgaben klarer aufteilen und die Last fair verteilen.",
+          "أستطيع دعم اقتراحك إذا وزعنا المهام بشكل أوضح ووزعنا العبء بعدل."
+        ]
+      ]
+    },
+    {
+      "topic": "العمل الجماعي",
+      "words": [
+        [
+          "Im Team arbeiten wir besser, wenn jeder weiß, wofür er zuständig ist und wie sein Beitrag wirkt.",
+          "نعمل بشكل أفضل في الفريق عندما يعرف كل شخص مسؤوليته وكيف يؤثر إسهامه.",
+          "إيم تيم آرْبايتِن ڤير بِسّر، فِن يِدِر ڤايس، ڤوفير إير تْسوسْتَنْدِيش إِست أوند ڤي زاين بايْتْراغ ڤيركت.",
+          "Im Team arbeiten wir besser, wenn jeder weiß, wofür er zuständig ist und wie sein Beitrag wirkt.",
+          "نعمل بشكل أفضل في الفريق عندما يعرف كل شخص مسؤوليته وكيف يؤثر إسهامه."
+        ],
+        [
+          "Ich finde, gute Zusammenarbeit entsteht vor allem dann, wenn Kritik höflich und konkret formuliert wird.",
+          "أرى أن التعاون الجيد ينشأ خاصة عندما تُصاغ الملاحظات بأدب وبشكل محدد.",
+          "إيش فِنْدِه، گوتِه تْسوسامِن آرْبايت إِنْتْشْتِيت فور آلِم دان، فِن كْرِتيك هُفْلِيش أوند كونكْرِت فورْموليْرت ڤيرت.",
+          "Ich finde, gute Zusammenarbeit entsteht vor allem dann, wenn Kritik höflich und konkret formuliert wird.",
+          "أرى أن التعاون الجيد ينشأ خاصة عندما تُصاغ الملاحظات بأدب وبشكل محدد."
+        ],
+        [
+          "Wenn wir unterschiedliche Stärken nutzen, profitiert das ganze Projekt, statt dass nur eine Person alles trägt.",
+          "عندما نستفيد من نقاط القوة المختلفة، يستفيد المشروع كله بدلًا من أن يتحمل شخص واحد كل شيء.",
+          "فِن ڤير أونتِرْشِدْلِيشِه شْتِركِن نوتْتْسِن، پروفِتيْرت داس گانتْسِه پرويكت، شتات داس نُور آينِه پِرسون آلِس تراغت.",
+          "Wenn wir unterschiedliche Stärken nutzen, profitiert das ganze Projekt, statt dass nur eine Person alles trägt.",
+          "عندما نستفيد من نقاط القوة المختلفة، يستفيد المشروع كله بدلًا من أن يتحمل شخص واحد كل شيء."
+        ],
+        [
+          "Ich übernehme gern einen Teil der Recherche, wenn jemand anderes die Präsentation vorbereitet.",
+          "أتحمل بسرور جزءًا من البحث إذا كان شخص آخر يجهز العرض.",
+          "إيش أوبِرْنِيمِه گِرن آينِن تايل دِر ريشِرشِه، فِن يِمانْد آندِرِس ديه پْرِزانْتاْتْسْيُون فُوربايْتِت.",
+          "Ich übernehme gern einen Teil der Recherche, wenn jemand anderes die Präsentation vorbereitet.",
+          "أتحمل بسرور جزءًا من البحث إذا كان شخص آخر يجهز العرض."
+        ],
+        [
+          "Manchmal läuft es im Team langsamer, aber die Ergebnisse sind oft solider als bei Alleinarbeit.",
+          "أحيانًا تسير الأمور في الفريق أبطأ، لكن النتائج غالبًا تكون أكثر متانة من العمل الفردي.",
+          "مانشْمال لوفت إِس إيم تيم لانْگْزامَر، آبا ديه إرْگِبنِسِه زينْت أوفت زولِيدَر ألس باي آلَيناَرْبايت.",
+          "Manchmal läuft es im Team langsamer, aber die Ergebnisse sind oft solider als bei Alleinarbeit.",
+          "أحيانًا تسير الأمور في الفريق أبطأ، لكن النتائج غالبًا تكون أكثر متانة من العمل الفردي."
+        ],
+        [
+          "Ich mag es, wenn wir Ideen offen sammeln, bevor wir uns auf eine Richtung festlegen.",
+          "أحب عندما نجمع الأفكار بصراحة قبل أن نلتزم باتجاه معين.",
+          "إيش ماگ إِس، فِن ڤير إديهِن أوفِن زاملِن، بِفور ڤير أونْس أوف آينِه رِشْتونگ فِسْتْلِگِن.",
+          "Ich mag es, wenn wir Ideen offen sammeln, bevor wir uns auf eine Richtung festlegen.",
+          "أحب عندما نجمع الأفكار بصراحة قبل أن نلتزم باتجاه معين."
+        ],
+        [
+          "Ein gutes Team hört einander zu, auch wenn es stressig wird und der Ton kurz schärfer klingt.",
+          "الفريق الجيد يصغي بعضه لبعض، حتى عندما يصبح الوضع مرهقًا وتبدو النبرة أكثر حدة قليلًا.",
+          "آين گوتِس تيم هورت آينانْدَر تْسو، آوخ فِن إِس شْتْرِسِيخ ڤيرت أوند دِر تون كورتْس شِرفِر كْلينْگت.",
+          "Ein gutes Team hört einander zu, auch wenn es stressig wird und der Ton kurz schärfer klingt.",
+          "الفريق الجيد يصغي بعضه لبعض، حتى عندما يصبح الوضع مرهقًا وتبدو النبرة أكثر حدة قليلًا."
+        ],
+        [
+          "Wir kommen schneller voran, wenn wir Zuständigkeiten früh klären und nicht doppelt arbeiten.",
+          "نحرز تقدمًا أسرع عندما نوضح المسؤوليات مبكرًا ولا نعمل بشكل مزدوج.",
+          "ڤير كومِن شْنِلَر فورآن، فِن ڤير تْسوسْتَنْدِيگْكايتِن فرُوه كْليرِن أوند نِشت دوبلت آرْبايتِن.",
+          "Wir kommen schneller voran, wenn wir Zuständigkeiten früh klären und nicht doppelt arbeiten.",
+          "نحرز تقدمًا أسرع عندما نوضح المسؤوليات مبكرًا ولا نعمل بشكل مزدوج."
+        ],
+        [
+          "Ich kann gut im Team arbeiten, solange die Absprachen verbindlich sind und nicht ständig wechseln.",
+          "أستطيع العمل جيدًا ضمن فريق ما دامت الاتفاقات ملزمة ولا تتغير باستمرار.",
+          "إيش كان گوت إيم تيم آرْبايتِن، زولانْگِه ديه آبْشْپْراخِن فِرْبِنْدْلِيش زينْت أوند نِشت شْتَنْدِيش ڤِكسِلِن.",
+          "Ich kann gut im Team arbeiten, solange die Absprachen verbindlich sind und nicht ständig wechseln.",
+          "أستطيع العمل جيدًا ضمن فريق ما دامت الاتفاقات ملزمة ولا تتغير باستمرار."
+        ],
+        [
+          "Wenn wir einander vertrauen, trauen wir uns auch, früh auf Probleme hinzuweisen.",
+          "إذا وثقنا ببعضنا، فإننا نجرؤ أيضًا على الإشارة إلى المشكلات مبكرًا.",
+          "فِن ڤير آينانْدَر فِرْتراوِن، تراوِن ڤير أونْس آوخ، فروه أوف بروبْلِمِه هينْتسوڤايْزِن.",
+          "Wenn wir einander vertrauen, trauen wir uns auch, früh auf Probleme hinzuweisen.",
+          "إذا وثقنا ببعضنا، فإننا نجرؤ أيضًا على الإشارة إلى المشكلات مبكرًا."
+        ]
+      ]
+    },
+    {
+      "topic": "حل النزاعات",
+      "words": [
+        [
+          "Bevor ein Streit eskaliert, hilft es oft, einen Schritt zurückzutreten und die Lage sachlich zu betrachten.",
+          "قبل أن يتصاعد الخلاف، يساعد غالبًا التراجع خطوة والنظر إلى الوضع بموضوعية.",
+          "بِفور آين شْترايت إِسْكاليرْت، هِلْفت إِس أوفت، آينِن شْريت تْسوروكْتْسوتْرِيتِن أوند ديه لاگِه زاخلِيش تْسو بِتْراخْتِن.",
+          "Bevor ein Streit eskaliert, hilft es oft, einen Schritt zurückzutreten und die Lage sachlich zu betrachten.",
+          "قبل أن يتصاعد الخلاف، يساعد غالبًا التراجع خطوة والنظر إلى الوضع بموضوعية."
+        ],
+        [
+          "Ich versuche zuerst zu verstehen, warum die andere Seite verärgert ist, statt sofort zu widersprechen.",
+          "أحاول أولًا أن أفهم لماذا الطرف الآخر غاضب بدلًا من أن أعارض فورًا.",
+          "إيش فِرْزوخِه تْسويْرْشت تْسو فِرْشْتِيهِن، فاروم ديه آندِرِه زايتِه فِرْإرگِرت إِست، شتات زوفورت تْسو ڤيدِرْشْپْرِيشِن.",
+          "Ich versuche zuerst zu verstehen, warum die andere Seite verärgert ist, statt sofort zu widersprechen.",
+          "أحاول أولًا أن أفهم لماذا الطرف الآخر غاضب بدلًا من أن أعارض فورًا."
+        ],
+        [
+          "Ein Konflikt wird leichter lösbar, wenn beide Seiten ihre Erwartungen klar und ruhig aussprechen.",
+          "يصبح النزاع أسهل للحل عندما يعبّر الطرفان عن توقعاتهما بوضوح وهدوء.",
+          "آين كونفْلِكت ڤيرت لايْشْتَر لوزبار، فِن بايْدِه زايتِن إيرِه إِرڤارتونگِن كلاهَر أوند روْهِيخ أوْسْشْپْرِشِن.",
+          "Ein Konflikt wird leichter lösbar, wenn beide Seiten ihre Erwartungen klar und ruhig aussprechen.",
+          "يصبح النزاع أسهل للحل عندما يعبّر الطرفان عن توقعاتهما بوضوح وهدوء."
+        ],
+        [
+          "Manchmal ist nicht das Problem selbst schwierig, sondern die Art, wie wir darüber reden.",
+          "أحيانًا لا تكون المشكلة نفسها صعبة، بل الطريقة التي نتحدث بها عنها.",
+          "مانشْمال إِست نِشت داس بروبْلِم زِلْبْسْت شْڤيرِيخ، زونْدِرن ديه آرت، ڤي ڤير داروبِر رِيدِن.",
+          "Manchmal ist nicht das Problem selbst schwierig, sondern die Art, wie wir darüber reden.",
+          "أحيانًا لا تكون المشكلة نفسها صعبة، بل الطريقة التي نتحدث بها عنها."
+        ],
+        [
+          "Wenn ich mich angegriffen fühle, atme ich erst durch, bevor ich antworte.",
+          "عندما أشعر بأنني مُهاجَم، أتنفس أولًا قبل أن أجيب.",
+          "فِن إيش ميخ آنْگِگْرِفِن فورِله، آتْمِه إيش إيرْست دوْرْخ، بِفور إيش آنْتْڤورتِه.",
+          "Wenn ich mich angegriffen fühle, atme ich erst durch, bevor ich antworte.",
+          "عندما أشعر بأنني مُهاجَم، أتنفس أولًا قبل أن أجيب."
+        ],
+        [
+          "Es ist sinnvoll, gemeinsam nach Lösungen zu suchen, statt nur Schuldige zu benennen.",
+          "من المنطقي أن نبحث عن حلول معًا بدلًا من مجرد تسمية المذنبين.",
+          "إِس إِست زينْفول، گِماينْزام نَاخ لوزونگِن تْسو زوخِن، شتات نُور شولْديگِه تْسو بِنانِن.",
+          "Es ist sinnvoll, gemeinsam nach Lösungen zu suchen, statt nur Schuldige zu benennen.",
+          "من المنطقي أن نبحث عن حلول معًا بدلًا من مجرد تسمية المذنبين."
+        ],
+        [
+          "Ein respektvoller Ton kann Spannungen abbauen, selbst wenn die Positionen weit auseinanderliegen.",
+          "يمكن للنبرة المحترمة أن تخفف التوتر حتى عندما تكون المواقف متباعدة جدًا.",
+          "آين رِسْپِكتْفولَر تون كان شْپانُنْگِن آبْباوِن، زلْبْسْت فِن ديه پوزيتسيونِن ڤايت آوسَينانْدِرْلِيگِن.",
+          "Ein respektvoller Ton kann Spannungen abbauen, selbst wenn die Positionen weit auseinanderliegen.",
+          "يمكن للنبرة المحترمة أن تخفف التوتر حتى عندما تكون المواقف متباعدة جدًا."
+        ],
+        [
+          "Ich bin bereit, meinen Standpunkt zu überprüfen, wenn neue Informationen wirklich etwas ändern.",
+          "أنا مستعد لمراجعة موقفي إذا كانت المعلومات الجديدة تغيّر شيئًا فعلًا.",
+          "إيش بِين بِرَايت، ماينِن شْتانْدْپونكت تْسو أوبِرْپْرُوفِن، فِن نويِه إينفورْماتسيونِن ڤِرْكْلِيش إتْڤاس إينْدِرن.",
+          "Ich bin bereit, meinen Standpunkt zu überprüfen, wenn neue Informationen wirklich etwas ändern.",
+          "أنا مستعد لمراجعة موقفي إذا كانت المعلومات الجديدة تغيّر شيئًا فعلًا."
+        ],
+        [
+          "Oft löst sich ein Streit schneller, wenn beide Seiten sich gehört fühlen.",
+          "غالبًا ما يُحل الخلاف أسرع عندما يشعر الطرفان بأنهما قد سُمِعا.",
+          "أوفْت لوزت زيش آين شْترايت شْنِلَر، فِن بايْدِه زايتِن زيش گِهورت فورِلهِن.",
+          "Oft löst sich ein Streit schneller, wenn beide Seiten sich gehört fühlen.",
+          "غالبًا ما يُحل الخلاف أسرع عندما يشعر الطرفان بأنهما قد سُمِعا."
+        ],
+        [
+          "Wenn wir eine Pause machen, können wir später ruhiger und fairer weiterreden.",
+          "إذا أخذنا استراحة، يمكننا متابعة الحديث لاحقًا بهدوء وعدل أكبر.",
+          "فِن ڤير آينِه پاوزِه ماخِن، كُنِن ڤير شباتَر روْهِيگَر أوند فِيرَر ڤايتِرْرِيدِن.",
+          "Wenn wir eine Pause machen, können wir später ruhiger und fairer weiterreden.",
+          "إذا أخذنا استراحة، يمكننا متابعة الحديث لاحقًا بهدوء وعدل أكبر."
+        ]
+      ]
+    },
+    {
+      "topic": "المقابلات المهنية",
+      "words": [
+        [
+          "In einem Vorstellungsgespräch zählt nicht nur Erfahrung, sondern auch, wie klar man seine Stärken erklärt.",
+          "في المقابلة المهنية لا تهم الخبرة فقط، بل أيضًا مدى وضوح شرح الشخص لنقاط قوته.",
+          "إين آينِم فورْشْتِلُونغْسگِشْپْرِيش تسيلت نِشت نُور إرْفارونگ، زونْدِرن آوخ ڤي كلاهَر مان زاينِه شْتِركِن إِرْكْلِيرْت.",
+          "In einem Vorstellungsgespräch zählt nicht nur Erfahrung, sondern auch, wie klar man seine Stärken erklärt.",
+          "في المقابلة المهنية لا تهم الخبرة فقط، بل أيضًا مدى وضوح شرح الشخص لنقاط قوته."
+        ],
+        [
+          "Ich bereite mich auf Fragen vor, damit ich meine Beispiele ruhig und präzise darstellen kann.",
+          "أستعد للأسئلة حتى أتمكن من عرض أمثلتي بهدوء ودقة.",
+          "إيش بِرايْتِه ميخ أوف فراگِن فور، داميت إيش ماينه بايْشپْيِلِه روْهِيخ أوند پْرِتْسِيْز دارتْشْتِلِن كان.",
+          "Ich bereite mich auf Fragen vor, damit ich meine Beispiele ruhig und präzise darstellen kann.",
+          "أستعد للأسئلة حتى أتمكن من عرض أمثلتي بهدوء ودقة."
+        ],
+        [
+          "Wenn ich eine Stelle interessant finde, frage ich auch nach dem Team und den Erwartungen im Alltag.",
+          "عندما أجد وظيفة مثيرة للاهتمام، أسأل أيضًا عن الفريق والتوقعات في العمل اليومي.",
+          "فِن إيش آينِه شْتِلِه إِنْتِرِسانت فِنْدِه، فراگِه إيش آوخ نَاخ ديم تيم أوند دين إِرْڤارتونگِن إيم آلْتاغ.",
+          "Wenn ich eine Stelle interessant finde, frage ich auch nach dem Team und den Erwartungen im Alltag.",
+          "عندما أجد وظيفة مثيرة للاهتمام، أسأل أيضًا عن الفريق والتوقعات في العمل اليومي."
+        ],
+        [
+          "Ein guter Eindruck entsteht, wenn ich ehrlich antworte, ohne unnötig selbstbewusst zu wirken.",
+          "ينشأ انطباع جيد عندما أجيب بصدق دون أن أبدو واثقًا من نفسي بشكل مبالغ فيه.",
+          "آين گوتر آينْدْروك إِنْتْشْتِيت، فِن إيش إهرْلِيش آنْتْڤورتِه، أونِه أونْنوتيخ زِلْبْسْتْبِوْسْت تْسو ڤيرْكِن.",
+          "Ein guter Eindruck entsteht, wenn ich ehrlich antworte, ohne unnötig selbstbewusst zu wirken.",
+          "ينشأ انطباع جيد عندما أجيب بصدق دون أن أبدو واثقًا من نفسي بشكل مبالغ فيه."
+        ],
+        [
+          "Ich finde es sinnvoll, auch nach Entwicklungsmöglichkeiten zu fragen, nicht nur nach dem Gehalt.",
+          "أرى أنه من المفيد أن أسأل أيضًا عن فرص التطور، لا عن الراتب فقط.",
+          "إيش فِنْدِه إِس زينْفول، آوخ نَاخ إِنْتْڤِكْلونغْسْمُوگْلِيشْكايتِن تْسو فراگِن، نِشت نُور نَاخ ديم گِهالت.",
+          "Ich finde es sinnvoll, auch nach Entwicklungsmöglichkeiten zu fragen, nicht nur nach dem Gehalt.",
+          "أرى أنه من المفيد أن أسأل أيضًا عن فرص التطور، لا عن الراتب فقط."
+        ],
+        [
+          "Wenn eine Frage schwierig ist, nehme ich mir kurz Zeit, statt vorschnell zu reagieren.",
+          "إذا كان سؤال صعبًا، آخذ وقتًا قصيرًا بدلًا من الرد المتسرع.",
+          "فِن آينِه فراگِه شْڤيرِيخ إِست، نِيمِه إيش مير كورتْس تسايت، شتات فورشْنِل تْسو رِآگِيْرِن.",
+          "Wenn eine Frage schwierig ist, nehme ich mir kurz Zeit, statt vorschnell zu reagieren.",
+          "إذا كان سؤال صعبًا، آخذ وقتًا قصيرًا بدلًا من الرد المتسرع."
+        ],
+        [
+          "Ich wirke überzeugender, wenn ich konkrete Ergebnisse nenne und nicht nur allgemeine Aussagen mache.",
+          "أبدو أكثر إقناعًا عندما أذكر نتائج ملموسة ولا أكتفي بعبارات عامة.",
+          "إيش ڤيرْكِه أوبِرْتْسَوگِنْدِر، فِن إيش كونكْرِتِه إرْگِبنِسِه نِنِّه أوند نِشت نُور آلْگِماينِه آوسْزاگِن ماخِه.",
+          "Ich wirke überzeugender, wenn ich konkrete Ergebnisse nenne und nicht nur allgemeine Aussagen mache.",
+          "أبدو أكثر إقناعًا عندما أذكر نتائج ملموسة ولا أكتفي بعبارات عامة."
+        ],
+        [
+          "Auch wenn ich nervös bin, hilft mir eine gute Vorbereitung, meine Antworten klar zu strukturieren.",
+          "حتى عندما أكون متوترًا، تساعدني الاستعدادات الجيدة على تنظيم إجاباتي بوضوح.",
+          "آوخ فِن إيش نِرفوز بِين، هِلْفت مير آينِه گوتِه فُوربايْتُونگ، ماينه آنْتْڤورتِن كلاهَر تْسو شْتروكْتوريْرِن.",
+          "Auch wenn ich nervös bin, hilft mir eine gute Vorbereitung, meine Antworten klar zu strukturieren.",
+          "حتى عندما أكون متوترًا، تساعدني الاستعدادات الجيدة على تنظيم إجاباتي بوضوح."
+        ],
+        [
+          "Ich möchte zeigen, dass ich schnell lerne, gut mit Menschen umgehe und Verantwortung übernehme.",
+          "أريد أن أُظهر أنني أتعلم بسرعة وأتعامل جيدًا مع الناس وأتحمل المسؤولية.",
+          "إيش موخْتِه تْسايْگِن، داس إيش شْنِل لِرْنِه، گوت مِت مِنْشِن أومْگِه أوند فِرْأَنْتڤورتونگ أوبِرْنِيمِه.",
+          "Ich möchte zeigen, dass ich schnell lerne, gut mit Menschen umgehe und Verantwortung übernehme.",
+          "أريد أن أُظهر أنني أتعلم بسرعة وأتعامل جيدًا مع الناس وأتحمل المسؤولية."
+        ],
+        [
+          "Am Ende interessiert mich, ob die Aufgabe zu meinen Fähigkeiten passt und langfristig sinnvoll ist.",
+          "في النهاية يهمني ما إذا كانت المهمة تناسب قدراتي ومفيدة على المدى الطويل.",
+          "آم إنده إِنْتِرِيسيرْت ميخ، أوب ديه أوفْگابِه تْسو ماينِن فِهِيگْكايتِن پاست أوند لانْگْفِرْستِيش زينْفول إِست.",
+          "Am Ende interessiert mich, ob die Aufgabe zu meinen Fähigkeiten passt und langfristig sinnvoll ist.",
+          "في النهاية يهمني ما إذا كانت المهمة تناسب قدراتي ومفيدة على المدى الطويل."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ القرارات",
+      "words": [
+        [
+          "Ich entscheide mich für den günstigeren Kurs, weil ich mit dem Geld später noch andere Projekte finanzieren kann.",
+          "أختار الدورة الأرخص لأنني أستطيع تمويل مشاريع أخرى لاحقًا بهذا المال.",
+          "إيش إنتشايدي ميخ فور دين غونستيجيرِن كورس، فايل إيش ميت دِم غيلت شبَيتَر نُوخ أندِرِه برويكتِه فينانتسيرِن كان.",
+          "Ich entscheide mich für den günstigeren Kurs, weil ich mit dem Geld später noch andere Projekte finanzieren kann.",
+          "أختار الدورة الأرخص لأنني أستطيع تمويل مشاريع أخرى لاحقًا بهذا المال."
+        ],
+        [
+          "Wenn wir heute nur nach dem Preis gehen, riskieren wir, dass die Qualität am Ende nicht ausreicht.",
+          "إذا أخذنا السعر فقط اليوم بعين الاعتبار، فإننا نخاطر بألا تكفي الجودة في النهاية.",
+          "فِن فير هاوته نور ناخ ديم برايس غين، ريسكيرِن فير، داس دِي كفاليتيت آم إنده نِشت أوسرايخت.",
+          "Wenn wir heute nur nach dem Preis gehen, riskieren wir, dass die Qualität am Ende nicht ausreicht.",
+          "إذا أخذنا السعر فقط اليوم بعين الاعتبار، فإننا نخاطر بألا تكفي الجودة في النهاية."
+        ],
+        [
+          "Ich würde lieber abwarten, bis alle Fakten klar sind, statt vorschnell eine Entscheidung zu treffen.",
+          "أفضل أن أنتظر حتى تصبح كل الحقائق واضحة بدلًا من اتخاذ قرار متسرع.",
+          "إيش فيردِه ليبر آبفارتِن، بيس آلِه فاكْتِن كْلار زِند، شتات فورشناِل آينِه إنتشايدونغ تسو تريفِن.",
+          "Ich würde lieber abwarten, bis alle Fakten klar sind, statt vorschnell eine Entscheidung zu treffen.",
+          "أفضل أن أنتظر حتى تصبح كل الحقائق واضحة بدلًا من اتخاذ قرار متسرع."
+        ],
+        [
+          "Obwohl die Lösung komplizierter wirkt, ist sie langfristig oft praktischer als ein schneller Kompromiss.",
+          "على الرغم من أن الحل يبدو أكثر تعقيدًا، فإنه غالبًا ما يكون عمليًا على المدى الطويل أكثر من تسوية سريعة.",
+          "أوبفول دِي لوزونغ كومبليتسيرتر فيركت، إِست زي لانغفْرِستِغ أوفت براكتيشَر آلس آين شنايلَر كومبرومايس.",
+          "Obwohl die Lösung komplizierter wirkt, ist sie langfristig oft praktischer als ein schneller Kompromiss.",
+          "على الرغم من أن الحل يبدو أكثر تعقيدًا، فإنه غالبًا ما يكون عمليًا على المدى الطويل أكثر من تسوية سريعة."
+        ],
+        [
+          "Wenn du mir deine Bedenken genau erklärst, kann ich meine Prioritäten besser anpassen.",
+          "إذا شرحتَ لي تحفظاتك بدقة، أستطيع أن أعدّل أولوياتي بشكل أفضل.",
+          "فِن دو مير داينه بِدينكِن غِناؤ إركليرست، كان إيش ماينه بْريوريتيتِن بِسَر أَنپاسِن.",
+          "Wenn du mir deine Bedenken genau erklärst, kann ich meine Prioritäten besser anpassen.",
+          "إذا شرحتَ لي تحفظاتك بدقة، أستطيع أن أعدّل أولوياتي بشكل أفضل."
+        ],
+        [
+          "Für mich zählt nicht nur die Effizienz, sondern auch, ob das Ergebnis für alle akzeptabel ist.",
+          "لا يهمني فقط الكفاءة، بل أيضًا ما إذا كانت النتيجة مقبولة للجميع.",
+          "فور ميش تسِلت نِشت نور دِي إفِتسيينتس، زوندرن آوخ أوب داس إرغِبْنيس فور آله أكْتسِبتابل إِست.",
+          "Für mich zählt nicht nur die Effizienz, sondern auch, ob das Ergebnis für alle akzeptabel ist.",
+          "لا يهمني فقط الكفاءة، بل أيضًا ما إذا كانت النتيجة مقبولة للجميع."
+        ],
+        [
+          "Ich kann deinen Vorschlag unterstützen, wenn wir vorher die Risiken gemeinsam prüfen.",
+          "أستطيع دعم اقتراحك إذا فحصنا المخاطر معًا مسبقًا.",
+          "إيش كان داينِن فورشلاخ أونترشتوتسِن، فِن فير فورهير دي ريسيكِن گِماينزام پْرويفِن.",
+          "Ich kann deinen Vorschlag unterstützen, wenn wir vorher die Risiken gemeinsam prüfen.",
+          "أستطيع دعم اقتراحك إذا فحصنا المخاطر معًا مسبقًا."
+        ],
+        [
+          "Statt alles allein zu entscheiden, sollten wir die Gruppe einbeziehen und verschiedene Perspektiven hören.",
+          "بدلًا من اتخاذ القرار وحدي، ينبغي أن نشرك المجموعة ونسمع وجهات نظر مختلفة.",
+          "شتات آلس ألاين تسو إنتشايدِن، زولتن فير دي گروپِه آينبِتسوغِن أوند فرشيدنِه بُرسپِكتيفِن هورِن.",
+          "Statt alles allein zu entscheiden, sollten wir die Gruppe einbeziehen und verschiedene Perspektiven hören.",
+          "بدلًا من اتخاذ القرار وحدي، ينبغي أن نشرك المجموعة ونسمع وجهات نظر مختلفة."
+        ],
+        [
+          "Ich sehe den Vorteil deines Plans, aber ohne einen klaren Zeitrahmen ist er für mich zu riskant.",
+          "أرى فائدة خطتك، لكن من دون إطار زمني واضح تبدو لي محفوفة بالمخاطر.",
+          "إيش زهِه دين فوُرتايل داينِس بلانس، آبَر أونه آينِن كْلارِن تسايتراهمِن إِست إر فور ميش تسو ريسكانت.",
+          "Ich sehe den Vorteil deines Plans, aber ohne einen klaren Zeitrahmen ist er für mich zu riskant.",
+          "أرى فائدة خطتك، لكن من دون إطار زمني واضح تبدو لي محفوفة بالمخاطر."
+        ],
+        [
+          "Am Ende treffe ich die Entscheidung, die sinnvoll wirkt und sich im Alltag realistisch umsetzen lässt.",
+          "في النهاية أتخذ القرار الذي يبدو منطقيًا ويمكن تطبيقه واقعيًا في الحياة اليومية.",
+          "آم إنده تْريفِه إيش دي إنتشايدونغ، دي زيننفول فيركت أوند زيش إم ألتاغ ريالِستيش أومسِتسِن لَست.",
+          "Am Ende treffe ich die Entscheidung, die sinnvoll wirkt und sich im Alltag realistisch umsetzen lässt.",
+          "في النهاية أتخذ القرار الذي يبدو منطقيًا ويمكن تطبيقه واقعيًا في الحياة اليومية."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل الرقمي",
+      "words": [
+        [
+          "Ich antworte später auf die Nachricht, weil ich die Sache zuerst in Ruhe prüfen will.",
+          "سأرد على الرسالة لاحقًا لأنني أريد التحقق من الأمر بهدوء أولًا.",
+          "إيش أَنْتفورته شبَيتَر آوف دي ناخريخت، فايل إيش دي زاخه تسوئرست إِن روهِه پْرويفِن فيل.",
+          "Ich antworte später auf die Nachricht, weil ich die Sache zuerst in Ruhe prüfen will.",
+          "سأرد على الرسالة لاحقًا لأنني أريد التحقق من الأمر بهدوء أولًا."
+        ],
+        [
+          "Wenn eine E-Mail unklar formuliert ist, frage ich lieber nach, statt etwas falsch zu verstehen.",
+          "إذا كانت رسالة البريد الإلكتروني غير واضحة، فأفضل أن أستفسر بدلًا من أن أفهم شيئًا خطأ.",
+          "فِن آينِه إي-مايل أونكْلار فورمولييرت إِست، فراخه إيش ليبر ناخ، شتات إتفاس فالش تسو فِرشْتهين.",
+          "Wenn eine E-Mail unklar formuliert ist, frage ich lieber nach, statt etwas falsch zu verstehen.",
+          "إذا كانت رسالة البريد الإلكتروني غير واضحة، فأفضل أن أستفسر بدلًا من أن أفهم شيئًا خطأ."
+        ],
+        [
+          "In Videokonferenzen ist es hilfreich, kurz und präzise zu sprechen, damit niemand den Faden verliert.",
+          "في مؤتمرات الفيديو، من المفيد التحدث باختصار ودقة حتى لا يفقد أحد خيط النقاش.",
+          "إِن فيديوكونفرنتسِن إِست إِس هلفْريش، كورتس أوند بريتسايز تسو شْبْرِخِن، دامت نيمانْد دين فادن فِرليرت.",
+          "In Videokonferenzen ist es hilfreich, kurz und präzise zu sprechen, damit niemand den Faden verliert.",
+          "في مؤتمرات الفيديو، من المفيد التحدث باختصار ودقة حتى لا يفقد أحد خيط النقاش."
+        ],
+        [
+          "Ich finde es sinnvoll, private Dinge nicht im Gruppenchat zu diskutieren, auch wenn das bequem wäre.",
+          "أرى أنه من الأفضل عدم مناقشة الأمور الخاصة في دردشة المجموعة، حتى لو كان ذلك أسهل.",
+          "إيش فينده إِس زيننفول، پرِفاتِه دِنغه نِشت إِم گروپِن-تشات تسو ديسكوتيرِن، آوخ فِن داس بِكْويم فِيرَه.",
+          "Ich finde es sinnvoll, private Dinge nicht im Gruppenchat zu diskutieren, auch wenn das bequem wäre.",
+          "أرى أنه من الأفضل عدم مناقشة الأمور الخاصة في دردشة المجموعة، حتى لو كان ذلك أسهل."
+        ],
+        [
+          "Wenn du mich online schwer erreichst, rufe ich notfalls an, weil Missverständnisse sonst zu lange dauern.",
+          "إذا كان من الصعب الوصول إليّ عبر الإنترنت، فسأتصل عند الضرورة لأن سوء الفهم قد يطول خلاف ذلك.",
+          "فِن دو ميش أونلاين شفير إررايخت، روفه إيش نوتفالس أن، فايل ميسفِرشتيندِنِسِه زونست تسو لانغه داورن.",
+          "Wenn du mich online schwer erreichst, rufe ich notfalls an, weil Missverständnisse sonst zu lange dauern.",
+          "إذا كان من الصعب الوصول إليّ عبر الإنترنت، فسأتصل عند الضرورة لأن سوء الفهم قد يطول خلاف ذلك."
+        ],
+        [
+          "Je schneller eine Antwort kommt, desto eher bleibt die Zusammenarbeit in einem guten Rhythmus.",
+          "كلما جاء الرد أسرع، بقي التعاون بإيقاع جيد لفترة أطول.",
+          "يه شنايْلَر آينه أنتفورت كومت، دِستو إيَر بلايبت دِي تسوزامِنأربيْت إِن آينِم گوتِن ريتموس.",
+          "Je schneller eine Antwort kommt, desto eher bleibt die Zusammenarbeit in einem guten Rhythmus.",
+          "كلما جاء الرد أسرع، بقي التعاون بإيقاع جيد لفترة أطول."
+        ],
+        [
+          "Ich schalte Benachrichtigungen aus, wenn ich konzentriert arbeiten muss, damit ich nicht abgelenkt werde.",
+          "أوقف الإشعارات عندما أحتاج إلى العمل بتركيز حتى لا أتشوّش.",
+          "إيش شالتِه بِنَاخريختيجونغِن أوس، فِن إيش كونتسنتْريرت أربيْتِن موس، دامت إيش نِشت آبگِلنكت فيردِه.",
+          "Ich schalte Benachrichtigungen aus, wenn ich konzentriert arbeiten muss, damit ich nicht abgelenkt werde.",
+          "أوقف الإشعارات عندما أحتاج إلى العمل بتركيز حتى لا أتشوّش."
+        ],
+        [
+          "Obwohl soziale Medien nützlich sein können, glaube ich, dass man nicht alles sofort teilen sollte.",
+          "على الرغم من أن وسائل التواصل الاجتماعي قد تكون مفيدة، أعتقد أنه لا ينبغي مشاركة كل شيء فورًا.",
+          "أوبفول زوتسياله مِدْيَن نتيليخ زاين كُنِن، گْلاوبه إيش، داس مان نِشت آلس زوفورت تايلِن زولتِه.",
+          "Obwohl soziale Medien nützlich sein können, glaube ich, dass man nicht alles sofort teilen sollte.",
+          "على الرغم من أن وسائل التواصل الاجتماعي قد تكون مفيدة، أعتقد أنه لا ينبغي مشاركة كل شيء فورًا."
+        ],
+        [
+          "Ich formuliere meine Nachrichten höflich, weil ein sachlicher Ton oft bessere Reaktionen auslöst.",
+          "أصوغ رسائلي بلطف لأن النبرة الموضوعية غالبًا ما تثير ردود فعل أفضل.",
+          "إيش فورموليرِه ماينِه ناخريختِن هُفليش، فايل آين زاخليخَر تون أوفت بِسَرِه رياكسيونِن أوسلُست.",
+          "Ich formuliere meine Nachrichten höflich, weil ein sachlicher Ton oft bessere Reaktionen auslöst.",
+          "أصوغ رسائلي بلطف لأن النبرة الموضوعية غالبًا ما تثير ردود فعل أفضل."
+        ],
+        [
+          "Falls das Gespräch zu lang wird, schlage ich einen kurzen Anruf vor, damit wir schneller entscheiden können.",
+          "إذا طال الحديث أكثر من اللازم، أقترح مكالمة قصيرة حتى نتمكن من اتخاذ القرار أسرع.",
+          "فالز داس گِشْپْريخ تسو لانغ فيرت، شلاگِه إيش آينِن كورتسِن آنروف فور، دامت فير شنايْلَر إنتشايدِن كُنِن.",
+          "Falls das Gespräch zu lang wird, schlage ich einen kurzen Anruf vor, damit wir schneller entscheiden können.",
+          "إذا طال الحديث أكثر من اللازم، أقترح مكالمة قصيرة حتى نتمكن من اتخاذ القرار أسرع."
+        ]
+      ]
+    },
+    {
+      "topic": "التنوع الثقافي",
+      "words": [
+        [
+          "Ich lerne gern neue Bräuche kennen, weil sie meinen Blick auf den Alltag erweitern.",
+          "أتعلم العادات الجديدة بسرور لأنها توسّع نظرتي إلى الحياة اليومية.",
+          "إيش لرنِه غيرن نويِه براوخه كِنِن، فايل زي ماينِن بْليك آوف دين ألتاغ إرڤايتِرن.",
+          "Ich lerne gern neue Bräuche kennen, weil sie meinen Blick auf den Alltag erweitern.",
+          "أتعلم العادات الجديدة بسرور لأنها توسّع نظرتي إلى الحياة اليومية."
+        ],
+        [
+          "Wenn Menschen unterschiedliche Gepflogenheiten haben, heißt das nicht automatisch, dass sie unhöflich sind.",
+          "إذا كان للناس عادات مختلفة، فهذا لا يعني تلقائيًا أنهم غير مهذبين.",
+          "فِن مِينشِن أونتَرشيْدْليخِه گِپفلوغِنهايتِن هابِن، هايست داس نِشت أوتوماتيش، داس زي أونهفليش زِند.",
+          "Wenn Menschen unterschiedliche Gepflogenheiten haben, heißt das nicht automatisch, dass sie unhöflich sind.",
+          "إذا كان للناس عادات مختلفة، فهذا لا يعني تلقائيًا أنهم غير مهذبين."
+        ],
+        [
+          "Ich finde es bereichernd, wenn im Team verschiedene Sichtweisen zusammenkommen.",
+          "أرى أنه من المفيد عندما تجتمع في الفريق وجهات نظر مختلفة.",
+          "إيش فينده إِس بِرايخِرنْد، فِن إِم تيم فرشيدنِه زِختفايزِن تسوزامِنكومِن.",
+          "Ich finde es bereichernd, wenn im Team verschiedene Sichtweisen zusammenkommen.",
+          "أرى أنه من المفيد عندما تجتمع في الفريق وجهات نظر مختلفة."
+        ],
+        [
+          "Statt vorschnell zu urteilen, sollte man erst fragen, warum etwas anders gemacht wird.",
+          "بدلًا من الحكم بسرعة، ينبغي أولًا أن نسأل لماذا يُفعل شيء ما بطريقة مختلفة.",
+          "شتات فورشناِل تسو أورتايلِن، زولتِه مان إرست فراگِن، فاروم إتفاس أندرس غِماخت فيرت.",
+          "Statt vorschnell zu urteilen, sollte man erst fragen, warum etwas anders gemacht wird.",
+          "بدلًا من الحكم بسرعة، ينبغي أولًا أن نسأل لماذا يُفعل شيء ما بطريقة مختلفة."
+        ],
+        [
+          "Ein offenes Gespräch hilft, Missverständnisse abzubauen und gegenseitigen Respekt zu stärken.",
+          "الحوار المفتوح يساعد على إزالة سوء الفهم وتعزيز الاحترام المتبادل.",
+          "آين أوفِنِس گِشپْريخ هِلفت، ميسفِرشتيندنِسِه آبزوباون أوند گِگِنزايتيجِن رِسپِكت تسو شتيركِن.",
+          "Ein offenes Gespräch hilft, Missverständnisse abzubauen und gegenseitigen Respekt zu stärken.",
+          "الحوار المفتوح يساعد على إزالة سوء الفهم وتعزيز الاحترام المتبادل."
+        ],
+        [
+          "Ich möchte niemanden in eine Schublade stecken, nur weil seine Gewohnheiten mir fremd erscheinen.",
+          "لا أريد أن أضع أحدًا في قالب واحد لمجرد أن عاداته تبدو لي غريبة.",
+          "إيش مِختِه نيمانْدِن إِن آينِه شووبلاده شتيكِن، نور فايل زاينه گِفونهَيتِن مير فرايمْد إيرشايْنِن.",
+          "Ich möchte niemanden in eine Schublade stecken, nur weil seine Gewohnheiten mir fremd erscheinen.",
+          "لا أريد أن أضع أحدًا في قالب واحد لمجرد أن عاداته تبدو لي غريبة."
+        ],
+        [
+          "Wenn wir kulturelle Unterschiede respektieren, können wir besser zusammenarbeiten und voneinander lernen.",
+          "إذا احترمنا الاختلافات الثقافية، يمكننا أن نتعاون بشكل أفضل ونتعلم من بعضنا البعض.",
+          "فِن فير كولتوريليه أونتَرشيْدِه رِسپِكْتيرِن، كُنِن فير بِسَر تسوزامِنأربيْتِن أوند فون آينانْدَر لرنِن.",
+          "Wenn wir kulturelle Unterschiede respektieren, können wir besser zusammenarbeiten und voneinander lernen.",
+          "إذا احترمنا الاختلافات الثقافية، يمكننا أن نتعاون بشكل أفضل ونتعلم من بعضنا البعض."
+        ],
+        [
+          "Ich höre genau zu, auch wenn jemand eine Meinung vertritt, die meiner zunächst widerspricht.",
+          "أصغي بعناية حتى عندما يعبّر شخص عن رأي يخالف رأيي في البداية.",
+          "إيش هورِه غِناؤ تسو، آوخ فِن يِمانْد آينه ماينونغ فِرْتريت، دي ماينَر تسوناخت فيدِرْشپْريخت.",
+          "Ich höre genau zu, auch wenn jemand eine Meinung vertritt, die meiner zunächst widerspricht.",
+          "أصغي بعناية حتى عندما يعبّر شخص عن رأي يخالف رأيي في البداية."
+        ],
+        [
+          "Vielfalt macht eine Gruppe oft stärker, solange alle bereit sind, sich aufeinander einzulassen.",
+          "التنوع يجعل المجموعة أقوى غالبًا ما دام الجميع مستعدين للانفتاح على بعضهم.",
+          "فايْلفالت ماخت آينه گروپِه أوفت شتيركَر، زولانغِه آله بِرايت زِند، زيش آوف آينانْدَر آينتسولاسِن.",
+          "Vielfalt macht eine Gruppe oft stärker, solange alle bereit sind, sich aufeinander einzulassen.",
+          "التنوع يجعل المجموعة أقوى غالبًا ما دام الجميع مستعدين للانفتاح على بعضهم."
+        ],
+        [
+          "Ich finde Traditionen spannend, aber ich glaube nicht, dass man sie unkritisch übernehmen sollte.",
+          "أجد التقاليد مثيرة، لكنني لا أعتقد أنه ينبغي تبنّيها دون نقد.",
+          "إيش فينده تراديتسيونِن شْباننت، آبَر إيش گْلاوبه نِشت، داس مان زي أونكْريتيش أوبِرنهمِن زولتِه.",
+          "Ich finde Traditionen spannend, aber ich glaube nicht, dass man sie unkritisch übernehmen sollte.",
+          "أجد التقاليد مثيرة، لكنني لا أعتقد أنه ينبغي تبنّيها دون نقد."
+        ]
+      ]
+    },
+    {
+      "topic": "الحياة في مدينة جديدة",
+      "words": [
+        [
+          "In der neuen Stadt brauche ich noch etwas Zeit, um mich an die Wege und Gewohnheiten zu gewöhnen.",
+          "في المدينة الجديدة أحتاج إلى بعض الوقت لأعتاد الطرق والعادات.",
+          "إِن دِر نويِن شتات براوخه إيش نوخ إتفاس تسايت، أوم ميش آن دي فيغه أوند ګِفونهَيتِن تسو گِڤوهنِن.",
+          "In der neuen Stadt brauche ich noch etwas Zeit, um mich an die Wege und Gewohnheiten zu gewöhnen.",
+          "في المدينة الجديدة أحتاج إلى بعض الوقت لأعتاد الطرق والعادات."
+        ],
+        [
+          "Wenn die Wohnung zentral liegt, spare ich täglich Zeit, auch wenn die Miete etwas höher ist.",
+          "إذا كان السكن في موقع مركزي، أوفر الوقت يوميًا حتى لو كان الإيجار أعلى قليلًا.",
+          "فِن دي فونوڭ تسِنترال ليغت، شباره إيش تايغلِخ تسايت، آوخ فِن دي ميتِه إتفاس هويَر إِست.",
+          "Wenn die Wohnung zentral liegt, spare ich täglich Zeit, auch wenn die Miete etwas höher ist.",
+          "إذا كان السكن في موقع مركزي، أوفر الوقت يوميًا حتى لو كان الإيجار أعلى قليلًا."
+        ],
+        [
+          "Ich frage die Nachbarn lieber früh, wo man hier den Müll trennt und wann es ruhig sein sollte.",
+          "أفضل أن أسأل الجيران مبكرًا عن كيفية فرز النفايات ومتى ينبغي أن يسود الهدوء.",
+          "إيش فراگِه دي ناخبارن ليبر فروي، فو مان هير دين مول تْرِنْت أوند فانت إِس روهِيغ زاين زولتِه.",
+          "Ich frage die Nachbarn lieber früh, wo man hier den Müll trennt und wann es ruhig sein sollte.",
+          "أفضل أن أسأل الجيران مبكرًا عن كيفية فرز النفايات ومتى ينبغي أن يسود الهدوء."
+        ],
+        [
+          "Obwohl ich mich anfangs verlaufen habe, kenne ich die Stadt inzwischen schon viel besser.",
+          "على الرغم من أنني ضعت في البداية، فقد عرفت المدينة الآن أفضل بكثير.",
+          "أوبفول إيش ميش آنفانغس فِرلاوفِن هابه، كِنِه إيش دي شتات إنتسفيسخِن شون فيل بِسَر.",
+          "Obwohl ich mich anfangs verlaufen habe, kenne ich die Stadt inzwischen schon viel besser.",
+          "على الرغم من أنني ضعت في البداية، فقد عرفت المدينة الآن أفضل بكثير."
+        ],
+        [
+          "Ich suche mir Wege zu Fuß und mit der Bahn aus, weil ich so die Gegend schneller verstehe.",
+          "أختار التنقل سيرًا وعلى القطار لأنني أفهم المنطقة بهذه الطريقة أسرع.",
+          "إيش زوخه مير فيغه تسو فووس أوند ميت دِر باهن أوس، فايل إيش زو دي غنيت شنايْلَر فِرْشْتهه.",
+          "Ich suche mir Wege zu Fuß und mit der Bahn aus, weil ich so die Gegend schneller verstehe.",
+          "أختار التنقل سيرًا وعلى القطار لأنني أفهم المنطقة بهذه الطريقة أسرع."
+        ],
+        [
+          "Wenn ich mich einsam fühle, gehe ich bewusst unter Leute, damit ich schneller Kontakte knüpfe.",
+          "عندما أشعر بالوحدة، أخرج عمدًا بين الناس حتى أتعرف على أشخاص أسرع.",
+          "فِن إيش ميش آينزام فيوله، غيهي إيش بِفوسْت أونتَر لويته، دامت إيش شنايْلَر كونتاكتِه كنوفِه.",
+          "Wenn ich mich einsam fühle, gehe ich bewusst unter Leute, damit ich schneller Kontakte knüpfe.",
+          "عندما أشعر بالوحدة، أخرج عمدًا بين الناس حتى أتعرف على أشخاص أسرع."
+        ],
+        [
+          "Die vielen Angebote sind praktisch, aber ohne Plan verpasse ich schnell die besten Möglichkeiten.",
+          "العروض الكثيرة عملية، لكن من دون خطة أفوّت بسرعة أفضل الفرص.",
+          "دي فيلين آنغيبوتِه زِند براكتيش، آبَر أونه بلان فِرپاسِه إيش شنايْل دي بِستِن مِغلِخكايتِن.",
+          "Die vielen Angebote sind praktisch, aber ohne Plan verpasse ich schnell die besten Möglichkeiten.",
+          "العروض الكثيرة عملية، لكن من دون خطة أفوّت بسرعة أفضل الفرص."
+        ],
+        [
+          "Ich habe mir angewöhnt, feste Routinen zu haben, weil sie den Alltag in einer neuen Umgebung ordnen.",
+          "اعتدت أن تكون لديّ روتينات ثابتة لأنها تنظّم الحياة اليومية في بيئة جديدة.",
+          "إيش هابه مير آنگِفوهنْت، فيستِه روتينِن تسو هابِن، فايل زي دين ألتاغ إِن آينَر نويِن أومغيبونغ أوردنِن.",
+          "Ich habe mir angewöhnt, feste Routinen zu haben, weil sie den Alltag in einer neuen Umgebung ordnen.",
+          "اعتدت أن تكون لديّ روتينات ثابتة لأنها تنظّم الحياة اليومية في بيئة جديدة."
+        ],
+        [
+          "Wenn ich ein nettes Café finde, wird die Stadt sofort ein bisschen vertrauter.",
+          "إذا وجدت مقهى لطيفًا، تبدو المدينة مألوفة قليلًا فورًا.",
+          "فِن إيش آين نِتسِس كافيه فِنْدِه، فيرت دي شتات زوفورت آين بيشْخِن فِرتراوتر.",
+          "Wenn ich ein nettes Café finde, wird die Stadt sofort ein bisschen vertrauter.",
+          "إذا وجدت مقهى لطيفًا، تبدو المدينة مألوفة قليلًا فورًا."
+        ],
+        [
+          "Ich vergleiche nicht jede Straße mit meiner alten Heimat, weil ich der neuen Stadt eine faire Chance geben will.",
+          "لا أقارن كل شارع بموطني القديم لأنني أريد أن أمنح المدينة الجديدة فرصة عادلة.",
+          "إيش فِرگلايخِه نِشت يهده شتراسه ميت ماينَر ألتِن هايمات، فايل إيش دِر نويِن شتات آينِه فيرِه شانسه غيبِن فيل.",
+          "Ich vergleiche nicht jede Straße mit meiner alten Heimat, weil ich der neuen Stadt eine faire Chance geben will.",
+          "لا أقارن كل شارع بموطني القديم لأنني أريد أن أمنح المدينة الجديدة فرصة عادلة."
+        ]
+      ]
+    },
+    {
+      "topic": "السياحة المسؤولة",
+      "words": [
+        [
+          "Ich buche lieber kleine Unterkünfte, weil dort oft mehr vom Geld in der Region bleibt.",
+          "أفضل حجز أماكن إقامة صغيرة لأن جزءًا أكبر من المال يبقى غالبًا في المنطقة.",
+          "إيش بوخه ليبر كلاينِه أونتركونفتِه، فايل دورت أوفت مير فوُم غيلت إِن دِر ريجيون بلايبت.",
+          "Ich buche lieber kleine Unterkünfte, weil dort oft mehr vom Geld in der Region bleibt.",
+          "أفضل حجز أماكن إقامة صغيرة لأن جزءًا أكبر من المال يبقى غالبًا في المنطقة."
+        ],
+        [
+          "Wenn ich unterwegs bin, nehme ich meine Wasserflasche mit, damit ich weniger Plastik kaufe.",
+          "عندما أكون في الطريق، آخذ زجاجة الماء معي حتى أشتري بلاستيكًا أقل.",
+          "فِن إيش أونْتَرڤِغس بين، نِمِه إيش ماينِه فاسرفلَشه ميت، دامت إيش فينِيغَر بلاستيك كاوفِه.",
+          "Wenn ich unterwegs bin, nehme ich meine Wasserflasche mit, damit ich weniger Plastik kaufe.",
+          "عندما أكون في الطريق، آخذ زجاجة الماء معي حتى أشتري بلاستيكًا أقل."
+        ],
+        [
+          "Ich halte mich an Wege und Hinweise, damit Natur und Tiere nicht unnötig gestört werden.",
+          "ألتزم بالمسارات والإرشادات حتى لا تُزعج الطبيعة والحيوانات بلا داعٍ.",
+          "إيش هالتِه ميش آن فيغه أوند هينفايزه، دامت ناتور أوند تيره نِشت أوننوتيج گِشتورْت فيردِن.",
+          "Ich halte mich an Wege und Hinweise, damit Natur und Tiere nicht unnötig gestört werden.",
+          "ألتزم بالمسارات والإرشادات حتى لا تُزعج الطبيعة والحيوانات بلا داعٍ."
+        ],
+        [
+          "Obwohl ein Mietwagen bequem erscheint, nutze ich lieber öffentliche Verkehrsmittel, wenn es gut klappt.",
+          "على الرغم من أن السيارة المستأجرة تبدو مريحة، أستخدم وسائل النقل العامة أفضل إذا كان ذلك ممكنًا.",
+          "أوبفول آين ميتفاغِن بِكْويم إيرشايْنت، نوتسِه إيش ليبر أوفِنْتليشِه فِركيْرسميتل، فِن إِس گوت كْلاپت.",
+          "Obwohl ein Mietwagen bequem erscheint, nutze ich lieber öffentliche Verkehrsmittel, wenn es gut klappt.",
+          "على الرغم من أن السيارة المستأجرة تبدو مريحة، أستخدم وسائل النقل العامة أفضل إذا كان ذلك ممكنًا."
+        ],
+        [
+          "Ich frage vor Ort nach fairen Preisen, weil ich nicht unbewusst überteuerte Angebote unterstützen will.",
+          "أسأل في المكان عن الأسعار العادلة لأنني لا أريد دعم عروض مبالغ فيها دون قصد.",
+          "إيش فراگِه فور أورت ناخ فيرِن برايسِن، فايل إيش نِشت أونبِفوسْت أوبرتَويَرتِه أنْغيبوتِه أونترشْتوتْسِن فيل.",
+          "Ich frage vor Ort nach fairen Preisen, weil ich nicht unbewusst überteuerte Angebote unterstützen will.",
+          "أسأل في المكان عن الأسعار العادلة لأنني لا أريد دعم عروض مبالغ فيها دون قصد."
+        ],
+        [
+          "Wenn wir länger bleiben, lohnt es sich, lokale Produkte zu kaufen und nicht nur bekannte Ketten zu besuchen.",
+          "إذا بقينا مدة أطول، فمن المفيد شراء منتجات محلية وعدم زيارة السلاسل المعروفة فقط.",
+          "فِن فير لينغَر بلايبِن، لونت إِس زيش، لوكاله برودوكتِه تسو كاوفِن أوند نِشت نور بِكانتِه كتن تسو بِزوخِن.",
+          "Wenn wir länger bleiben, lohnt es sich, lokale Produkte zu kaufen und nicht nur bekannte Ketten zu besuchen.",
+          "إذا بقينا مدة أطول، فمن المفيد شراء منتجات محلية وعدم زيارة السلاسل المعروفة فقط."
+        ],
+        [
+          "Ich denke, Respekt vor der Kultur ist wichtiger als perfekte Fotos an jedem Ort.",
+          "أعتقد أن احترام الثقافة أهم من التقاط صور مثالية في كل مكان.",
+          "إيش دينكِه، رِسپِكت فور دِر كولتور إِست ڤيختيگَر آلس بِرفِكتِه فوتوس آن يِدِم أورت.",
+          "Ich denke, Respekt vor der Kultur ist wichtiger als perfekte Fotos an jedem Ort.",
+          "أعتقد أن احترام الثقافة أهم من التقاط صور مثالية في كل مكان."
+        ],
+        [
+          "Falls eine Aktivität der Umgebung schadet, lasse ich sie lieber aus, auch wenn sie populär ist.",
+          "إذا كان نشاط ما يضر بالبيئة المحيطة، فأفضّل أن أتجاوزه حتى لو كان شائعًا.",
+          "فالز آينِه أكتيفيتيت دِر أومغيبونغ شادِت، لاسِه إيش زي ليبر أوس، آوخ فِن زي بوبولير إِست.",
+          "Falls eine Aktivität der Umgebung schadet, lasse ich sie lieber aus, auch wenn sie populär ist.",
+          "إذا كان نشاط ما يضر بالبيئة المحيطة، فأفضّل أن أتجاوزه حتى لو كان شائعًا."
+        ],
+        [
+          "Ich frage nach der besten Reisezeit, damit ich nicht in überfüllten Orten mehr Druck verursache.",
+          "أسأل عن أفضل وقت للسفر حتى لا أسبب مزيدًا من الضغط في الأماكن المزدحمة.",
+          "إيش فراگِه ناخ دِر بِستن رايزيت، دامت إيش نِشت إِن أوبِرفيلتن أورتِن مير دروك فِرْزاخِه.",
+          "Ich frage nach der besten Reisezeit, damit ich nicht in überfüllten Orten mehr Druck verursache.",
+          "أسأل عن أفضل وقت للسفر حتى لا أسبب مزيدًا من الضغط في الأماكن المزدحمة."
+        ],
+        [
+          "Nachhaltig zu reisen bedeutet für mich, bewusst zu wählen, statt einfach den bequemsten Weg zu nehmen.",
+          "السفر المستدام يعني بالنسبة لي أن أختار بوعي بدلًا من اختيار الطريق الأسهل فحسب.",
+          "ناخْهالتِيغ تسو رايزِن بِدويتِت فور ميش، بِفوسْت تسو فيلِن، شتات آينفاخ دين بِكْويمْسْتِن ڤِغ تسو نِمِن.",
+          "Nachhaltig zu reisen bedeutet für mich, bewusst zu wählen, statt einfach den bequemsten Weg zu nehmen.",
+          "السفر المستدام يعني بالنسبة لي أن أختار بوعي بدلًا من اختيار الطريق الأسهل فحسب."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة النفسية والراحة",
+      "words": [
+        [
+          "Wenn ich nach der Arbeit kurz spazieren gehe, kann ich meine Gedanken besser ordnen und den Abend ruhiger beginnen.",
+          "عندما أتمشى قليلًا بعد العمل، أستطيع ترتيب أفكاري بشكل أفضل وبدء المساء بهدوء أكثر.",
+          "فِن إيش ناخ دير آربايت كورتس شباتسيرن gehe، كان إيش ماينِه غداكن بيسر أوردنن أوند دن آوبِند رويهَر ببنينن.",
+          "Wenn ich nach der Arbeit kurz spazieren gehe, kann ich meine Gedanken besser ordnen und den Abend ruhiger beginnen.",
+          "عندما أتمشى قليلًا بعد العمل، أستطيع ترتيب أفكاري بشكل أفضل وبدء المساء بهدوء أكثر."
+        ],
+        [
+          "Viele Menschen merken erst spät, dass dauernder Druck ihre Konzentration schwächt und auch gute Leistungen erschwert.",
+          "كثير من الناس لا يدركون إلا متأخرًا أن الضغط المستمر يضعف تركيزهم ويجعل حتى الأداء الجيد أصعب.",
+          "فيله منشِن ميركن إرست شبَت، داس داووَرنَدَر دروك إهري كونتسنترا تسيون شفِشت أوند آوخ غوده لايستونغن إرشفيرت.",
+          "Viele Menschen merken erst spät, dass dauernder Druck ihre Konzentration schwächt und auch gute Leistungen erschwert.",
+          "كثير من الناس لا يدركون إلا متأخرًا أن الضغط المستمر يضعف تركيزهم ويجعل حتى الأداء الجيد أصعب."
+        ],
+        [
+          "Ein fester Schlafrhythmus hilft mir mehr, als am Wochenende alles nachholen zu wollen.",
+          "إيقاع نوم ثابت يساعدني أكثر من محاولة تعويض كل شيء في عطلة نهاية الأسبوع.",
+          "آين فِستر شلافريثموس هيلفت مير مهر، آلز آم فوكِن أنده آليس ناخهولن تسو فولن.",
+          "Ein fester Schlafrhythmus hilft mir mehr, als am Wochenende alles nachholen zu wollen.",
+          "إيقاع نوم ثابت يساعدني أكثر من محاولة تعويض كل شيء في عطلة نهاية الأسبوع."
+        ],
+        [
+          "Ich finde es wichtig, offen über Stress zu sprechen, weil man so früh nach Lösungen suchen kann.",
+          "أرى أنه من المهم التحدث بصراحة عن التوتر، لأن ذلك يتيح البحث عن حلول مبكرًا.",
+          "إيش فينده إز فِشتِغ، أوفن أوبَر شتريِس تسو شبريخن، فايل مان زو فروي ناخ لوزونغن زوخن كان.",
+          "Ich finde es wichtig, offen über Stress zu sprechen, weil man so früh nach Lösungen suchen kann.",
+          "أرى أنه من المهم التحدث بصراحة عن التوتر، لأن ذلك يتيح البحث عن حلول مبكرًا."
+        ],
+        [
+          "Manchmal reicht schon ein kurzer Abstand vom Bildschirm, um wieder klarer denken zu können.",
+          "أحيانًا تكفي مسافة قصيرة عن الشاشة لكي يتمكن المرء من التفكير بوضوح أكبر من جديد.",
+          "مانشمال رايخت شون آين كورتسر أبشتاند فوم بيلدشِرم، أوم فيدر كلاَرر دنكن تسو كونن.",
+          "Manchmal reicht schon ein kurzer Abstand vom Bildschirm, um wieder klarer denken zu können.",
+          "أحيانًا تكفي مسافة قصيرة عن الشاشة لكي يتمكن المرء من التفكير بوضوح أكبر من جديد."
+        ],
+        [
+          "Wer regelmäßig Pausen macht, arbeitet oft konzentrierter und macht später weniger Fehler.",
+          "من يأخذ فترات استراحة بانتظام يعمل غالبًا بتركيز أكبر ويخطئ أقل لاحقًا.",
+          "فير ريغلميسيغ باوزن ماخت، آربايتِت أوفت كونتسنتريرتَر أوند ماخت شباتَر فينِيغر فيلر.",
+          "Wer regelmäßig Pausen macht, arbeitet oft konzentrierter und macht später weniger Fehler.",
+          "من يأخذ فترات استراحة بانتظام يعمل غالبًا بتركيز أكبر ويخطئ أقل لاحقًا."
+        ],
+        [
+          "Ich höre besser zu, wenn ich nicht gleichzeitig mehrere Dinge erledigen muss.",
+          "أستمع بشكل أفضل عندما لا أضطر إلى إنجاز عدة أمور في الوقت نفسه.",
+          "إيش هوره بيسر تسو، فِن إيش نِشت غلايشسايتِغ مهرره دينغه إرديگن موس.",
+          "Ich höre besser zu, wenn ich nicht gleichzeitig mehrere Dinge erledigen muss.",
+          "أستمع بشكل أفضل عندما لا أضطر إلى إنجاز عدة أمور في الوقت نفسه."
+        ],
+        [
+          "Eine ruhige Umgebung ersetzt keine Hilfe, aber sie kann den Alltag deutlich entlasten.",
+          "البيئة الهادئة لا تغني عن المساعدة، لكنها قد تخفف الحياة اليومية بشكل واضح.",
+          "آينه روهيغه أومغيبوڠ إرزتسْت كاينه هيلفه، آبَر زي كان دن ألتاگ دويتشليخ إنتلاستن.",
+          "Eine ruhige Umgebung ersetzt keine Hilfe, aber sie kann den Alltag deutlich entlasten.",
+          "البيئة الهادئة لا تغني عن المساعدة، لكنها قد تخفف الحياة اليومية بشكل واضح."
+        ],
+        [
+          "Wenn Grenzen respektiert werden, fühlen sich Gespräche meist entspannter und ehrlicher an.",
+          "عندما تُحترم الحدود، تبدو المحادثات في الغالب أكثر هدوءًا وصدقًا.",
+          "فِن غرنزن رِسبِكتيَرْت فِردن، فويلن زيش غِشبرَخه مايست إنتشبَنتَر أوند إرليشَر آان.",
+          "Wenn Grenzen respektiert werden, fühlen sich Gespräche meist entspannter und ehrlicher an.",
+          "عندما تُحترم الحدود، تبدو المحادثات في الغالب أكثر هدوءًا وصدقًا."
+        ],
+        [
+          "Ich glaube, kleine Veränderungen im Alltag sind nachhaltiger als große Pläne, die man nicht umsetzt.",
+          "أعتقد أن التغييرات الصغيرة في الحياة اليومية أكثر استدامة من الخطط الكبيرة التي لا تُنفذ.",
+          "إيش غلاوبه، كلاينه فِرآندرونغن إيم ألتاگ زيند ناخهالتِيغر آلز غروسه بلانه، دي مان نِشت أومستتسْت.",
+          "Ich glaube, kleine Veränderungen im Alltag sind nachhaltiger als große Pläne, die man nicht umsetzt.",
+          "أعتقد أن التغييرات الصغيرة في الحياة اليومية أكثر استدامة من الخطط الكبيرة التي لا تُنفذ."
+        ]
+      ]
+    },
+    {
+      "topic": "التوازن بين العمل والحياة",
+      "words": [
+        [
+          "Ich arbeite lieber konzentriert in klaren Zeitblöcken, damit ich danach wirklich abschalten kann.",
+          "أفضل أن أعمل بتركيز في فترات زمنية واضحة، لكي أستطيع الانفصال عن العمل فعلًا بعد ذلك.",
+          "إيش آربايتِه ليبر كونتسنتريرت إين كلاَرِن تسايتبلوكِن، دامت إيش داناخ ڤِرليش أبشالتن كان.",
+          "Ich arbeite lieber konzentriert in klaren Zeitblöcken, damit ich danach wirklich abschalten kann.",
+          "أفضل أن أعمل بتركيز في فترات زمنية واضحة، لكي أستطيع الانفصال عن العمل فعلًا بعد ذلك."
+        ],
+        [
+          "Wenn ein Projekt dringend ist, kann ich flexibel bleiben, solange die Absprachen fair und realistisch sind.",
+          "إذا كان مشروع ما عاجلًا، أستطيع أن أكون مرنًا ما دامت التفاهمات عادلة وواقعية.",
+          "فِن آين برويكت درينغند إِست، كان إيش فليكسبل بلايْبِن، زولانغه دي أبشبراخِن فهیر أوند رِياليستيش زيند.",
+          "Wenn ein Projekt dringend ist, kann ich flexibel bleiben, solange die Absprachen fair und realistisch sind.",
+          "إذا كان مشروع ما عاجلًا، أستطيع أن أكون مرنًا ما دامت التفاهمات عادلة وواقعية."
+        ],
+        [
+          "Viele Konflikte entstehen, weil Menschen ständig erreichbar sein sollen und kaum noch Ruhezeiten haben.",
+          "تنشأ كثير من النزاعات لأن الناس يُتوقع منهم أن يكونوا متاحين دائمًا ولا يكاد يبقى لهم وقت للراحة.",
+          "فيلى كونفليكته إنتشتين، فايل منشِن شتِندِغ إررايشبار زاين زولين أوند كاؤم نوخ روهيتسايتِن هابن.",
+          "Viele Konflikte entstehen, weil Menschen ständig erreichbar sein sollen und kaum noch Ruhezeiten haben.",
+          "تنشأ كثير من النزاعات لأن الناس يُتوقع منهم أن يكونوا متاحين دائمًا ولا يكاد يبقى لهم وقت للراحة."
+        ],
+        [
+          "Ich schätze klare Prioritäten, denn ohne sie verliert man leicht den Überblick und kostet unnötig Energie.",
+          "أقدّر الأولويات الواضحة، لأنه بدونها يفقد المرء بسهولة النظرة العامة ويستنزف طاقته بلا داعٍ.",
+          "إيش شتسه كلاَره بريوراتيتِن، دين أونه زي فِرليرت مان لايخت دن أوبَربليڪ أوند كوستِت أونوُتِغ إينيرغي.",
+          "Ich schätze klare Prioritäten, denn ohne sie verliert man leicht den Überblick und kostet unnötig Energie.",
+          "أقدّر الأولويات الواضحة، لأنه بدونها يفقد المرء بسهولة النظرة العامة ويستنزف طاقته بلا داعٍ."
+        ],
+        [
+          "Am besten funktioniert mein Tag, wenn ich Pausen bewusst plane und nicht nur nach dem Kalender renne.",
+          "أفضل ما يكون يومي عندما أخطط لفترات الراحة بوعي ولا أركض فقط خلف التقويم.",
+          "آم بستن فونكْتسيونيِرت ماين تاك، فِن إيش باوزِن بَفوست بلاني أوند نِشت نور ناخ ديم كالِنْدَر رِنه.",
+          "Am besten funktioniert mein Tag, wenn ich Pausen bewusst plane und nicht nur nach dem Kalender renne.",
+          "أفضل ما يكون يومي عندما أخطط لفترات الراحة بوعي ولا أركض فقط خلف التقويم."
+        ],
+        [
+          "Ich finde Teilzeit interessant, wenn dadurch Leistung und Gesundheit besser zusammenpassen.",
+          "أجد العمل الجزئي مثيرًا للاهتمام إذا كان ذلك يجعل الأداء والصحة يتناسبان بشكل أفضل.",
+          "إيش فينده تايلتسايت إنتِرسَانت، فِن دَروخ لايستونغ أوند غيزوندهايت بيسر تسوزامِنباسِن.",
+          "Ich finde Teilzeit interessant, wenn dadurch Leistung und Gesundheit besser zusammenpassen.",
+          "أجد العمل الجزئي مثيرًا للاهتمام إذا كان ذلك يجعل الأداء والصحة يتناسبان بشكل أفضل."
+        ],
+        [
+          "Wer am Abend nie abschaltet, ist zwar oft beschäftigt, aber nicht unbedingt produktiver.",
+          "من لا يفصل نفسه عن العمل مساءً يكون منشغلًا غالبًا، لكنه ليس بالضرورة أكثر إنتاجية.",
+          "فير آم آبِند ني أبشالتِت، إِست تسفار أوفت بشفِشتِغت، آبَر نِشت أونبِدينغت برودوكتيفَر.",
+          "Wer am Abend nie abschaltet, ist zwar oft beschäftigt, aber nicht unbedingt produktiver.",
+          "من لا يفصل نفسه عن العمل مساءً يكون منشغلًا غالبًا، لكنه ليس بالضرورة أكثر إنتاجية."
+        ],
+        [
+          "Ein gutes Team respektiert unterschiedliche Lebensrhythmen, statt alle über einen Kamm zu scheren.",
+          "الفريق الجيد يحترم أنماط الحياة المختلفة بدلًا من التعامل مع الجميع بطريقة واحدة.",
+          "آين غوتس تيم رِسْبِكتيَرْت أونتِرشيدليشِه ليبنزريثمن، شتات آله أوبَر آينن كام تسو شيرِن.",
+          "Ein gutes Team respektiert unterschiedliche Lebensrhythmen, statt alle über einen Kamm zu scheren.",
+          "الفريق الجيد يحترم أنماط الحياة المختلفة بدلًا من التعامل مع الجميع بطريقة واحدة."
+        ],
+        [
+          "Ich würde gern mehr reisen, aber nur, wenn ich vorher genug Freiraum für Erholung einplane.",
+          "أود أن أسافر أكثر، لكن فقط إذا خططت مسبقًا لمساحة كافية للراحة.",
+          "إيش فورده غرن مهر رايزن، آبَر نور، فِن إيش فورهير غنوق فرايرآوم فور إرهولونغ آينبلانه.",
+          "Ich würde gern mehr reisen, aber nur, wenn ich vorher genug Freiraum für Erholung einplane.",
+          "أود أن أسافر أكثر، لكن فقط إذا خططت مسبقًا لمساحة كافية للراحة."
+        ],
+        [
+          "Eine gute Balance entsteht nicht von selbst, deshalb muss man sie immer wieder neu verhandeln.",
+          "التوازن الجيد لا ينشأ من تلقاء نفسه، لذلك يجب التفاوض عليه من جديد مرارًا.",
+          "آينه غوته بالانسه إنتشتِت نِشت فون زِلبست، ديسهالب موس مان زي إيمَر فيدَر نويه فَرهاندلن.",
+          "Eine gute Balance entsteht nicht von selbst, deshalb muss man sie immer wieder neu verhandeln.",
+          "التوازن الجيد لا ينشأ من تلقاء نفسه، لذلك يجب التفاوض عليه من جديد مرارًا."
+        ]
+      ]
+    },
+    {
+      "topic": "حماية البيئة",
+      "words": [
+        [
+          "Wenn Städte mehr Radwege bauen, werden viele kurze Wege automatisch sauberer und leiser zurückgelegt.",
+          "عندما تبني المدن المزيد من مسارات الدراجات، تُقطع كثير من المسافات القصيرة تلقائيًا بشكل أنظف وأهدأ.",
+          "فِن شتاته مهر راتڤغه باون، فِردِن فيلى كورتسه فيغه آوتوماتيش زاوبَرَر أوند لايزَر تسوروكغِليغت.",
+          "Wenn Städte mehr Radwege bauen, werden viele kurze Wege automatisch sauberer und leiser zurückgelegt.",
+          "عندما تبني المدن المزيد من مسارات الدراجات، تُقطع كثير من المسافات القصيرة تلقائيًا بشكل أنظف وأهدأ."
+        ],
+        [
+          "Ich unterstütze Energiesparen, weil es nicht nur dem Klima hilft, sondern auch die Rechnungen senkt.",
+          "أنا أؤيد توفير الطاقة، لأنه لا يفيد المناخ فقط بل يخفض الفواتير أيضًا.",
+          "إيش أونتَرشتِتسه إينيرغيسپارِن، فايل إِس نِشت نور ديم كليما هيلفت، زوندرن آوخ دي رِخنُونغِن زِنكت.",
+          "Ich unterstütze Energiesparen, weil es nicht nur dem Klima hilft, sondern auch die Rechnungen senkt.",
+          "أنا أؤيد توفير الطاقة، لأنه لا يفيد المناخ فقط بل يخفض الفواتير أيضًا."
+        ],
+        [
+          "Viele Menschen würden nachhaltiger einkaufen, wenn Produkte klarer gekennzeichnet wären.",
+          "كثير من الناس سيتسوقون بشكل أكثر استدامة لو كانت المنتجات موسومة بوضوح أكبر.",
+          "فيلى منشِن فوردِن ناخهالتِيغر آينكاوفِن، فِن برودوكتِه كلاَرَر غِكنَنتسايختِت فهرِن.",
+          "Viele Menschen würden nachhaltiger einkaufen, wenn Produkte klarer gekennzeichnet wären.",
+          "كثير من الناس سيتسوقون بشكل أكثر استدامة لو كانت المنتجات موسومة بوضوح أكبر."
+        ],
+        [
+          "Reparieren lohnt sich oft, denn ein länger genutztes Gerät spart Ressourcen und vermeidet Müll.",
+          "غالبًا ما تستحق الإصلاح، لأن جهازًا يُستخدم مدة أطول يوفر الموارد ويمنع النفايات.",
+          "رِپَريرن لونتسِخ أوفت، دين آين لنغر غِنووتستِس غِرَت شبَرت رِسورسِن أوند فِرمايدِت مول.",
+          "Reparieren lohnt sich oft, denn ein länger genutztes Gerät spart Ressourcen und vermeidet Müll.",
+          "غالبًا ما تستحق الإصلاح، لأن جهازًا يُستخدم مدة أطول يوفر الموارد ويمنع النفايات."
+        ],
+        [
+          "Ich finde es vernünftig, Lebensmittel nicht wegzuwerfen, nur weil das Mindesthaltbarkeitsdatum naht.",
+          "أرى أنه من المعقول عدم رمي الطعام لمجرد اقتراب تاريخ الأفضل قبل.",
+          "إيش فينده إِز فِرنونفتِغ، ليبنزميل نِشت فِك تسو فِرفن، نور فايل داس ميندِشتهالتباركايتسداطوم ناخت.",
+          "Ich finde es vernünftig, Lebensmittel nicht wegzuwerfen, nur weil das Mindesthaltbarkeitsdatum naht.",
+          "أرى أنه من المعقول عدم رمي الطعام لمجرد اقتراب تاريخ الأفضل قبل."
+        ],
+        [
+          "Wenn Unternehmen transparenter über ihre Lieferketten informieren, können Kunden bewusster wählen.",
+          "عندما توضح الشركات سلاسل التوريد لديها بشفافية أكبر، يستطيع الزبائن الاختيار بوعي أكبر.",
+          "فِن أونترنِهيمِن ترانسپارَنْتَر أوبَر إهْرِه ليفركتن إينفورميرن، كونن كوندِن بَفوستر فهلن.",
+          "Wenn Unternehmen transparenter über ihre Lieferketten informieren, können Kunden bewusster wählen.",
+          "عندما توضح الشركات سلاسل التوريد لديها بشفافية أكبر، يستطيع الزبائن الاختيار بوعي أكبر."
+        ],
+        [
+          "Grünflächen in der Nähe sind nicht Luxus, sondern wichtig für Luft, Artenvielfalt und Lebensqualität.",
+          "المساحات الخضراء القريبة ليست رفاهية، بل مهمة للهواء والتنوع الحيوي وجودة الحياة.",
+          "غرينفليخِن إين دير نيهِه زند نِشت لوكسوس، زوندرن فِشتِغ فور لُفت، آرتِنڤيَلفالت أوند ليبنزكواليتات.",
+          "Grünflächen in der Nähe sind nicht Luxus, sondern wichtig für Luft, Artenvielfalt und Lebensqualität.",
+          "المساحات الخضراء القريبة ليست رفاهية، بل مهمة للهواء والتنوع الحيوي وجودة الحياة."
+        ],
+        [
+          "Ich glaube, dass Klimaschutz nur dann akzeptiert wird, wenn er im Alltag praktikabel bleibt.",
+          "أعتقد أن حماية المناخ لا تُقبل إلا إذا بقيت قابلة للتطبيق في الحياة اليومية.",
+          "إيش غلاوبه، داس كليماشوتس نور دان أكتسِپتيِرت ڤِرت، فِن إر إيم ألتاگ برَكتِيكابل بلايبت.",
+          "Ich glaube, dass Klimaschutz nur dann akzeptiert wird, wenn er im Alltag praktikabel bleibt.",
+          "أعتقد أن حماية المناخ لا تُقبل إلا إذا بقيت قابلة للتطبيق في الحياة اليومية."
+        ],
+        [
+          "Wer Energie teilt statt sie zu verschwenden, handelt nicht ideologisch, sondern langfristig klug.",
+          "من يشارك الطاقة بدلًا من هدرها لا يتصرف بدافع أيديولوجي، بل بحكمة على المدى الطويل.",
+          "فير إينيرغي تايلت شتات زي تسو فِرشفيندن، هاندلت نِشت إيديولوجيش، زوندرن لانغفريستِغ كلوغ.",
+          "Wer Energie teilt statt sie zu verschwenden, handelt nicht ideologisch, sondern langfristig klug.",
+          "من يشارك الطاقة بدلًا من هدرها لا يتصرف بدافع أيديولوجي، بل بحكمة على المدى الطويل."
+        ],
+        [
+          "Auch kleine Schritte zählen, wenn viele Menschen sie konsequent machen und nicht wieder aufgeben.",
+          "حتى الخطوات الصغيرة تُحسب عندما يقوم بها كثير من الناس باستمرار ولا يتخلون عنها مجددًا.",
+          "آوخ كلاينه شريته تسيلِن، فِن فيله منشِن زي كونزيكڤِنت ماخِن أوند نِشت فيدَر آوفغيبِن.",
+          "Auch kleine Schritte zählen, wenn viele Menschen sie konsequent machen und nicht wieder aufgeben.",
+          "حتى الخطوات الصغيرة تُحسب عندما يقوم بها كثير من الناس باستمرار ولا يتخلون عنها مجددًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الاستهلاك المسؤول",
+      "words": [
+        [
+          "Ich kaufe lieber weniger, aber dafür langlebiger, weil ich unnötigen Besitz immer stärker hinterfrage.",
+          "أفضل أن أشتري أقل، لكن بجودة تدوم أطول، لأنني أراجع باستمرار كل ما أقتنيه دون حاجة.",
+          "إيش كاوفه ليبر فينِيغر، آبَر دافور لانغليبِيغر، فايل إيش أونوُتِغِن بَزيتس إيمَر شتاركر هينتَرْفراگه.",
+          "Ich kaufe lieber weniger, aber dafür langlebiger, weil ich unnötigen Besitz immer stärker hinterfrage.",
+          "أفضل أن أشتري أقل، لكن بجودة تدوم أطول، لأنني أراجع باستمرار كل ما أقتنيه دون حاجة."
+        ],
+        [
+          "Wenn ein Angebot zu gut klingt, prüfe ich genauer, ob am Ende nicht versteckte Kosten bleiben.",
+          "إذا بدا العرض جيدًا جدًا، أتحقق بدقة أكبر مما إذا كانت هناك تكاليف خفية في النهاية.",
+          "فِن آين أنغيبوت تسو غوت كليڭت، بْروفه إيش غناوَر، أوب آم إنده نِشت فِرشتِكته كوستن بلايبِن.",
+          "Wenn ein Angebot zu gut klingt, prüfe ich genauer, ob am Ende nicht versteckte Kosten bleiben.",
+          "إذا بدا العرض جيدًا جدًا، أتحقق بدقة أكبر مما إذا كانت هناك تكاليف خفية في النهاية."
+        ],
+        [
+          "Ich finde es fair, Produkte zu vergleichen, statt nur auf den niedrigsten Preis zu schauen.",
+          "أرى أنه من العادل مقارنة المنتجات بدلًا من النظر إلى السعر الأدنى فقط.",
+          "إيش فينده إِز فهَر، برودوكتِه تسو فِرغلايشِن، شتات نور آوف دن نيدرِيغستن بريس تسو شاون.",
+          "Ich finde es fair, Produkte zu vergleichen, statt nur auf den niedrigsten Preis zu schauen.",
+          "أرى أنه من العادل مقارنة المنتجات بدلًا من النظر إلى السعر الأدنى فقط."
+        ],
+        [
+          "Wer Dinge repariert statt sofort ersetzt, spart Geld und behandelt Ressourcen mit mehr Respekt.",
+          "من يصلح الأشياء بدلًا من استبدالها فورًا يوفر المال ويتعامل مع الموارد باحترام أكبر.",
+          "فير دينغه رِپَريرت شتات زورفورت إرزتسْت، شبَرت غِلت أوند بَهاندلت رِسورسِن مِت مهر رِسبِكت.",
+          "Wer Dinge repariert statt sofort ersetzt, spart Geld und behandelt Ressourcen mit mehr Respekt.",
+          "من يصلح الأشياء بدلًا من استبدالها فورًا يوفر المال ويتعامل مع الموارد باحترام أكبر."
+        ],
+        [
+          "Bei großen Anschaffungen frage ich mich zuerst, ob ich das wirklich oft nutzen werde.",
+          "عند المشتريات الكبيرة أسأل نفسي أولًا إن كنت سأستخدمه فعلًا كثيرًا.",
+          "باي غروسن آنشفُنونغِن فراگه إيش ميخ تسو إرست، أوب إيش داس ڤِرليش أوفت نوتسن فِردِه.",
+          "Bei großen Anschaffungen frage ich mich zuerst, ob ich das wirklich oft nutzen werde.",
+          "عند المشتريات الكبيرة أسأل نفسي أولًا إن كنت سأستخدمه فعلًا كثيرًا."
+        ],
+        [
+          "Mieten kann sinnvoll sein, wenn ein Produkt nur kurz gebraucht wird oder sich ständig ändert.",
+          "قد يكون الاستئجار منطقيًا إذا كان المنتج مطلوبًا لفترة قصيرة فقط أو يتغير باستمرار.",
+          "ميتن كان زينفول زاين، فِن آين برودوكت نور كورتس غيبراوخت ڤِرت أودر زيش شتِندِغ إيندِرت.",
+          "Mieten kann sinnvoll sein, wenn ein Produkt nur kurz gebraucht wird oder sich ständig ändert.",
+          "قد يكون الاستئجار منطقيًا إذا كان المنتج مطلوبًا لفترة قصيرة فقط أو يتغير باستمرار."
+        ],
+        [
+          "Ich mag transparente Informationen, weil sie mir helfen, bewusst statt impulsiv zu entscheiden.",
+          "أحب المعلومات الشفافة، لأنها تساعدني على اتخاذ قرار واعٍ بدلًا من قرار اندفاعي.",
+          "إيش ماگ ترانسپارِنته إينفورماتسيونِن، فايل زي مير هيلفِن، بَفوست شتات إيمپولزيف تسو إنتشاي دن.",
+          "Ich mag transparente Informationen, weil sie mir helfen, bewusst statt impulsiv zu entscheiden.",
+          "أحب المعلومات الشفافة، لأنها تساعدني على اتخاذ قرار واعٍ بدلًا من قرار اندفاعي."
+        ],
+        [
+          "Nachhaltiger Konsum bedeutet für mich nicht Verzicht, sondern ein genaueres Priorisieren.",
+          "الاستهلاك المستدام لا يعني بالنسبة لي الحرمان، بل تحديد الأولويات بدقة أكبر.",
+          "ناخهالتِيغر كونسوم بَدوتت فور ميخ نِشت فِرْزِخت، زوندرن آين غناوَرِس بريوراتيزيرن.",
+          "Nachhaltiger Konsum bedeutet für mich nicht Verzicht, sondern ein genaueres Priorisieren.",
+          "الاستهلاك المستدام لا يعني بالنسبة لي الحرمان، بل تحديد الأولويات بدقة أكبر."
+        ],
+        [
+          "Ich achte inzwischen mehr auf Reparierbarkeit, weil Wegwerfprodukte langfristig teuer werden.",
+          "أصبحت أراعي قابلية الإصلاح أكثر، لأن المنتجات سريعة الرمي تصبح مكلفة على المدى الطويل.",
+          "إيش أختِه إنتسڤيشِن مهر آوف رِپَريَرْباركايت، فايل فيغفِرفبرودوكتِه لانغفريستِغ توير فِردِن.",
+          "Ich achte inzwischen mehr auf Reparierbarkeit, weil Wegwerfprodukte langfristig teuer werden.",
+          "أصبحت أراعي قابلية الإصلاح أكثر، لأن المنتجات سريعة الرمي تصبح مكلفة على المدى الطويل."
+        ],
+        [
+          "Wenn wir bewusster kaufen, geben wir oft nicht weniger Geld aus, sondern sinnvoller.",
+          "عندما نتسوق بوعي أكبر، لا ننفق غالبًا مالًا أقل، بل ننفقه بشكل أنسب.",
+          "فِن ڤير بَفوستر كاوفِن، غيبِن ڤير أوفت نِشت فينِيغر غِلت آوس، زوندرن زينفولَر.",
+          "Wenn wir bewusster kaufen, geben wir oft nicht weniger Geld aus, sondern sinnvoller.",
+          "عندما نتسوق بوعي أكبر، لا ننفق غالبًا مالًا أقل، بل ننفقه بشكل أنسب."
+        ]
+      ]
+    },
+    {
+      "topic": "الابتكار والتغيير",
+      "words": [
+        [
+          "Neue Ideen setzen sich selten sofort durch, aber mit einem klaren Nutzen werden sie oft überraschend schnell akzeptiert.",
+          "الأفكار الجديدة نادرًا ما تنتشر فورًا، لكنها تُقبل غالبًا بسرعة مفاجئة عندما تكون فائدتها واضحة.",
+          "نويه إيدين زِتسن زيش زِلتِن زورفورت دورخ، آبَر مِت آينِم كلاَرِن نوتتسن فِردِن زي أوفت أوبَرراشِند شنېل أكتسِپتيِرت.",
+          "Neue Ideen setzen sich selten sofort durch, aber mit einem klaren Nutzen werden sie oft überraschend schnell akzeptiert.",
+          "الأفكار الجديدة نادرًا ما تنتشر فورًا، لكنها تُقبل غالبًا بسرعة مفاجئة عندما تكون فائدتها واضحة."
+        ],
+        [
+          "Ich finde es vernünftig, erst klein zu testen und dann zu skalieren, statt große Fehler teuer zu bezahlen.",
+          "أرى أنه من المعقول الاختبار على نطاق صغير أولًا ثم التوسيع، بدلًا من دفع ثمن أخطاء كبيرة.",
+          "إيش فينده إِز فِرنونفتِغ، إرست كلاين تسو تستِن أوند دان تسو اسكاليرن، شتات غروسه فيلر توير تسو بيزالن.",
+          "Ich finde es vernünftig, erst klein zu testen und dann zu skalieren, statt große Fehler teuer zu bezahlen.",
+          "أرى أنه من المعقول الاختبار على نطاق صغير أولًا ثم التوسيع، بدلًا من دفع ثمن أخطاء كبيرة."
+        ],
+        [
+          "Digitalisierung hilft nur dann wirklich, wenn sie Abläufe vereinfacht und nicht bloß neue Komplexität schafft.",
+          "تفيد الرقمنة حقًا فقط عندما تُبسط العمليات ولا تخلق مجرد تعقيد جديد.",
+          "ديغيطالיזيرونغ هيلفت نور دان ڤِرليش، فِن زي أبلوفه فَراينفَخت أوند نِشت بلوس نويه كومپليكسيتات شافت.",
+          "Digitalisierung hilft nur dann wirklich, wenn sie Abläufe vereinfacht und nicht bloß neue Komplexität schafft.",
+          "تفيد الرقمنة حقًا فقط عندما تُبسط العمليات ولا تخلق مجرد تعقيد جديد."
+        ],
+        [
+          "Viele Mitarbeitende unterstützen Veränderungen eher, wenn man sie früh einbezieht und ehrlich informiert.",
+          "يدعم كثير من الموظفين التغييرات أكثر عندما يُشركون مبكرًا ويُبلغون بصدق.",
+          "فيلى ميتآربايتِنده أونتَرشتتسن فِرآندرونغن إيرَر، فِن مان زي فروي آينبْتسويت أوند إرليش إينفورميرت.",
+          "Viele Mitarbeitende unterstützen Veränderungen eher, wenn man sie früh einbezieht und ehrlich informiert.",
+          "يدعم كثير من الموظفين التغييرات أكثر عندما يُشركون مبكرًا ويُبلغون بصدق."
+        ],
+        [
+          "Ich glaube nicht, dass alles schneller werden muss; manchmal bringt mehr Qualität den größeren Fortschritt.",
+          "لا أعتقد أن كل شيء يجب أن يصبح أسرع؛ أحيانًا تجلب الجودة الأعلى التقدم الأكبر.",
+          "إيش غلاوبه نِشت، داس آليس شنېلر فِردن موس؛ مانشمال برينغت مهر كواليتات دن غروسرِن فورْتشريت.",
+          "Ich glaube nicht, dass alles schneller werden muss; manchmal bringt mehr Qualität den größeren Fortschritt.",
+          "لا أعتقد أن كل شيء يجب أن يصبح أسرع؛ أحيانًا تجلب الجودة الأعلى التقدم الأكبر."
+        ],
+        [
+          "Innovationen sind dann stark, wenn sie Probleme lösen, die viele Menschen im Alltag wirklich spüren.",
+          "تكون الابتكارات قوية عندما تحل مشكلات يشعر بها كثير من الناس فعلاً في حياتهم اليومية.",
+          "إينوفاتسيونِن زند دان شتارك، فِن زي برولهِمِه لوْزن، دي فيلى منشِن إيم ألتاگ ڤِرليش شپورن.",
+          "Innovationen sind dann stark, wenn sie Probleme lösen, die viele Menschen im Alltag wirklich spüren.",
+          "تكون الابتكارات قوية عندما تحل مشكلات يشعر بها كثير من الناس فعلاً في حياتهم اليومية."
+        ],
+        [
+          "Wer Wandel nur als Risiko sieht, übersieht oft die Chancen, die aus neuen Wegen entstehen können.",
+          "من يرى التغيير خطرًا فقط يغفل غالبًا الفرص التي قد تنشأ من طرق جديدة.",
+          "فير فاندل نور آلز ريسيكو زيت، أوبَرزيت أوفت دي شانسن، دي آوس نويِن فيغِن إنتشتين كونن.",
+          "Wer Wandel nur als Risiko sieht, übersieht oft die Chancen, die aus neuen Wegen entstehen können.",
+          "من يرى التغيير خطرًا فقط يغفل غالبًا الفرص التي قد تنشأ من طرق جديدة."
+        ],
+        [
+          "Ich fände Pilotprojekte sinnvoll, weil man dadurch Erfahrungen sammelt, ohne sofort alles umzubauen.",
+          "أرى أن المشاريع التجريبية مفيدة، لأننا نجمع من خلالها خبرات دون إعادة بناء كل شيء فورًا.",
+          "إيش فنده بيلوتبرويكته زينفول، فايل مان دَروخ إرڤارونغن زامِلت، أونه زورفورت آليس أومتسوباون.",
+          "Ich fände Pilotprojekte sinnvoll, weil man dadurch Erfahrungen sammelt, ohne sofort alles umzubauen.",
+          "أرى أن المشاريع التجريبية مفيدة، لأننا نجمع من خلالها خبرات دون إعادة بناء كل شيء فورًا."
+        ],
+        [
+          "Gute Führung erklärt nicht nur das Ziel, sondern auch, warum der neue Weg nötig ist.",
+          "القيادة الجيدة لا تشرح الهدف فقط، بل تشرح أيضًا لماذا يكون الطريق الجديد ضروريًا.",
+          "غوته فورونغ إرْكْلِرت نِشت نور داس تسيل، زوندرن آوخ، فاروم دير نويِه فيغ نوتِغ إِست.",
+          "Gute Führung erklärt nicht nur das Ziel, sondern auch, warum der neue Weg nötig ist.",
+          "القيادة الجيدة لا تشرح الهدف فقط، بل تشرح أيضًا لماذا يكون الطريق الجديد ضروريًا."
+        ],
+        [
+          "Wenn man offen experimentiert und dabei Fehler zulässt, kann aus Unsicherheit echte Innovation werden.",
+          "عندما نجرب بانفتاح ونسمح بالأخطاء أثناء ذلك، يمكن أن يتحول عدم اليقين إلى ابتكار حقيقي.",
+          "فِن مان أوفن إكسبِريمنتيِرت أوند دَباي فيلر تسولات، كان آوس أونزيخرهايت إشتِه إينوفاتسيون فِردن.",
+          "Wenn man offen experimentiert und dabei Fehler zulässt, kann aus Unsicherheit echte Innovation werden.",
+          "عندما نجرب بانفتاح ونسمح بالأخطاء أثناء ذلك، يمكن أن يتحول عدم اليقين إلى ابتكار حقيقي."
+        ]
+      ]
+    },
+    {
+      "topic": "قراءة الأخبار بوعي",
+      "words": [
+        [
+          "Wenn ich eine Nachricht lese, prüfe ich zuerst, wer sie veröffentlicht hat und ob andere Quellen dasselbe berichten.",
+          "عندما أقرأ خبرًا، أتحقق أولًا من الجهة التي نشرته ومن كون مصادر أخرى تذكر الشيء نفسه.",
+          "فِن إيش آينِه ناخريشت ليزه، بريفه إيش تسويرست، فير زي فيرأوفنتليخت هات أوند أوب أندِره كفيلن داس زيلبه بَريشتن.",
+          "Wenn ich eine Nachricht lese, prüfe ich zuerst, wer sie veröffentlicht hat und ob andere Quellen dasselbe berichten.",
+          "عندما أقرأ خبرًا، أتحقق أولًا من الجهة التي نشرته ومن كون مصادر أخرى تذكر الشيء نفسه."
+        ],
+        [
+          "Die Schlagzeile klingt oft dramatischer als der eigentliche Inhalt, deshalb lese ich immer auch den ganzen Artikel.",
+          "غالبًا ما تبدو العنوانات أكثر إثارة من المحتوى الحقيقي، لذلك أقرأ دائمًا المقال كاملًا أيضًا.",
+          "دي شلاختسآيله كلينكت أوفت دراماتيشر آلس دير آيغنتليخه إينهالت، ديسهالب ليزه إيش إيما آوخ دين غانتسن أرتيكِل.",
+          "Die Schlagzeile klingt oft dramatischer als der eigentliche Inhalt, deshalb lese ich immer auch den ganzen Artikel.",
+          "غالبًا ما تبدو العنوانات أكثر إثارة من المحتوى الحقيقي، لذلك أقرأ دائمًا المقال كاملًا أيضًا."
+        ],
+        [
+          "Wenn ein Bericht viele Zahlen nennt, frage ich mich, ob sie aktuell sind und in welchem Zusammenhang sie stehen.",
+          "عندما يذكر تقرير أرقامًا كثيرة، أسأل نفسي إن كانت حديثة وفي أي سياق وردت.",
+          "فِن آين بَريشت فيله تسالن ننت، فراگه إيش ميخ، أوب زي أكتُوئيل زِند أوند إن فيلشِم تسوزامنهانغ زي شتهن.",
+          "Wenn ein Bericht viele Zahlen nennt, frage ich mich, ob sie aktuell sind und in welchem Zusammenhang sie stehen.",
+          "عندما يذكر تقرير أرقامًا كثيرة، أسأل نفسي إن كانت حديثة وفي أي سياق وردت."
+        ],
+        [
+          "Ich vertraue einer Meldung eher, wenn sie Unterschiede erklärt statt nur Schlagwörter aneinanderzureihen.",
+          "أثق بخبر أكثر عندما يشرح الفروقات بدلًا من مجرد رص كلمات رنانة متتابعة.",
+          "إيش فيرتراوه آينَر ميلدونغ إيهر، فِن زي أونتَرشيدِه إِركليرت شتات نور شلاخڤِرتَر آنَيناندر تسو راينن.",
+          "Ich vertraue einer Meldung eher, wenn sie Unterschiede erklärt statt nur Schlagwörter aneinanderzureihen.",
+          "أثق بخبر أكثر عندما يشرح الفروقات بدلًا من مجرد رص كلمات رنانة متتابعة."
+        ],
+        [
+          "Manche Berichte wirken überzeugend, aber ich suche bewusst nach Gegenargumenten, bevor ich mir eine Meinung bilde.",
+          "بعض التقارير تبدو مقنعة، لكنني أبحث عمدًا عن حجج مضادة قبل أن أكون رأيًا.",
+          "مانشه بَريشته فيركن أوبَرتسويغند، أبه إيش زوخه بيوست ناخ غيگينآرگومنتن، بَفور إيش مير آينه مينونغ بيلده.",
+          "Manche Berichte wirken überzeugend, aber ich suche bewusst nach Gegenargumenten, bevor ich mir eine Meinung bilde.",
+          "بعض التقارير تبدو مقنعة، لكنني أبحث عمدًا عن حجج مضادة قبل أن أكون رأيًا."
+        ],
+        [
+          "Wenn Experten uneinig sind, finde ich es sinnvoll, die Begründungen beider Seiten genau zu vergleichen.",
+          "إذا كان الخبراء غير متفقين، فأرى من المفيد مقارنة تبريرات الطرفين بدقة.",
+          "فِن إكسبرتِن أونيغ زِند، فينده إيش إيس زيننفول، دي بْغروندونغن بايدر زايتن غناؤ تسو ڤيرگلايشن.",
+          "Wenn Experten uneinig sind, finde ich es sinnvoll, die Begründungen beider Seiten genau zu vergleichen.",
+          "إذا كان الخبراء غير متفقين، فأرى من المفيد مقارنة تبريرات الطرفين بدقة."
+        ],
+        [
+          "Ich achte besonders auf Formulierungen wie 'angeblich' oder 'laut ersten Hinweisen', weil sie vorsichtig klingen.",
+          "أنتبه بشكل خاص إلى عبارات مثل «يُزعم» أو «بحسب المؤشرات الأولى»، لأنها تبدو حذرة.",
+          "إيش أخته بزوندرس آوف فورموليرونغن ڤي آنگيبليخ أودر لاوت إرشتن هينڤايزن، ڤايل زي فورزيختيغ كلينغن.",
+          "Ich achte besonders auf Formulierungen wie 'angeblich' oder 'laut ersten Hinweisen', weil sie vorsichtig klingen.",
+          "أنتبه بشكل خاص إلى عبارات مثل «يُزعم» أو «بحسب المؤشرات الأولى»، لأنها تبدو حذرة."
+        ],
+        [
+          "Selbst wenn ein Thema mich ärgert, versuche ich, die Fakten von der Bewertung zu trennen.",
+          "حتى لو أزعجني موضوع ما، أحاول فصل الحقائق عن التقييم.",
+          "زلْبست فِن آين تيما ميخ إرگرت، فيرزوخه إيش، دي فاكْتن فون دير بڤرتونغ تسو ترنن.",
+          "Selbst wenn ein Thema mich ärgert, versuche ich, die Fakten von der Bewertung zu trennen.",
+          "حتى لو أزعجني موضوع ما، أحاول فصل الحقائق عن التقييم."
+        ],
+        [
+          "Online lese ich lieber mehrere kurze Meldungen als nur einen langen Beitrag ohne Quellenangabe.",
+          "على الإنترنت، أفضل قراءة عدة أخبار قصيرة بدلًا من نص طويل واحد بلا إشارة إلى المصادر.",
+          "أونلاين ليزه إيش ليبر ميرهَره كورتسه ميلدونغن آلس نور آينن لانغن بَيتْراغ أوهني كفيلنآنگابه.",
+          "Online lese ich lieber mehrere kurze Meldungen als nur einen langen Beitrag ohne Quellenangabe.",
+          "على الإنترنت، أفضل قراءة عدة أخبار قصيرة بدلًا من نص طويل واحد بلا إشارة إلى المصادر."
+        ],
+        [
+          "Wenn ich unsicher bin, warte ich mit dem Teilen, denn eine vorschnelle Reaktion kann Gerüchte verstärken.",
+          "عندما أكون غير متأكد، أنتظر قبل المشاركة، لأن التفاعل المتسرع قد يعزز الشائعات.",
+          "فِن إيش أونزيخر بين، فارته إيش ميت ديم تايلن، دين آينه فورشنايله ريأكْتسيون كان گيروشته فيرشتيركن.",
+          "Wenn ich unsicher bin, warte ich mit dem Teilen, denn eine vorschnelle Reaktion kann Gerüchte verstärken.",
+          "عندما أكون غير متأكد، أنتظر قبل المشاركة، لأن التفاعل المتسرع قد يعزز الشائعات."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة بين البدائل",
+      "words": [
+        [
+          "Für die neue Wohnung ist ein ruhigeres Viertel teurer, bietet aber mehr Sicherheit und weniger Lärm.",
+          "الحي الأكثر هدوءًا للشقة الجديدة أغلى، لكنه يوفر أمانًا أكبر وضجيجًا أقل.",
+          "فور دي نويه ڤونونغ إِست آين رويهغيرس فيرتل تَويرَر، بيتِت أبه مير زيخرهايت أوند ڤينيغر ليرم.",
+          "Für die neue Wohnung ist ein ruhigeres Viertel teurer, bietet aber mehr Sicherheit und weniger Lärm.",
+          "الحي الأكثر هدوءًا للشقة الجديدة أغلى، لكنه يوفر أمانًا أكبر وضجيجًا أقل."
+        ],
+        [
+          "Ich kann entweder das günstige Modell nehmen oder das teurere, das langfristig weniger Wartung braucht.",
+          "يمكنني إما اختيار الطراز الأرخص أو الأغلى الذي يحتاج صيانة أقل على المدى الطويل.",
+          "إيش كان إنتڤيدَر داس غونستِغه موديل نِمن أودر داس تَويرَره، داس لانغفريستِخ ڤينيغر فارتونغ براوخت.",
+          "Ich kann entweder das günstige Modell nehmen oder das teurere, das langfristig weniger Wartung braucht.",
+          "يمكنني إما اختيار الطراز الأرخص أو الأغلى الذي يحتاج صيانة أقل على المدى الطويل."
+        ],
+        [
+          "Die Direktverbindung ist schneller, doch mit einem Umstieg spare ich fast die Hälfte des Preises.",
+          "الرحلة المباشرة أسرع، لكن مع تبديل واحد أوفر تقريبًا نصف السعر.",
+          "دي ديريكتفيربيندونغ إِست شنِلَر، دوخ ميت آينيم أومشتيغ شْپارِه إيش فاست دي هيلفته ديس برايسس.",
+          "Die Direktverbindung ist schneller, doch mit einem Umstieg spare ich fast die Hälfte des Preises.",
+          "الرحلة المباشرة أسرع، لكن مع تبديل واحد أوفر تقريبًا نصف السعر."
+        ],
+        [
+          "Wenn wir das kleinere Büro mieten, sparen wir Geld, müssen aber die begrenzte Fläche besser organisieren.",
+          "إذا استأجرنا المكتب الأصغر، نوفر المال، لكن يجب أن ننظم المساحة المحدودة بشكل أفضل.",
+          "فِن فير داس كلاينرهه بويرو ميتن، شْپارِن فير غيلت، موسِن أبه دي بغرينتسه فليهشه بيسَر أورغانيزيرن.",
+          "Wenn wir das kleinere Büro mieten, sparen wir Geld, müssen aber die begrenzte Fläche besser organisieren.",
+          "إذا استأجرنا المكتب الأصغر، نوفر المال، لكن يجب أن ننظم المساحة المحدودة بشكل أفضل."
+        ],
+        [
+          "Ich würde lieber den Kurs am Abend besuchen, weil ich dann tagsüber arbeiten kann.",
+          "أفضّل حضور الدورة مساءً، لأنني أستطيع حينها العمل خلال النهار.",
+          "إيش فورده ليبر دين كورس آم آبند بزوخن، ڤايل إيش دان تاگزوبر أربيطن كان.",
+          "Ich würde lieber den Kurs am Abend besuchen, weil ich dann tagsüber arbeiten kann.",
+          "أفضّل حضور الدورة مساءً، لأنني أستطيع حينها العمل خلال النهار."
+        ],
+        [
+          "Zwischen Bus und Bahn bevorzuge ich oft die Bahn, außer wenn ich mit viel Gepäck unterwegs bin.",
+          "بين الحافلة والقطار أفضّل غالبًا القطار، إلا إذا كنت مسافرًا ومعي أمتعة كثيرة.",
+          "تڤيشن بوس أوند باهن بيفورتسوگه إيش أوفت دي باهن، أوسر فِن إيش ميت فيل گِپيك أونتِروېغس بين.",
+          "Zwischen Bus und Bahn bevorzuge ich oft die Bahn, außer wenn ich mit viel Gepäck unterwegs bin.",
+          "بين الحافلة والقطار أفضّل غالبًا القطار، إلا إذا كنت مسافرًا ومعي أمتعة كثيرة."
+        ],
+        [
+          "Das Ferienhaus ist größer, aber die Wohnung in der Stadt ist praktischer für den Alltag.",
+          "البيت الصيفي أكبر، لكن الشقة في المدينة أكثر عملية للحياة اليومية.",
+          "داس فيرينهاوس إِست غروسر، أبه دي ڤونونغ إن دير شتات إِست براكتيشَر فور دين ألتاغ.",
+          "Das Ferienhaus ist größer, aber die Wohnung in der Stadt ist praktischer für den Alltag.",
+          "البيت الصيفي أكبر، لكن الشقة في المدينة أكثر عملية للحياة اليومية."
+        ],
+        [
+          "Wenn Zeit wichtiger ist als Komfort, fällt meine Wahl eher auf das direkte Angebot.",
+          "إذا كان الوقت أهم من الراحة، أميل أكثر إلى العرض المباشر.",
+          "فِن تسايت ڤيختيغر إِست آلس كومفورت، فِلْت ماينه ڤال إيهر آوف داس ديريكتِه آنغيبوت.",
+          "Wenn Zeit wichtiger ist als Komfort, fällt meine Wahl eher auf das direkte Angebot.",
+          "إذا كان الوقت أهم من الراحة، أميل أكثر إلى العرض المباشر."
+        ],
+        [
+          "Ich vergleiche nicht nur den Preis, sondern auch die Rückgabebedingungen und den Service.",
+          "لا أقارن السعر فقط، بل أيضًا شروط الإرجاع والخدمة.",
+          "إيش فيرگلايشه نيت نور دين برايس، زوندرن آوخ دي ريكگابهبيدينغونغن أوند دين زيرڤيس.",
+          "Ich vergleiche nicht nur den Preis, sondern auch die Rückgabebedingungen und den Service.",
+          "لا أقارن السعر فقط، بل أيضًا شروط الإرجاع والخدمة."
+        ],
+        [
+          "Am Ende entscheide ich mich meist für die Lösung, die im Alltag am wenigsten Stress macht.",
+          "في النهاية أختار غالبًا الحل الذي يسبب أقل قدر من الضغط في الحياة اليومية.",
+          "آم إنده إنتشايده إيش ميخ مايست فور دي لوزونغ، دي إم ألتاغ آَم ڤينيغستن شتريس ماخت.",
+          "Am Ende entscheide ich mich meist für die Lösung, die im Alltag am wenigsten Stress macht.",
+          "في النهاية أختار غالبًا الحل الذي يسبب أقل قدر من الضغط في الحياة اليومية."
+        ]
+      ]
+    },
+    {
+      "topic": "تنظيم الحجج",
+      "words": [
+        [
+          "Zuerst nenne ich meinen Standpunkt klar, danach erkläre ich Schritt für Schritt, warum ich so denke.",
+          "أولًا أذكر موقفي بوضوح، ثم أشرح خطوة خطوة لماذا أفكر بهذه الطريقة.",
+          "تسويرست نِنِه إيش ماينن شتاندبونكت كلار، داناخ إركليرِه إيش شريت فور شريت، ڤاروم إيش زو دينكه.",
+          "Zuerst nenne ich meinen Standpunkt klar, danach erkläre ich Schritt für Schritt, warum ich so denke.",
+          "أولًا أذكر موقفي بوضوح، ثم أشرح خطوة خطوة لماذا أفكر بهذه الطريقة."
+        ],
+        [
+          "Eine starke Argumentation braucht nicht viele Worte, sondern eine logische Reihenfolge und gute Beispiele.",
+          "الحجة القوية لا تحتاج إلى كلمات كثيرة، بل إلى ترتيب منطقي وأمثلة جيدة.",
+          "آينه شتاركه آرگومنتاتسيون براوخت نيت فيله فورتِه، زوندرن آينه لوغيشه راينن فُلغ أوند غوده بَيشتيله.",
+          "Eine starke Argumentation braucht nicht viele Worte, sondern eine logische Reihenfolge und gute Beispiele.",
+          "الحجة القوية لا تحتاج إلى كلمات كثيرة، بل إلى ترتيب منطقي وأمثلة جيدة."
+        ],
+        [
+          "Wenn ich gegen etwas bin, nenne ich fairerweise auch den möglichen Nutzen der anderen Seite.",
+          "إذا كنت ضد شيء ما، أذكر بإنصاف أيضًا الفائدة المحتملة لدى الطرف الآخر.",
+          "فِن إيش غيگن إتڤاس بين، نِنِه إيش فيرآيرڤايزه آوخ دين موليخن نوتسن دير أندرن زايتِه.",
+          "Wenn ich gegen etwas bin, nenne ich fairerweise auch den möglichen Nutzen der anderen Seite.",
+          "إذا كنت ضد شيء ما، أذكر بإنصاف أيضًا الفائدة المحتملة لدى الطرف الآخر."
+        ],
+        [
+          "Ich versuche, Behauptungen mit Fakten zu stützen, sonst wirkt meine Meinung schnell zu schwach.",
+          "أحاول دعم الادعاءات بالحقائق، وإلا بدت وجهة نظري سريعًا ضعيفة جدًا.",
+          "إيش فيرزوخه، بهاؤبتونغن ميت فاكْتن تسو شتوتسن، زونست فيركت ماينه مينونغ شنِل تسو شڤاخ.",
+          "Ich versuche, Behauptungen mit Fakten zu stützen, sonst wirkt meine Meinung schnell zu schwach.",
+          "أحاول دعم الادعاءات بالحقائق، وإلا بدت وجهة نظري سريعًا ضعيفة جدًا."
+        ],
+        [
+          "Ein Gegenargument überzeugt mich nur dann, wenn es konkret ist und nicht bloß pauschal bleibt.",
+          "الحجة المضادة تقنعني فقط إذا كانت ملموسة وليست عامة بشكل فضفاض.",
+          "آين غيگينآرگومنت أوبَرتسويغت ميخ نور دان، فِن إيس كونكريت إِست أوند نيت بلوس باوشال بلايبت.",
+          "Ein Gegenargument überzeugt mich nur dann, wenn es konkret ist und nicht bloß pauschal bleibt.",
+          "الحجة المضادة تقنعني فقط إذا كانت ملموسة وليست عامة بشكل فضفاض."
+        ],
+        [
+          "Wenn ich einen Vorschlag mache, erkläre ich auch, welche Nachteile ich schon mitgedacht habe.",
+          "عندما أطرح اقتراحًا، أشرح أيضًا أية عيوب أخذتها في الحسبان مسبقًا.",
+          "فِن إيش آينن فورشلاخ ماخه، إركليرِه إيش آوخ، ڤيلشه ناختايله إيش شون ميتگيداخت هابه.",
+          "Wenn ich einen Vorschlag mache, erkläre ich auch, welche Nachteile ich schon mitgedacht habe.",
+          "عندما أطرح اقتراحًا، أشرح أيضًا أية عيوب أخذتها في الحسبان مسبقًا."
+        ],
+        [
+          "Ich finde es überzeugender, wenn jemand Beispiele aus dem Alltag nennt statt nur abstrakt zu reden.",
+          "أجد الأمر أكثر إقناعًا عندما يذكر أحدهم أمثلة من الحياة اليومية بدلًا من الكلام المجرد فقط.",
+          "إيش فينده إيس أوبَرتسويغنْدَر، فِن يمانت بيشتيله أوس ديم ألتاغ ننت شتات نور أبستراكت تسو ريدن.",
+          "Ich finde es überzeugender, wenn jemand Beispiele aus dem Alltag nennt statt nur abstrakt zu reden.",
+          "أجد الأمر أكثر إقناعًا عندما يذكر أحدهم أمثلة من الحياة اليومية بدلًا من الكلام المجرد فقط."
+        ],
+        [
+          "Man kann höflich widersprechen, ohne die andere Person anzugreifen oder zu unterbrechen.",
+          "يمكن الاعتراض بأدب من دون مهاجمة الشخص الآخر أو مقاطعته.",
+          "مان كان هوليش ڤيدرشبرشن، أوهني دي أندره بيرزون آنتسوغرايفن أودر تسو أونتربرشن.",
+          "Man kann höflich widersprechen, ohne die andere Person anzugreifen oder zu unterbrechen.",
+          "يمكن الاعتراض بأدب من دون مهاجمة الشخص الآخر أو مقاطعته."
+        ],
+        [
+          "Für mich zählt am meisten, ob die Schlussfolgerung die vorherigen Punkte wirklich zusammenfasst.",
+          "ما يهمني أكثر هو ما إذا كانت الخلاصة تلخص النقاط السابقة فعلًا.",
+          "فور ميخ تسلت آم مايستن، أوب دي شلوسفولغيرونغ دي فورهيريغن بونكته ڤيركلِخ تسوزامنفاست.",
+          "Für mich zählt am meisten, ob die Schlussfolgerung die vorherigen Punkte wirklich zusammenfasst.",
+          "ما يهمني أكثر هو ما إذا كانت الخلاصة تلخص النقاط السابقة فعلًا."
+        ],
+        [
+          "Wenn zwei Gründe gleich stark sind, entscheide ich mich eher für die praktischere Lösung.",
+          "إذا كان سببان متساويين في القوة، أميل أكثر إلى الحل الأكثر عملية.",
+          "فِن تسڤاي غرونده گلايخ شتارك زِند، إنتشايده إيش ميخ إيهر فور دي براكتيشَرِه لوزونغ.",
+          "Wenn zwei Gründe gleich stark sind, entscheide ich mich eher für die praktischere Lösung.",
+          "إذا كان سببان متساويين في القوة، أميل أكثر إلى الحل الأكثر عملية."
+        ]
+      ]
+    },
+    {
+      "topic": "تفسير البيانات",
+      "words": [
+        [
+          "Die Kurve steigt im Frühjahr langsam an, erreicht aber im Juni einen deutlich höheren Wert.",
+          "يرتفع المنحنى في الربيع ببطء، لكنه يصل إلى قيمة أعلى بوضوح في يونيو.",
+          "دي كورفه شتايخت إم فريهْيار لانگزام آن، إرايخت أبه إم يوني آينن دوليش هُهيرن ڤيرت.",
+          "Die Kurve steigt im Frühjahr langsam an, erreicht aber im Juni einen deutlich höheren Wert.",
+          "يرتفع المنحنى في الربيع ببطء، لكنه يصل إلى قيمة أعلى بوضوح في يونيو."
+        ],
+        [
+          "Wenn man die Zahlen nach Monaten ordnet, erkennt man schnell, welche Phase besonders stark ist.",
+          "إذا رتّبنا الأرقام حسب الأشهر، نلاحظ سريعًا أي مرحلة هي الأقوى بشكل خاص.",
+          "فِن مان دي تسالن ناخ موناتن أوردنت، إركنت مان شنِل، ڤيلشه فازه بزوندرس شتارك إِست.",
+          "Wenn man die Zahlen nach Monaten ordnet, erkennt man schnell, welche Phase besonders stark ist.",
+          "إذا رتّبنا الأرقام حسب الأشهر، نلاحظ سريعًا أي مرحلة هي الأقوى بشكل خاص."
+        ],
+        [
+          "Der Rückgang wirkt dramatisch, doch im Verhältnis zum Vorjahr ist er weniger groß als gedacht.",
+          "يبدو الانخفاض حادًا، لكنه مقارنة بالعام السابق أقل من المتوقع.",
+          "دير ريكغانغ فيركت دراماتيش، دوخ إم فيرهايلتن تسوم فورْيهر إِست إير ڤينيغر غروس آلس گيداخت.",
+          "Der Rückgang wirkt dramatisch, doch im Verhältnis zum Vorjahr ist er weniger groß als gedacht.",
+          "يبدو الانخفاض حادًا، لكنه مقارنة بالعام السابق أقل من المتوقع."
+        ],
+        [
+          "Aus der Tabelle lese ich nicht nur Werte ab, sondern auch Trends und mögliche Ausnahmen.",
+          "من الجدول لا أقرأ القيم فقط، بل أيضًا الاتجاهات والاستثناءات المحتملة.",
+          "أوس دير تابلِّه ليزه إيش نيت نور ڤيرتِه آب، زوندرن آوخ ترينتس أوند موليخه أوسنامن.",
+          "Aus der Tabelle lese ich nicht nur Werte ab, sondern auch Trends und mögliche Ausnahmen.",
+          "من الجدول لا أقرأ القيم فقط، بل أيضًا الاتجاهات والاستثناءات المحتملة."
+        ],
+        [
+          "Die meisten Daten sprechen für eine stabile Entwicklung, obwohl einzelne Punkte schwanken.",
+          "تشير معظم البيانات إلى تطور مستقر، رغم أن بعض النقاط تتذبذب.",
+          "دي مايستن دادهِن شبرشن فور آينه شتאבيله إنتڤيكلونغ، أوبڤول آينتسِلنه بونكته شڤانكن.",
+          "Die meisten Daten sprechen für eine stabile Entwicklung, obwohl einzelne Punkte schwanken.",
+          "تشير معظم البيانات إلى تطور مستقر، رغم أن بعض النقاط تتذبذب."
+        ],
+        [
+          "Wenn eine Zahl plötzlich springt, prüfe ich zuerst, ob ein Messfehler vorliegt.",
+          "عندما تقفز قيمة فجأة، أتحقق أولًا مما إذا كان هناك خطأ في القياس.",
+          "فِن آينه تسال بلوتسليش شبرينغت، بريفه إيش تسويرست، أوب آين ميسفيرر فورليغت.",
+          "Wenn eine Zahl plötzlich springt, prüfe ich zuerst, ob ein Messfehler vorliegt.",
+          "عندما تقفز قيمة فجأة، أتحقق أولًا مما إذا كان هناك خطأ في القياس."
+        ],
+        [
+          "Die Grafik zeigt keine klare Linie, deshalb würde ich vorsichtig mit schnellen Schlussfolgerungen sein.",
+          "لا يظهر الرسم البياني خطًا واضحًا، لذلك سأكون حذرًا من الاستنتاجات السريعة.",
+          "دي غرافيك تسايت كاينه كلاره لينيه، ديسهالب فورده إيش فورزيختيغ ميت شنِلِن شلوسفولغيرونغن زين.",
+          "Die Grafik zeigt keine klare Linie, deshalb würde ich vorsichtig mit schnellen Schlussfolgerungen sein.",
+          "لا يظهر الرسم البياني خطًا واضحًا، لذلك سأكون حذرًا من الاستنتاجات السريعة."
+        ],
+        [
+          "Je nach Zeitraum kann derselbe Wert ganz unterschiedlich wirken, also braucht man den Kontext.",
+          "بحسب الفترة الزمنية، قد تبدو القيمة نفسها مختلفة جدًا، لذلك يلزم السياق.",
+          "يه ناخ تسايتراوم كان ديرزلبه ڤيرت غانتس أونتَرشيدليش فيركن، آلسو براوخت مان دين كونتِكست.",
+          "Je nach Zeitraum kann derselbe Wert ganz unterschiedlich wirken, also braucht man den Kontext.",
+          "بحسب الفترة الزمنية، قد تبدو القيمة نفسها مختلفة جدًا، لذلك يلزم السياق."
+        ],
+        [
+          "Ich achte besonders auf Prozentangaben, weil kleine Änderungen oft große Folgen haben.",
+          "أنتبه بشكل خاص إلى النسب المئوية، لأن التغييرات الصغيرة غالبًا ما تكون لها آثار كبيرة.",
+          "إيش أخته بزوندرس آوف بروسنتآنگابهِن، ڤايل كلاينه إندرونغن أوفت غروزِه فولغن هابن.",
+          "Ich achte besonders auf Prozentangaben, weil kleine Änderungen oft große Folgen haben.",
+          "أنتبه بشكل خاص إلى النسب المئوية، لأن التغييرات الصغيرة غالبًا ما تكون لها آثار كبيرة."
+        ],
+        [
+          "Wenn zwei Datensätze sich widersprechen, suche ich nach dem Grund für die Abweichung.",
+          "إذا تعارضت مجموعتا بيانات، أبحث عن سبب الاختلاف.",
+          "فِن تسڤاي دادهِنتساتسه زِيخ ڤيدرشبرشن، زوخه إيش ناخ ديم غروند فور دي آبڤايخونغ.",
+          "Wenn zwei Datensätze sich widersprechen, suche ich nach dem Grund für die Abweichung.",
+          "إذا تعارضت مجموعتا بيانات، أبحث عن سبب الاختلاف."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط للمستقبل",
+      "words": [
+        [
+          "Wenn wir früh genug buchen, können wir im Sommer günstiger reisen und mehr Auswahl haben.",
+          "إذا حجزنا مبكرًا بما يكفي، يمكننا السفر في الصيف بسعر أقل والحصول على خيارات أكثر.",
+          "فِن فير فروي گينوخ بوخن، كينن فير إم زومر غونستِيغر رايزن أوند مير أوسڤال هابن.",
+          "Wenn wir früh genug buchen, können wir im Sommer günstiger reisen und mehr Auswahl haben.",
+          "إذا حجزنا مبكرًا بما يكفي، يمكننا السفر في الصيف بسعر أقل والحصول على خيارات أكثر."
+        ],
+        [
+          "Ich plane den Kurswechsel erst, wenn ich sicher bin, dass er zu meinen Zielen passt.",
+          "أخطط لتغيير المسار فقط عندما أكون متأكدًا من أنه يناسب أهدافي.",
+          "إيش بلانه دين كورسڤيشسل إرشت، فِن إيش زيخر بين، داس إير تسو ماينن تسيلن باست.",
+          "Ich plane den Kurswechsel erst, wenn ich sicher bin, dass er zu meinen Zielen passt.",
+          "أخطط لتغيير المسار فقط عندما أكون متأكدًا من أنه يناسب أهدافي."
+        ],
+        [
+          "Falls unser Projekt länger dauert, müssten wir den Zeitplan anpassen und Aufgaben neu verteilen.",
+          "إذا استغرق مشروعنا وقتًا أطول، فسنضطر إلى تعديل الجدول الزمني وتوزيع المهام من جديد.",
+          "فالس أونزر برويكت لينغر داورت، موستن فير دين تسايتبلان آنپاسن أوند آوفغابن نوي ڤرتايلن.",
+          "Falls unser Projekt länger dauert, müssten wir den Zeitplan anpassen und Aufgaben neu verteilen.",
+          "إذا استغرق مشروعنا وقتًا أطول، فسنضطر إلى تعديل الجدول الزمني وتوزيع المهام من جديد."
+        ],
+        [
+          "In zwei Jahren möchte ich mehr Verantwortung übernehmen, deshalb bilde ich mich jetzt gezielt weiter.",
+          "بعد عامين أريد تولي مسؤولية أكبر، لذلك أطور نفسي الآن بشكل موجّه.",
+          "إن تسڤاي يارن ميلخته إيش مير فيرآنتڤورتونغ أوبِرنېمن، ديسهالب بيلده إيش ميخ يتست تسيلت ڤايتَر.",
+          "In zwei Jahren möchte ich mehr Verantwortung übernehmen, deshalb bilde ich mich jetzt gezielt weiter.",
+          "بعد عامين أريد تولي مسؤولية أكبر، لذلك أطور نفسي الآن بشكل موجّه."
+        ],
+        [
+          "Wir sollten heute schon überlegen, welche Investitionen sich später wirklich auszahlen.",
+          "ينبغي أن نفكر من الآن في الاستثمارات التي ستؤتي ثمارها فعلًا لاحقًا.",
+          "فير سولتن هويتِه شون أوبَرلېغن، ڤيلشه إنڤستيتسيونن زِيخ شبيتَر ڤيركلِخ أوستسالِن.",
+          "Wir sollten heute schon überlegen, welche Investitionen sich später wirklich auszahlen.",
+          "ينبغي أن نفكر من الآن في الاستثمارات التي ستؤتي ثمارها فعلًا لاحقًا."
+        ],
+        [
+          "Wenn die Nachfrage weiter steigt, brauchen wir wahrscheinlich bald zusätzliche Kapazitäten.",
+          "إذا استمر الطلب في الارتفاع، فسنحتاج على الأرجح قريبًا إلى طاقات إضافية.",
+          "فِن دي ناخفراگه ڤايتَر شتايخت، براوخِن فير ڤاهشاينليش بالت تسوتسَتْسيشِه كاپاتسيتَتن.",
+          "Wenn die Nachfrage weiter steigt, brauchen wir wahrscheinlich bald zusätzliche Kapazitäten.",
+          "إذا استمر الطلب في الارتفاع، فسنحتاج على الأرجح قريبًا إلى طاقات إضافية."
+        ],
+        [
+          "Ich möchte den Umzug lieber im Herbst machen, weil dann weniger Termine zusammenfallen.",
+          "أفضل القيام بالانتقال في الخريف، لأن مواعيدًا أقل تتزاحم حينها.",
+          "إيش ميلخته دين أومتسوغ ليبر إم هربست ماخن، ڤايل دان ڤينيغر تيرمينه تسوزامنفالِن.",
+          "Ich möchte den Umzug lieber im Herbst machen, weil dann weniger Termine zusammenfallen.",
+          "أفضل القيام بالانتقال في الخريف، لأن مواعيدًا أقل تتزاحم حينها."
+        ],
+        [
+          "Auch wenn der Plan ehrgeizig ist, bleibe ich flexibel, falls sich die Lage ändert.",
+          "حتى لو كانت الخطة طموحة، أبقى مرنًا إذا تغير الوضع.",
+          "آوخ فِن دير بلان إرغايتسِخ إِست، بلايبه إيش فليكسِبِل، فالس زيخ دي لاگه إندرت.",
+          "Auch wenn der Plan ehrgeizig ist, bleibe ich flexibel, falls sich die Lage ändert.",
+          "حتى لو كانت الخطة طموحة، أبقى مرنًا إذا تغير الوضع."
+        ],
+        [
+          "Bevor wir uns festlegen, klären wir besser die Kosten, die Fristen und die Zuständigkeiten.",
+          "قبل أن نحسم أمرنا، من الأفضل أن نوضح التكاليف والمواعيد النهائية والمسؤوليات.",
+          "بَفور فير أونس فِشتلېغن، كليرن فير بيسَر دي كوستن، دي فروستن أوند دي تسوشتِنديغْكايتن.",
+          "Bevor wir uns festlegen, klären wir besser die Kosten, die Fristen und die Zuständigkeiten.",
+          "قبل أن نحسم أمرنا، من الأفضل أن نوضح التكاليف والمواعيد النهائية والمسؤوليات."
+        ],
+        [
+          "Ich denke langfristig, aber ich entscheide mich erst, wenn genug Informationen vorliegen.",
+          "أفكر على المدى الطويل، لكنني لا أحسم قراري إلا عندما تتوفر معلومات كافية.",
+          "إيش دينكه لانغفريستيغ، أبه إيش إنتشايده ميخ إرشْت، فِن گينوخ إنفورماتسيونن فورليغن.",
+          "Ich denke langfristig, aber ich entscheide mich erst, wenn genug Informationen vorliegen.",
+          "أفكر على المدى الطويل، لكنني لا أحسم قراري إلا عندما تتوفر معلومات كافية."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب والتأمل",
+      "words": [
+        [
+          "Nachdem ich den Kurs gewechselt hatte, merkte ich schnell, dass ich anders lernen muss.",
+          "بعد أن غيرتُ الدورة، أدركتُ بسرعة أنني يجب أن أتعلم بطريقة مختلفة.",
+          "نَخْديم إيش دين كورس گِڤِكسِلت هَتِّه، ميركْتِه إيش شنِل، داس إيش آندِرس ليرن مُسْس.",
+          "Nachdem ich den Kurs gewechselt hatte, merkte ich schnell, dass ich anders lernen muss.",
+          "بعد أن غيرتُ الدورة، أدركتُ بسرعة أنني يجب أن أتعلم بطريقة مختلفة."
+        ],
+        [
+          "Als der Zug verspätet war, nutzte ich die Zeit und las endlich das ganze Buch zu Ende.",
+          "عندما تأخر القطار، استغليت الوقت وقرأت أخيرًا الكتاب كاملًا حتى النهاية.",
+          "آلس دير تسوك ڤِرشپيتِت ڤار، نوتْسْتِه إيش دي تسايت أوند لاس إندليش داس گانْتْسِه بوخ تسو إنده.",
+          "Als der Zug verspätet war, nutzte ich die Zeit und las endlich das ganze Buch zu Ende.",
+          "عندما تأخر القطار، استغليت الوقت وقرأت أخيرًا الكتاب كاملًا حتى النهاية."
+        ],
+        [
+          "Ich hatte mir mehr erwartet, aber im Rückblick war die Reise trotzdem sehr lehrreich.",
+          "كنتُ أتوقع أكثر، لكن بالنظر إلى الوراء كانت الرحلة مع ذلك مفيدة جدًا.",
+          "إيش هاتِّه مير مير إرڤارتِت، آبر إيم ريكبليك ڤار دي رايزِه تروتسْديم زير ليررايش.",
+          "Ich hatte mir mehr erwartet, aber im Rückblick war die Reise trotzdem sehr lehrreich.",
+          "كنتُ أتوقع أكثر، لكن بالنظر إلى الوراء كانت الرحلة مع ذلك مفيدة جدًا."
+        ],
+        [
+          "Wenn ich heute zurückdenke, hätte ich die Pause besser genutzt und weniger gehetzt.",
+          "عندما أفكر في الأمر الآن، لكان من الأفضل أن أستغل الاستراحة بشكل أفضل وأقل تعجلًا.",
+          "ڤِن إيش هاوتِه تسوروك دِنكِه، هِتِّه إيش دي باوزِه بِسَّر گِنوتْسْت أوند ڤِنِگِر گِهِتسْت.",
+          "Wenn ich heute zurückdenke, hätte ich die Pause besser genutzt und weniger gehetzt.",
+          "عندما أفكر في الأمر الآن، لكان من الأفضل أن أستغل الاستراحة بشكل أفضل وأقل تعجلًا."
+        ],
+        [
+          "Ich lerne aus Fehlern, auch wenn es manchmal unangenehm ist, sie zuerst einzugestehen.",
+          "أتعلم من الأخطاء، حتى لو كان من غير المريح أحيانًا الاعتراف بها أولًا.",
+          "إيش ليرنِه آوس فيلرن، آوخ ڤِن إِس مانشْمَـا أُونآنْگِنيم إِست، زي تسوئِرْت إينتسوگِشْتين.",
+          "Ich lerne aus Fehlern, auch wenn es manchmal unangenehm ist, sie zuerst einzugestehen.",
+          "أتعلم من الأخطاء، حتى لو كان من غير المريح أحيانًا الاعتراف بها أولًا."
+        ],
+        [
+          "Nach dem Umzug brauchte ich Wochen, bis ich mich in der neuen Stadt wirklich zurechtfand.",
+          "بعد الانتقال احتجتُ أسابيع حتى تأقلمتُ فعلًا في المدينة الجديدة.",
+          "ناخ ديم أوم تسوك براوخْتِه إيش ڤوخِن، بِس إيش مِخ إين دير نويِن شتات ڤيركليش تسو ريشْتْفاند.",
+          "Nach dem Umzug brauchte ich Wochen, bis ich mich in der neuen Stadt wirklich zurechtfand.",
+          "بعد الانتقال احتجتُ أسابيع حتى تأقلمتُ فعلًا في المدينة الجديدة."
+        ],
+        [
+          "Ich finde es hilfreich, Erfahrungen zu notieren, weil man später klarer erkennt, was zählt.",
+          "أجد من المفيد تدوين التجارب، لأن المرء يدرك لاحقًا بشكل أوضح ما هو المهم.",
+          "إيش فيندِه إِس هيلفْرايش، إرفارونغِن تسو نوتيرِن، ڤايل مان شبِيتر كلارَر إركِنْت، ڤاس تسيلت.",
+          "Ich finde es hilfreich, Erfahrungen zu notieren, weil man später klarer erkennt, was zählt.",
+          "أجد من المفيد تدوين التجارب، لأن المرء يدرك لاحقًا بشكل أوضح ما هو المهم."
+        ],
+        [
+          "Obwohl der Anfang schwierig war, habe ich durch Geduld mehr gewonnen, als ich gedacht hatte.",
+          "على الرغم من أن البداية كانت صعبة، فقد ربحتُ بالصبر أكثر مما كنتُ أظن.",
+          "أوبڤول دير آنفانغ شفيريغ ڤار، هابِه إيش دورخ گِدولد مير گِڤونِن، آلس إيش گِدَاخْت هاتِّه.",
+          "Obwohl der Anfang schwierig war, habe ich durch Geduld mehr gewonnen, als ich gedacht hatte.",
+          "على الرغم من أن البداية كانت صعبة، فقد ربحتُ بالصبر أكثر مما كنتُ أظن."
+        ],
+        [
+          "Ich würde das Experiment wieder machen, allerdings nur mit besserer Vorbereitung.",
+          "كنتُ سأجري التجربة مرة أخرى، لكن فقط مع إعداد أفضل.",
+          "إيش ڤوردِه داس إكسبِريمِنت ڤيدر ماخِن، آلَّردينغس نور مِت بِسَّرَر فُوربيرَيتونغ.",
+          "Ich würde das Experiment wieder machen, allerdings nur mit besserer Vorbereitung.",
+          "كنتُ سأجري التجربة مرة أخرى، لكن فقط مع إعداد أفضل."
+        ],
+        [
+          "Je genauer ich hinschaue, desto mehr verstehe ich, warum kleine Schritte oft entscheidend sind.",
+          "كلما نظرتُ بدقة أكبر، فهمتُ أكثر لماذا تكون الخطوات الصغيرة غالبًا حاسمة.",
+          "يِه گِنَاوَر إيش هينشاوِه، دِستو مير فيرشْتِه إيش، فاروم كلاينه شتِتِّه أوفت إنتشيدِند زينت.",
+          "Je genauer ich hinschaue, desto mehr verstehe ich, warum kleine Schritte oft entscheidend sind.",
+          "كلما نظرتُ بدقة أكبر، فهمتُ أكثر لماذا تكون الخطوات الصغيرة غالبًا حاسمة."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات الاجتماعية",
+      "words": [
+        [
+          "Mit meiner Nachbarin komme ich gut aus, weil wir offen reden und Missverständnisse schnell klären.",
+          "أتفاهم جيدًا مع جارتي لأننا نتحدث بصراحة ونوضح سوء الفهم بسرعة.",
+          "مِت ماينَر ناخبارِن كومِه إيش گوت آوس، ڤايل ڤير أوفِن ريدِن أوند مِسْفيرشْتِندْنِسِه شنِل كليرِن.",
+          "Mit meiner Nachbarin komme ich gut aus, weil wir offen reden und Missverständnisse schnell klären.",
+          "أتفاهم جيدًا مع جارتي لأننا نتحدث بصراحة ونوضح سوء الفهم بسرعة."
+        ],
+        [
+          "Wenn ein Freund absagt, bin ich enttäuscht, aber ich versuche, das nicht persönlich zu nehmen.",
+          "عندما يعتذر صديق عن اللقاء، أشعر بخيبة أمل، لكنني أحاول ألا آخذ ذلك بشكل شخصي.",
+          "ڤِن آين فراوند أبزَاخت، بِن إيش إنتويتشْت، آبر إيش ڤِرسوخِه، داس نِشت بيرْسونْليش تسو نِمِن.",
+          "Wenn ein Freund absagt, bin ich enttäuscht, aber ich versuche, das nicht persönlich zu nehmen.",
+          "عندما يعتذر صديق عن اللقاء، أشعر بخيبة أمل، لكنني أحاول ألا آخذ ذلك بشكل شخصي."
+        ],
+        [
+          "Ich schätze Menschen, die zuhören können, denn gute Gespräche brauchen Respekt und Ruhe.",
+          "أقدّر الأشخاص القادرين على الإصغاء، لأن المحادثات الجيدة تحتاج إلى الاحترام والهدوء.",
+          "إيش شِتْسِه مينشِن، دي تسوهوورِن كونِن، دين گوتِه گِشْپريشِه براوخِن رِزْپِكْت أوند روهِه.",
+          "Ich schätze Menschen, die zuhören können, denn gute Gespräche brauchen Respekt und Ruhe.",
+          "أقدّر الأشخاص القادرين على الإصغاء، لأن المحادثات الجيدة تحتاج إلى الاحترام والهدوء."
+        ],
+        [
+          "Bei Konflikten hilft es oft, erst einmal die Perspektive des anderen zu verstehen.",
+          "في النزاعات، غالبًا ما يساعد أولًا أن نفهم وجهة نظر الطرف الآخر.",
+          "باي كونفليكْتِن هِلْفت إِس أوفت، إيرْست أين مال دي بَرْسبِكْتيفِه دِس آندِرِن تسو ڤيرشْتِهِن.",
+          "Bei Konflikten hilft es oft, erst einmal die Perspektive des anderen zu verstehen.",
+          "في النزاعات، غالبًا ما يساعد أولًا أن نفهم وجهة نظر الطرف الآخر."
+        ],
+        [
+          "Ich rufe lieber kurz an, statt lange zu schreiben, weil man so Ton und Stimmung besser erkennt.",
+          "أفضل أن أتصل مختصرًا بدلًا من الكتابة الطويلة، لأن المرء يدرك النبرة والمزاج بشكل أفضل هكذا.",
+          "إيش رووفِه ليبر كورتس آن، شتات لانگِه تسو شرايبِن، ڤايل مان زو تون أوند شْتيمونغ بِسَّر إركِنْت.",
+          "Ich rufe lieber kurz an, statt lange zu schreiben, weil man so Ton und Stimmung besser erkennt.",
+          "أفضل أن أتصل مختصرًا بدلًا من الكتابة الطويلة، لأن المرء يدرك النبرة والمزاج بشكل أفضل هكذا."
+        ],
+        [
+          "Man kann nicht mit allen befreundet sein, aber man sollte höflich bleiben.",
+          "لا يمكن أن يكون المرء صديقًا للجميع، لكن ينبغي أن يبقى مهذبًا.",
+          "مان كان نِشت مِت آلِن بِفْروندِت زاين، آبر مان زولْتِه هويفليش بلايبِن.",
+          "Man kann nicht mit allen befreundet sein, aber man sollte höflich bleiben.",
+          "لا يمكن أن يكون المرء صديقًا للجميع، لكن ينبغي أن يبقى مهذبًا."
+        ],
+        [
+          "Ich finde klare Grenzen wichtig, weil Nähe nur dann gut tut, wenn beide sie akzeptieren.",
+          "أرى أن الحدود الواضحة مهمة، لأن القرب لا يكون جيدًا إلا إذا قبلها الطرفان.",
+          "إيش فيندِه كلارِه گرنتْسِن ڤيشْتيخ، ڤايل نيهِه نور دان گوت تووت، ڤِن بايدِه زي أكْتسِپْتيرِن.",
+          "Ich finde klare Grenzen wichtig, weil Nähe nur dann gut tut, wenn beide sie akzeptieren.",
+          "أرى أن الحدود الواضحة مهمة، لأن القرب لا يكون جيدًا إلا إذا قبلها الطرفان."
+        ],
+        [
+          "Wenn wir uns regelmäßig melden, bleibt auch eine lockere Freundschaft lebendig.",
+          "إذا تواصلنا بانتظام، تبقى حتى الصداقة غير الرسمية حيّة.",
+          "ڤِن ڤير أونس رِگِلْمِسِّخ ميلدِن، بلايبْت آوخ أينِه لوكِرِه فراونْدْشافت لِبِنْديدِخ.",
+          "Wenn wir uns regelmäßig melden, bleibt auch eine lockere Freundschaft lebendig.",
+          "إذا تواصلنا بانتظام، تبقى حتى الصداقة غير الرسمية حيّة."
+        ],
+        [
+          "Ich höre zu, auch wenn ich anderer Meinung bin, weil guter Austausch Geduld verlangt.",
+          "أصغي، حتى عندما أكون على رأي مختلف، لأن الحوار الجيد يتطلب الصبر.",
+          "إيش هوورِه تسو، آوخ ڤِن إيش آندِرَر ماينونغ بِن، ڤايل گوتر آوسْتاوش گِدولد ڤِرلانغت.",
+          "Ich höre zu, auch wenn ich anderer Meinung bin, weil guter Austausch Geduld verlangt.",
+          "أصغي، حتى عندما أكون على رأي مختلف، لأن الحوار الجيد يتطلب الصبر."
+        ],
+        [
+          "Ein ehrliches Kompliment kann viel bewirken, solange es nicht übertrieben klingt.",
+          "يمكن لمجاملة صادقة أن تؤثر كثيرًا، ما دامت لا تبدو مبالغًا فيها.",
+          "آين إيرليشِس كومپْلِمِنت كان فيل بِڤيركِن، زولانگِه إِس نِشت أوفِرْتْريبِن كلينغت.",
+          "Ein ehrliches Kompliment kann viel bewirken, solange es nicht übertrieben klingt.",
+          "يمكن لمجاملة صادقة أن تؤثر كثيرًا، ما دامت لا تبدو مبالغًا فيها."
+        ]
+      ]
+    },
+    {
+      "topic": "المشاركة المجتمعية",
+      "words": [
+        [
+          "Ich engagiere mich im Viertel, weil kleine Projekte oft direkter helfen als große Versprechen.",
+          "أشارك في الحي لأن المشاريع الصغيرة غالبًا تساعد بشكل مباشر أكثر من الوعود الكبيرة.",
+          "إيش إنگاجيرِه مِخ إيم فيرْتِل، ڤايل كلاينه پرويكتِه أوفت ديرِكْتِر هيلفِن آلس گروزِه فِرشْپْرِخِن.",
+          "Ich engagiere mich im Viertel, weil kleine Projekte oft direkter helfen als große Versprechen.",
+          "أشارك في الحي لأن المشاريع الصغيرة غالبًا تساعد بشكل مباشر أكثر من الوعود الكبيرة."
+        ],
+        [
+          "Wenn wir beim Straßenfest zusammenarbeiten, entsteht schnell ein Gefühl von Gemeinschaft.",
+          "عندما نعمل معًا في مهرجان الشارع، ينشأ سريعًا شعور بالمجتمع.",
+          "ڤِن ڤير بايم شتراسِنفِست تسوزامِن آربايتِن، إنتْشْتهت شنِل آين گِفول فون گِماينشافْت.",
+          "Wenn wir beim Straßenfest zusammenarbeiten, entsteht schnell ein Gefühl von Gemeinschaft.",
+          "عندما نعمل معًا في مهرجان الشارع، ينشأ سريعًا شعور بالمجتمع."
+        ],
+        [
+          "Ich spende lieber regelmäßig kleine Beträge, statt nur einmal viel zu geben.",
+          "أفضل أن أتبرع بمبالغ صغيرة بانتظام بدلًا من أن أقدّم كثيرًا مرة واحدة فقط.",
+          "إيش شبِنْدِه ليبر رِگِلْمِسِّخ كلاينه بِتْرَاغِه، شتات نور آين مال فيل تسو گيبِن.",
+          "Ich spende lieber regelmäßig kleine Beträge, statt nur einmal viel zu geben.",
+          "أفضل أن أتبرع بمبالغ صغيرة بانتظام بدلًا من أن أقدّم كثيرًا مرة واحدة فقط."
+        ],
+        [
+          "Bei einer Sitzung sollte jeder mitreden können, damit Entscheidungen akzeptiert werden.",
+          "في أي اجتماع، ينبغي أن يتمكن الجميع من الكلام كي تُقبَل القرارات.",
+          "باي آينَر زيتسونغ زولْتِه يَدِر مِتْرِيدِن كونِن، دامِت إنتْشيدونگِن أكْتسِپْتيرْت ڤيردِن.",
+          "Bei einer Sitzung sollte jeder mitreden können, damit Entscheidungen akzeptiert werden.",
+          "في أي اجتماع، ينبغي أن يتمكن الجميع من الكلام كي تُقبَل القرارات."
+        ],
+        [
+          "Ich halte Freiwilligenarbeit für sinnvoll, auch wenn sie manchmal anstrengend ist.",
+          "أرى أن العمل التطوعي مفيد، حتى لو كان مرهقًا أحيانًا.",
+          "إيش هالْتِه فراي ڤيلِيگِن آربايت فور زينْفول، آوخ ڤِن زي مانشْمَـا آنْشْتْرينگِند إِست.",
+          "Ich halte Freiwilligenarbeit für sinnvoll, auch wenn sie manchmal anstrengend ist.",
+          "أرى أن العمل التطوعي مفيد، حتى لو كان مرهقًا أحيانًا."
+        ],
+        [
+          "Man sollte nicht nur kritisieren, sondern auch selbst etwas beitragen.",
+          "لا ينبغي أن ينتقد المرء فقط، بل أن يساهم بنفسه أيضًا.",
+          "مان زولْتِه نِشت نور كريتيزيرِن، زونْدِرن آوخ زِلْبْست إتڤاس بِتْرَاغِن.",
+          "Man sollte nicht nur kritisieren, sondern auch selbst etwas beitragen.",
+          "لا ينبغي أن ينتقد المرء فقط، بل أن يساهم بنفسه أيضًا."
+        ],
+        [
+          "Ich frage erst nach dem Bedarf, bevor ich Hilfe anbiete, weil nicht jede Idee passt.",
+          "أسأل أولًا عن الحاجة قبل أن أعرض المساعدة، لأن ليس كل فكرة مناسبة.",
+          "إيش فراگِه إيرْست ناخ ديم بِدارف، بِڤور إيش هِلفِه آنبیتِه، ڤايل نِشت يِدِه إديه پاسْت.",
+          "Ich frage erst nach dem Bedarf, bevor ich Hilfe anbiete, weil nicht jede Idee passt.",
+          "أسأل أولًا عن الحاجة قبل أن أعرض المساعدة، لأن ليس كل فكرة مناسبة."
+        ],
+        [
+          "Wenn die Informationen klar sind, können mehr Menschen mitmachen.",
+          "عندما تكون المعلومات واضحة، يمكن لمزيد من الناس أن يشاركوا.",
+          "ڤِن دي إينفورماتْسيونِن كلار زينت، كوينِن مير مينشِن مِتْماخِن.",
+          "Wenn die Informationen klar sind, können mehr Menschen mitmachen.",
+          "عندما تكون المعلومات واضحة، يمكن لمزيد من الناس أن يشاركوا."
+        ],
+        [
+          "Ich finde lokale Initiativen überzeugender als anonyme Kampagnen im Internet.",
+          "أجد المبادرات المحلية أكثر إقناعًا من الحملات المجهولة على الإنترنت.",
+          "إيش فيندِه لوكالِه إنيتْسياتيفِن أوبِرتسويگِنْدَر آلس آنونيمِه كامپانْيِن إيم إنتِرنېت.",
+          "Ich finde lokale Initiativen überzeugender als anonyme Kampagnen im Internet.",
+          "أجد المبادرات المحلية أكثر إقناعًا من الحملات المجهولة على الإنترنت."
+        ],
+        [
+          "Wenn wir uns beteiligen, profitieren am Ende oft alle, nicht nur die, die gerade laut sind.",
+          "إذا شاركنا، يستفيد الجميع في النهاية غالبًا، وليس فقط الذين يرفعون أصواتهم الآن.",
+          "ڤِن ڤير أونس بِتايليگِن، پروفيتييرِن آَم إنده أوفت آلِه، نِشت نور دي، دي گِرادِه لاوت زينت.",
+          "Wenn wir uns beteiligen, profitieren am Ende oft alle, nicht nur die, die gerade laut sind.",
+          "إذا شاركنا، يستفيد الجميع في النهاية غالبًا، وليس فقط الذين يرفعون أصواتهم الآن."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن المشاعر",
+      "words": [
+        [
+          "Ich war erleichtert, als ich die Nachricht gelesen hatte, denn das Warten war sehr belastend.",
+          "شعرتُ بالارتياح عندما قرأتُ الخبر، لأن الانتظار كان مرهقًا جدًا.",
+          "إيش ڤار إرلَيشْتِرت، آلس إيش دي ناخْرِشت گِلِيزِن هاتِّه، دين داس ڤارتِن ڤار زير بِلَاسْتِند.",
+          "Ich war erleichtert, als ich die Nachricht gelesen hatte, denn das Warten war sehr belastend.",
+          "شعرتُ بالارتياح عندما قرأتُ الخبر، لأن الانتظار كان مرهقًا جدًا."
+        ],
+        [
+          "Manchmal bin ich unsicher, ob ich meine Gefühle zeigen soll, aber Schweigen hilft auch nicht.",
+          "أحيانًا أكون غير واثق مما إذا كان ينبغي أن أُظهر مشاعري، لكن الصمت لا يفيد أيضًا.",
+          "مانشْمَـا بِن إيش أُونزِخَر، أوب إيش ماينِه گِفولِه تسايگِن زول، آبر شفايگِن هِلْفت آوخ نِشت.",
+          "Manchmal bin ich unsicher, ob ich meine Gefühle zeigen soll, aber Schweigen hilft auch nicht.",
+          "أحيانًا أكون غير واثق مما إذا كان ينبغي أن أُظهر مشاعري، لكن الصمت لا يفيد أيضًا."
+        ],
+        [
+          "Ich freue mich über ehrliche Worte, selbst wenn sie kritisch sind, solange sie fair bleiben.",
+          "أفرح بالكلمات الصادقة، حتى لو كانت نقدية، ما دامت تبقى عادلة.",
+          "إيش فرويِه مِخ أوبر إيرليشِه ڤورتِه، زِلْبْست ڤِن زي كريتيش زينت، زولانگِه زي فاير بلايبِن.",
+          "Ich freue mich über ehrliche Worte, selbst wenn sie kritisch sind, solange sie fair bleiben.",
+          "أفرح بالكلمات الصادقة، حتى لو كانت نقدية، ما دامت تبقى عادلة."
+        ],
+        [
+          "Als der Plan scheiterte, war ich erst frustriert, doch später sah ich darin eine Chance.",
+          "عندما فشلت الخطة، شعرتُ أولًا بالإحباط، لكنني رأيتُ فيها لاحقًا فرصة.",
+          "آلس دير پلان شايتِرتِه، ڤار إيش إيرْست فروستريرْت، دوخ شبِيتر زاه إيش دارين آينِه شانْسِه.",
+          "Als der Plan scheiterte, war ich erst frustriert, doch später sah ich darin eine Chance.",
+          "عندما فشلت الخطة، شعرتُ أولًا بالإحباط، لكنني رأيتُ فيها لاحقًا فرصة."
+        ],
+        [
+          "Ich kann schlecht schlafen, wenn mich etwas belastet, deshalb rede ich lieber früh darüber.",
+          "لا أستطيع النوم جيدًا عندما يزعجني شيء ما، لذلك أفضل أن أتحدث عنه مبكرًا.",
+          "إيش كان شلِشت شلافِن، ڤِن مِخ إتڤاس بِلَاسْتِت، ديسهالْب ريدِه إيش ليبر فروي داروبَر.",
+          "Ich kann schlecht schlafen, wenn mich etwas belastet, deshalb rede ich lieber früh darüber.",
+          "لا أستطيع النوم جيدًا عندما يزعجني شيء ما، لذلك أفضل أن أتحدث عنه مبكرًا."
+        ],
+        [
+          "Es beruhigt mich, wenn jemand geduldig bleibt und nicht sofort urteilt.",
+          "يهدئني عندما يبقى شخص ما صبورًا ولا يحكم فورًا.",
+          "إس بِروهيگْت مِخ، ڤِن يمانْت گِدولدِخ بلايبْت أوند نِشت زوفورت أورْتايلْت.",
+          "Es beruhigt mich, wenn jemand geduldig bleibt und nicht sofort urteilt.",
+          "يهدئني عندما يبقى شخص ما صبورًا ولا يحكم فورًا."
+        ],
+        [
+          "Ich bin stolz, wenn ich ein Ziel erreiche, aber ich vergesse dabei nicht, wie viel Hilfe ich bekam.",
+          "أشعر بالفخر عندما أحقق هدفًا، لكنني لا أنسى كم المساعدة التي تلقيتها.",
+          "إيش بِن شتولتس، ڤِن إيش آين تسيل إِررايشِه، آبر إيش فِرگِسِه داباي نِشت، ڤي فيل هِلفِه إيش بِكام.",
+          "Ich bin stolz, wenn ich ein Ziel erreiche, aber ich vergesse dabei nicht, wie viel Hilfe ich bekam.",
+          "أشعر بالفخر عندما أحقق هدفًا، لكنني لا أنسى كم المساعدة التي تلقيتها."
+        ],
+        [
+          "Wenn ich traurig bin, tut ein kurzer Spaziergang oft besser als langes Grübeln.",
+          "عندما أكون حزينًا، غالبًا ما تكون نزهة قصيرة أفضل من التفكير الطويل.",
+          "ڤِن إيش تراوريخ بِن، تووت آين كورتْسَر شباتْسيرگانغ أوفت بِسَّر آلس لانگِس گرووبِلِن.",
+          "Wenn ich traurig bin, tut ein kurzer Spaziergang oft besser als langes Grübeln.",
+          "عندما أكون حزينًا، غالبًا ما تكون نزهة قصيرة أفضل من التفكير الطويل."
+        ],
+        [
+          "Ich finde es mutig, Gefühle anzusprechen, bevor sie zu Missverständnissen werden.",
+          "أرى أن من الشجاعة التحدث عن المشاعر قبل أن تتحول إلى سوء فهم.",
+          "إيش فيندِه إِس موتِخ، گِفولِه آنْتسُشبْرِخِن، بِڤور زي تسو مِسْفِرشْتِندْنِسِن ڤيردِن.",
+          "Ich finde es mutig, Gefühle anzusprechen, bevor sie zu Missverständnissen werden.",
+          "أرى أن من الشجاعة التحدث عن المشاعر قبل أن تتحول إلى سوء فهم."
+        ],
+        [
+          "Auch wenn ich ruhig wirke, kann mich ein ehrliches Gespräch sehr bewegen.",
+          "حتى لو بدوتُ هادئًا، يمكن لمحادثة صادقة أن تؤثر فيّ كثيرًا.",
+          "آوخ ڤِن إيش رووِيخ ڤيركِه، كان مِخ آين إيرليشِس گِشْپريش زير بِڤيگِن.",
+          "Auch wenn ich ruhig wirke, kann mich ein ehrliches Gespräch sehr bewegen.",
+          "حتى لو بدوتُ هادئًا، يمكن لمحادثة صادقة أن تؤثر فيّ كثيرًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الفن والأدب",
+      "words": [
+        [
+          "Ich lese gern Romane, weil sie komplexe Figuren zeigen und zum Nachdenken anregen.",
+          "أحب قراءة الروايات لأنها تُظهر شخصيات معقدة وتدفع إلى التفكير.",
+          "إيش ليزِه گِرن روماانِه، ڤايل زي كومپْلِكْسِه فيگورِن تسايگِن أوند تسوم ناخدِنكِن آنْرِيگِن.",
+          "Ich lese gern Romane, weil sie komplexe Figuren zeigen und zum Nachdenken anregen.",
+          "أحب قراءة الروايات لأنها تُظهر شخصيات معقدة وتدفع إلى التفكير."
+        ],
+        [
+          "Ein guter Film muss für mich nicht laut sein, sondern glaubwürdig und gut erzählt.",
+          "الفيلم الجيد بالنسبة لي لا يجب أن يكون صاخبًا، بل أن يكون مقنعًا ومرويًا جيدًا.",
+          "آين گوتر فيلم موس فور مِخ نِشت لاوت زاين، زونْدِرن گلاوبڤوردِيخ أوند گوت إرْتْسِيلْت.",
+          "Ein guter Film muss für mich nicht laut sein, sondern glaubwürdig und gut erzählt.",
+          "الفيلم الجيد بالنسبة لي لا يجب أن يكون صاخبًا، بل أن يكون مقنعًا ومرويًا جيدًا."
+        ],
+        [
+          "Wenn ein Gedicht offen bleibt, gefällt mir das oft besser als eine einfache Botschaft.",
+          "عندما تبقى القصيدة مفتوحة على التأويل، يعجبني ذلك غالبًا أكثر من رسالة مباشرة بسيطة.",
+          "ڤِن آين گِديخت أوفِن بلايبْت، گِفيلْت مير داس أوفت بِسَّر آلس آينِه آينفاخِه بوتْشافت.",
+          "Wenn ein Gedicht offen bleibt, gefällt mir das oft besser als eine einfache Botschaft.",
+          "عندما تبقى القصيدة مفتوحة على التأويل، يعجبني ذلك غالبًا أكثر من رسالة مباشرة بسيطة."
+        ],
+        [
+          "Ich schätze Theaterstücke, in denen man die Figuren nach und nach versteht.",
+          "أقدّر المسرحيات التي نفهم فيها الشخصيات تدريجيًا.",
+          "إيش شِتْسِه تياتَرشتوكِه، إين دين مان دي فيگورِن ناخ أوند ناخ ڤيرشْتِهت.",
+          "Ich schätze Theaterstücke, in denen man die Figuren nach und nach versteht.",
+          "أقدّر المسرحيات التي نفهم فيها الشخصيات تدريجيًا."
+        ],
+        [
+          "Man kann Kunst unterschiedlich deuten, und genau das macht Diskussionen interessant.",
+          "يمكن تفسير الفن بطرق مختلفة، وهذا بالضبط ما يجعل النقاشات مثيرة للاهتمام.",
+          "مان كان كونْست أُونتشِدْليش داويتِن، أوند گِنَاو داس ماخت دِسكوسْيونِن إنتِرسانت.",
+          "Man kann Kunst unterschiedlich deuten, und genau das macht Diskussionen interessant.",
+          "يمكن تفسير الفن بطرق مختلفة، وهذا بالضبط ما يجعل النقاشات مثيرة للاهتمام."
+        ],
+        [
+          "Ich höre Musik beim Arbeiten, aber nur, wenn sie mich nicht ablenkt.",
+          "أستمع إلى الموسيقى أثناء العمل، لكن فقط إذا لم تشتتني.",
+          "إيش هوورِه موزيك بايم آربايتِن، آبر نور، ڤِن زي مِخ نِشت أبْلِنْكْت.",
+          "Ich höre Musik beim Arbeiten, aber nur, wenn sie mich nicht ablenkt.",
+          "أستمع إلى الموسيقى أثناء العمل، لكن فقط إذا لم تشتتني."
+        ],
+        [
+          "Eine gute Ausstellung erklärt nicht alles, sondern macht neugierig auf mehr.",
+          "المعرض الجيد لا يشرح كل شيء، بل يثير الفضول للمزيد.",
+          "آينِه گوتِه أوستِلونغ إركليرْت نِشت آلِس، زونْدِرن ماخت نويگيرِيخ آوف مير.",
+          "Eine gute Ausstellung erklärt nicht alles, sondern macht neugierig auf mehr.",
+          "المعرض الجيد لا يشرح كل شيء، بل يثير الفضول للمزيد."
+        ],
+        [
+          "Ich bevorzuge Autorinnen, die klar schreiben und trotzdem eine eigene Stimme haben.",
+          "أفضل الكاتبات اللواتي يكتبن بوضوح ومع ذلك لهن صوت خاص.",
+          "إيش بِفورْتسوگِه آوتورِينِن، دي كلار شرايبِن أوند تروتْسْديم آينِه إيغِنِه شْتيمِه هابِن.",
+          "Ich bevorzuge Autorinnen, die klar schreiben und trotzdem eine eigene Stimme haben.",
+          "أفضل الكاتبات اللواتي يكتبن بوضوح ومع ذلك لهن صوت خاص."
+        ],
+        [
+          "Wenn ein Werk mich berührt, denke ich oft noch Tage später darüber nach.",
+          "عندما يمسني عمل فني، أفكر فيه غالبًا أيامًا بعد ذلك.",
+          "ڤِن آين ڤِرك مِخ بِروورت، دينكِه إيش أوفت نوخ تاگِه شبِيتر داروبَر ناخ.",
+          "Wenn ein Werk mich berührt, denke ich oft noch Tage später darüber nach.",
+          "عندما يمسني عمل فني، أفكر فيه غالبًا أيامًا بعد ذلك."
+        ],
+        [
+          "Ich finde es spannend, dass ein altes Buch heute noch ganz aktuelle Fragen stellt.",
+          "أجد من المثير أن كتابًا قديمًا يطرح اليوم أسئلة حديثة تمامًا.",
+          "إيش فيندِه إِس شباننت، داس آين آلْتِس بوخ هاوتِه نوخ گانتس آكْتويِلِه فراگِن شْتِلْت.",
+          "Ich finde es spannend, dass ein altes Buch heute noch ganz aktuelle Fragen stellt.",
+          "أجد من المثير أن كتابًا قديمًا يطرح اليوم أسئلة حديثة تمامًا."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

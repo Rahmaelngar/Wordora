@@ -1,0 +1,1880 @@
+{
+  "lessons": [
+    {
+      "topic": "التعلّم المستقل",
+      "words": [
+        [
+          "Yeni bir konu öğrenirken önce güvenilir kaynakları tararım, sonra kısa notlar çıkarıp eksik kalan yerleri kendi sorularımla tamamlarım.",
+          "عندما أتعلم موضوعًا جديدًا، أبدأ أولًا بتصفح المصادر الموثوقة، ثم أدوّن ملاحظات قصيرة وأكمل الأجزاء الناقصة بأسئلتي الخاصة.",
+          "يني بير كونُ أُرنېركِن أوجّه غُڤېنيلير كايْنَكْلاري تَراَرِم، سُونْرا كِصا نوتلار چِخَارِمْ بِ خالِمْ كَلان يەرليري كَنْدى سورُلارِمْلا تامامْلارِم.",
+          "Yeni bir konu öğrenirken önce güvenilir kaynakları tararım, sonra kısa notlar çıkarıp eksik kalan yerleri kendi sorularımla tamamlarım.",
+          "عندما أتعلم موضوعًا جديدًا، أبدأ أولًا بتصفح المصادر الموثوقة، ثم أدوّن ملاحظات قصيرة وأكمل الأجزاء الناقصة بأسئلتي الخاصة."
+        ],
+        [
+          "Bir videoyu tek başına izlemek yetmeyince, durdurup örnek cümleler yazarım ve anlamı bağlam içinde kontrol ederim.",
+          "عندما لا يكفي مشاهدة فيديو وحدي، أوقفه وأكتب جملًا نموذجية وأتحقق من المعنى ضمن السياق.",
+          "بير ڤيدېويُ تَك باشِنا إزْلَمەكْ يَتمَيِنْجە، دوردورُپ أُرنَك جُمْلەلەر يازارِمْ ڤە آنْلامِ باغْلام ئىچيندە كونترُول إيدەريم.",
+          "Bir videoyu tek başına izlemek yetmeyince, durdurup örnek cümleler yazarım ve anlamı bağlam içinde kontrol ederim.",
+          "عندما لا يكفي مشاهدة فيديو وحدي، أوقفه وأكتب جملًا نموذجية وأتحقق من المعنى ضمن السياق."
+        ],
+        [
+          "Kendi çalışma planımı hazırlarken hedefi küçük parçalara bölerim; böylece bir haftada ilerleme görmek daha kolay olur.",
+          "عندما أعدّ خطة دراستي الخاصة، أقسم الهدف إلى أجزاء صغيرة؛ وبذلك يصبح رؤية التقدم خلال أسبوع أسهل.",
+          "كَنْدى چالِشما پلانِمِ حاضرلاركِن هدفِ كوجُك پارچالارا بۆلَرِم؛ بويلەجە بير هافتادا إييلَرْلەمە گورْمَك داحا كولاي أُلور.",
+          "Kendi çalışma planımı hazırlarken hedefi küçük parçalara bölerim; böylece bir haftada ilerleme görmek daha kolay olur.",
+          "عندما أعدّ خطة دراستي الخاصة، أقسم الهدف إلى أجزاء صغيرة؛ وبذلك يصبح رؤية التقدم خلال أسبوع أسهل."
+        ],
+        [
+          "Bir kavramı unutuyorsam, ezberlemeye çalışmak yerine onu günlük hayattan bir örnekle ilişkilendiririm.",
+          "إذا كنت أنسى مفهومًا، فلا أحاول حفظه فقط، بل أربطه بمثال من الحياة اليومية.",
+          "بير كافرامِ أونوتُيورسام، إزبرْلەمَيه چالِشماك يرينە أونو گونلۇك حياةدان بير أُرنَكْلە إيليشْكيلَنديريرِم.",
+          "Bir kavramı unutuyorsam, ezberlemeye çalışmak yerine onu günlük hayattan bir örnekle ilişkilendiririm.",
+          "إذا كنت أنسى مفهومًا، فلا أحاول حفظه فقط، بل أربطه بمثال من الحياة اليومية."
+        ],
+        [
+          "Herkes aynı yöntemi önerse de, bana en uygun teknik farklı olabilir; bu yüzden deneme yapıp sonucu ölçerim.",
+          "حتى لو اقترح الجميع الطريقة نفسها، فقد تكون التقنية الأنسب لي مختلفة؛ لذلك أجرب وأقيس النتيجة.",
+          "هِرْكِس آينِ يونتَمى أُونَرسە دە، بانا إِن أُويْغۇن تِكنيك فَرخْلِ أُولَبيبِر؛ بو يوزدن دِنيَمِ يَپِپ سُونُجُ أُلچَرِم.",
+          "Herkes aynı yöntemi önerse de, bana en uygun teknik farklı olabilir; bu yüzden deneme yapıp sonucu ölçerim.",
+          "حتى لو اقترح الجميع الطريقة نفسها، فقد تكون التقنية الأنسب لي مختلفة؛ لذلك أجرب وأقيس النتيجة."
+        ],
+        [
+          "Bir makaleyi hızlıca okumak yerine, paragraf paragraf durup ana fikri ve destekleyici ayrıntıyı ayırırım.",
+          "بدلًا من قراءة مقال بسرعة، أتوقف فقرة فقرة وأفصل الفكرة الرئيسة عن التفاصيل الداعمة.",
+          "بير ماكالەيي حِزْلِجا أُوكُماك ييرينە، پاراغراف پاراغراف دۇرۇپ آنَا فِكرى ڤە دَستَكْليييجِ عَيرِنْتِييايِ أيريِرِم.",
+          "Bir makaleyi hızlıca okumak yerine, paragraf paragraf durup ana fikri ve destekleyici ayrıntıyı ayırırım.",
+          "بدلًا من قراءة مقال بسرعة، أتوقف فقرة فقرة وأفصل الفكرة الرئيسة عن التفاصيل الداعمة."
+        ],
+        [
+          "Bir konuda takıldığımda hemen pes etmem; önce farklı bir açıklama arar, sonra aynı fikri başka bir dille denerim.",
+          "عندما أتعثر في موضوع ما، لا أستسلم فورًا؛ أبحث أولًا عن شرح مختلف، ثم أجرب الفكرة نفسها بلغة أخرى.",
+          "بير كونودا تاكِلدِغِمدا هِمِنْ پَس إتْمَم؛ أونجە فَرخْلِ بير آچِكلاما آرار، سُونرا آينِ فِكرى باشكا بير ديلْلە دِينَيرِم.",
+          "Bir konuda takıldığımda hemen pes etmem; önce farklı bir açıklama arar, sonra aynı fikri başka bir dille denerim.",
+          "عندما أتعثر في موضوع ما، لا أستسلم فورًا؛ أبحث أولًا عن شرح مختلف، ثم أجرب الفكرة نفسها بلغة أخرى."
+        ],
+        [
+          "Notlarımı sadece saklamam; onları düzenli aralıklarla gözden geçirir ve unutulan kısımları yeniden yazarım.",
+          "لا أحتفظ بملاحظاتي فقط؛ بل أراجعها على فترات منتظمة وأعيد كتابة الأجزاء المنسية.",
+          "نوتلارِمِ سادِجە ساخلامام؛ أونلارِ دوزَنلي آراڵِكْلارلا گوزدِن گَچِرِر ڤە أونوتولان كِسِملارى يِنيدَنْ يازارِم.",
+          "Notlarımı sadece saklamam; onları düzenli aralıklarla gözden geçirir ve unutulan kısımları yeniden yazarım.",
+          "لا أحتفظ بملاحظاتي فقط؛ بل أراجعها على فترات منتظمة وأعيد كتابة الأجزاء المنسية."
+        ],
+        [
+          "Bir beceriyi geliştirmek için tek bir kaynağa bağlı kalmam; video, makale ve alıştırmayı birlikte kullanırım.",
+          "لتطوير مهارة ما، لا أقتصر على مصدر واحد؛ بل أستخدم الفيديو والمقال والتمارين معًا.",
+          "بير بەجەريي گِليشتيرْمَك ئىچين تَك بير كايْناğa باغْلِ كَلمام؛ ڤيدېو، ماكالە ڤە أَلِشْتِرْمايِ بِيرْلِكتە كوللانِرِم.",
+          "Bir beceriyi geliştirmek için tek bir kaynağa bağlı kalmam; video, makale ve alıştırmayı birlikte kullanırım.",
+          "لتطوير مهارة ما، لا أقتصر على مصدر واحد؛ بل أستخدم الفيديو والمقال والتمارين معًا."
+        ],
+        [
+          "Öğrenme hızım bazen değişse de, düzenli tekrar sayesinde konuyu kalıcı hale getirebilirim.",
+          "حتى لو تغيّر معدل تعلمي أحيانًا، أستطيع جعل الموضوع ثابتًا بفضل التكرار المنتظم.",
+          "أُرنَمە حِزِم بازەن دَييشسە دە، دوزَنلي تِكْرار سَايېسِندە كونُيو كالِجِ هالە گَتِرَبيبيليرِم.",
+          "Öğrenme hızım bazen değişse de, düzenli tekrar sayesinde konuyu kalıcı hale getirebilirim.",
+          "حتى لو تغيّر معدل تعلمي أحيانًا، أستطيع جعل الموضوع ثابتًا بفضل التكرار المنتظم."
+        ]
+      ]
+    },
+    {
+      "topic": "التفاوض باحترام",
+      "words": [
+        [
+          "Bu şartlarda kabul etmekte zorlanıyorum; ama tarihte küçük bir değişiklik yaparsak ikimiz için de uygun olabilir.",
+          "أجد صعوبة في قبول هذه الشروط، لكن إذا أجرينا تغييرًا بسيطًا في الموعد فقد يكون مناسبًا لنا الاثنين.",
+          "بو شارطلاردا كابول إتمكتە زورلانِوروم؛ أما تاريھتە كوجُك بير دييشيكْلِك يَپارساك إكيميز إچين دە أُويْغۇن أولَبيبِر.",
+          "Bu şartlarda kabul etmekte zorlanıyorum; ama tarihte küçük bir değişiklik yaparsak ikimiz için de uygun olabilir.",
+          "أجد صعوبة في قبول هذه الشروط، لكن إذا أجرينا تغييرًا بسيطًا في الموعد فقد يكون مناسبًا لنا الاثنين."
+        ],
+        [
+          "Fikrinize saygı duyuyorum, yine de bütçemiz sınırlı olduğu için daha ekonomik bir çözüm önermek istiyorum.",
+          "أحترم رأيكم، ومع ذلك أود اقتراح حل أكثر توفيرًا لأن ميزانيتنا محدودة.",
+          "فِكرينِزە سايْغى دويوروم، يينە دە بُتْچَمِز سِنِرْلِ أُلدوغُ إچين داحا إكونوميك بير جوزُم أونَرْمَك ئىستييوروم.",
+          "Fikrinize saygı duyuyorum, yine de bütçemiz sınırlı olduğu için daha ekonomik bir çözüm önermek istiyorum.",
+          "أحترم رأيكم، ومع ذلك أود اقتراح حل أكثر توفيرًا لأن ميزانيتنا محدودة."
+        ],
+        [
+          "Söyledikleriniz mantıklı görünüyor; ancak teslim süresi çok uzarsa kaliteyi korumak zorlaşabilir.",
+          "ما تقولونه يبدو منطقيًا؛ لكن إذا طال وقت التسليم كثيرًا فقد يصبح الحفاظ على الجودة صعبًا.",
+          "سويْلَدِكلَرِنِز مانتِكلِ گورُونُيور؛ أنجاك تَسْليم سُرەسى چوخ أوزارسا كاليتەيي كورۇماك زورلاشابيلير.",
+          "Söyledikleriniz mantıklı görünüyor; ancak teslim süresi çok uzarsa kaliteyi korumak zorlaşabilir.",
+          "ما تقولونه يبدو منطقيًا؛ لكن إذا طال وقت التسليم كثيرًا فقد يصبح الحفاظ على الجودة صعبًا."
+        ],
+        [
+          "Ben de bazı noktaları kabul ediyorum, fakat karşılığında ek destek almak benim için önemli.",
+          "أنا أقبل بعض النقاط أيضًا، لكن الحصول على دعم إضافي مقابل ذلك مهم بالنسبة لي.",
+          "بَن دە بازِ نُكتالارى كابول إيديوْروم، فاكات كارشِلغِندا إك دَستَكْ آلماك بَنِم ئىچين أُنملي.",
+          "Ben de bazı noktaları kabul ediyorum, fakat karşılığında ek destek almak benim için önemli.",
+          "أنا أقبل بعض النقاط أيضًا، لكن الحصول على دعم إضافي مقابل ذلك مهم بالنسبة لي."
+        ],
+        [
+          "Uzun tartışmaya girmeden, iki tarafı da memnun edecek orta bir yol bulabileceğimizi düşünüyorum.",
+          "من دون الدخول في جدال طويل، أعتقد أننا نستطيع إيجاد حل وسط يرضي الطرفين.",
+          "أوزون تارتِشْمايا گيرْمَدن، إكي طرفِ دا مَمْنۇن إيدَجَك أورتا بير يول بولابِلېجَغيمِزِ دُشُونُيوروم.",
+          "Uzun tartışmaya girmeden, iki tarafı da memnun edecek orta bir yol bulabileceğimizi düşünüyorum.",
+          "من دون الدخول في جدال طويل، أعتقد أننا نستطيع إيجاد حل وسط يرضي الطرفين."
+        ],
+        [
+          "Bu öneriyi hemen reddetmek istemem; önce avantajlarını netleştirirsek karar vermek kolaylaşır.",
+          "لا أريد رفض هذا الاقتراح فورًا؛ فإذا أوضحنا مزاياه أولًا يصبح اتخاذ القرار أسهل.",
+          "بو أونَرييى هِمِنْ رَدت إتمَك ئىستَمَم؛ أونجە آڤانتاجلارِنِ نَتْلَشتيريرْسَك كَرا‌ر ڤرمَك كولايلاشِر.",
+          "Bu öneriyi hemen reddetmek istemem; önce avantajlarını netleştirirsek karar vermek kolaylaşır.",
+          "لا أريد رفض هذا الاقتراح فورًا؛ فإذا أوضحنا مزاياه أولًا يصبح اتخاذ القرار أسهل."
+        ],
+        [
+          "Zaman baskısı altında bile saygılı kalırsak, küçük anlaşmazlıklar büyümeden çözülebilir.",
+          "حتى تحت ضغط الوقت، إذا بقينا محترمين يمكن حل الخلافات الصغيرة قبل أن تكبر.",
+          "زامان باسْكِسِ ألتِندا بيلە سايْغِلي كَالِرساك، كوجُك أنلاشمازلِكْلار بويُمدەن چوزُلېبيلير.",
+          "Zaman baskısı altında bile saygılı kalırsak, küçük anlaşmazlıklar büyümeden çözülebilir.",
+          "حتى تحت ضغط الوقت، إذا بقينا محترمين يمكن حل الخلافات الصغيرة قبل أن تكبر."
+        ],
+        [
+          "Sizin bakış açınızı anlıyorum, ama benim önceliğim güvenilirlik olduğu için daha temkinliyim.",
+          "أفهم وجهة نظركم، لكن أولويتي هي الموثوقية، لذلك أنا أكثر حذرًا.",
+          "سِزين باكِش آچِنزِ أنْلييوروم، أما بَنِم أونْجَلييِم غُڤېنِيرْلِك أُلدوغُ ئىچين داحا تِمكينْليم.",
+          "Sizin bakış açınızı anlıyorum, ama benim önceliğim güvenilirlik olduğu için daha temkinliyim.",
+          "أفهم وجهة نظركم، لكن أولويتي هي الموثوقية، لذلك أنا أكثر حذرًا."
+        ],
+        [
+          "Eğer teslim tarihi değişmezse, ben de fazladan çalışma yapmaya hazırım; yeter ki koşullar açık olsun.",
+          "إذا لم يتغير موعد التسليم، فأنا مستعد أيضًا لبذل جهد إضافي؛ بشرط أن تكون الشروط واضحة.",
+          "إيەر تَسْليم تارِيخِ دَييشيْمَزسە، بَن دە فازلَدان چالِشْما يَپْمايا حازِرِم؛ يَتَر كي كوشولار آچِق أُولْسون.",
+          "Eğer teslim tarihi değişmezse, ben de fazladan çalışma yapmaya hazırım; yeter ki koşullar açık olsun.",
+          "إذا لم يتغير موعد التسليم، فأنا مستعد أيضًا لبذل جهد إضافي؛ بشرط أن تكون الشروط واضحة."
+        ],
+        [
+          "Kibar bir ton kullandığımızda, en sert eleştiriler bile daha yapıcı bir görüşmeye dönüşebilir.",
+          "عندما نستخدم نبرة مهذبة، يمكن حتى لأشد الانتقادات أن تتحول إلى نقاش بنّاء.",
+          "كِبار بير تون كوللاندِغِمِزدا، إِن سَرت إلِشتِريرلَر بيلە داحا ياپِجِ بير گوروشْمَيە دُونوشَبيبيلير.",
+          "Kibar bir ton kullandığımızda, en sert eleştiriler bile daha yapıcı bir görüşmeye dönüşebilir.",
+          "عندما نستخدم نبرة مهذبة، يمكن حتى لأشد الانتقادات أن تتحول إلى نقاش بنّاء."
+        ]
+      ]
+    },
+    {
+      "topic": "العمل الجماعي",
+      "words": [
+        [
+          "Ekipte herkesin güçlü olduğu bir alan varsa, görevleri ona göre paylaştırmak sonuçları belirgin biçimde iyileştirir.",
+          "إذا كان لدى كل فرد في الفريق مجال قوة، فإن توزيع المهام وفقًا لذلك يحسن النتائج بشكل واضح.",
+          "إكِپتە هرْكَسِن گوجْلُ أُلدوغُ بير آلان ڤارسا، گورَڤلَري أونا گورە پایلاشتِرماك سُونُچلارِ بەلِرْگِن بِيچيمدە إييلَشتيرير.",
+          "Ekipte herkesin güçlü olduğu bir alan varsa, görevleri ona göre paylaştırmak sonuçları belirgin biçimde iyileştirir.",
+          "إذا كان لدى كل فرد في الفريق مجال قوة، فإن توزيع المهام وفقًا لذلك يحسن النتائج بشكل واضح."
+        ],
+        [
+          "Toplantıda sessiz kalan biri bile iyi bir fikir getirebilir; bu yüzden herkese söz hakkı vermek önemlidir.",
+          "حتى الشخص الذي يبقى صامتًا في الاجتماع قد يطرح فكرة جيدة؛ لذلك من المهم إعطاء الجميع فرصة للكلام.",
+          "تُپْلانْتِدا سَسْسِز كَالان بيري بيلە ئىيى بير فِكير گەتِرەبيلير؛ بو يوزدن هرْكَسە سوز حَكْكِ ڤرمَك أُنمْلِدِر.",
+          "Toplantıda sessiz kalan biri bile iyi bir fikir getirebilir; bu yüzden herkese söz hakkı vermek önemlidir.",
+          "حتى الشخص الذي يبقى صامتًا في الاجتماع قد يطرح فكرة جيدة؛ لذلك من المهم إعطاء الجميع فرصة للكلام."
+        ],
+        [
+          "Birbirimizin hatalarını büyütmek yerine, işi daha hızlı bitirmek için eksikleri birlikte tamamlarız.",
+          "بدلًا من تضخيم أخطائنا، نكمل النواقص معًا لإنهاء العمل بسرعة أكبر.",
+          "بيربِريمِزِن خاتالارِنِ بويُتْمَك ييرينە، إيشي داحا حِزلِ بىتىرمَك ئىچين إكْسِكلَري بِيرْلِكتە تامامْلارِز.",
+          "Birbirimizin hatalarını büyütmek yerine, işi daha hızlı bitirmek için eksikleri birlikte tamamlarız.",
+          "بدلًا من تضخيم أخطائنا، نكمل النواقص معًا لإنهاء العمل بسرعة أكبر."
+        ],
+        [
+          "Herkes kendi fikrini savunabilir, fakat ortak hedefi unutmadan konuşursak anlaşmak daha kolay olur.",
+          "يمكن لكل شخص أن يدافع عن رأيه، لكن إذا تحدثنا من دون نسيان الهدف المشترك يصبح الاتفاق أسهل.",
+          "هرْكَس كَنْدى فِكرينِ سَوونابيلير، فاكات أورْتاك هَدَفِي أونوتْمَدان كونوشورْساك أنلاشْماك داحا كولاي أُلور.",
+          "Herkes kendi fikrini savunabilir, fakat ortak hedefi unutmadan konuşursak anlaşmak daha kolay olur.",
+          "يمكن لكل شخص أن يدافع عن رأيه، لكن إذا تحدثنا من دون نسيان الهدف المشترك يصبح الاتفاق أسهل."
+        ],
+        [
+          "İyi bir ekip, sadece iş bölümü yapan grup değildir; aynı zamanda birbirini dinlemeyi bilen gruptur.",
+          "الفريق الجيد ليس مجرد مجموعة تقسم العمل؛ بل هو أيضًا مجموعة تعرف كيف تستمع إلى بعضها.",
+          "إيى بير إكِپ، سادِجە إيْش بُولومو يَپان گروپ دَيلْدِر؛ آينِ زماندا بيربِرينِ دِينلەمەيي بيلَن گروپتُر.",
+          "İyi bir ekip, sadece iş bölümü yapan grup değildir; aynı zamanda birbirini dinlemeyi bilen gruptur.",
+          "الفريق الجيد ليس مجرد مجموعة تقسم العمل؛ بل هو أيضًا مجموعة تعرف كيف تستمع إلى بعضها."
+        ],
+        [
+          "Bir sorun çıktığında suçlu aramak yerine çözüm ararsak, enerji kaybetmekten kaçınırız.",
+          "عندما تظهر مشكلة، إذا بحثنا عن الحل بدلًا من البحث عن المذنب، نتجنب إضاعة الطاقة.",
+          "بير سُرون چِكتِغِندا سُچْلو آرَماك ييرينە جوزُم آرارساك، إينِرجِي كايْبِتْمَكتَنْ كاچِنِرِز.",
+          "Bir sorun çıktığında suçlu aramak yerine çözüm ararsak, enerji kaybetmekten kaçınırız.",
+          "عندما تظهر مشكلة، إذا بحثنا عن الحل بدلًا من البحث عن المذنب، نتجنب إضاعة الطاقة."
+        ],
+        [
+          "Plan değişince panik yapmak yerine, görevleri yeniden düzenleyip akışı korumak daha akıllıcadır.",
+          "عندما يتغير الخطة، من الأذكى إعادة ترتيب المهام والحفاظ على سير العمل بدلًا من الذعر.",
+          "پلان دَييشيْنجە پانِك يَپْماك ييرينە، گورَڤلَري يِنيدَنْ دوزَنْلَيِپ آكِشِ كورومَك داحا آكِلْلِجادِر.",
+          "Plan değişince panik yapmak yerine, görevleri yeniden düzenleyip akışı korumak daha akıllıcadır.",
+          "عندما يتغير الخطة، من الأذكى إعادة ترتيب المهام والحفاظ على سير العمل بدلًا من الذعر."
+        ],
+        [
+          "Bazı arkadaşlar daha hızlı, bazıları daha dikkatli çalışır; ikisini birleştirince denge sağlanır.",
+          "بعض الزملاء يعملون أسرع، وبعضهم أكثر دقة؛ وعند الجمع بينهما يتحقق التوازن.",
+          "بازِ آرْكاداشلار داحا حِزلِ، بازِلارِ داحا دِقَّتْلِ چالِشِر؛ إكينِسِينِ بيرلَشتيرينجە دِنْگە سا.غْلانِر.",
+          "Bazı arkadaşlar daha hızlı, bazıları daha dikkatli çalışır; ikisini birleştirince denge sağlanır.",
+          "بعض الزملاء يعملون أسرع، وبعضهم أكثر دقة؛ وعند الجمع بينهما يتحقق التوازن."
+        ],
+        [
+          "Görüş ayrılığı olsa da saygıyı korursak, ekip ruhu zedelenmeden ilerleyebiliriz.",
+          "حتى لو وُجد اختلاف في الرأي، إذا حافظنا على الاحترام يمكننا التقدم من دون إضعاف روح الفريق.",
+          "گوروش آيريلىغي أُلْسا دا سايْغِيي كورورْساك، إكِپ روحو زَدەلَندَنْ مَدن إيلَرْلَيەبيليرِز.",
+          "Görüş ayrılığı olsa da saygıyı korursak, ekip ruhu zedelenmeden ilerleyebiliriz.",
+          "حتى لو وُجد اختلاف في الرأي، إذا حافظنا على الاحترام يمكننا التقدم من دون إضعاف روح الفريق."
+        ],
+        [
+          "Birbirimize güven verdiğimizde, zor işleri bile daha az stresle ve daha iyi sonuçla yaparız.",
+          "عندما نمنح بعضنا الثقة، ننجز حتى الأعمال الصعبة بتوتر أقل ونتيجة أفضل.",
+          "بيربِريمِزە غُڤېن ڤردِغِمِزْدە، زور إيْشلَري بيلە داحا آز سترَسْلِ ڤە داحا ئىيى سُونُچلا يَپارِز.",
+          "Birbirimize güven verdiğimizde, zor işleri bile daha az stresle ve daha iyi sonuçla yaparız.",
+          "عندما نمنح بعضنا الثقة، ننجز حتى الأعمال الصعبة بتوتر أقل ونتيجة أفضل."
+        ]
+      ]
+    },
+    {
+      "topic": "حل النزاعات",
+      "words": [
+        [
+          "Tartışma kızışınca ses yükseltmek yerine, önce neyin yanlış anlaşıldığını anlamaya çalışırım.",
+          "عندما يحتدم النقاش، بدلًا من رفع الصوت أحاول أولًا فهم ما الذي سُيء فهمه.",
+          "تارتِشْما كِزِشِنجە سَسْ يوكْسَلتْمَك ييرينە، أونجە نَين يانْلِش أنلاشِلدِغِينِ آنْلامايا چالِشِرِم.",
+          "Tartışma kızışınca ses yükseltmek yerine, önce neyin yanlış anlaşıldığını anlamaya çalışırım.",
+          "عندما يحتدم النقاش، بدلًا من رفع الصوت أحاول أولًا فهم ما الذي سُيء فهمه."
+        ],
+        [
+          "Sorunu kişiselleştirirsek çözüm zorlaşır; ben bu yüzden davranışı eleştirip kişiyi hedef almam.",
+          "إذا شخصنّا المشكلة، يصبح الحل أصعب؛ لذلك أنتقد السلوك لا الشخص نفسه.",
+          "سُرونو كِشيسَلَلَشتيرِرْسَك جوزُم زورلاشِر؛ بَن بو يوزدن دَۋرَانِشِ إِلِشتيرِپ كِشِيي هَدَف آلمام.",
+          "Sorunu kişiselleştirirsek çözüm zorlaşır; ben bu yüzden davranışı eleştirip kişiyi hedef almam.",
+          "إذا شخصنّا المشكلة، يصبح الحل أصعب؛ لذلك أنتقد السلوك لا الشخص نفسه."
+        ],
+        [
+          "Aramızdaki anlaşmazlığı büyütmeden konuşursak, yanlış anlaşılma kalıcı bir kırgınlığa dönüşmez.",
+          "إذا تحدثنا عن الخلاف بيننا من دون تضخيمه، فلن يتحول سوء الفهم إلى زعل دائم.",
+          "آرامِزدَكى أنلاشمازلِغِ بويُتْمَدن كونوشورْساك، يانلِش أنلاشِلمە كالِجِ بير كِرغِنْلغَا دُونوشْمَز.",
+          "Aramızdaki anlaşmazlığı büyütmeden konuşursak, yanlış anlaşılma kalıcı bir kırgınlığa dönüşmez.",
+          "إذا تحدثنا عن الخلاف بيننا من دون تضخيمه، فلن يتحول سوء الفهم إلى زعل دائم."
+        ],
+        [
+          "Öfkeyle verilen kararlar çoğu zaman işe yaramaz; biraz ara vermek daha sağlıklı bir başlangıçtır.",
+          "القرارات المتخذة في لحظة غضب غالبًا لا تنجح؛ أخذ استراحة قصيرة بداية صحية أكثر.",
+          "ؤفكَيْلە ڤرِين كَراْرلار چوغو زمان إيْشە ياراماز؛ بِيراز آرا ڤرمَك داحا صاغْلِكْلِ بير باشلانِجِچتِر.",
+          "Öfkeyle verilen kararlar çoğu zaman işe yaramaz; biraz ara vermek daha sağlıklı bir başlangıçtır.",
+          "القرارات المتخذة في لحظة غضب غالبًا لا تنجح؛ أخذ استراحة قصيرة بداية صحية أكثر."
+        ],
+        [
+          "İki taraf da tamamen haklı olmayabilir; bu nedenle ortak noktayı aramak adil bir ilkedir.",
+          "قد لا يكون أي من الطرفين محقًا بالكامل؛ لذلك البحث عن النقطة المشتركة مبدأ عادل.",
+          "إكي طرف دا تامامَن حَكلِي أولَمايَبيلير؛ بو نِدنلە أورْتاك نُكتايي آرَماك عادِل بير إلكَدِر.",
+          "İki taraf da tamamen haklı olmayabilir; bu nedenle ortak noktayı aramak adil bir ilkedir.",
+          "قد لا يكون أي من الطرفين محقًا بالكامل؛ لذلك البحث عن النقطة المشتركة مبدأ عادل."
+        ],
+        [
+          "Bazen sorun konuşulurken değil, dinlenirken çözülmeye başlar; çünkü herkes duyulmak ister.",
+          "أحيانًا تبدأ المشكلة بالحل أثناء الاستماع لا أثناء الكلام؛ لأن الجميع يريد أن يُسمع.",
+          "بازەن سُرون كونوشولورْكِن دَيلْ، دِينلَنيرْكِن جوزولْمَيَ باشلار؛ چونكو هرْكَس دويُولماك إستر.",
+          "Bazen sorun konuşulurken değil, dinlenirken çözülmeye başlar; çünkü herkes duyulmak ister.",
+          "أحيانًا تبدأ المشكلة بالحل أثناء الاستماع لا أثناء الكلام؛ لأن الجميع يريد أن يُسمع."
+        ],
+        [
+          "Haklı çıkmaktan çok, ilişkiyi korumak benim için daha değerli olabilir.",
+          "قد يكون الحفاظ على العلاقة بالنسبة لي أهم من إثبات أنني على حق.",
+          "حَكلِي چِكْمَكتَنْ چوخ، إيليشْكيي كورومَك بَنِم ئىچين داحا دَيرْلِي أُولَبيبِر.",
+          "Haklı çıkmaktan çok, ilişkiyi korumak benim için daha değerli olabilir.",
+          "قد يكون الحفاظ على العلاقة بالنسبة لي أهم من إثبات أنني على حق."
+        ],
+        [
+          "Karşı tarafı suçlamak yerine, somut bir çözüm önerirsek gerilim düşebilir.",
+          "إذا اقترحنا حلًا ملموسًا بدلًا من لوم الطرف الآخر، يمكن أن ينخفض التوتر.",
+          "كارشِ طرفِ سُچْلاماك ييرينە، سومت بير جوزُم أونَرِرْسَك گَريلِم دوشەبيلير.",
+          "Karşı tarafı suçlamak yerine, somut bir çözüm önerirsek gerilim düşebilir.",
+          "إذا اقترحنا حلًا ملموسًا بدلًا من لوم الطرف الآخر، يمكن أن ينخفض التوتر."
+        ],
+        [
+          "Beklentileri baştan netleştirmek, ileride çıkabilecek birçok çatışmayı önler.",
+          "إن توضيح التوقعات منذ البداية يمنع كثيرًا من النزاعات التي قد تظهر لاحقًا.",
+          "بَكلَنتِلَري باشْتان نَتْلَشتيرْمَك، إيليريدە چِكەبيلَجَك بيرْچوق چاتِشْمايِ أونلَر.",
+          "Beklentileri baştan netleştirmek, ileride çıkabilecek birçok çatışmayı önler.",
+          "إن توضيح التوقعات منذ البداية يمنع كثيرًا من النزاعات التي قد تظهر لاحقًا."
+        ],
+        [
+          "Uzlaşma, kimsenin tamamen vazgeçmediği ama herkesin biraz kazandığı yoldur.",
+          "التسوية هي الطريق الذي لا يتنازل فيه أحد بالكامل، لكن الجميع يربح شيئًا ما.",
+          "أوزلاشما، كِمسَنِن تامامَن فازْگَچْمَدِغِي أما هرْكَسِن بِيراز كازاندِغِي يولدُر.",
+          "Uzlaşma, kimsenin tamamen vazgeçmediği ama herkesin biraz kazandığı yoldur.",
+          "التسوية هي الطريق الذي لا يتنازل فيه أحد بالكامل، لكن الجميع يربح شيئًا ما."
+        ]
+      ]
+    },
+    {
+      "topic": "المقابلات المهنية",
+      "words": [
+        [
+          "Mülakata hazırlanırken şirketin projelerini inceler, cevabımı o bilgiye göre somutlaştırırım.",
+          "عندما أستعد للمقابلة، أراجع مشاريع الشركة وأجعل إجابتي ملموسة وفقًا لتلك المعلومات.",
+          "مولاقاتا حاضرلانِرْكِن شِرْكَتِن پْروژەلَرِينِ إنْجَلَير، جَۋابِمِ أُ بِلْگِييە گورە سومتلاشتِرِرِم.",
+          "Mülakata hazırlanırken şirketin projelerini inceler, cevabımı o bilgiye göre somutlaştırırım.",
+          "عندما أستعد للمقابلة، أراجع مشاريع الشركة وأجعل إجابتي ملموسة وفقًا لتلك المعلومات."
+        ],
+        [
+          "Kendimi anlatırken sadece başarılarımı değil, öğrendiğim dersleri de açıkça söylerim.",
+          "عندما أتحدث عن نفسي، لا أذكر إنجازاتي فقط، بل أقول بوضوح أيضًا ما تعلمته من الدروس.",
+          "كَنْديمِ آنلاتِرْكِن سادِجە باشارِلارِمِ دَيلْ، أُرنَندِغِم دَرْسْلَري دە آچِكْجا سويْلَرِم.",
+          "Kendimi anlatırken sadece başarılarımı değil, öğrendiğim dersleri de açıkça söylerim.",
+          "عندما أتحدث عن نفسي، لا أذكر إنجازاتي فقط، بل أقول بوضوح أيضًا ما تعلمته من الدروس."
+        ],
+        [
+          "Zor bir soruya hemen savunmaya geçmek yerine, düşünmek için kısa bir ara isteyebilirim.",
+          "بدلًا من الانتقال مباشرة إلى الدفاع عن نفسي أمام سؤال صعب، يمكنني طلب لحظة قصيرة للتفكير.",
+          "زور بير سُرُيا هِمِن سَڤونْمايا گَچْمَك ييرينە، دوشُونْمَك ئىچين كِصا بير آرا ئىستَيەبيليرِم.",
+          "Zor bir soruya hemen savunmaya geçmek yerine, düşünmek için kısa bir ara isteyebilirim.",
+          "بدلًا من الانتقال مباشرة إلى الدفاع عن نفسي أمام سؤال صعب، يمكنني طلب لحظة قصيرة للتفكير."
+        ],
+        [
+          "İş deneyimim sınırlı olsa bile, öğrenme hızımı ve sorumluluk alışkanlığımı örneklerle gösteririm.",
+          "حتى لو كانت خبرتي العملية محدودة، أُظهر سرعة تعلمي وعادتي في تحمل المسؤولية بأمثلة.",
+          "إيْش دِنييمِم سِنِرْلِ أُلسا بيلە، أُرنَمە حِزِمِ ڤە سُروملولوك آلِشْكانْلغِمِ أُرنَكلَرْلە گُستَرِرِم.",
+          "İş deneyimim sınırlı olsa bile, öğrenme hızımı ve sorumluluk alışkanlığımı örneklerle gösteririm.",
+          "حتى لو كانت خبرتي العملية محدودة، أُظهر سرعة تعلمي وعادتي في تحمل المسؤولية بأمثلة."
+        ],
+        [
+          "Maaş sorulunca tek rakama takılmam; sorumluluk, gelişim ve yan hakları birlikte değerlendiririm.",
+          "عندما يُسأل عن الراتب، لا أركز على رقم واحد فقط؛ بل أقيّم المسؤوليات والتطور والمزايا معًا.",
+          "مااش سُرولونجا تَك راقامَا تاكِلْمام؛ سُروملولوك، گَليشيم ڤە يان هاكلارِ بِيرْلِكتە دَيرلَنديرِرِم.",
+          "Maaş sorulunca tek rakama takılmam; sorumluluk, gelişim ve yan hakları birlikte değerlendiririm.",
+          "عندما يُسأل عن الراتب، لا أركز على رقم واحد فقط؛ بل أقيّم المسؤوليات والتطور والمزايا معًا."
+        ],
+        [
+          "Takım çalışmasına nasıl katkı verdiğimi anlatırken, örnek olay kullanmam daha inandırıcı olur.",
+          "عندما أشرح كيف أساهم في العمل الجماعي، يكون استخدام مثال واقعي أكثر إقناعًا.",
+          "تاكِم چالِشماسِنا ناصِل كاتْكِ ڤردِغِمِ آنلاتِرْكِن، أُرنَك أولاي كوللانمام داحا إنانْدِرِجِ أُلور.",
+          "Takım çalışmasına nasıl katkı verdiğimi anlatırken, örnek olay kullanmam daha inandırıcı olur.",
+          "عندما أشرح كيف أساهم في العمل الجماعي، يكون استخدام مثال واقعي أكثر إقناعًا."
+        ],
+        [
+          "Pozisyon bana tam uymazsa bunu dürüstçe söylerim; çünkü yanlış beklenti baştan sorun yaratabilir.",
+          "إذا لم يكن المنصب مناسبًا لي تمامًا، أقول ذلك بصراحة؛ لأن التوقع الخاطئ قد يسبب مشكلة منذ البداية.",
+          "پوزيسْيُون بانا تام أويمازسا بونو دوروستچە سويْلَرِم؛ چونكو يانلِش بَكلَنْتِي باشْتان سُرون ياراتابيلير.",
+          "Pozisyon bana tam uymazsa bunu dürüstçe söylerim; çünkü yanlış beklenti baştan sorun yaratabilir.",
+          "إذا لم يكن المنصب مناسبًا لي تمامًا، أقول ذلك بصراحة؛ لأن التوقع الخاطئ قد يسبب مشكلة منذ البداية."
+        ],
+        [
+          "Gergin görünmemek için aşırı süslenmem; temiz, düzenli ve doğal bir görünüm yeterlidir.",
+          "حتى لا أبدو متوترًا، لا أفرط في التزيّن؛ المظهر النظيف والمنظم والطبيعي يكفي.",
+          "گَرجِن گورونمَمَك إچين آشِرِ سوسلَنْمَم؛ تَميز، دوزَنلِ ڤە دوعال بير گورونوم يَتَرْلِدِر.",
+          "Gergin görünmemek için aşırı süslenmem; temiz, düzenli ve doğal bir görünüm yeterlidir.",
+          "حتى لا أبدو متوترًا، لا أفرط في التزيّن؛ المظهر النظيف والمنظم والطبيعي يكفي."
+        ],
+        [
+          "Mülakat sonunda ben de sorular sorarım; böylece pozisyonu ve ekip kültürünü daha iyi anlarım.",
+          "في نهاية المقابلة أطرح أنا أيضًا أسئلة؛ وبهذه الطريقة أفهم المنصب وثقافة الفريق بشكل أفضل.",
+          "مولاقات سُونوندا بَن دە سُرولار سُوارِم؛ بويلەجە پوزيسْيُونُ ڤە إكِپ كولتورونو داحا ئىيى آنلارِم.",
+          "Mülakat sonunda ben de sorular sorarım; böylece pozisyonu ve ekip kültürünü daha iyi anlarım.",
+          "في نهاية المقابلة أطرح أنا أيضًا أسئلة؛ وبهذه الطريقة أفهم المنصب وثقافة الفريق بشكل أفضل."
+        ],
+        [
+          "Özgüven göstermek önemlidir, fakat abartıdan kaçınmak profesyonel bir izlenim bırakır.",
+          "إظهار الثقة بالنفس مهم، لكن تجنب المبالغة يترك انطباعًا مهنيًا.",
+          "أوزغُڤَن گُستَرْمَك أُنمْلِدِر، فاكات آبارتِيدان كاچِنماك پروفەسیونَل بير إزلَنين بِرَكار.",
+          "Özgüven göstermek önemlidir, fakat abartıdan kaçınmak profesyonel bir izlenim bırakır.",
+          "إظهار الثقة بالنفس مهم، لكن تجنب المبالغة يترك انطباعًا مهنيًا."
+        ]
+      ]
+    },
+    {
+      "topic": "اتخاذ القرارات",
+      "words": [
+        [
+          "Bu kararı aceleyle vermek yerine, önce seçenekleri karşılaştırıp sonra ilerlemek bana daha mantıklı geliyor.",
+          "هذا القرار، بدلًا من اتخاذه على عجل، يبدو لي أكثر منطقية أن نقارن الخيارات أولًا ثم نتابع.",
+          "بو قاراري آجَلېيله ڤَرْمَك يِرِنَه، أونجِه سِجَكْنَكلَري قارْشِلاشتِرِپ سونرا إلَرلِمَك بانَا دَحَا مانْتلِقلِ گَليور.",
+          "Bu kararı aceleyle vermek yerine, önce seçenekleri karşılaştırıp sonra ilerlemek bana daha mantıklı geliyor.",
+          "هذا القرار، بدلًا من اتخاذه على عجل، يبدو لي أكثر منطقية أن نقارن الخيارات أولًا ثم نتابع."
+        ],
+        [
+          "Toplantıda herkes konuştu ama ben, veriye dayanan seçeneğin daha güvenilir olduğunu söyledim.",
+          "في الاجتماع تحدث الجميع، لكنني قلت إن الخيار المبني على البيانات أكثر موثوقية.",
+          "توبلانتِدا هرْكِس قونوشتو آمَا بَن، ڤَرييهِيَه دايانان سِجَنهين دَحَا غُڤَنىرِلِر أولدوغونو سويْلَدِم.",
+          "Toplantıda herkes konuştu ama ben, veriye dayanan seçeneğin daha güvenilir olduğunu söyledim.",
+          "في الاجتماع تحدث الجميع، لكنني قلت إن الخيار المبني على البيانات أكثر موثوقية."
+        ],
+        [
+          "Riskleri görmezden gelirsek kısa vadede rahatlarız, fakat uzun vadede daha büyük sorunlar çıkabilir.",
+          "إذا تجاهلنا المخاطر سنرتاح على المدى القصير، لكن قد تظهر مشكلات أكبر على المدى الطويل.",
+          "رِسكْلَري گُرْمَزْدَنْ گَلِرْسَك كِصَا ڤادَدە راحاتلارِز، فاكات أوزون ڤادَدە دَحَا بُيُوك سورُونلار چِقابِلِر.",
+          "Riskleri görmezden gelirsek kısa vadede rahatlarız, fakat uzun vadede daha büyük sorunlar çıkabilir.",
+          "إذا تجاهلنا المخاطر سنرتاح على المدى القصير، لكن قد تظهر مشكلات أكبر على المدى الطويل."
+        ],
+        [
+          "Benim önerim, iki yolu da tek tek denemek ve hangisinin daha sürdürülebilir olduğunu görmek.",
+          "اقتراحي هو تجربة الطريقتين واحدةً واحدة ورؤية أيهما أكثر استدامة.",
+          "بَنِم أونَريم، ئىكي يولو دا تِك تِك دَنَمَك وَ هانگِسِينِن دَحَا سوردوريليبِلىر أولدوغونو گُرمَك.",
+          "Benim önerim, iki yolu da tek tek denemek ve hangisinin daha sürdürülebilir olduğunu görmek.",
+          "اقتراحي هو تجربة الطريقتين واحدةً واحدة ورؤية أيهما أكثر استدامة."
+        ],
+        [
+          "Eğer bütçe değişirse planı da değiştirmemiz gerekebilir, bu yüzden esnek kalmak önemli.",
+          "إذا تغيّرت الميزانية فقد نحتاج إلى تغيير الخطة أيضًا، لذلك من المهم أن نبقى مرنين.",
+          "إيغَر بُتچَه دَغِيشِرسَه پلانِ دا دَغِيشْتِرمَمِز گِرَكِبِلِر، بو يوزدَن إسْنَك قالماك أونَمْلِ.",
+          "Eğer bütçe değişirse planı da değiştirmemiz gerekebilir, bu yüzden esnek kalmak önemli.",
+          "إذا تغيّرت الميزانية فقد نحتاج إلى تغيير الخطة أيضًا، لذلك من المهم أن نبقى مرنين."
+        ],
+        [
+          "İlk tepkim olumlu olmadı, yine de ayrıntıları okuyunca fikrim biraz yumuşadı.",
+          "لم يكن انطباعي الأول إيجابيًا، ومع ذلك خفّ رأيي قليلًا عندما قرأت التفاصيل.",
+          "إلك تِپْكِم أولوملو أولمادِ، يينَه دَه آيرِنتِلارِي أُويويُنجا فِكرِم بِيْراز يوموشادِ.",
+          "İlk tepkim olumlu olmadı, yine de ayrıntıları okuyunca fikrim biraz yumuşadı.",
+          "لم يكن انطباعي الأول إيجابيًا، ومع ذلك خفّ رأيي قليلًا عندما قرأت التفاصيل."
+        ],
+        [
+          "Karar verirken sadece fiyatı değil, zaman kaybını ve kaliteyi de hesaba katmalıyız.",
+          "عند اتخاذ القرار يجب أن نحسب ليس السعر فقط، بل ضياع الوقت والجودة أيضًا.",
+          "قارار ڤَرِرْكِن سادِجَه فيياتِ دَغيل، زامان قايْبِنِ وَ قالِتَيْيِ دَه هِسابَا قاتمالِييْز.",
+          "Karar verirken sadece fiyatı değil, zaman kaybını ve kaliteyi de hesaba katmalıyız.",
+          "عند اتخاذ القرار يجب أن نحسب ليس السعر فقط، بل ضياع الوقت والجودة أيضًا."
+        ],
+        [
+          "Bence en doğru yol, herkesin kaygısını dinleyip ortak bir çözüm aramak.",
+          "برأيي، أفضل طريق هو الاستماع إلى مخاوف الجميع والبحث عن حل مشترك.",
+          "بَنْجَه إِن دُورو يول، هرْكِسِنِين قايْغِسِنِ دِينْلَيِپ أورتَك بِر چوزوم آراماك.",
+          "Bence en doğru yol, herkesin kaygısını dinleyip ortak bir çözüm aramak.",
+          "برأيي، أفضل طريق هو الاستماع إلى مخاوف الجميع والبحث عن حل مشترك."
+        ],
+        [
+          "Bu konuda farklı düşünsek de birbirimizi ikna ederken saygılı kalabiliriz.",
+          "حتى لو اختلفنا في هذا الموضوع، يمكننا أن نبقى محترمين ونحن نحاول إقناع بعضنا.",
+          "بو قُونودَا فَرقْلِ دُوشونسَك دَه بِيْرْبِرِمِزي إِكْنا إدَرْكِن سايْغِلى قالابِلِيرِيز.",
+          "Bu konuda farklı düşünsek de birbirimizi ikna ederken saygılı kalabiliriz.",
+          "حتى لو اختلفنا في هذا الموضوع، يمكننا أن نبقى محترمين ونحن نحاول إقناع بعضنا."
+        ],
+        [
+          "Sonucu hemen görmek istiyorum, ama sabırsız davranırsak yanlış karar verebiliriz.",
+          "أريد رؤية النتيجة فورًا، لكن إذا تصرفنا بنفاد صبر فقد نتخذ قرارًا خاطئًا.",
+          "سونُچو هَمِن گُرمَك إِسْتِيوْروم، آما صابِرْسِز داڤرانِرْسَك يانلِش قارار ڤِرَبولِيرِيز.",
+          "Sonucu hemen görmek istiyorum, ama sabırsız davranırsak yanlış karar verebiliriz.",
+          "أريد رؤية النتيجة فورًا، لكن إذا تصرفنا بنفاد صبر فقد نتخذ قرارًا خاطئًا."
+        ]
+      ]
+    },
+    {
+      "topic": "التواصل الرقمي",
+      "words": [
+        [
+          "Mesajlara hemen cevap veremediğimde, karşı tarafın bunu kişisel almamasını tercih ediyorum.",
+          "عندما لا أستطيع الرد على الرسائل فورًا، أفضّل ألا يأخذ الطرف الآخر الأمر بشكل شخصي.",
+          "مِساجلَرا هَمِن چَڤاب ڤَرِمَديغِمْدَه، قارْشِ تارافِن بوْنو كِشِسَل آلماماسِنِ تَرْجِيه إدِيوْروم.",
+          "Mesajlara hemen cevap veremediğimde, karşı tarafın bunu kişisel almamasını tercih ediyorum.",
+          "عندما لا أستطيع الرد على الرسائل فورًا، أفضّل ألا يأخذ الطرف الآخر الأمر بشكل شخصي."
+        ],
+        [
+          "Kısa bir ses kaydı bazen yazmaktan daha net oluyor, çünkü tonumu daha iyi yansıtıyorum.",
+          "أحيانًا تكون رسالة صوتية قصيرة أوضح من الكتابة، لأنني أعكس نبرة صوتي بشكل أفضل.",
+          "قِصَا بِر سِس قَيدِ بَازَنْ يَزْمَكتَنْ دَحَا نَت أولُيور، چونكُ تونومو دَحَا إيِي يانسِتِيوْروم.",
+          "Kısa bir ses kaydı bazen yazmaktan daha net oluyor, çünkü tonumu daha iyi yansıtıyorum.",
+          "أحيانًا تكون رسالة صوتية قصيرة أوضح من الكتابة، لأنني أعكس نبرة صوتي بشكل أفضل."
+        ],
+        [
+          "Ekranda çok vakit geçirince odaklanmak zorlaşıyor, bu yüzden bildirimleri kapatmayı denedim.",
+          "عندما أقضي وقتًا طويلًا أمام الشاشة يصبح التركيز أصعب، لذلك جربت إيقاف الإشعارات.",
+          "إِكْراندَا چوك ڤاكِت گَچِرِنْجَه أوداكْلانماك زورلاشِيوْر، بو يوزدَن بِلْدِرِملَري قاپاتمايي دَنَدِم.",
+          "Ekranda çok vakit geçirince odaklanmak zorlaşıyor, bu yüzden bildirimleri kapatmayı denedim.",
+          "عندما أقضي وقتًا طويلًا أمام الشاشة يصبح التركيز أصعب، لذلك جربت إيقاف الإشعارات."
+        ],
+        [
+          "Ben hızlı yazışmayı seviyorum, fakat önemli konularda yanlış anlaşılma ihtimali beni düşündürüyor.",
+          "أحب المراسلة السريعة، لكن احتمال سوء الفهم في القضايا المهمة يثير قلقي.",
+          "بَن هِزلِ يازِشمايي سِڤيوْروم، فاكات أونَمْلِ قُونولارْدَا يانلِش آنلاشِلمَا إِحْتِمالِ بَنِ دُوشوندورُيوْر.",
+          "Ben hızlı yazışmayı seviyorum, fakat önemli konularda yanlış anlaşılma ihtimali beni düşündürüyor.",
+          "أحب المراسلة السريعة، لكن احتمال سوء الفهم في القضايا المهمة يثير قلقي."
+        ],
+        [
+          "Bir grupta herkes aynı anda yazınca konu dağılabiliyor, o yüzden sırayla konuşmak daha iyi.",
+          "عندما يكتب الجميع في المجموعة في الوقت نفسه قد يتشتت الموضوع، لذلك من الأفضل الحديث بالتناوب.",
+          "بِر گْرُپْتَا هرْكِس آينِ آندا يازِنجا قونو داغِلابِلِيوْر، أو يوزدَن سِرايلَا قونوشمَك دَحَا إيِي.",
+          "Bir grupta herkes aynı anda yazınca konu dağılabiliyor, o yüzden sırayla konuşmak daha iyi.",
+          "عندما يكتب الجميع في المجموعة في الوقت نفسه قد يتشتت الموضوع، لذلك من الأفضل الحديث بالتناوب."
+        ],
+        [
+          "Gizlilik ayarlarını kontrol etmek, özellikle ortak cihaz kullanırken çok önemli.",
+          "فحص إعدادات الخصوصية مهم جدًا، خاصة عند استخدام جهاز مشترك.",
+          "گِزْلِلىك آيارلارِنِ كونْترول إتْمَك، أوزِلْلِكْلَه أورتَك چِهاز قُللانِرْكِن چوك أونَمْلِ.",
+          "Gizlilik ayarlarını kontrol etmek, özellikle ortak cihaz kullanırken çok önemli.",
+          "فحص إعدادات الخصوصية مهم جدًا، خاصة عند استخدام جهاز مشترك."
+        ],
+        [
+          "Arkadaşımın gönderdiği bağlantıya hemen tıklamadım, önce kaynağı doğrulamayı seçtim.",
+          "لم أنقر فورًا على الرابط الذي أرسله صديقي، بل اخترت التحقق من المصدر أولًا.",
+          "آرْقاداشِمِن گوندَردِغِ باعْلانْتِييا هَمِن تِقْلامادِم، أونجَه قايْناغِ دُورولامايي سِچتِم.",
+          "Arkadaşımın gönderdiği bağlantıya hemen tıklamadım, önce kaynağı doğrulamayı seçtim.",
+          "لم أنقر فورًا على الرابط الذي أرسله صديقي، بل اخترت التحقق من المصدر أولًا."
+        ],
+        [
+          "Bence dijital ortamda nezaket, yüz yüze konuşmadaki kadar önemlidir.",
+          "برأيي، الأدب في البيئة الرقمية مهم بقدر أهميته في الحديث وجهاً لوجه.",
+          "بَنْجَه دِجِتال أورتامدَا نَزَكِت، يوز يوزه قونوشْماداكِ قَدَر أونَمْلِدِر.",
+          "Bence dijital ortamda nezaket, yüz yüze konuşmadaki kadar önemlidir.",
+          "برأيي، الأدب في البيئة الرقمية مهم بقدر أهميته في الحديث وجهاً لوجه."
+        ],
+        [
+          "Uzun bir e-posta yazmadan önce ne istediğimi netleştirirsem herkesin işi kolaylaşır.",
+          "إذا أوضحت ما أريده قبل كتابة رسالة بريد إلكتروني طويلة، تصبح الأمور أسهل للجميع.",
+          "أوزون بِر إي-پوسْتَا يازْمدان أونجَه نَه إِسْتَديغِمِ نَتْلَشتِرِرسَم هرْكِسِن إِشِي قولايشِر.",
+          "Uzun bir e-posta yazmadan önce ne istediğimi netleştirirsem herkesin işi kolaylaşır.",
+          "إذا أوضحت ما أريده قبل كتابة رسالة بريد إلكتروني طويلة، تصبح الأمور أسهل للجميع."
+        ],
+        [
+          "Geç yanıt verdiğimde bile açık ve dürüst olmak, güveni korumaya yardım ediyor.",
+          "حتى عندما أرد متأخرًا، فإن الوضوح والصدق يساعدان على الحفاظ على الثقة.",
+          "گَچ يانِت ڤَرْدِغِمْدَه بيله آچِق وَ دوردوست أولماك، گُڤَنى قورومايا يارْدِم إدِيوْر.",
+          "Geç yanıt verdiğimde bile açık ve dürüst olmak, güveni korumaya yardım ediyor.",
+          "حتى عندما أرد متأخرًا، فإن الوضوح والصدق يساعدان على الحفاظ على الثقة."
+        ]
+      ]
+    },
+    {
+      "topic": "التنوع الثقافي",
+      "words": [
+        [
+          "Farklı kültürlerle çalışınca, tek doğru yöntemin olmadığını daha iyi anladım.",
+          "عندما عملت مع ثقافات مختلفة فهمت أفضل أنه لا توجد طريقة واحدة صحيحة.",
+          "فارقْلِ كولْتورلَرْلَه چالِشِنجا، تِك دُورُ يَونْتَمِن أولمادِغِنِ دَحَا إيِي آنْلادِم.",
+          "Farklı kültürlerle çalışınca, tek doğru yöntemin olmadığını daha iyi anladım.",
+          "عندما عملت مع ثقافات مختلفة فهمت أفضل أنه لا توجد طريقة واحدة صحيحة."
+        ],
+        [
+          "Bir alışkanlık bize normal gelebilir, ama başka bir yerde tamamen farklı anlam taşıyabilir.",
+          "قد تبدو عادة لنا طبيعية، لكنها قد تحمل معنى مختلفًا تمامًا في مكان آخر.",
+          "بِر آلِشْقانْلِق بِزَه نُورمال گَليبِلِر، آما باشْقَا بِر يرده تامامن فارقْلِ آنلام تاشِيَابِلِر.",
+          "Bir alışkanlık bize normal gelebilir, ama başka bir yerde tamamen farklı anlam taşıyabilir.",
+          "قد تبدو عادة لنا طبيعية، لكنها قد تحمل معنى مختلفًا تمامًا في مكان آخر."
+        ],
+        [
+          "Yeni bir ekibe girince önce dinlemek, sonra konuşmaktan daha saygılı oluyor.",
+          "عند الانضمام إلى فريق جديد، يكون الاستماع أولًا أكثر احترامًا من التحدث مباشرة.",
+          "يِني بِر إيكِيبَه گِرِنجَه أونجَه دِينْلَمَك، سونرا قونوشْمَقْتان دَحَا سايْغِلِ أولُيور.",
+          "Yeni bir ekibe girince önce dinlemek, sonra konuşmaktan daha saygılı oluyor.",
+          "عند الانضمام إلى فريق جديد، يكون الاستماع أولًا أكثر احترامًا من التحدث مباشرة."
+        ],
+        [
+          "Kutlamalarda herkesin kendi geleneğini paylaşması ortamı daha sıcak hale getiriyor.",
+          "في الاحتفالات، مشاركة كل شخص لتقاليده تجعل الأجواء أكثر دفئًا.",
+          "قوتْلامالارْدَا هرْكِسِن كَنْدِ گَلهنَغِينِ پايلاشْماسِ أورتامِ دَحَا سِجاق حالَه گَتِرِيوْر.",
+          "Kutlamalarda herkesin kendi geleneğini paylaşması ortamı daha sıcak hale getiriyor.",
+          "في الاحتفالات، مشاركة كل شخص لتقاليده تجعل الأجواء أكثر دفئًا."
+        ],
+        [
+          "Sadece kendi bakış açımıza güvenirsek, önemli ayrıntıları kaçırma riskimiz artar.",
+          "إذا اعتمدنا فقط على منظورنا نحن، يزداد خطر تفويت تفاصيل مهمة.",
+          "سادِجَه كَنْدِ باقِش آچِمِزا گُڤَنِرْسَك، أونَمْلِ آيرِنتِلاري قاجِرْمَا رِسْكِمِز آرتار.",
+          "Sadece kendi bakış açımıza güvenirsek, önemli ayrıntıları kaçırma riskimiz artar.",
+          "إذا اعتمدنا فقط على منظورنا نحن، يزداد خطر تفويت تفاصيل مهمة."
+        ],
+        [
+          "Benzer görünsek de insanların farklı beklentileri olabilir, bunu erken fark etmek gerekir.",
+          "حتى لو بدا الناس متشابهين، قد تكون لديهم توقعات مختلفة، ومن الضروري ملاحظة ذلك مبكرًا.",
+          "بِنْزَر گورونسَكْ دَه إِنسانلارِن فارقْلِ بِكْلَنتِلَري أولابِلِر، بوْنو إِرْكَنْ فارْق إتْمَك گَرَكِر.",
+          "Benzer görünsek de insanların farklı beklentileri olabilir, bunu erken fark etmek gerekir.",
+          "حتى لو بدا الناس متشابهين، قد تكون لديهم توقعات مختلفة، ومن الضروري ملاحظة ذلك مبكرًا."
+        ],
+        [
+          "Dil bilmek tek başına yetmiyor; beden dili ve nezaket de iletişimi güçlendiriyor.",
+          "معرفة اللغة وحدها لا تكفي؛ فلغة الجسد واللباقة تعززان التواصل أيضًا.",
+          "دِل بِلْمَك تِك باشِنا يَتْمِيوْر؛ بَدَن دِلِ وَ نَزَكِت دَه إيْلَتِشِمِ گُچْلَنْدِرِيوْر.",
+          "Dil bilmek tek başına yetmiyor; beden dili ve nezaket de iletişimi güçlendiriyor.",
+          "معرفة اللغة وحدها لا تكفي؛ فلغة الجسد واللباقة تعززان التواصل أيضًا."
+        ],
+        [
+          "İki taraf da öğrenmeye açık olursa, farklılıklar çatışma yerine fırsata dönüşebilir.",
+          "إذا كان الطرفان منفتحين على التعلم، يمكن أن تتحول الاختلافات إلى فرصة بدلًا من صراع.",
+          "إِيكي تاراف دا أُورْنَمَيَه آچِق أولورسا، فارقْلِكلار چاتِشْمَا يِرِنَه فُرْسَاتَا دُونوشِبِلِر.",
+          "İki taraf da öğrenmeye açık olursa, farklılıklar çatışma yerine fırsata dönüşebilir.",
+          "إذا كان الطرفان منفتحين على التعلم، يمكن أن تتحول الاختلافات إلى فرصة بدلًا من صراع."
+        ],
+        [
+          "Komşumun yemeği bana yabancı geldi, ama tarifini öğrenince gerçekten ilgimi çekti.",
+          "بدت لي وجبة جاري غريبة، لكن عندما تعلمت وصفتها أثارت اهتمامي حقًا.",
+          "قومشومون يَمَغِي بانَا يابانْجِ گَلدِ، آما تاريفِينِ أُورِنِنجَه گَرچِكْتَنْ إِلگِمِ چَكْتِ.",
+          "Komşumun yemeği bana yabancı geldi, ama tarifini öğrenince gerçekten ilgimi çekti.",
+          "بدت لي وجبة جاري غريبة، لكن عندما تعلمت وصفتها أثارت اهتمامي حقًا."
+        ],
+        [
+          "Çeşitlilik zorlayıcı olabilir, fakat iyi yönetilirse grubun düşünme biçimini zenginleştirir.",
+          "قد يكون التنوع مُرهقًا، لكنه إذا أُدير جيدًا يُثري طريقة تفكير المجموعة.",
+          "چَشِتْلِلك زورلايِجِ أولابِلِر، فاكات إيِي يُونَتِلسَه گْرُبون دُوشونمَه بِچِمِينِ زَنگِنْلَشتِرِر.",
+          "Çeşitlilik zorlayıcı olabilir, fakat iyi yönetilirse grubun düşünme biçimini zenginleştirir.",
+          "قد يكون التنوع مُرهقًا، لكنه إذا أُدير جيدًا يُثري طريقة تفكير المجموعة."
+        ]
+      ]
+    },
+    {
+      "topic": "الحياة في مدينة جديدة",
+      "words": [
+        [
+          "Yeni şehre taşınınca ilk hafta biraz kayboldum, ama haritayla kısa sürede alıştım.",
+          "عندما انتقلت إلى مدينة جديدة، ضعت قليلًا في الأسبوع الأول، لكنني تأقلمت بسرعة بفضل الخريطة.",
+          "يِني شَهرَه تاشِنِنجَه إلك هافْتَا بِيْراز قايبولْدوم، آما هارِتَيلَا قِصَا سوردَه آلِشْتِم.",
+          "Yeni şehre taşınınca ilk hafta biraz kayboldum, ama haritayla kısa sürede alıştım.",
+          "عندما انتقلت إلى مدينة جديدة، ضعت قليلًا في الأسبوع الأول، لكنني تأقلمت بسرعة بفضل الخريطة."
+        ],
+        [
+          "Ulaşım sistemi ilk günlerde karışık görünse de, birkaç denemeden sonra oldukça pratikleşti.",
+          "قد يبدو نظام النقل معقدًا في الأيام الأولى، لكنه أصبح عمليًا جدًا بعد بضع محاولات.",
+          "أولاشِم سِستَمِي إلك گونلَرْدَه قارِشِق گورونْسَه دَه، بِيرْكاچ دَنَمَهْدَنْ سونرا أولْدُجا پْراتِكلَشتِ.",
+          "Ulaşım sistemi ilk günlerde karışık görünse de, birkaç denemeden sonra oldukça pratikleşti.",
+          "قد يبدو نظام النقل معقدًا في الأيام الأولى، لكنه أصبح عمليًا جدًا بعد بضع محاولات."
+        ],
+        [
+          "Komşularımla selamlaşmak, bu şehirde kendimi daha çabuk evde hissettirdi.",
+          "تحية الجيران جعلتني أشعر بأنني في بيتي بسرعة أكبر في هذه المدينة.",
+          "قومشولارِمْلا سَلاملاشْمَك، بو شَهِردَه كَنْدِمِ دَحَا چابوق إڤدَه حِسْسَتْتِرْدِ.",
+          "Komşularımla selamlaşmak, bu şehirde kendimi daha çabuk evde hissettirdi.",
+          "تحية الجيران جعلتني أشعر بأنني في بيتي بسرعة أكبر في هذه المدينة."
+        ],
+        [
+          "Kira yüksek olsa da, merkeze yakın olmak zaman kazandırdığı için buna razı oldum.",
+          "رغم أن الإيجار مرتفع، وافقت عليه لأن القرب من المركز يوفر الوقت.",
+          "كِرا يوكْسَك أولسَا دَه، مَركَزَه ياقِن أولماك زامان قازاندِردِغِي إچِن بونا رازِ أولْدوم.",
+          "Kira yüksek olsa da, merkeze yakın olmak zaman kazandırdığı için buna razı oldum.",
+          "رغم أن الإيجار مرتفع، وافقت عليه لأن القرب من المركز يوفر الوقت."
+        ],
+        [
+          "Yeni bir mahallede en zor şey yön bulmak değil, güveneceğin yerleri keşfetmek oluyor.",
+          "أصعب شيء في حي جديد ليس إيجاد الاتجاهات، بل اكتشاف الأماكن التي يمكنك الوثوق بها.",
+          "يِني بِر مَحالَّهْدَه إِن زور شَي يون بولماك دَغيل، گُڤَنَجَغِين يِلَري كَشْفَتْمَك أولُيور.",
+          "Yeni bir mahallede en zor şey yön bulmak değil, güveneceğin yerleri keşfetmek oluyor.",
+          "أصعب شيء في حي جديد ليس إيجاد الاتجاهات، بل اكتشاف الأماكن التي يمكنك الوثوق بها."
+        ],
+        [
+          "Burada insanlar daha erken yemek yiyor, bu yüzden benim günlük rutinim de değişti.",
+          "هنا يأكل الناس في وقت أبكر، لذلك تغير روتيني اليومي أيضًا.",
+          "بوردَا إِنْسانلار دَحَا إِرْكَنْ يَمَك يِيوْر، بو يوزدَن بَنِم گونْلُوك روتينِم دَه دَغِيشْتِ.",
+          "Burada insanlar daha erken yemek yiyor, bu yüzden benim günlük rutinim de değişti.",
+          "هنا يأكل الناس في وقت أبكر، لذلك تغير روتيني اليومي أيضًا."
+        ],
+        [
+          "Hafta sonu parkta vakit geçirmek, kalabalığa rağmen şehri sevmeme yardımcı oldu.",
+          "قضاء الوقت في الحديقة في عطلة نهاية الأسبوع ساعدني على حب المدينة رغم الزحام.",
+          "هافتَا سونو پاركْتا ڤاكِت گَچِرْمَك، قالابالِغا رامِن شَهْرِي سَڤْمَمَه ياردِمْجِ أولْدُ.",
+          "Hafta sonu parkta vakit geçirmek, kalabalığa rağmen şehri sevmeme yardımcı oldu.",
+          "قضاء الوقت في الحديقة في عطلة نهاية الأسبوع ساعدني على حب المدينة رغم الزحام."
+        ],
+        [
+          "İş çıkışı trafikte beklemek yorucu, ama yeni bir kafeyi keşfetmek günü güzelleştiriyor.",
+          "الانتظار في الازدحام بعد العمل متعب، لكن اكتشاف مقهى جديد يجمّل اليوم.",
+          "إِش چِقِشِ تْرافِكتَه بَكْلَمَك يوروجو، آما يِني بِر قافَيي كَشْفَتْمَك گونُ گوزَلَشتِرِيوْر.",
+          "İş çıkışı trafikte beklemek yorucu, ama yeni bir kafeyi keşfetmek günü güzelleştiriyor.",
+          "الانتظار في الازدحام بعد العمل متعب، لكن اكتشاف مقهى جديد يجمّل اليوم."
+        ],
+        [
+          "Şehir değişince beklentilerim de değişti; şimdi hız kadar sakin anları da önemsiyorum.",
+          "عندما تغيرت المدينة تغيّرت توقعاتي أيضًا؛ الآن أقدّر اللحظات الهادئة بقدر السرعة.",
+          "شَهِر دَغِيشِنجَه بِكْلَنْتِلَريم دَه دَغِيشْتِ؛ شِمْدِ هِز قَدَر ساكِن آنلارِ دا أونَمْسِيوْروم.",
+          "Şehir değişince beklentilerim de değişti; şimdi hız kadar sakin anları da önemsiyorum.",
+          "عندما تغيرت المدينة تغيّرت توقعاتي أيضًا؛ الآن أقدّر اللحظات الهادئة بقدر السرعة."
+        ],
+        [
+          "İlk başta yalnız hissetsem de, zamanla tanıdık yüzler buldukça buraya ait oldum.",
+          "على الرغم من أنني شعرت بالوحدة في البداية، أصبحت أنتمي إلى هنا كلما وجدت وجوهًا مألوفة.",
+          "إِلْك باشْتَا يالْنِز حِسْسَتْسَم دَه، زامانْلا تانِدِق يوزلَر بولْدوقْجا بورايا آيت أولْدوم.",
+          "İlk başta yalnız hissetsem de, zamanla tanıdık yüzler buldukça buraya ait oldum.",
+          "على الرغم من أنني شعرت بالوحدة في البداية، أصبحت أنتمي إلى هنا كلما وجدت وجوهًا مألوفة."
+        ]
+      ]
+    },
+    {
+      "topic": "السياحة المسؤولة",
+      "words": [
+        [
+          "Tatil planlarken sadece ucuzluk değil, bulunduğum yerin ekosistemine etkisini de düşünüyorum.",
+          "عند التخطيط للعطلة، لا أفكر في السعر فقط، بل أيضًا في تأثيرها على النظام البيئي في المكان.",
+          "تاتيل پلانلارْكِن سادِجَه أوجوزلوك دَغِيل، بولوندوغوم يَرين إيكوسِستَمِينَه إتْكِسِنِ دَه دُوشونُيوْروم.",
+          "Tatil planlarken sadece ucuzluk değil, bulunduğum yerin ekosistemine etkisini de düşünüyorum.",
+          "عند التخطيط للعطلة، لا أفكر في السعر فقط، بل أيضًا في تأثيرها على النظام البيئي في المكان."
+        ],
+        [
+          "Kalabalık alanlarda sessiz davranmak, hem insanlara hem de doğaya karşı saygılı bir seçimdir.",
+          "التصرف بهدوء في الأماكن المزدحمة خيار يحترم الناس والطبيعة معًا.",
+          "قالابالِق آلانلارْدَا سِسْسِز داڤْرانْمَك، هَم إِنسانلارَا هَم دَه دُوغايا قارشِ سايْغِلِ بِر سِچِمدِر.",
+          "Kalabalık alanlarda sessiz davranmak, hem insanlara hem de doğaya karşı saygılı bir seçimdir.",
+          "التصرف بهدوء في الأماكن المزدحمة خيار يحترم الناس والطبيعة معًا."
+        ],
+        [
+          "Yerel pazarları tercih etmek, hem daha otantik bir deneyim sunuyor hem de esnafı destekliyor.",
+          "تفضيل الأسواق المحلية يمنح تجربة أكثر أصالة ويدعم أصحاب المتاجر.",
+          "يَرَل پازارلارِ تَرْجِيه إتْمَك، هَم دَحَا أُوتَنْتِك بِر دَنيْيم سونُيور هَم دَه إسنافِ دَسْتَكْلِيوْر.",
+          "Yerel pazarları tercih etmek, hem daha otantik bir deneyim sunuyor hem de esnafı destekliyor.",
+          "تفضيل الأسواق المحلية يمنح تجربة أكثر أصالة ويدعم أصحاب المتاجر."
+        ],
+        [
+          "Fotoğraf çekmeden önce izin istemek küçük görünür, ama çok önemli bir nezakettir.",
+          "طلب الإذن قبل التقاط الصور يبدو أمرًا صغيرًا، لكنه أدب مهم جدًا.",
+          "فوتوغْراف چَكْمَدَنْ أونجَه إزِن إِسْتَمَك كوجوك گورونور، آما چوك أونَمْلِ بِر نَزَكِتْتِر.",
+          "Fotoğraf çekmeden önce izin istemek küçük görünür, ama çok önemli bir nezakettir.",
+          "طلب الإذن قبل التقاط الصور يبدو أمرًا صغيرًا، لكنه أدب مهم جدًا."
+        ],
+        [
+          "Gittiğim yerde yerel kurallara uyarsam, hem sorun çıkmaz hem de iyi bir misafir olurum.",
+          "إذا التزمت بقواعد المكان الذي أزوره، فلن تحدث مشاكل وسأكون ضيفًا جيدًا.",
+          "گِتْتِغِم يَرده يَرَل قوراللارَا يوارْسَم، هَم سورُون چِقْماز هَم دَه إيِي بِر مِسافير أولوروم.",
+          "Gittiğim yerde yerel kurallara uyarsam, hem sorun çıkmaz hem de iyi bir misafir olurum.",
+          "إذا التزمت بقواعد المكان الذي أزوره، فلن تحدث مشاكل وسأكون ضيفًا جيدًا."
+        ],
+        [
+          "Tek kullanımlık ürünlerden kaçınmak biraz zahmetli olabilir, fakat uzun vadede daha doğru.",
+          "قد يكون تجنب المنتجات أحادية الاستخدام متعبًا قليلًا، لكنه أكثر صوابًا على المدى الطويل.",
+          "تِك قُللانِمْلِق أوروُنلَرْدَنْ قاجِنْمَك بِيْراز زَهْمَتْلِي أولابِلِر، فاكات أوزون ڤادَدە دَحَا دُورُ.",
+          "Tek kullanımlık ürünlerden kaçınmak biraz zahmetli olabilir, fakat uzun vadede daha doğru.",
+          "قد يكون تجنب المنتجات أحادية الاستخدام متعبًا قليلًا، لكنه أكثر صوابًا على المدى الطويل."
+        ],
+        [
+          "Bence turizm, sadece tüketmek değil; gidilen yerle dengeli bir ilişki kurmaktır.",
+          "برأيي، السياحة ليست مجرد استهلاك، بل بناء علاقة متوازنة مع المكان الذي نذهب إليه.",
+          "بَنْجَه تورِزم، سادِجَه تُكِتْمَك دَغِيل؛ گِدِيلَن يَرْلَه دَنْگَلِ بِر إِلِشْكِ قورماكتِر.",
+          "Bence turizm, sadece tüketmek değil; gidilen yerle dengeli bir ilişki kurmaktır.",
+          "برأيي، السياحة ليست مجرد استهلاك، بل بناء علاقة متوازنة مع المكان الذي نذهب إليه."
+        ],
+        [
+          "Rehberin anlattıklarını dinleyince şehrin tarihini daha iyi kavradım.",
+          "عندما استمعت إلى شرح المرشد فهمت تاريخ المدينة بشكل أفضل.",
+          "رَهْبَرِن آنلاتْتِقلارِنِ دِينْلَيِنجَه شَهْرِين تارِحِينِ دَحَا إيِي قاڤرادِم.",
+          "Rehberin anlattıklarını dinleyince şehrin tarihini daha iyi kavradım.",
+          "عندما استمعت إلى شرح المرشد فهمت تاريخ المدينة بشكل أفضل."
+        ],
+        [
+          "Doğayı koruyan bir rota seçmek, bazen en popüler seçenekten daha tatmin edici oluyor.",
+          "اختيار مسار يحافظ على الطبيعة قد يكون أحيانًا أكثر إرضاءً من الخيار الأكثر شعبية.",
+          "دُوغايِ قورُيان بِر روتا سِچْمَك، بازَنْ إِن پُوپولَر سِچِنَكْتَنْ دَحَا تاتْمين إدِجِی أولُيور.",
+          "Doğayı koruyan bir rota seçmek, bazen en popüler seçenekten daha tatmin edici oluyor.",
+          "اختيار مسار يحافظ على الطبيعة قد يكون أحيانًا أكثر إرضاءً من الخيار الأكثر شعبية."
+        ],
+        [
+          "Geziden dönerken geride çöp bırakmamak, basit ama etkisi büyük bir sorumluluktur.",
+          "عدم ترك القمامة خلفنا عند العودة من الرحلة مسؤولية بسيطة لكن أثرها كبير.",
+          "گَزِدَنْ دونَرْكِن گَرِدَه چُپ بِراقْماماق، باسِتْ آما إتْكِسِي بُيُوك بِر سوروْمْلولوكتُر.",
+          "Geziden dönerken geride çöp bırakmamak, basit ama etkisi büyük bir sorumluluktur.",
+          "عدم ترك القمامة خلفنا عند العودة من الرحلة مسؤولية بسيطة لكن أثرها كبير."
+        ]
+      ]
+    },
+    {
+      "topic": "الصحة النفسية والراحة",
+      "words": [
+        [
+          "Son zamanlarda zihnim çok doluysa, kısa bir yürüyüş yapınca daha sakin düşünüyorum.",
+          "في الآونة الأخيرة، إذا كان ذهني ممتلئًا جدًا، فإنني أفكر بهدوء أكثر عندما أتمشى قليلًا.",
+          "سون زمانلاردا زيهْنيم تشوك دولويسا، قيشا بير يورويوش يابينجا داهَا ساكين دوشونويوروم.",
+          "Son zamanlarda zihnim çok doluysa, kısa bir yürüyüş yapınca daha sakin düşünüyorum.",
+          "في الآونة الأخيرة، إذا كان ذهني ممتلئًا جدًا، فإنني أفكر بهدوء أكثر عندما أتمشى قليلًا."
+        ],
+        [
+          "Bazı insanlar yoğunluğu güç sanıyor, ama ben düzenli dinlenmenin verimi artırdığına inanıyorum.",
+          "بعض الناس يظنون أن الانشغال يعني القوة، لكنني أؤمن بأن الراحة المنتظمة تزيد الإنتاجية.",
+          "بازِ إينسانلار يوعونلوغو جوتش سانيوُر، أما بن دوذنلي دينلنمنين فيريمِي آرتِردِغينا إينانيوُروم.",
+          "Bazı insanlar yoğunluğu güç sanıyor, ama ben düzenli dinlenmenin verimi artırdığına inanıyorum.",
+          "بعض الناس يظنون أن الانشغال يعني القوة، لكنني أؤمن بأن الراحة المنتظمة تزيد الإنتاجية."
+        ],
+        [
+          "Telefonu akşam erken kapatmak, uyku kalitemi doğrudan etkilediği için artık bunu alışkanlık yaptım.",
+          "إغلاق الهاتف مبكرًا مساءً يؤثر مباشرة في جودة نومي، لذلك جعلت هذا عادة الآن.",
+          "تلهفونُ عكشام إركن كاباتماك، أويكو كالتيمي دوغرودان إثكلدغي إتشين آرتيق بونو آليشكانليق يابتيم.",
+          "Telefonu akşam erken kapatmak, uyku kalitemi doğrudan etkilediği için artık bunu alışkanlık yaptım.",
+          "إغلاق الهاتف مبكرًا مساءً يؤثر مباشرة في جودة نومي، لذلك جعلت هذا عادة الآن."
+        ],
+        [
+          "Terapiye gitmek herkes için aynı anlamı taşımaz; yine de destek istemek zayıflık değil, bilinçtir.",
+          "الذهاب إلى العلاج النفسي لا يحمل المعنى نفسه للجميع؛ ومع ذلك فإن طلب الدعم ليس ضعفًا بل وعيًا.",
+          "تيرابييَه غِتمك هركِس إتشين آينِي أَنلامي تاشيماز؛ ييني ده دِستك إستمك زعيقليق دييل، بيلينتشْتير.",
+          "Terapiye gitmek herkes için aynı anlamı taşımaz; yine de destek istemek zayıflık değil, bilinçtir.",
+          "الذهاب إلى العلاج النفسي لا يحمل المعنى نفسه للجميع؛ ومع ذلك فإن طلب الدعم ليس ضعفًا بل وعيًا."
+        ],
+        [
+          "Yoğun bir haftadan sonra sessiz bir saat geçirmek, sosyal medyada oyalanmaktan bana daha iyi geliyor.",
+          "بعد أسبوع مزدحم، قضاء ساعة هادئة يمنحني شعورًا أفضل من التسكع في وسائل التواصل.",
+          "يوغون بير هافتادان سونا سِسْسِز بير ساعات غيچيرْمك، سوسيال مِدْيادَا أويالانماكتان بانا داهَا إيي غيليور.",
+          "Yoğun bir haftadan sonra sessiz bir saat geçirmek, sosyal medyada oyalanmaktan bana daha iyi geliyor.",
+          "بعد أسبوع مزدحم، قضاء ساعة هادئة يمنحني شعورًا أفضل من التسكع في وسائل التواصل."
+        ],
+        [
+          "Arkadaşlarımla açıkça konuşunca, içimde biriken stresin yarısı azalıyor gibi hissediyorum.",
+          "عندما أتحدث بصراحة مع أصدقائي، أشعر وكأن نصف التوتر المتراكم في داخلي يخف.",
+          "آركاداشلاريملا آتشيكجا كونوشونجا، إيتشيمده بيريكن ستريسين ياريسي آزاليوُر غيبي هِسّديوُروم.",
+          "Arkadaşlarımla açıkça konuşunca, içimde biriken stresin yarısı azalıyor gibi hissediyorum.",
+          "عندما أتحدث بصراحة مع أصدقائي، أشعر وكأن نصف التوتر المتراكم في داخلي يخف."
+        ],
+        [
+          "Kendime çok sert davranırsam motivasyonum düşüyor; bu yüzden hedeflerimi daha gerçekçi kuruyorum.",
+          "إذا كنت قاسيًا جدًا على نفسي، ينخفض دافعي؛ لذلك أضع أهدافي بشكل أكثر واقعية.",
+          "كنديميَه تشوك سِرت دافرانِرسام موتيفاسيونوم دوشيوُر؛ بو يوزدن هِدِفْليريمي داهَا غيرچِكجي كورويوُروم.",
+          "Kendime çok sert davranırsam motivasyonum düşüyor; bu yüzden hedeflerimi daha gerçekçi kuruyorum.",
+          "إذا كنت قاسيًا جدًا على نفسي، ينخفض دافعي؛ لذلك أضع أهدافي بشكل أكثر واقعية."
+        ],
+        [
+          "Mükemmel olmaya çalışmak yerine tutarlı kalmak, uzun vadede bana daha dengeli bir ruh hali sağlıyor.",
+          "بدلًا من محاولة أن أكون مثاليًا، فإن الثبات يمنحني على المدى الطويل حالة نفسية أكثر توازنًا.",
+          "موكممل أولمايا جاليشماك يرينه توتارلي كالمك، أوزون فادده بانا داهَا دِنغِلي بير روح هالي ساغليور.",
+          "Mükemmel olmaya çalışmak yerine tutarlı kalmak, uzun vadede bana daha dengeli bir ruh hali sağlıyor.",
+          "بدلًا من محاولة أن أكون مثاليًا، فإن الثبات يمنحني على المدى الطويل حالة نفسية أكثر توازنًا."
+        ],
+        [
+          "Bir konuda konuşmak istemezsem bunu söylemekten çekinmem; sınır koymak da sağlıklı bir tercih olabilir.",
+          "إذا لم أُرِد التحدث في موضوع ما، فلا أتردد في قول ذلك؛ ففرض الحدود قد يكون خيارًا صحيًا أيضًا.",
+          "بير كونوُدا كونوشماك إستمزم بونو سولِمكْتِن تشِكينمَم؛ سنِر كويماك دا صاغليقلي بير تِرجيه أولابيلير.",
+          "Bir konuda konuşmak istemezsem bunu söylemekten çekinmem; sınır koymak da sağlıklı bir tercih olabilir.",
+          "إذا لم أُرِد التحدث في موضوع ما، فلا أتردد في قول ذلك؛ ففرض الحدود قد يكون خيارًا صحيًا أيضًا."
+        ],
+        [
+          "Bazen sadece nefesime odaklanmak, günü yeniden toparlamam için yeterli oluyor.",
+          "أحيانًا يكفي أن أركز فقط على تنفسي كي أعيد ترتيب يومي من جديد.",
+          "بازن سادجه نِفِسيميَه أوداكلانماك، غونو يِنيِدن طوبارلامام إيتشين يَتِرلي أوليوُر.",
+          "Bazen sadece nefesime odaklanmak, günü yeniden toparlamam için yeterli oluyor.",
+          "أحيانًا يكفي أن أركز فقط على تنفسي كي أعيد ترتيب يومي من جديد."
+        ]
+      ]
+    },
+    {
+      "topic": "التوازن بين العمل والحياة",
+      "words": [
+        [
+          "İşten sonra e-postalara bakmamak zor geliyor, fakat akşamı kendime ayırınca daha üretken oluyorum.",
+          "يبدو من الصعب ألا أراجع البريد بعد العمل، لكنني عندما أخصص المساء لنفسي أصبح أكثر إنتاجية.",
+          "إشتن سونا إيه-بوستالارا باقماكماك زور غليور، فقات عَكشامي كنديميَه آيِرِنجا داهَا يوريتكن أوليوُروم.",
+          "İşten sonra e-postalara bakmamak zor geliyor, fakat akşamı kendime ayırınca daha üretken oluyorum.",
+          "يبدو من الصعب ألا أراجع البريد بعد العمل، لكنني عندما أخصص المساء لنفسي أصبح أكثر إنتاجية."
+        ],
+        [
+          "Mesai saatleri uzadıkça ekip performansı artmıyor; tam tersine, herkesin dikkati dağılıyor.",
+          "كلما طالت ساعات العمل لم يرتفع أداء الفريق؛ بل على العكس، يتشتت انتباه الجميع.",
+          "مِساي ساعتلري أوزادِكجا إكيب بروفورمانسي آرتميور؛ تام تِرسِنه، هركسين دِكاتي داغليوُر.",
+          "Mesai saatleri uzadıkça ekip performansı artmıyor; tam tersine, herkesin dikkati dağılıyor.",
+          "كلما طالت ساعات العمل لم يرتفع أداء الفريق؛ بل على العكس، يتشتت انتباه الجميع."
+        ],
+        [
+          "Hafta sonunu tamamen işle doldurmak yerine biraz boş zaman bırakmak, pazartesiye daha iyi başlamamı sağlıyor.",
+          "بدلًا من ملء عطلة الأسبوع بالعمل بالكامل، فإن ترك بعض الوقت الفارغ يساعدني على بدء الاثنين بشكل أفضل.",
+          "هافتا صونوونو تامامِن إشلِ دولدورماك يرينه بيراز بوش زمان بريكماك، بازارتِسييه داهَا إيي باشلامامي ساغليور.",
+          "Hafta sonunu tamamen işle doldurmak yerine biraz boş zaman bırakmak, pazartesiye daha iyi başlamamı sağlıyor.",
+          "بدلًا من ملء عطلة الأسبوع بالعمل بالكامل، فإن ترك بعض الوقت الفارغ يساعدني على بدء الاثنين بشكل أفضل."
+        ],
+        [
+          "Uzaktan çalışma bana esneklik verdi, ama sınırlar net olmazsa ev hayatı çabuk etkileniyor.",
+          "منحني العمل عن بُعد مرونة، لكن إن لم تكن الحدود واضحة فإن الحياة المنزلية تتأثر بسرعة.",
+          "أوزاكتان جاليشما بانا إسنْكليك فيردي، أما سنرلار نيت أولماسا إيف هاياتي جابوق إثكلنيوُر.",
+          "Uzaktan çalışma bana esneklik verdi, ama sınırlar net olmazsa ev hayatı çabuk etkileniyor.",
+          "منحني العمل عن بُعد مرونة، لكن إن لم تكن الحدود واضحة فإن الحياة المنزلية تتأثر بسرعة."
+        ],
+        [
+          "Yöneticimden net öncelikler istemek, karmaşık işleri daha sakin yönetmeme yardım ediyor.",
+          "طلب أولويات واضحة من مديري يساعدني على إدارة الأعمال المعقدة بهدوء أكبر.",
+          "يُونِتجيمدن نيت أونجِليكلر إستمك، كارماشيق إشلِري داهَا ساكين يُونِتْمِمه ياردم إديوُر.",
+          "Yöneticimden net öncelikler istemek, karmaşık işleri daha sakin yönetmeme yardım ediyor.",
+          "طلب أولويات واضحة من مديري يساعدني على إدارة الأعمال المعقدة بهدوء أكبر."
+        ],
+        [
+          "Özel hayatımı korumak için bazı toplantılara itiraz ediyorum; bunu saygısızlık değil, denge olarak görüyorum.",
+          "أعترض على بعض الاجتماعات لحماية حياتي الخاصة؛ وأرى ذلك توازنًا لا قلة احترام.",
+          "أوزَل هاياتيمي كوروماك إيتشين بازِ طوبلانتيلا را إيتيراز إيديوُروم؛ بونو سايغيسيزليق دييل، دينغي أولاراك غوريوُروم.",
+          "Özel hayatımı korumak için bazı toplantılara itiraz ediyorum; bunu saygısızlık değil, denge olarak görüyorum.",
+          "أعترض على بعض الاجتماعات لحماية حياتي الخاصة؛ وأرى ذلك توازنًا لا قلة احترام."
+        ],
+        [
+          "Her şeye yetişmeye çalışırsam kalite düşüyor, bu yüzden bazı görevleri devretmeyi öğreniyorum.",
+          "إذا حاولت اللحاق بكل شيء فإن الجودة تنخفض، ولذلك أتعلم تفويض بعض المهام.",
+          "هر شييه يِتِشمَيَه جالِشِرسَم كاليتِه دوشيوُر، بو يوزدن بازِ غوريفلِري دِفْرِتْمَيَه أونرِنيوُروم.",
+          "Her şeye yetişmeye çalışırsam kalite düşüyor, bu yüzden bazı görevleri devretmeyi öğreniyorum.",
+          "إذا حاولت اللحاق بكل شيء فإن الجودة تنخفض، ولذلك أتعلم تفويض بعض المهام."
+        ],
+        [
+          "Kısa molalar vermek verimsizlik gibi görünse de, uzun vadede odaklanmamı güçlendiriyor.",
+          "قد تبدو الاستراحات القصيرة كأنها تقليل للإنتاجية، لكنها تقوّي تركيزي على المدى الطويل.",
+          "قيشا مولالار فِرمِك فيريمسزليك غيبي غورونسه ده، أوزون فادده أوداكلانمامِي جوچلندِريور.",
+          "Kısa molalar vermek verimsizlik gibi görünse de, uzun vadede odaklanmamı güçlendiriyor.",
+          "قد تبدو الاستراحات القصيرة كأنها تقليل للإنتاجية، لكنها تقوّي تركيزي على المدى الطويل."
+        ],
+        [
+          "Ailemle akşam yemeği yemek, iş baskısının dışında kalmamı ve daha dengeli hissetmemi sağlıyor.",
+          "تناول العشاء مع عائلتي يساعدني على الابتعاد عن ضغط العمل والشعور بتوازن أكبر.",
+          "آيلملَه عَكشام يِمِغي يِمِك، إيش باسقيسينين دیشيندا كالمامي و داهَا دِنغِلي هِسِّتمَمي ساغليور.",
+          "Ailemle akşam yemeği yemek, iş baskısının dışında kalmamı ve daha dengeli hissetmemi sağlıyor.",
+          "تناول العشاء مع عائلتي يساعدني على الابتعاد عن ضغط العمل والشعور بتوازن أكبر."
+        ],
+        [
+          "İyi bir iş-yaşam dengesi, maaştan önce gelip geçici olmayan bir huzur veriyor.",
+          "إن التوازن الجيد بين العمل والحياة يمنح راحة دائمة تسبق الراتب وتفوقه أهمية.",
+          "يي بير إيش-ياشام دِنْغِسِ، ماعاشتان أونجه غِليب غيچِجي أولمايان بير هوزور فيريور.",
+          "İyi bir iş-yaşam dengesi, maaştan önce gelip geçici olmayan bir huzur veriyor.",
+          "إن التوازن الجيد بين العمل والحياة يمنح راحة دائمة تسبق الراتب وتفوقه أهمية."
+        ]
+      ]
+    },
+    {
+      "topic": "حماية البيئة",
+      "words": [
+        [
+          "Toplu taşımayı seçmek küçük bir adım gibi görünebilir, ama şehir havasını hissedilir biçimde iyileştiriyor.",
+          "قد يبدو اختيار النقل العام خطوة صغيرة، لكنه يحسن هواء المدينة بشكل ملحوظ.",
+          "طوبلو تاشيمائي سِتشْمك كوجوك بير أدام غيبي غورونِبيلير، أما شهير هافاسيني هيسديلير بيجيمده إييليشْتِريور.",
+          "Toplu taşımayı seçmek küçük bir adım gibi görünebilir, ama şehir havasını hissedilir biçimde iyileştiriyor.",
+          "قد يبدو اختيار النقل العام خطوة صغيرة، لكنه يحسن هواء المدينة بشكل ملحوظ."
+        ],
+        [
+          "Plastik kullanımı azalınca alışveriş biraz zahmetli oluyor, fakat çöp miktarı da belirgin şekilde düşüyor.",
+          "عندما يقل استخدام البلاستيك تصبح التسوق أكثر مشقة قليلًا، لكن كمية النفايات تنخفض بوضوح.",
+          "بلاستيك كوللانيُمي آزالِنجا آليشفيريش بيراز زاهْمتلي أوليوُر، فقاط شوب ميقداري دا بِلِرغِين شكِيلده دوشيوُر.",
+          "Plastik kullanımı azalınca alışveriş biraz zahmetli oluyor, fakat çöp miktarı da belirgin şekilde düşüyor.",
+          "عندما يقل استخدام البلاستيك تصبح التسوق أكثر مشقة قليلًا، لكن كمية النفايات تنخفض بوضوح."
+        ],
+        [
+          "Enerji tasarrufu için evdeki küçük alışkanlıkları değiştirmek, çoğu zaman büyük yatırımlardan daha etkili.",
+          "تغيير العادات الصغيرة في المنزل لتوفير الطاقة غالبًا ما يكون أكثر فاعلية من الاستثمارات الكبيرة.",
+          "إِنَرجي تاساروفو إيتشين إيفدكي كوجوك آليشكانليكларِي دِغيشتِرمك، تشوهو زمان بويوك ياتيرِملاردان داهَا إثكِلي.",
+          "Enerji tasarrufu için evdeki küçük alışkanlıkları değiştirmek, çoğu zaman büyük yatırımlardan daha etkili.",
+          "تغيير العادات الصغيرة في المنزل لتوفير الطاقة غالبًا ما يكون أكثر فاعلية من الاستثمارات الكبيرة."
+        ],
+        [
+          "Bazıları çevre kurallarını pahalı buluyor, ancak zarar büyüdüğünde ödenen bedel çok daha yüksek oluyor.",
+          "يرى بعض الناس أن القواعد البيئية مكلفة، لكن عندما يتفاقم الضرر تكون الكلفة المدفوعة أعلى بكثير.",
+          "بازيلاري تشفْري كوراللاريني بَهَالِي بوليوُر، أنجاق زَرَر بويودوغوندِه أودينن بدِل تشوك داهَا يوكْسِك أوليوُر.",
+          "Bazıları çevre kurallarını pahalı buluyor, ancak zarar büyüdüğünde ödenen bedel çok daha yüksek oluyor.",
+          "يرى بعض الناس أن القواعد البيئية مكلفة، لكن عندما يتفاقم الضرر تكون الكلفة المدفوعة أعلى بكثير."
+        ],
+        [
+          "Mahallemizdeki ağaçları korumak, sadece gölge sağlamakla kalmıyor, kuşları da geri çekiyor.",
+          "حماية الأشجار في حيّنا لا توفر الظل فحسب، بل تجذب الطيور أيضًا.",
+          "ماهلّمزدكي آغاتشلارِي كورومك، سادجه غولغه ساغلاماكلا كالميوُر، كوشلاري دا غيري تشكيور.",
+          "Mahallemizdeki ağaçları korumak, sadece gölge sağlamakla kalmıyor, kuşları da geri çekiyor.",
+          "حماية الأشجار في حيّنا لا توفر الظل فحسب، بل تجذب الطيور أيضًا."
+        ],
+        [
+          "Yağmur suyunu biriktirmek, kurak günlerde hem bütçeyi hem de kaynakları rahatlatıyor.",
+          "تجميع مياه المطر يخفف العبء عن الميزانية والموارد معًا في الأيام الجافة.",
+          "ياعمور سويونو بيريكْتِرمك، كوراق غونلردَه هِم بوتجهييه هِم ده كايناكلاري راحاتلاتيوُر.",
+          "Yağmur suyunu biriktirmek, kurak günlerde hem bütçeyi hem de kaynakları rahatlatıyor.",
+          "تجميع مياه المطر يخفف العبء عن الميزانية والموارد معًا في الأيام الجافة."
+        ],
+        [
+          "Çevreci ürünleri almak her zaman kolay değil, fakat talep arttıkça seçenekler de çoğalıyor.",
+          "شراء المنتجات الصديقة للبيئة ليس سهلًا دائمًا، لكن الخيارات تزداد مع ارتفاع الطلب.",
+          "تشفْريجي أورونلري آلكماك هر زمان كولاي دييل، فقاط طَلِب آرتْتيكجا سِجِنكلر ده تشوغاليور.",
+          "Çevreci ürünleri almak her zaman kolay değil, fakat talep arttıkça seçenekler de çoğalıyor.",
+          "شراء المنتجات الصديقة للبيئة ليس سهلًا دائمًا، لكن الخيارات تزداد مع ارتفاع الطلب."
+        ],
+        [
+          "Kısa mesafede araba kullanmak yerine yürümek, hem sağlık hem de doğa için mantıklı geliyor.",
+          "المشي بدلًا من استخدام السيارة في المسافات القصيرة يبدو منطقيًا للصحة والطبيعة معًا.",
+          "قيشا مِسافِدَه آرابا كوللانماك يرينه يوروُمَك، هِم صاغليق هِم ده دوغا إيتشين مانتِقلي غليور.",
+          "Kısa mesafede araba kullanmak yerine yürümek, hem sağlık hem de doğa için mantıklı geliyor.",
+          "المشي بدلًا من استخدام السيارة في المسافات القصيرة يبدو منطقيًا للصحة والطبيعة معًا."
+        ],
+        [
+          "Atıkları ayırmak biraz disiplin istiyor; yine de belediyenin işini kolaylaştırdığı açık.",
+          "فرز النفايات يتطلب بعض الانضباط؛ ومع ذلك فمن الواضح أنه يسهل عمل البلدية.",
+          "آتِقْلارِي آيِرماك بيراز ديسيبلين إستيور؛ ييني ده بلدييين إيشيني كولايلاشتيردغي آشيق.",
+          "Atıkları ayırmak biraz disiplin istiyor; yine de belediyenin işini kolaylaştırdığı açık.",
+          "فرز النفايات يتطلب بعض الانضباط؛ ومع ذلك فمن الواضح أنه يسهل عمل البلدية."
+        ],
+        [
+          "Doğayı sadece sevmek yetmez, onu günlük kararlarımızla da korumamız gerekiyor.",
+          "مجرد حب الطبيعة لا يكفي، بل يجب أن نحميها أيضًا بقراراتنا اليومية.",
+          "دوغايي سادجه سِفْمِك يَتمَز، أونو غونلوك قارارلارمزلا دا كورومامز غيركيور.",
+          "Doğayı sadece sevmek yetmez, onu günlük kararlarımızla da korumamız gerekiyor.",
+          "مجرد حب الطبيعة لا يكفي، بل يجب أن نحميها أيضًا بقراراتنا اليومية."
+        ]
+      ]
+    },
+    {
+      "topic": "الاستهلاك المسؤول",
+      "words": [
+        [
+          "İndirim gördüğümde hemen almak yerine ihtiyacımı sorguluyorum, çünkü ucuz olan her şey gerçekten gerekli değil.",
+          "عندما أرى خصمًا لا أشتري فورًا بل أسأل عن حاجتي، لأن كل شيء رخيص ليس ضروريًا حقًا.",
+          "إندِريم غورْدومده هِمن آلمك يرينه إهْتيياجيمي سورغولويوُروم، تشونكو أوجوز أولان هر شيي غيرجِكْتن غيركلي دييل.",
+          "İndirim gördüğümde hemen almak yerine ihtiyacımı sorguluyorum, çünkü ucuz olan her şey gerçekten gerekli değil.",
+          "عندما أرى خصمًا لا أشتري فورًا بل أسأل عن حاجتي، لأن كل شيء رخيص ليس ضروريًا حقًا."
+        ],
+        [
+          "Kaliteli bir ürün daha pahalı olabilir, fakat sık sık yenisini almaktan çoğu zaman daha ekonomiktir.",
+          "قد يكون المنتج الجيد أغلى، لكنه غالبًا أكثر اقتصادية من شراء بديل جديد مرارًا.",
+          "كاليتِلي بير اورون داهَا پاهالِي أولابيلير، فقاط سيق سيق يِنِيسيني آلمكتان تشوهو زمان داهَا إكونومِكْتِر.",
+          "Kaliteli bir ürün daha pahalı olabilir, fakat sık sık yenisini almaktan çoğu zaman daha ekonomiktir.",
+          "قد يكون المنتج الجيد أغلى، لكنه غالبًا أكثر اقتصادية من شراء بديل جديد مرارًا."
+        ],
+        [
+          "Marka takıntısı yüzünden bütçemi aşmak istemiyorum; çünkü stil, borca girmekten daha önemli değil.",
+          "لا أريد تجاوز ميزانيتي بسبب هوس العلامات التجارية؛ لأن الأناقة ليست أهم من الوقوع في الديون.",
+          "ماركا طاقِنتِسي يوزوندِن بوتچَمي آشماك إستميوُروم؛ چونكو ستيل، بورجا غِرمكتن داهَا أونِملي دييل.",
+          "Marka takıntısı yüzünden bütçemi aşmak istemiyorum; çünkü stil, borca girmekten daha önemli değil.",
+          "لا أريد تجاوز ميزانيتي بسبب هوس العلامات التجارية؛ لأن الأناقة ليست أهم من الوقوع في الديون."
+        ],
+        [
+          "Bir şeyi tamir ettirmek, yenisini almak kadar heyecanlı görünmeyebilir, ama kaynakları korur.",
+          "قد لا يبدو إصلاح شيء ما مثيرًا مثل شراء جديد، لكنه يحافظ على الموارد.",
+          "بير شييِي تامير إثْتِرْمك، يِنِيسيني آلمك قدَر هيجانْلي غورونمَيَبيلير، أما كايناكلارِي كورور.",
+          "Bir şeyi tamir ettirmek, yenisini almak kadar heyecanlı görünmeyebilir, ama kaynakları korur.",
+          "قد لا يبدو إصلاح شيء ما مثيرًا مثل شراء جديد، لكنه يحافظ على الموارد."
+        ],
+        [
+          "Online alışverişi azaltınca dürtüsel harcamalarım da düştü ve ay sonunda rahatladım.",
+          "عندما قللت التسوق عبر الإنترنت انخفضت مشترياتي الاندفاعية أيضًا، وشعرت براحة في نهاية الشهر.",
+          "أونلاين آليشْفيريشي آزالتِنجا دورتوْسل هارجامالاريم دا دوشْتو و آي صونووندا راحاتلادم.",
+          "Online alışverişi azaltınca dürtüsel harcamalarım da düştü ve ay sonunda rahatladım.",
+          "عندما قللت التسوق عبر الإنترنت انخفضت مشترياتي الاندفاعية أيضًا، وشعرت براحة في نهاية الشهر."
+        ],
+        [
+          "Sırf trend diye bir şey almak bana mantıklı gelmiyor; kullanım değeri yoksa beklemeyi seçiyorum.",
+          "لا يبدو لي منطقيًا شراء شيء فقط لأنه رائج؛ إذا لم تكن له قيمة استخدام فأنا أفضّل الانتظار.",
+          "صِرف ترِند دِييه بير شيي آلمك بانا مانتِقلي غِلميوُر؛ كوللانِم دِيِري يوكسا بِكْلمَيِي سِتشيوُروم.",
+          "Sırf trend diye bir şey almak bana mantıklı gelmiyor; kullanım değeri yoksa beklemeyi seçiyorum.",
+          "لا يبدو لي منطقيًا شراء شيء فقط لأنه رائج؛ إذا لم تكن له قيمة استخدام فأنا أفضّل الانتظار."
+        ],
+        [
+          "Aynı işi yapan iki cihaz varsa, daha az enerji tüketeni tercih etmek uzun vadede kazandırıyor.",
+          "إذا وُجد جهازان يؤديان الوظيفة نفسها، فإن اختيار الأقل استهلاكًا للطاقة يربح على المدى الطويل.",
+          "آيني إشي يابان إكي جِهاز فارسا، داهَا آز إينَرجي توكِتِني تِرجِه إثْمِك أوزون فادده كازاندِريور.",
+          "Aynı işi yapan iki cihaz varsa, daha az enerji tüketeni tercih etmek uzun vadede kazandırıyor.",
+          "إذا وُجد جهازان يؤديان الوظيفة نفسها، فإن اختيار الأقل استهلاكًا للطاقة يربح على المدى الطويل."
+        ],
+        [
+          "İkinci el alışveriş, hem bütçeyi rahatlatıyor hem de eşyaların ömrünü uzatıyor.",
+          "التسوق من المستعمل يخفف الضغط على الميزانية ويطيل عمر الأغراض أيضًا.",
+          "إيكينجي إل آليشْفيريش، هِم بوتچَيي راحاتلاتيوُر هِم ده إيشيالارِن أومرونو أوزاتيوُر.",
+          "İkinci el alışveriş, hem bütçeyi rahatlatıyor hem de eşyaların ömrünü uzatıyor.",
+          "التسوق من المستعمل يخفف الضغط على الميزانية ويطيل عمر الأغراض أيضًا."
+        ],
+        [
+          "Reklamlar bazen ihtiyacımız olmayan şeyleri cazip gösteriyor, bu yüzden biraz mesafe iyi geliyor.",
+          "الإعلانات أحيانًا تجعل الأشياء غير الضرورية تبدو جذابة، ولذلك فإن بعض المسافة مفيد.",
+          "رِكلاملار بازن إهْتيياجِمز أولمايان شييلري جازِب غوسْتِريور، بو يوزدن بيراز مِسافه إيي غليور.",
+          "Reklamlar bazen ihtiyacımız olmayan şeyleri cazip gösteriyor, bu yüzden biraz mesafe iyi geliyor.",
+          "الإعلانات أحيانًا تجعل الأشياء غير الضرورية تبدو جذابة، ولذلك فإن بعض المسافة مفيد."
+        ],
+        [
+          "Bilinçli tüketim, hayatı sıkıcılaştırmak değil; neye gerçekten para verdiğimizi fark etmek demek.",
+          "الاستهلاك الواعي ليس جعل الحياة مملة؛ بل يعني إدراك ما الذي ندفع المال مقابله حقًا.",
+          "بيلينتشلي توكِتيم، هاياتي سيكِجِلاشتيرماك دييل؛ نييَه غيرجِكتن بَرا فِردغيْمِزي فَرك إثْمِك دِمِك.",
+          "Bilinçli tüketim, hayatı sıkıcılaştırmak değil; neye gerçekten para verdiğimizi fark etmek demek.",
+          "الاستهلاك الواعي ليس جعل الحياة مملة؛ بل يعني إدراك ما الذي ندفع المال مقابله حقًا."
+        ]
+      ]
+    },
+    {
+      "topic": "الابتكار والتغيير",
+      "words": [
+        [
+          "Yeni bir yazılım çıktığında önce denemek istiyorum, çünkü değişimin sunduğu fırsatlar bazen tahminimden büyük oluyor.",
+          "عندما يظهر برنامج جديد أريد تجربته أولًا، لأن الفرص التي يقدمها التغيير تكون أحيانًا أكبر مما أتوقع.",
+          "يِني بير يازِليم جِكتِغْنده أونجه دِنِمك إستيوروم، چونكو دِييشيمن سوندوغو فورصاتلار بازن تاهمينيمدن بويوك أوليوُر.",
+          "Yeni bir yazılım çıktığında önce denemek istiyorum, çünkü değişimin sunduğu fırsatlar bazen tahminimden büyük oluyor.",
+          "عندما يظهر برنامج جديد أريد تجربته أولًا، لأن الفرص التي يقدمها التغيير تكون أحيانًا أكبر مما أتوقع."
+        ],
+        [
+          "Küçük bir süreç iyileştirmesi bile, ekip içinde haftalarca zaman kazandırabiliyor.",
+          "حتى تحسين صغير في العملية قد يوفر على الفريق وقتًا لأسابيع.",
+          "كوجوك بير سورِج إييليشتيرمِسي بيلي، إكيب إيتشينده هافتالارجا زمان كازاندِريبيليوُر.",
+          "Küçük bir süreç iyileştirmesi bile, ekip içinde haftalarca zaman kazandırabiliyor.",
+          "حتى تحسين صغير في العملية قد يوفر على الفريق وقتًا لأسابيع."
+        ],
+        [
+          "Her teknolojik yeniliği sorgusuz kabul etmek doğru değil, ama yeniliğe kapalı kalmak da riskli.",
+          "ليس من الصحيح قبول كل ابتكار تقني بلا سؤال، لكن الانغلاق أمام الجديد أيضًا مخاطرة.",
+          "هر تكنولوجيك يِنِيلِغي سورغوسوز قَبول إثْمِك دوغرو دييل، أما يِنِلييه قَبَلي كالمك دا رِسقلي.",
+          "Her teknolojik yeniliği sorgusuz kabul etmek doğru değil, ama yeniliğe kapalı kalmak da riskli.",
+          "ليس من الصحيح قبول كل ابتكار تقني بلا سؤال، لكن الانغلاق أمام الجديد أيضًا مخاطرة."
+        ],
+        [
+          "Bir fikri erkenden paylaşmak, eleştiri alsa da projeyi daha sağlam hale getirebilir.",
+          "مشاركة فكرة مبكرًا قد تجعل المشروع أقوى حتى لو تلقى نقدًا.",
+          "بير فِكري إِركندن بالاشماك، إلهشتيري آلسا دا بروجِيي داهَا ساغلام حاله غيتِريبيلير.",
+          "Bir fikri erkenden paylaşmak, eleştiri alsa da projeyi daha sağlam hale getirebilir.",
+          "مشاركة فكرة مبكرًا قد تجعل المشروع أقوى حتى لو تلقى نقدًا."
+        ],
+        [
+          "Bence iyi lider, eski yöntemleri bütünüyle reddetmez; işe yarayanı koruyup yeniyi dikkatle ekler.",
+          "في رأيي، القائد الجيد لا يرفض الأساليب القديمة بالكامل؛ بل يحافظ على النافع ويضيف الجديد بحذر.",
+          "بَنْجَه يي لِيدَر، إسكِي يُونتِملِري بوتونويله رِدِّتْمَز؛ إيشه يارانِي كورويُب يِنِيي دِكاتلَه إكلر.",
+          "Bence iyi lider, eski yöntemleri bütünüyle reddetmez; işe yarayanı koruyup yeniyi dikkatle ekler.",
+          "في رأيي، القائد الجيد لا يرفض الأساليب القديمة بالكامل؛ بل يحافظ على النافع ويضيف الجديد بحذر."
+        ],
+        [
+          "Değişim bazen insanı tedirgin eder, fakat aynı düzeni sürdürmek de gelişimi yavaşlatır.",
+          "أحيانًا يسبب التغيير القلق، لكن الاستمرار في النظام نفسه يبطئ التطور أيضًا.",
+          "دِغيشيـم بازن إينسانِي تِدِرغين إدَر، فقاط آيني دوزني سوردورمك دا غِليشيمي يافاشلاتِر.",
+          "Değişim bazen insanı tedirgin eder, fakat aynı düzeni sürdürmek de gelişimi yavaşlatır.",
+          "أحيانًا يسبب التغيير القلق، لكن الاستمرار في النظام نفسه يبطئ التطور أيضًا."
+        ],
+        [
+          "Sadece hızlı olmak değil, kullanıcıya gerçekten kolaylık sağlamak da yeniliğin parçası.",
+          "ليس السرعة وحدها مهمة، بل إن توفير السهولة الحقيقية للمستخدم جزء من الابتكار أيضًا.",
+          "سادجه هِزلِي أولماك دييل، كوللانِجِييا غيرجِكتن كولايليق ساغلاماك دا يِنِليغِن پارجاسي.",
+          "Sadece hızlı olmak değil, kullanıcıya gerçekten kolaylık sağlamak da yeniliğin parçası.",
+          "ليس السرعة وحدها مهمة، بل إن توفير السهولة الحقيقية للمستخدم جزء من الابتكار أيضًا."
+        ],
+        [
+          "Eğer bir sistem hata veriyorsa, suçlu aramak yerine kök nedeni bulmaya çalışmak daha faydalı.",
+          "إذا كان النظام يخطئ، فمن الأفضل البحث عن السبب الجذري بدلًا من البحث عن مذنب.",
+          "إيهر بير سِستِم هاتا فِريوسا، سوجلو آراماك يرينه كوك نِدِني بولمايا جالِشماك داهَا فايْدالِي.",
+          "Eğer bir sistem hata veriyorsa, suçlu aramak yerine kök nedeni bulmaya çalışmak daha faydalı.",
+          "إذا كان النظام يخطئ، فمن الأفضل البحث عن السبب الجذري بدلًا من البحث عن مذنب."
+        ],
+        [
+          "İşlerin yolunda gitmesi için bazen alışkanlıkları değiştirmek gerekir, yoksa fırsat kaçabiliyor.",
+          "لكي تسير الأمور بشكل جيد، يجب أحيانًا تغيير العادات، وإلا تضيع الفرص.",
+          "إشلِرِن يولوندا غِتمِسي إيتشين بازن آليشكانليقلاري دِغيشتِرمك غيركير، يوخسا فورصات كاتشيبِلِيوُر.",
+          "İşlerin yolunda gitmesi için bazen alışkanlıkları değiştirmek gerekir, yoksa fırsat kaçabiliyor.",
+          "لكي تسير الأمور بشكل جيد، يجب أحيانًا تغيير العادات، وإلا تضيع الفرص."
+        ],
+        [
+          "Benim için inovasyon, gösterişli fikirlerden çok günlük hayatı kolaylaştıran çözümlerdir.",
+          "بالنسبة لي، الابتكار ليس الأفكار البراقة بل الحلول التي تسهل الحياة اليومية.",
+          "بِنيم إتشين إينوفاسيون، غوستِرشلي فِكِرلردن تشوك غونلوك هاياتي كولايلاشتِران تشوزوملردير.",
+          "Benim için inovasyon, gösterişli fikirlerden çok günlük hayatı kolaylaştıran çözümlerdir.",
+          "بالنسبة لي، الابتكار ليس الأفكار البراقة بل الحلول التي تسهل الحياة اليومية."
+        ]
+      ]
+    },
+    {
+      "topic": "قراءة الأخبار بوعي",
+      "words": [
+        [
+          "Haberi okudum ama başlığa değil, kaynağa ve tarihe bakmadan karar vermem.",
+          "قرأت الخبر، لكنني لا أقرر قبل أن أنظر إلى kaynağa ve tarihe değil, kaynağa ve tarihe bakmadan karar vermem.",
+          "هابري أوكودوم أما باشلِيغا دييل، كايناğa ve tarihe bakmadan karar vermem.",
+          "Haberi okudum ama başlığa değil, kaynağa ve tarihe bakmadan karar vermem.",
+          "قرأت الخبر، لكنني لا أقرر قبل أن أنظر إلى kaynağa ve tarihe değil, kaynağa ve tarihe bakmadan karar vermem."
+        ],
+        [
+          "Sosyal medyada aynı haber hızla yayılıyor, fakat doğrulama yapılmadan paylaşınca yanlış algı oluşabiliyor.",
+          "على وسائل التواصل الاجتماعي ينتشر الخبر نفسه بسرعة، لكن عندما يُنشر دون التحقق قد يتكوّن انطباع خاطئ.",
+          "سوسيال مِدَادَا آيني هابر حِزلَا يايليور، فاكات دوغْرولاما يابيلمادان بايلاشِنچا يانليش ألغي أوْلُشابيلييور.",
+          "Sosyal medyada aynı haber hızla yayılıyor, fakat doğrulama yapılmadan paylaşınca yanlış algı oluşabiliyor.",
+          "على وسائل التواصل الاجتماعي ينتشر الخبر نفسه بسرعة، لكن عندما يُنشر دون التحقق قد يتكوّن انطباع خاطئ."
+        ],
+        [
+          "Bir iddia ne kadar dikkat çekse de, farklı kaynaklar aynı şeyi söylemiyorsa temkinli olmak gerekir.",
+          "مهما كان الادعاء لافتًا، إذا لم تذكره مصادر مختلفة بالطريقة نفسها، فيلزم التريث.",
+          "بير إدّيا نه كادار ديكات تشيكسه ده، فاركلي كايناكلار آيني شَيِي سويليميوسَا تمكينلي أولماك غيركير.",
+          "Bir iddia ne kadar dikkat çekse de, farklı kaynaklar aynı şeyi söylemiyorsa temkinli olmak gerekir.",
+          "مهما كان الادعاء لافتًا، إذا لم تذكره مصادر مختلفة بالطريقة نفسها، فيلزم التريث."
+        ],
+        [
+          "Haberde kullanılan dil çok kesin görünüyorsa, bunun yoruma mı yoksa kanıta mı dayandığını sorgularım.",
+          "إذا بدا لغة الخبر قاطعة جدًا، فإنني أتساءل هل تستند إلى تفسير أم إلى دليل.",
+          "هابرده كوللانيان ديل تشوك كسين غورونويورسَا، بونون يورومَا مي يوكسا كانِيتَا مي داياندِيغْنِي سورغولارِم.",
+          "Haberde kullanılan dil çok kesin görünüyorsa, bunun yoruma mı yoksa kanıta mı dayandığını sorgularım.",
+          "إذا بدا لغة الخبر قاطعة جدًا، فإنني أتساءل هل تستند إلى تفسير أم إلى دليل."
+        ],
+        [
+          "Bir olayın tek yönünü okumak kolaydır, ama arka planı bilmeden sağlıklı bir görüş oluşmaz.",
+          "قراءة جانب واحد من حدث ما أمر سهل، لكن لا يتكون رأي سليم من دون معرفة الخلفية.",
+          "بير أولايِن تك يونوونو أوكومَك كولايدِر، أما أركا بلاني بيلمَدن صاغلِكلِ بير غوروش أولُشماز.",
+          "Bir olayın tek yönünü okumak kolaydır, ama arka planı bilmeden sağlıklı bir görüş oluşmaz.",
+          "قراءة جانب واحد من حدث ما أمر سهل، لكن لا يتكون رأي سليم من دون معرفة الخلفية."
+        ],
+        [
+          "Başlık çok çarpıcı olsa da, ayrıntıları okumadan haberin ne anlattığını tam anlayamam.",
+          "حتى لو كان العنوان مثيرًا جدًا، لا أستطيع فهم ما يقوله الخبر تمامًا من دون قراءة التفاصيل.",
+          "باشلِك تشوك تشاربِجي أولسا دا، آيرِنْتيلاَرِي أوكومَدان هابيرين نه أنلاتِّغْنِي تام أنلايامام.",
+          "Başlık çok çarpıcı olsa da, ayrıntıları okumadan haberin ne anlattığını tam anlayamam.",
+          "حتى لو كان العنوان مثيرًا جدًا، لا أستطيع فهم ما يقوله الخبر تمامًا من دون قراءة التفاصيل."
+        ],
+        [
+          "Bir uzman görüşü değerli olabilir, ancak tek bir yorumun tüm resmi verdiğini sanmam.",
+          "قد تكون آراء الخبير مفيدة، لكنني لا أظن أن تفسيرًا واحدًا يعرض الصورة كلها.",
+          "بير أوزمان غوروشو دِيجرْلي أولابيلير، أنجاك تك بير يورومون تون رَسمي فيرديغْنِي سانمام.",
+          "Bir uzman görüşü değerli olabilir, ancak tek bir yorumun tüm resmi verdiğini sanmam.",
+          "قد تكون آراء الخبير مفيدة، لكنني لا أظن أن تفسيرًا واحدًا يعرض الصورة كلها."
+        ],
+        [
+          "Haberi paylaşmadan önce biraz durup düşünmek, yanlış bilgiyi yaymaktan çok daha iyidir.",
+          "التوقف قليلًا للتفكير قبل مشاركة الخبر أفضل بكثير من نشر المعلومات الخاطئة.",
+          "هابيري بايلاشْمَدان أونجه بيراز دوروب دوشونمَك، يانليش بيلغِيَّي يايماكتان تشوك داهَا إيييدِر.",
+          "Haberi paylaşmadan önce biraz durup düşünmek, yanlış bilgiyi yaymaktan çok daha iyidir.",
+          "التوقف قليلًا للتفكير قبل مشاركة الخبر أفضل بكثير من نشر المعلومات الخاطئة."
+        ],
+        [
+          "Aynı olay farklı sitelerde değişik tonla anlatılınca, hepsini karşılaştırmadan kanaat getirmem.",
+          "عندما يروى الحدث نفسه بنبرة مختلفة في مواقع متعددة، لا أكتفي بما أقرأه من واحدة منها.",
+          "آيني أولاي فاركلي سيتيلرده ديغيشِك تونلا أنلاتِلِنچا، هبسيني كارشيلاشتِرمَدان قاناعت غيتِرمَم.",
+          "Aynı olay farklı sitelerde değişik tonla anlatılınca, hepsini karşılaştırmadan kanaat getirmem.",
+          "عندما يروى الحدث نفسه بنبرة مختلفة في مواقع متعددة، لا أكتفي بما أقرأه من واحدة منها."
+        ],
+        [
+          "Doğrulanmamış bir bilgi ilginç olabilir, fakat güvenilir değilse onu ciddiye almam.",
+          "قد تكون المعلومة غير الموثقة مثيرة للاهتمام، لكنها إذا لم تكن موثوقة فلا آخذها بجدية.",
+          "دوغرولانمامِش بير بيلغي إلغينتش أولابيلير، فاكات غوڤينيلير دييلسه أونو جِدّيِيه ألمام.",
+          "Doğrulanmamış bir bilgi ilginç olabilir, fakat güvenilir değilse onu ciddiye almam.",
+          "قد تكون المعلومة غير الموثقة مثيرة للاهتمام، لكنها إذا لم تكن موثوقة فلا آخذها بجدية."
+        ]
+      ]
+    },
+    {
+      "topic": "المقارنة بين البدائل",
+      "words": [
+        [
+          "Bu iki seçeneği karşılaştırınca, biri daha ucuz ama diğeri uzun vadede daha kullanışlı görünüyor.",
+          "عند مقارنة هذين الخيارين، يبدو أحدهما أرخص لكن الآخر أكثر فائدة على المدى الطويل.",
+          "بو إيكي سيچَنِئِي كارشيلاشتِرِنْجا، بيري داهَا أوجوز أما ديغيري أوزون فادَده داهَا كوللانِشْلِي غورونويو‌ر.",
+          "Bu iki seçeneği karşılaştırınca, biri daha ucuz ama diğeri uzun vadede daha kullanışlı görünüyor.",
+          "عند مقارنة هذين الخيارين، يبدو أحدهما أرخص لكن الآخر أكثر فائدة على المدى الطويل."
+        ],
+        [
+          "Tatil için şehir merkezi yerine sahil kasabasını seçebilirim, çünkü kalabalık beni yoruyor.",
+          "قد أختار بلدة ساحلية بدلًا من مركز المدينة لقضاء العطلة، لأن الازدحام يتعبني.",
+          "تاتيل إچين شهير مركَزِي يرينه ساحيل قَصَبَاسِنِي سيچَبيبيليريم، چونكو كالاﻻلِك بني يورويور.",
+          "Tatil için şehir merkezi yerine sahil kasabasını seçebilirim, çünkü kalabalık beni yoruyor.",
+          "قد أختار بلدة ساحلية بدلًا من مركز المدينة لقضاء العطلة، لأن الازدحام يتعبني."
+        ],
+        [
+          "Yeni telefonu alırken yalnızca fiyatı değil, pil ömrünü ve servis ağını da düşünmek gerekiyor.",
+          "عند شراء هاتف جديد، يجب التفكير ليس في السعر فقط بل أيضًا في عمر البطارية وشبكة الخدمة.",
+          "يني تليفونو ألِرْكِن يانِزجا فيياتِ دييل، پيل أومروونو ve سرويس آغْنِ دَه دوشونمَك غيركيور.",
+          "Yeni telefonu alırken yalnızca fiyatı değil, pil ömrünü ve servis ağını da düşünmek gerekiyor.",
+          "عند شراء هاتف جديد، يجب التفكير ليس في السعر فقط بل أيضًا في عمر البطارية وشبكة الخدمة."
+        ],
+        [
+          "Evde çalışmak rahat gibi görünse de, ofiste ekip iletişimi daha güçlü olabilir.",
+          "قد يبدو العمل من المنزل مريحًا، لكن التواصل داخل المكتب قد يكون أقوى.",
+          "إڤده تشالِشمَك راحات گيبي غورونسه ده، أوفيسته إكيب إيليتيشيمي داهَا غوجلو أولابيلير.",
+          "Evde çalışmak rahat gibi görünse de, ofiste ekip iletişimi daha güçlü olabilir.",
+          "قد يبدو العمل من المنزل مريحًا، لكن التواصل داخل المكتب قد يكون أقوى."
+        ],
+        [
+          "Bir seçenek kısa sürede sonuç veriyor, diğeriyse daha fazla emek istiyor ama daha kalıcı.",
+          "يحقق أحد الخيارين نتيجة بسرعة، بينما يحتاج الآخر إلى جهد أكبر لكنه أكثر دوامًا.",
+          "بير سيچَنكِ كِصا سودَده سونوج فيريور، ديغيريسه داهَا فازلا إمِك إيستِيور أما داهَا كالِجي.",
+          "Bir seçenek kısa sürede sonuç veriyor, diğeriyse daha fazla emek istiyor ama daha kalıcı.",
+          "يحقق أحد الخيارين نتيجة بسرعة، بينما يحتاج الآخر إلى جهد أكبر لكنه أكثر دوامًا."
+        ],
+        [
+          "Toplu taşıma ile gitmek ucuz, fakat aktarma yüzünden zaman kaybedebilirim.",
+          "الذهاب بوسائل النقل العام أرخص، لكنني قد أضيع وقتًا بسبب تبديل الوسائل.",
+          "توپلو تاشِما إيله غِتْمَك أوجوز، فاكات أكتارما يوزوندَن زمان كايبيدَبيبيليريم.",
+          "Toplu taşıma ile gitmek ucuz, fakat aktarma yüzünden zaman kaybedebilirim.",
+          "الذهاب بوسائل النقل العام أرخص، لكنني قد أضيع وقتًا بسبب تبديل الوسائل."
+        ],
+        [
+          "Sessiz bir yer istiyorsam, merkezi ofis yerine evden çalışmayı tercih ederim.",
+          "إذا كنت أريد مكانًا هادئًا، فأنا أفضل العمل من المنزل بدل المكتب المركزي.",
+          "سيسْسِز بير يير إيستيورسام، مركزي أوفيس يرينه إڤدَن تشالِشمَاِي تَرجِح إيدَرِم.",
+          "Sessiz bir yer istiyorsam, merkezi ofis yerine evden çalışmayı tercih ederim.",
+          "إذا كنت أريد مكانًا هادئًا، فأنا أفضل العمل من المنزل بدل المكتب المركزي."
+        ],
+        [
+          "Daha büyük bir araba konforlu olabilir, ama park etmek ve yakıt masrafı zorlar.",
+          "قد تكون السيارة الأكبر أكثر راحة، لكن ركنها وتكلفة الوقود قد يسببان صعوبة.",
+          "داهَا بويوك بير أرابا كونفورلو أولابيلير، أما پارك إتْمَك ve ياكِت ماسرافِ زورلار.",
+          "Daha büyük bir araba konforlu olabilir, ama park etmek ve yakıt masrafı zorlar.",
+          "قد تكون السيارة الأكبر أكثر راحة، لكن ركنها وتكلفة الوقود قد يسببان صعوبة."
+        ],
+        [
+          "Hızlı teslimat cazip, ancak ürünün sağlam gelmesi benim için daha önemli.",
+          "التسليم السريع مغرٍ، لكن وصول المنتج سليمًا أهم بالنسبة لي.",
+          "هِزلي تَسليمات جازِپ، أنجاك أوردونون صاغلام غيلمَسي بنيم إچين داهَا أونَمْلِي.",
+          "Hızlı teslimat cazip, ancak ürünün sağlam gelmesi benim için daha önemli.",
+          "التسليم السريع مغرٍ، لكن وصول المنتج سليمًا أهم بالنسبة لي."
+        ],
+        [
+          "İndirimli ürünü almak mantıklı olabilir, fakat kalitesinden emin değilsen beklemek daha doğru.",
+          "قد يكون شراء المنتج المخفّض منطقيًا، لكن إذا لم تكن متأكدًا من جودته فالأفضل الانتظار.",
+          "إنديريملي أوردونو ألمك مانتِكلِي أولابيلير، فاكات كاليتيزندن إمين دييسن بكمَك داهَا دوغرو.",
+          "İndirimli ürünü almak mantıklı olabilir, fakat kalitesinden emin değilsen beklemek daha doğru.",
+          "قد يكون شراء المنتج المخفّض منطقيًا، لكن إذا لم تكن متأكدًا من جودته فالأفضل الانتظار."
+        ]
+      ]
+    },
+    {
+      "topic": "تنظيم الحجج",
+      "words": [
+        [
+          "Bence bu proje yararlı, çünkü hem zamandan tasarruf sağlıyor hem de ekip içi iletişimi güçlendiriyor.",
+          "في رأيي هذا المشروع مفيد، لأنه يوفر الوقت ويقوي أيضًا التواصل داخل الفريق.",
+          "بنجه بو پروجه يارارلي، چونكو هم زماندان تاساروف صاغليور هم ده إكيب إيچي إيليتيشيمي قويشلندِريور.",
+          "Bence bu proje yararlı, çünkü hem zamandan tasarruf sağlıyor hem de ekip içi iletişimi güçlendiriyor.",
+          "في رأيي هذا المشروع مفيد، لأنه يوفر الوقت ويقوي أيضًا التواصل داخل الفريق."
+        ],
+        [
+          "Bazıları maliyetin yüksek olduğunu söylüyor, buna katılıyorum; yine de uzun vadeli kazanç bunu dengeleyebilir.",
+          "يقول بعضهم إن التكلفة مرتفعة، وأنا أوافق على ذلك؛ ومع هذا قد يعوّضه الربح على المدى الطويل.",
+          "بازيلاري مالييتِن يوكْسَك أولدوغونُ سويليور، بونا كاتِلييوروم؛ يينه ده أوزون فادَلي كازانج بونو دينغيلييبيليير.",
+          "Bazıları maliyetin yüksek olduğunu söylüyor, buna katılıyorum; yine de uzun vadeli kazanç bunu dengeleyebilir.",
+          "يقول بعضهم إن التكلفة مرتفعة، وأنا أوافق على ذلك؛ ومع هذا قد يعوّضه الربح على المدى الطويل."
+        ],
+        [
+          "Önce sorunu netleştirmeliyiz, sonra çözüm önerisini sunarsak tartışma daha verimli olur.",
+          "يجب أن نوضح المشكلة أولًا، ثم إذا قدمنا اقتراح الحل ستصبح المناقشة أكثر إنتاجية.",
+          "أونجه سورونو نيتلَشتِرمَلييِز، سونرا تشوزوم أونيريسينِ سونارساك تارتِشما داهَا فيرِملي أولور.",
+          "Önce sorunu netleştirmeliyiz, sonra çözüm önerisini sunarsak tartışma daha verimli olur.",
+          "يجب أن نوضح المشكلة أولًا، ثم إذا قدمنا اقتراح الحل ستصبح المناقشة أكثر إنتاجية."
+        ],
+        [
+          "Karşı tarafın endişesini ciddiye alıyorum, fakat önerdiğim yolun riskleri daha yönetilebilir.",
+          "آخذ مخاوف الطرف الآخر بجدية، لكن الطريق الذي أقترحه أخف من حيث المخاطر.",
+          "كارشي طرفِن إنديشسينِي جِدّيِيه أليوروم، فاكات أونَرديغيم يولون ريشكْلَري داهَا يونيتيليبيلير.",
+          "Karşı tarafın endişesini ciddiye alıyorum, fakat önerdiğim yolun riskleri daha yönetilebilir.",
+          "آخذ مخاوف الطرف الآخر بجدية، لكن الطريق الذي أقترحه أخف من حيث المخاطر."
+        ],
+        [
+          "Bir iddiayı savunurken örnek vermek, sadece genel sözlerden daha ikna edici oluyor.",
+          "عند الدفاع عن ادعاء ما، يكون إعطاء مثال أكثر إقناعًا من الكلام العام وحده.",
+          "بير إدِّيائِي سافونوركن أورنَك فيرمَك، سادجا گِنل سوزلَرْدَن داهَا إقناع إدِجي أولويور.",
+          "Bir iddiayı savunurken örnek vermek, sadece genel sözlerden daha ikna edici oluyor.",
+          "عند الدفاع عن ادعاء ما، يكون إعطاء مثال أكثر إقناعًا من الكلام العام وحده."
+        ],
+        [
+          "Önceliklerimizi sıralarsak, tartışma duygusal olmaktan çıkar ve daha açık hale gelir.",
+          "إذا رتبنا أولوياتنا، ستخرج المناقشة من الطابع العاطفي وتصبح أوضح.",
+          "أونجَليكْلَرِمِزي سِرالا‌رساك، تارتِشما دوغوسال أولماكتان تشِكار ve داهَا آشيك حالَ غِلير.",
+          "Önceliklerimizi sıralarsak, tartışma duygusal olmaktan çıkar ve daha açık hale gelir.",
+          "إذا رتبنا أولوياتنا، ستخرج المناقشة من الطابع العاطفي وتصبح أوضح."
+        ],
+        [
+          "Herkesin aynı fikirde olması gerekmez; önemli olan, farklı görüşleri saygıyla değerlendirmektir.",
+          "ليس من الضروري أن يوافق الجميع الرأي نفسه؛ المهم هو تقييم الآراء المختلفة باحترام.",
+          "هيركسِن آيني فيكيرده أولماسِ غيركميز؛ أونملي أولان، فاركلي غوروشلَري سايغيلا ديغيرلندِرمكتير.",
+          "Herkesin aynı fikirde olması gerekmez; önemli olan, farklı görüşleri saygıyla değerlendirmektir.",
+          "ليس من الضروري أن يوافق الجميع الرأي نفسه؛ المهم هو تقييم الآراء المختلفة باحترام."
+        ],
+        [
+          "Bir çözümü desteklerken veriye dayanmak, kişisel tercihlerden daha sağlam bir zemin sunar.",
+          "عند دعم حل ما، فإن الاستناد إلى البيانات يوفّر أساسًا أقوى من التفضيلات الشخصية.",
+          "بير تشوزومو دَستكلرْكِن فيرييې دايَنامَك، كيشي̇سيل ترجيحلَرْدَن داهَا صاغلام بير زيمين سونار.",
+          "Bir çözümü desteklerken veriye dayanmak, kişisel tercihlerden daha sağlam bir zemin sunar.",
+          "عند دعم حل ما، فإن الاستناد إلى البيانات يوفّر أساسًا أقوى من التفضيلات الشخصية."
+        ],
+        [
+          "İtirazlar geldiğinde savunmaya geçmek yerine, hangi noktaların zayıf olduğunu sorgulamak daha faydalı.",
+          "عندما تظهر الاعتراضات، يكون من المفيد أن نبحث عن النقاط الضعيفة بدلًا من اتخاذ موقف دفاعي.",
+          "إتيِرازلار غيلدِيغِنده سافونمامايَه جِچمَك ييرينه، هانگي نُكتالارِن زَييِف أولدوغونُ سورغولاماك داهَا فايْدالِي.",
+          "İtirazlar geldiğinde savunmaya geçmek yerine, hangi noktaların zayıf olduğunu sorgulamak daha faydalı.",
+          "عندما تظهر الاعتراضات، يكون من المفيد أن نبحث عن النقاط الضعيفة بدلًا من اتخاذ موقف دفاعي."
+        ],
+        [
+          "Karar vermeden önce artıları ve eksileri birlikte görmek, sonradan pişman olma riskini azaltır.",
+          "قبل اتخاذ القرار، رؤية الإيجابيات والسلبيات معًا تقلل خطر الندم لاحقًا.",
+          "كارار فيرمَدن أونجه آرتيلاري ve إكْسيلَري بئرليكته غورمَك، سونرَدان پِشمان أولما ريشكيني أزالتيور.",
+          "Karar vermeden önce artıları ve eksileri birlikte görmek, sonradan pişman olma riskini azaltır.",
+          "قبل اتخاذ القرار، رؤية الإيجابيات والسلبيات معًا تقلل خطر الندم لاحقًا."
+        ]
+      ]
+    },
+    {
+      "topic": "تفسير البيانات",
+      "words": [
+        [
+          "Grafiğe bakınca satışlar yükselmiş gibi görünüyor, ama bunun mevsimsel etki olup olmadığını kontrol etmek gerekir.",
+          "عند النظر إلى الرسم البياني تبدو المبيعات قد ارتفعت، لكن يجب التحقق مما إذا كان ذلك أثرًا موسميًا.",
+          "غرافِيه باكينجا ساتِشلار يوكسلمِش گيبي غورونويو‌ر، أما بونون مَوسِمسَل إتكي أولوب أولمادِيغْنِي كنترول إتمَك غيركير.",
+          "Grafiğe bakınca satışlar yükselmiş gibi görünüyor, ama bunun mevsimsel etki olup olmadığını kontrol etmek gerekir.",
+          "عند النظر إلى الرسم البياني تبدو المبيعات قد ارتفعت، لكن يجب التحقق مما إذا كان ذلك أثرًا موسميًا."
+        ],
+        [
+          "Yüzde artışı yüksek olsa da, başlangıç değeri küçükse sonuç yanıltıcı olabilir.",
+          "حتى لو كانت نسبة الزيادة مرتفعة، فقد تكون النتيجة مضللة إذا كانت القيمة الأساسية صغيرة.",
+          "يوزده آرتِشِي يوكْسَك أولسا دا، باشلانغِتش ديغيري كوجوكسه سونوج يانِلتِجي أولابيلير.",
+          "Yüzde artışı yüksek olsa da, başlangıç değeri küçükse sonuç yanıltıcı olabilir.",
+          "حتى لو كانت نسبة الزيادة مرتفعة، فقد تكون النتيجة مضللة إذا كانت القيمة الأساسية صغيرة."
+        ],
+        [
+          "Tablodaki sayılar tek başına konuşmaz; bağlamı bilmeden onları yorumlamak kolay hata doğurur.",
+          "الأرقام في الجدول لا تتحدث وحدها؛ ومن السهل ارتكاب خطأ إذا فسّرناها دون معرفة السياق.",
+          "تابلوداكي سايلار تك باشِنا كونوشماز؛ باغلامِي بيلمَدن أونلارِي يوروملاماك كولاي هاتا دوغورور.",
+          "Tablodaki sayılar tek başına konuşmaz; bağlamı bilmeden onları yorumlamak kolay hata doğurur.",
+          "الأرقام في الجدول لا تتحدث وحدها؛ ومن السهل ارتكاب خطأ إذا فسّرناها دون معرفة السياق."
+        ],
+        [
+          "Veri düşüş gösteriyorsa, bunun nedenini anlamadan acele sonuç çıkarmam.",
+          "إذا أظهرت البيانات انخفاضًا، فلا أستنتج بسرعة قبل فهم السبب.",
+          "فيري دوشوش غاستريوسا، بونون نَدَنينِي آنلامَدان آجَليه سونوج تشِكارمام.",
+          "Veri düşüş gösteriyorsa, bunun nedenini anlamadan acele sonuç çıkarmam.",
+          "إذا أظهرت البيانات انخفاضًا، فلا أستنتج بسرعة قبل فهم السبب."
+        ],
+        [
+          "Anket sonuçları değerli, fakat örneklem dar ise genelleme yaparken dikkatli olmak gerekir.",
+          "نتائج الاستبيان مهمة، لكن إذا كانت العينة ضيقة فيلزم الحذر عند التعميم.",
+          "آنكِت سونوجلاري ديغيرلي، فاكات أونَكلَم دار إسه گَنَلمه يابارْكِن ديكاتلي أولماك غيركير.",
+          "Anket sonuçları değerli, fakat örneklem dar ise genelleme yaparken dikkatli olmak gerekir.",
+          "نتائج الاستبيان مهمة، لكن إذا كانت العينة ضيقة فيلزم الحذر عند التعميم."
+        ],
+        [
+          "Bir çizgi grafiği, iniş çıkışları açıkça gösterdiği için karar vermeyi kolaylaştırır.",
+          "يسهّل الرسم الخطي اتخاذ القرار لأنه يوضح الصعود والهبوط بوضوح.",
+          "بير تشيزغي غرافيغي، إنيش تشِكِشلارِي آشيكجا غاستردِيغي إچين كارار فيرمَيي كولايلشتِرِر.",
+          "Bir çizgi grafiği, iniş çıkışları açıkça gösterdiği için karar vermeyi kolaylaştırır.",
+          "يسهّل الرسم الخطي اتخاذ القرار لأنه يوضح الصعود والهبوط بوضوح."
+        ],
+        [
+          "Veri setinde boşluklar varsa, sonucu yorumlamadan önce eksik noktaları açıklığa kavuşturmalıyız.",
+          "إذا كانت هناك فجوات في مجموعة البيانات، فيجب توضيح النقاط الناقصة قبل تفسير النتيجة.",
+          "فيري ستينده بوشلوكْلَر وارسا، سونوجو يوروملامَدان أونجه إكسيك نُكتالارِي آشيكليغا كافوشتورمالِييِز.",
+          "Veri setinde boşluklar varsa, sonucu yorumlamadan önce eksik noktaları açıklığa kavuşturmalıyız.",
+          "إذا كانت هناك فجوات في مجموعة البيانات، فيجب توضيح النقاط الناقصة قبل تفسير النتيجة."
+        ],
+        [
+          "Ortalama tek başına yeterli olmayabilir; dağılımı da görmeden resmi tam anlayamayız.",
+          "قد لا يكون المتوسط وحده كافيًا؛ فلا نفهم الصورة تمامًا دون النظر إلى التوزيع أيضًا.",
+          "أورتالاما تك باشِنا يترلي أولمايبيلير؛ داغيلِمِي دَه غورمَدن رَسمي تام أنلايامايِز.",
+          "Ortalama tek başına yeterli olmayabilir; dağılımı da görmeden resmi tam anlayamayız.",
+          "قد لا يكون المتوسط وحده كافيًا؛ فلا نفهم الصورة تمامًا دون النظر إلى التوزيع أيضًا."
+        ],
+        [
+          "Bu raporda küçük bir hata bile sonucu etkileyebileceği için rakamları dikkatle kontrol etmek şart.",
+          "في هذا التقرير قد يؤثر حتى خطأ صغير على النتيجة، لذلك يجب التحقق من الأرقام بعناية.",
+          "بو رابوردا كوجوك بير هاتا بيله سونوجو إتكيلييبيليجِي إچين راكاملارِي ديكاتله كنترول إتمَك شارْط.",
+          "Bu raporda küçük bir hata bile sonucu etkileyebileceği için rakamları dikkatle kontrol etmek şart.",
+          "في هذا التقرير قد يؤثر حتى خطأ صغير على النتيجة، لذلك يجب التحقق من الأرقام بعناية."
+        ],
+        [
+          "Karşılaştırmalı veriler, hangi uygulamanın daha etkili olduğunu görmek için çok işe yarıyor.",
+          "تساعد البيانات المقارنة كثيرًا على معرفة أي تطبيق أكثر فاعلية.",
+          "كارشيلاشتِرمَلي فيريلَر، هانگي أويغولامانِن داهَا إتكيلي أولدوغونُ غورمَك إچين تشوك إيشه ياريور.",
+          "Karşılaştırmalı veriler, hangi uygulamanın daha etkili olduğunu görmek için çok işe yarıyor.",
+          "تساعد البيانات المقارنة كثيرًا على معرفة أي تطبيق أكثر فاعلية."
+        ]
+      ]
+    },
+    {
+      "topic": "التخطيط للمستقبل",
+      "words": [
+        [
+          "Önümüzdeki yıl daha sakin bir tempo istiyorum, bu yüzden iş yükümü şimdiden planlamaya başladım.",
+          "أريد وتيرة أهدأ في العام القادم، ولذلك بدأت التخطيط لعبء عملي منذ الآن.",
+          "أونوُزْدَكي يِيل داهَا ساكين بير تِمپو إيستيوروم، بو يوزدَن إيش يوكومو شيمديدن پلانلامايَه باشلادِم.",
+          "Önümüzdeki yıl daha sakin bir tempo istiyorum, bu yüzden iş yükümü şimdiden planlamaya başladım.",
+          "أريد وتيرة أهدأ في العام القادم، ولذلك بدأت التخطيط لعبء عملي منذ الآن."
+        ],
+        [
+          "Eğer bütçem izin verirse, yazın kısa bir eğitim programına katılmayı düşünüyorum.",
+          "إذا سمحت ميزانيتي، أفكر في الالتحاق ببرنامج تدريبي قصير في الصيف.",
+          "إغَر بوچْشَم إيزِن فيريسَه، يازِن كِصا بير إغيتيم پروغرامِنا كاتِلمائِي دوشونويوروم.",
+          "Eğer bütçem izin verirse, yazın kısa bir eğitim programına katılmayı düşünüyorum.",
+          "إذا سمحت ميزانيتي، أفكر في الالتحاق ببرنامج تدريبي قصير في الصيف."
+        ],
+        [
+          "Plan yaparken sadece hedefi değil, olası engelleri de önceden hesaba katmak gerekiyor.",
+          "عند التخطيط، يجب أخذ العقبات المحتملة في الحسبان مسبقًا، وليس الهدف فقط.",
+          "پلان يابارْكِن سادجا هَدفِي دييل، أولاسي إنگللَري ده أونجدن هيسابا كاتمَك غيركيور.",
+          "Plan yaparken sadece hedefi değil, olası engelleri de önceden hesaba katmak gerekiyor.",
+          "عند التخطيط، يجب أخذ العقبات المحتملة في الحسبان مسبقًا، وليس الهدف فقط."
+        ],
+        [
+          "Bir yıl sonra nerede olmak istediğimi bilirsem, bugünkü kararlarım daha tutarlı olur.",
+          "إذا عرفت أين أريد أن أكون بعد سنة، فستصبح قراراتي اليوم أكثر اتساقًا.",
+          "بير يِل سونرا نيرده أولماك إيستيغيمي بيليرسم، بوگونكو كارارلارِم داهَا توتارلي أولور.",
+          "Bir yıl sonra nerede olmak istediğimi bilirsem, bugünkü kararlarım daha tutarlı olur.",
+          "إذا عرفت أين أريد أن أكون بعد سنة، فستصبح قراراتي اليوم أكثر اتساقًا."
+        ],
+        [
+          "Kariyer değişikliği hemen olmayabilir, ama adım adım hazırlanırsam daha güvenli ilerlerim.",
+          "قد لا يحدث تغيير المسار المهني فورًا، لكنني إذا استعددت خطوة خطوة فسأمضي بأمان أكثر.",
+          "كارير ديغيشِكليغي همن أولمايبيلير، أما آدِم آدِم حازِرلانِرْسام داهَا غوڤينلي إيلرلرِم.",
+          "Kariyer değişikliği hemen olmayabilir, ama adım adım hazırlanırsam daha güvenli ilerlerim.",
+          "قد لا يحدث تغيير المسار المهني فورًا، لكنني إذا استعددت خطوة خطوة فسأمضي بأمان أكثر."
+        ],
+        [
+          "Tasarruf etmeye bugünden başlarsam, ileride daha rahat bir seçim yapabilirim.",
+          "إذا بدأت الادخار من اليوم، أستطيع لاحقًا اتخاذ خيار أكثر راحة.",
+          "تاساروف إتمَيَه بوگوندَن باشلارسام، إيلرِده داهَا راحات بير سيچيم يابابيليرِم.",
+          "Tasarruf etmeye bugünden başlarsam, ileride daha rahat bir seçim yapabilirim.",
+          "إذا بدأت الادخار من اليوم، أستطيع لاحقًا اتخاذ خيار أكثر راحة."
+        ],
+        [
+          "Aileyle daha çok zaman geçirmek istiyorum, bu nedenle haftalık programımı sadeleştireceğim.",
+          "أريد قضاء وقت أكثر مع العائلة، ولذلك سأبسّط جدولي الأسبوعي.",
+          "آيله إله داهَا چوك زمان غيچِرمَك إيستيوروم، بو نَدنله هافتالِك پروگرامِمي سادَليشتيرَجِيم.",
+          "Aileyle daha çok zaman geçirmek istiyorum, bu nedenle haftalık programımı sadeleştireceğim.",
+          "أريد قضاء وقت أكثر مع العائلة، ولذلك سأبسّط جدولي الأسبوعي."
+        ],
+        [
+          "Uzun vadede sağlıklı kalmak için spor alışkanlığını ertelemek yerine rutine eklemeliyim.",
+          "للحفاظ على الصحة على المدى الطويل، يجب أن أضيف الرياضة إلى الروتين بدل تأجيلها.",
+          "أوزون فادَده صاغلِكلِي كالماك إچين سبور آلِشكَنْلِغْنِي إرتيليَمَك ييرينه روتينَه إكلمَلييِم.",
+          "Uzun vadede sağlıklı kalmak için spor alışkanlığını ertelemek yerine rutine eklemeliyim.",
+          "للحفاظ على الصحة على المدى الطويل، يجب أن أضيف الرياضة إلى الروتين بدل تأجيلها."
+        ],
+        [
+          "Yeni bir dil öğrenmeyi planlıyorum, çünkü bunun hem işte hem seyahatte işime yarayacağını düşünüyorum.",
+          "أخطط لتعلم لغة جديدة، لأنني أعتقد أنها ستفيدني في العمل وفي السفر أيضًا.",
+          "يني بير ديل أونْرِنمَيي پلانليوروم، چونكو بونون هم إشتَه هم سيياحاتته إيشِمه ياراياجاغْنِي دوشونويوروم.",
+          "Yeni bir dil öğrenmeyi planlıyorum, çünkü bunun hem işte hem seyahatte işime yarayacağını düşünüyorum.",
+          "أخطط لتعلم لغة جديدة، لأنني أعتقد أنها ستفيدني في العمل وفي السفر أيضًا."
+        ],
+        [
+          "Şu an küçük adımlar atarsam, birkaç yıl sonra daha büyük fırsatlara hazır olacağım.",
+          "إذا اتخذت خطوات صغيرة الآن، فسأكون مستعدًا لفرص أكبر بعد بضع سنوات.",
+          "شو آن كوجوك آدِملر أطارسام، بيركاج يِل سونرا داهَا بويوك فرصاتلَرا حاضر أولاجاغِم.",
+          "Şu an küçük adımlar atarsam, birkaç yıl sonra daha büyük fırsatlara hazır olacağım.",
+          "إذا اتخذت خطوات صغيرة الآن، فسأكون مستعدًا لفرص أكبر بعد بضع سنوات."
+        ]
+      ]
+    },
+    {
+      "topic": "التجارب والتأمل",
+      "words": [
+        [
+          "Yeni bir şehre taşındığımda ilk başta zorlandım, ama birkaç ay sonra bu değişimin bana daha bağımsız olmayı öğrettiğini fark ettim.",
+          "عندما انتقلتُ إلى مدينة جديدة في البداية واجهتُ صعوبة، لكن بعد بضعة أشهر أدركتُ أن هذا التغيير علّمني أن أكون أكثر استقلالًا.",
+          "يني بير شهيره طاشينديغيمدا إلک باشتا زورلاندم، أما بيرkaç أي سونرا بو ديغيشيمين بانا داها باعمز سوري أولمايي أوجرِتتيغيني فاركتيم.",
+          "Yeni bir şehre taşındığımda ilk başta zorlandım, ama birkaç ay sonra bu değişimin bana daha bağımsız olmayı öğrettiğini fark ettim.",
+          "عندما انتقلتُ إلى مدينة جديدة في البداية واجهتُ صعوبة، لكن بعد بضعة أشهر أدركتُ أن هذا التغيير علّمني أن أكون أكثر استقلالًا."
+        ],
+        [
+          "Geçmişte yaptığım hataları düşündükçe, aynı durumlarda daha sakin kalabildiğimi görüyorum.",
+          "كلما فكرتُ في الأخطاء التي ارتكبتُها في الماضي، أرى أنني أستطيع البقاء أكثر هدوءًا في المواقف نفسها.",
+          "غيشميشته يابتغم هطالاري ديشوندوكدجه، آيني دورهملاردا داها ساكين كالابيلديغيمي غورويوروم.",
+          "Geçmişte yaptığım hataları düşündükçe, aynı durumlarda daha sakin kalabildiğimi görüyorum.",
+          "كلما فكرتُ في الأخطاء التي ارتكبتُها في الماضي، أرى أنني أستطيع البقاء أكثر هدوءًا في المواقف نفسها."
+        ],
+        [
+          "Bence seyahat etmek sadece dinlenmek değildir; yeni bakış açıları kazandırdığı için insanı zihnen de büyütür.",
+          "في رأيي، السفر ليس مجرد راحة؛ بل يوسّع الإنسان ذهنيًا لأنه يمنحه زوايا نظر جديدة.",
+          "بنجه سيياحات إتك مِك سازجه دينلنمك ديغيلدير؛ يِني باكِش آجيلاري كازاندِردغي إجين إنساني زيهِندن ده بويوتور.",
+          "Bence seyahat etmek sadece dinlenmek değildir; yeni bakış açıları kazandırdığı için insanı zihnen de büyütür.",
+          "في رأيي، السفر ليس مجرد راحة؛ بل يوسّع الإنسان ذهنيًا لأنه يمنحه زوايا نظر جديدة."
+        ],
+        [
+          "Bir sorunla karşılaştığımda hemen pes etmek yerine, önce nedenini anlamaya çalışıyorum.",
+          "عندما أواجه مشكلة، أحاول أولًا أن أفهم سببها بدلًا من الاستسلام فورًا.",
+          "بير سورونلا كارشيلاشتغمدا همن بس إتْمك يرينه، أونجه نِدينيني أنلامايا تشاليشيوروم.",
+          "Bir sorunla karşılaştığımda hemen pes etmek yerine, önce nedenini anlamaya çalışıyorum.",
+          "عندما أواجه مشكلة، أحاول أولًا أن أفهم سببها بدلًا من الاستسلام فورًا."
+        ],
+        [
+          "Başarıya ulaşmak için yetenek kadar düzenli çalışmanın da gerekli olduğuna inanıyorum.",
+          "أؤمن بأن الوصول إلى النجاح يتطلب إلى جانب الموهبة العمل المنتظم أيضًا.",
+          "باشارييا أولاشمك إتشين يِتِنِك كادار ديزنلي تشاليشماغين دا غيركلي أولدوغونا إينانيوروم.",
+          "Başarıya ulaşmak için yetenek kadar düzenli çalışmanın da gerekli olduğuna inanıyorum.",
+          "أؤمن بأن الوصول إلى النجاح يتطلب إلى جانب الموهبة العمل المنتظم أيضًا."
+        ],
+        [
+          "Bazen planlarım değişse de, esnek kalabildiğim için sonuçlar çoğu zaman beklentimden iyi oluyor.",
+          "أحيانًا تتغير خططي، لكن لأنني أستطيع التكيف، تكون النتائج غالبًا أفضل من توقعاتي.",
+          "بازن بلانلارم ديغيشيه ده، إسنك كالابيلديغيم إتشين سونوچلار تشوهو زمان بِكْلنتيمدن إيي أولويور.",
+          "Bazen planlarım değişse de, esnek kalabildiğim için sonuçlar çoğu zaman beklentimden iyi oluyor.",
+          "أحيانًا تتغير خططي، لكن لأنني أستطيع التكيف، تكون النتائج غالبًا أفضل من توقعاتي."
+        ],
+        [
+          "Deneyim bana şunu öğretti: İnsan her şeyi kontrol edemez, ama tepkisini yönetebilir.",
+          "علّمتني التجربة هذا: لا يمكن للإنسان أن يتحكم في كل شيء، لكنه يستطيع إدارة ردّ فعله.",
+          "دينييّم بانا شونو أوجرِتتي: إنسان هر شهئي كنترول إدهمز، أما تِپكيسيني يونيتهبيلير.",
+          "Deneyim bana şunu öğretti: İnsan her şeyi kontrol edemez, ama tepkisini yönetebilir.",
+          "علّمتني التجربة هذا: لا يمكن للإنسان أن يتحكم في كل شيء، لكنه يستطيع إدارة ردّ فعله."
+        ],
+        [
+          "Bir karar verirken sadece sonuçları değil, o kararın beni nasıl hissettireceğini de düşünürüm.",
+          "عند اتخاذ قرار، لا أفكر في النتائج فقط، بل أفكر أيضًا في تأثير ذلك القرار على شعوري.",
+          "بير كارار فيرِركِن سازجه سونوچلارى ديغيل، أو كارارِن بني ناسل هيسّيتيرجِييْني ده ديشونوروم.",
+          "Bir karar verirken sadece sonuçları değil, o kararın beni nasıl hissettireceğini de düşünürüm.",
+          "عند اتخاذ قرار، لا أفكر في النتائج فقط، بل أفكر أيضًا في تأثير ذلك القرار على شعوري."
+        ],
+        [
+          "Hatalardan kaçmak yerine onları analiz etmek, bana daha bilinçli seçimler yapma şansı veriyor.",
+          "بدلًا من الهروب من الأخطاء، يمنحني تحليلها فرصة لاتخاذ قرارات أكثر وعيًا.",
+          "هطالاردان كاچمك يرينه أونلاري أنالِز إتْمك، بانا داها بيلينجلي سيچِملر يابما شانسي فيريور.",
+          "Hatalardan kaçmak yerine onları analiz etmek, bana daha bilinçli seçimler yapma şansı veriyor.",
+          "بدلًا من الهروب من الأخطاء، يمنحني تحليلها فرصة لاتخاذ قرارات أكثر وعيًا."
+        ],
+        [
+          "Kendime karşı dürüst oldukça, hangi hedeflerin gerçekten bana uygun olduğunu daha net görüyorum.",
+          "كلما كنت صادقًا مع نفسي، أرى بوضوح أكبر الأهداف المناسبة لي فعلًا.",
+          "كنديما كارشي دوروست أولدوكجا، هانغي هِدِفلرين غيرچكتن بانا أوغون أولدوغونو داها نِت غورويوروم.",
+          "Kendime karşı dürüst oldukça, hangi hedeflerin gerçekten bana uygun olduğunu daha net görüyorum.",
+          "كلما كنت صادقًا مع نفسي، أرى بوضوح أكبر الأهداف المناسبة لي فعلًا."
+        ]
+      ]
+    },
+    {
+      "topic": "العلاقات الاجتماعية",
+      "words": [
+        [
+          "İyi bir arkadaşlıkta iki taraf da dinlemeyi bilirse, küçük anlaşmazlıklar bile büyümeden çözülür.",
+          "في الصداقة الجيدة، إذا عرف الطرفان كيف يصغيان، تُحل حتى الخلافات الصغيرة قبل أن تكبر.",
+          "يي بير آركاداشلكتا إكي طرف دا دينلميي بيليرسه، كوجوك أنلاشمازلِكلار بيله بويومدن تشوزولور.",
+          "İyi bir arkadaşlıkta iki taraf da dinlemeyi bilirse, küçük anlaşmazlıklar bile büyümeden çözülür.",
+          "في الصداقة الجيدة، إذا عرف الطرفان كيف يصغيان، تُحل حتى الخلافات الصغيرة قبل أن تكبر."
+        ],
+        [
+          "Bence güven, bir ilişkide hızla kurulmaz; tutarlı davranışlarla zaman içinde oluşur.",
+          "في رأيي، الثقة لا تُبنى بسرعة في العلاقة؛ بل تتشكل مع الوقت من خلال السلوك المتسق.",
+          "بنجه غوفن، بير إيليشكيده هزلا كوروُلماز؛ توتارلي داڤرانشلارلا زمان إتشينده أولوشور.",
+          "Bence güven, bir ilişkide hızla kurulmaz; tutarlı davranışlarla zaman içinde oluşur.",
+          "في رأيي، الثقة لا تُبنى بسرعة في العلاقة؛ بل تتشكل مع الوقت من خلال السلوك المتسق."
+        ],
+        [
+          "Farklı düşünsek de birbirimize saygı duyduğumuzda sohbet daha verimli ve rahat oluyor.",
+          "حتى لو اختلفنا في الرأي، يصبح الحوار أكثر فائدة وراحة عندما نُظهر الاحترام لبعضنا.",
+          "فاركلي ديشونسك ده بيربيريميزيه سايغى دويدوغوموزدا صوبهت داها فيريملي وراحات أولويور.",
+          "Farklı düşünsek de birbirimize saygı duyduğumuzda sohbet daha verimli ve rahat oluyor.",
+          "حتى لو اختلفنا في الرأي، يصبح الحوار أكثر فائدة وراحة عندما نُظهر الاحترام لبعضنا."
+        ],
+        [
+          "Aile içinde herkesin fikrine yer verildiğinde, insanlar kendilerini daha değerli hissediyor.",
+          "عندما يُفسَح المجال لرأي الجميع داخل الأسرة، يشعر الناس بقيمة أكبر لأنفسهم.",
+          "آيله إتشيَنده هركسين فيكْرِيني يِر فيرِلدينده، إنسانلار كينديليريني داها ديغيللي هيسّيديور.",
+          "Aile içinde herkesin fikrine yer verildiğinde, insanlar kendilerini daha değerli hissediyor.",
+          "عندما يُفسَح المجال لرأي الجميع داخل الأسرة، يشعر الناس بقيمة أكبر لأنفسهم."
+        ],
+        [
+          "Bir planı ortaklaşa yapacaksak, görevleri baştan açık konuşmak sonradan sorun çıkmasını önler.",
+          "إذا كنا سنضع خطة معًا، فإن التحدث بوضوح عن المهام منذ البداية يمنع المشكلات لاحقًا.",
+          "بير بلاني أورتاكلاشا ياپجاكساك، غورفْلري باشطان آجيك كونوشماك سونرادان سورون چِكماسيني أونلر.",
+          "Bir planı ortaklaşa yapacaksak, görevleri baştan açık konuşmak sonradan sorun çıkmasını önler.",
+          "إذا كنا سنضع خطة معًا، فإن التحدث بوضوح عن المهام منذ البداية يمنع المشكلات لاحقًا."
+        ],
+        [
+          "Kalabalık bir grupta bile, samimi bir merhaba bazen uzun bir konuşmadan daha etkili olur.",
+          "حتى في مجموعة كبيرة، قد تكون تحية صادقة أحيانًا أكثر تأثيرًا من حديث طويل.",
+          "كالاباليك بير گروپتا بيله، ساميمي بير مرحبا بازن أوزون بير كونوشمادان داها إتكلي أولور.",
+          "Kalabalık bir grupta bile, samimi bir merhaba bazen uzun bir konuşmadan daha etkili olur.",
+          "حتى في مجموعة كبيرة، قد تكون تحية صادقة أحيانًا أكثر تأثيرًا من حديث طويل."
+        ],
+        [
+          "İnsanlar birbirini gerçekten tanımak istiyorsa, önyargı yerine merakla soru sormalı.",
+          "إذا أراد الناس أن يتعرفوا إلى بعضهم فعلًا، فعليهم أن يسألوا بدافع الفضول لا الأحكام المسبقة.",
+          "إنسانلار بيربيريني غيرچكتن تانِماك إستيورسا، أون يارغي يرينه مَراكلا سورو سورمالي.",
+          "İnsanlar birbirini gerçekten tanımak istiyorsa, önyargı yerine merakla soru sormalı.",
+          "إذا أراد الناس أن يتعرفوا إلى بعضهم فعلًا، فعليهم أن يسألوا بدافع الفضول لا الأحكام المسبقة."
+        ],
+        [
+          "Birinden yardım isterken nazik olmak, işbirliğini kolaylaştırdığı için çoğu zaman fark yaratır.",
+          "عند طلب المساعدة من شخص ما، فإن اللطف يسهّل التعاون وغالبًا ما يحدث فرقًا.",
+          "بيريندن ياردم إستيركِن نازيك أولماك، إيش بيرليغيني كولايلاشتِردِغي إچين تشوهو زمان فارك ياراتِر.",
+          "Birinden yardım isterken nazik olmak, işbirliğini kolaylaştırdığı için çoğu zaman fark yaratır.",
+          "عند طلب المساعدة من شخص ما، فإن اللطف يسهّل التعاون وغالبًا ما يحدث فرقًا."
+        ],
+        [
+          "Uzakta yaşayan dostlarla düzenli iletişim kurmak, bağları kopmadan güçlü tutuyor.",
+          "إن الحفاظ على تواصل منتظم مع الأصدقاء الذين يعيشون بعيدًا يبقي الروابط قوية دون أن تنقطع.",
+          "أوزاكدا ياشايان دوستلارلا ديزنلي إيليتيشيم كورماك، باغلاري كُپمادان غوچلو توتيور.",
+          "Uzakta yaşayan dostlarla düzenli iletişim kurmak, bağları kopmadan güçlü tutuyor.",
+          "إن الحفاظ على تواصل منتظم مع الأصدقاء الذين يعيشون بعيدًا يبقي الروابط قوية دون أن تنقطع."
+        ],
+        [
+          "Birlikte çalıştığım kişiler sözlerini tutunca, onlara daha rahat güvenebiliyorum.",
+          "عندما يفي الأشخاص الذين أعمل معهم بوعودهم، أستطيع أن أثق بهم براحة أكبر.",
+          "بيرليكته چاليشتِغم كيشيلر سوزلريني توتونجا، أونلارا داها راحت غوفنهبيلِيوروم.",
+          "Birlikte çalıştığım kişiler sözlerini tutunca, onlara daha rahat güvenebiliyorum.",
+          "عندما يفي الأشخاص الذين أعمل معهم بوعودهم، أستطيع أن أثق بهم براحة أكبر."
+        ]
+      ]
+    },
+    {
+      "topic": "المشاركة المجتمعية",
+      "words": [
+        [
+          "Mahalle temizliğine katılmak küçük bir çaba gibi görünebilir, fakat ortak sorumluluk duygusunu güçlendirir.",
+          "قد يبدو المشاركة في تنظيف الحي جهدًا صغيرًا، لكنها تعزز شعور المسؤولية المشتركة.",
+          "ماهاله تيمزلِغينيه كاتِلمك كوجوك بير جابا جيبي غورونِبيلير، فاكات أورتاك سوروملولوك دويوسونو گوجلِنديرير.",
+          "Mahalle temizliğine katılmak küçük bir çaba gibi görünebilir, fakat ortak sorumluluk duygusunu güçlendirir.",
+          "قد يبدو المشاركة في تنظيف الحي جهدًا صغيرًا، لكنها تعزز شعور المسؤولية المشتركة."
+        ],
+        [
+          "Gönüllü çalışmaların, insanların birbirine daha çok güvenmesini sağladığını düşünüyorum.",
+          "أعتقد أن الأعمال التطوعية تساعد الناس على أن يثقوا ببعضهم أكثر.",
+          "غونولو چاليشملارين، إنسانلارِن بيربيرينه داها تشوك غوفنمسيني ساغلادوغونوا ديشونويوروم.",
+          "Gönüllü çalışmaların, insanların birbirine daha çok güvenmesini sağladığını düşünüyorum.",
+          "أعتقد أن الأعمال التطوعية تساعد الناس على أن يثقوا ببعضهم أكثر."
+        ],
+        [
+          "Bir yardım kampanyasında görev almak yorucu olabilir, ama sonucu görmek tüm emeğe değer katar.",
+          "قد يكون تولي مهمة في حملة مساعدة مرهقًا، لكن رؤية النتيجة تمنح كل جهد قيمة.",
+          "بير ياردم كامپانيَسِنده غورِف آلمك يوروجو أولابيلير، أما سونوچو غورمك توم أمهغه ديغير كاتار.",
+          "Bir yardım kampanyasında görev almak yorucu olabilir, ama sonucu görmek tüm emeğe değer katar.",
+          "قد يكون تولي مهمة في حملة مساعدة مرهقًا، لكن رؤية النتيجة تمنح كل جهد قيمة."
+        ],
+        [
+          "Okulda düzenlenen etkinliklere katıldıkça, hem yeni şeyler öğreniyorum hem de çevremi tanıyorum.",
+          "كلما شاركتُ في الأنشطة المنظمة في المدرسة، أتعلم أشياء جديدة وأتعرف إلى محيطي أيضًا.",
+          "أوكولدا ديزنلنن إتكِنليكِلره كاتِلدِكجا، هم يِني شهيلر أوجرينيوروم هم ده تشفرمي تانِيوروم.",
+          "Okulda düzenlenen etkinliklere katıldıkça, hem yeni şeyler öğreniyorum hem de çevremi tanıyorum.",
+          "كلما شاركتُ في الأنشطة المنظمة في المدرسة، أتعلم أشياء جديدة وأتعرف إلى محيطي أيضًا."
+        ],
+        [
+          "Bir projeyi desteklemek için para vermek şart değildir; zaman ayırmak da önemli bir katkıdır.",
+          "ليس من الضروري دفع المال لدعم مشروع ما؛ فالتفرغ بالوقت يُعد مساهمة مهمة أيضًا.",
+          "بير پروجَيِيه ديستكلهمك إچين پارا فيرمك شارط ديغيلدِر؛ زمان آيِرمك دا أونملي بير كاتكيدِر.",
+          "Bir projeyi desteklemek için para vermek şart değildir; zaman ayırmak da önemli bir katkıdır.",
+          "ليس من الضروري دفع المال لدعم مشروع ما؛ فالتفرغ بالوقت يُعد مساهمة مهمة أيضًا."
+        ],
+        [
+          "Belediyenin yeni düzenlemesi bazı insanları zorlayabilir, ama uzun vadede daha düzenli bir yaşam sunabilir.",
+          "قد تُصعِّب اللائحة الجديدة للبلدية الأمر على بعض الناس، لكنها قد توفر حياة أكثر تنظيمًا على المدى الطويل.",
+          "بليديينِن يِني ديزنلمَسي بازِ إنسانلارى زورلايابيلير، أما أوزون فادده داها ديزنلي بير ياشام سونابيلير.",
+          "Belediyenin yeni düzenlemesi bazı insanları zorlayabilir, ama uzun vadede daha düzenli bir yaşam sunabilir.",
+          "قد تُصعِّب اللائحة الجديدة للبلدية الأمر على بعض الناس، لكنها قد توفر حياة أكثر تنظيمًا على المدى الطويل."
+        ],
+        [
+          "Toplum için bir fikir önerirken, çözümün hem uygulanabilir hem de adil olmasına dikkat etmek gerekir.",
+          "عند اقتراح فكرة للمجتمع، يجب الانتباه إلى أن يكون الحل قابلًا للتطبيق وعادلًا في الوقت نفسه.",
+          "توبلوم إچين بير فيكير أونيرِركِن، تشوزومون هم أوغلانبيلير هم ده عاديل أولماسِنا دِكّات إتْمك غيركير.",
+          "Toplum için bir fikir önerirken, çözümün hem uygulanabilir hem de adil olmasına dikkat etmek gerekir.",
+          "عند اقتراح فكرة للمجتمع، يجب الانتباه إلى أن يكون الحل قابلًا للتطبيق وعادلًا في الوقت نفسه."
+        ],
+        [
+          "Yerel bir etkinliğe katıldığımda, komşularımla daha kolay iletişim kurduğumu fark ettim.",
+          "عندما شاركتُ في فعالية محلية، لاحظت أنني أستطيع التواصل مع جيراني بسهولة أكبر.",
+          "يرل بير إتكِنليغه كاتِلدِغيمدا، كومشولارملَا داها كولاي إيليتيشيم كوردوغومو فاركتِيم.",
+          "Yerel bir etkinliğe katıldığımda, komşularımla daha kolay iletişim kurduğumu fark ettim.",
+          "عندما شاركتُ في فعالية محلية، لاحظت أنني أستطيع التواصل مع جيراني بسهولة أكبر."
+        ],
+        [
+          "Gönül rahatlığıyla destek vermek için önce etkinliğin amacını ve şeffaflığını bilmek isterim.",
+          "لكي أقدم الدعم براحة بال، أريد أولًا أن أعرف هدف الفعالية ودرجة الشفافية فيها.",
+          "غونويل راحتلغيا لا ديستك فيرمك إچين أونجه إتكِنليغين أماجِني وه شفافلغِني بيلمك إستيريم.",
+          "Gönül rahatlığıyla destek vermek için önce etkinliğin amacını ve şeffaflığını bilmek isterim.",
+          "لكي أقدم الدعم براحة بال، أريد أولًا أن أعرف هدف الفعالية ودرجة الشفافية فيها."
+        ],
+        [
+          "Bir mahallede dayanışma artınca, insanlar sorunlarını tek başına çözmek zorunda kalmıyor.",
+          "عندما يزداد التضامن في حيّ ما، لا يضطر الناس إلى حل مشكلاتهم بمفردهم.",
+          "بير ماهالَّده دايانِشما آرتِنچا، إنسانلار سورونلارنى تِك باشِنا چوزمك زوروندا كالمِيور.",
+          "Bir mahallede dayanışma artınca, insanlar sorunlarını tek başına çözmek zorunda kalmıyor.",
+          "عندما يزداد التضامن في حيّ ما، لا يضطر الناس إلى حل مشكلاتهم بمفردهم."
+        ]
+      ]
+    },
+    {
+      "topic": "التعبير عن المشاعر",
+      "words": [
+        [
+          "Bazen nedenini bilmesem de içim sıkılıyor; yine de bunu kabul etmek, duyguyu yönetmemi kolaylaştırıyor.",
+          "أحيانًا أشعر بالضيق دون أن أعرف السبب؛ ومع ذلك فإن تقبّل هذا الشعور يسهل عليّ إدارته.",
+          "بازن نيدِنيني بيلمسم ده إتچيم سيكيلييور؛ يينه ده بونو كابول إتْمك، دويوغويو يونيتميمي كولايلاشتِريور.",
+          "Bazen nedenini bilmesem de içim sıkılıyor; yine de bunu kabul etmek, duyguyu yönetmemi kolaylaştırıyor.",
+          "أحيانًا أشعر بالضيق دون أن أعرف السبب؛ ومع ذلك فإن تقبّل هذا الشعور يسهل عليّ إدارته."
+        ],
+        [
+          "Sevinçli olduğumda bunu paylaşmak istiyorum, çünkü mutluluk paylaşıldıkça daha gerçek geliyor.",
+          "عندما أكون سعيدًا، أريد مشاركة ذلك، لأن الفرح يبدو أكثر حقيقية عندما يُقاسَم.",
+          "سەوينتشلي أولدوغومدا بونو بايلاشماك إستيوروم، چونكو موتلوک بايلاشتِلكجا داها غيرچك جيليور.",
+          "Sevinçli olduğumda bunu paylaşmak istiyorum, çünkü mutluluk paylaşıldıkça daha gerçek geliyor.",
+          "عندما أكون سعيدًا، أريد مشاركة ذلك، لأن الفرح يبدو أكثر حقيقية عندما يُقاسَم."
+        ],
+        [
+          "Hayal kırıklığı yaşadığımda hemen konuşmak yerine, önce sakinleşip ne istediğimi düşünürüm.",
+          "عندما أمر بخيبة أمل، بدلًا من الكلام فورًا أهدأ أولًا ثم أفكر في ما أريده.",
+          "هايال كِركليقِ ياشادِغِمدا همن كونوشماك يرينه، أونجه ساكِنليشِپ نِه إستيدِغيمي ديشونوروم.",
+          "Hayal kırıklığı yaşadığımda hemen konuşmak yerine, önce sakinleşip ne istediğimi düşünürüm.",
+          "عندما أمر بخيبة أمل، بدلًا من الكلام فورًا أهدأ أولًا ثم أفكر في ما أريده."
+        ],
+        [
+          "Birine kırıldığımda susmak kısa vadede kolaydır, ama açıkça konuşmak ilişkiyi daha sağlıklı tutar.",
+          "عندما أزعل من أحد، يكون الصمت سهلًا على المدى القصير، لكن الحديث بصراحة يحافظ على العلاقة بصورة أفضل.",
+          "بيرينه كِرِلدِغِمدا سوسماك كِسا فادده كولايدِر، أما آجيكجا كونوشماك إيليشكِيي داها ساغلِكلي توتار.",
+          "Birine kırıldığımda susmak kısa vadede kolaydır, ama açıkça konuşmak ilişkiyi daha sağlıklı tutar.",
+          "عندما أزعل من أحد، يكون الصمت سهلًا على المدى القصير، لكن الحديث بصراحة يحافظ على العلاقة بصورة أفضل."
+        ],
+        [
+          "Bence korku bazen bizi korur, fakat onun yüzünden fırsat kaçırmamak için dengeyi iyi kurmak gerekir.",
+          "في رأيي، الخوف يحمي أحيانًا، لكن ينبغي ضبط التوازن جيدًا كي لا نفوّت الفرص بسببه.",
+          "بنجه كوركو بازن بزي كورور، فاكات أونون يوزوندن فورسات كاتِرماماك إچين دِنغيي إيي كوروماك غيركير.",
+          "Bence korku bazen bizi korur, fakat onun yüzünden fırsat kaçırmamak için dengeyi iyi kurmak gerekir.",
+          "في رأيي، الخوف يحمي أحيانًا، لكن ينبغي ضبط التوازن جيدًا كي لا نفوّت الفرص بسببه."
+        ],
+        [
+          "İnsan üzgünken kendini zorlamamalı; biraz zaman tanımak, daha sağlıklı karar vermeye yardım eder.",
+          "لا ينبغي أن يضغط الإنسان على نفسه عندما يكون حزينًا؛ فإعطاء النفس بعض الوقت يساعد على اتخاذ قرار أفضل.",
+          "إنسان اوزگونكِن كندينى زورلامامالي؛ بيراز زمان تانِماك، داها ساغلِكلي كارار فيرمَيه ياردِم أدر.",
+          "İnsan üzgünken kendini zorlamamalı; biraz zaman tanımak, daha sağlıklı karar vermeye yardım eder.",
+          "لا ينبغي أن يضغط الإنسان على نفسه عندما يكون حزينًا؛ فإعطاء النفس بعض الوقت يساعد على اتخاذ قرار أفضل."
+        ],
+        [
+          "Öfkelendiğimde hemen cevap vermek istemiyorum, çünkü yanlış bir cümle her şeyi daha da büyütebilir.",
+          "عندما أغضب لا أريد الرد فورًا، لأن جملة خاطئة قد تجعل كل شيء أكبر.",
+          "أوفكلِندِغِمدا همن جڤاپ فيرمك إستميوروم، چونكو يانليش بير جومله هر شهئي داها دا بويوتابيلير.",
+          "Öfkelendiğimde hemen cevap vermek istemiyorum, çünkü yanlış bir cümle her şeyi daha da büyütebilir.",
+          "عندما أغضب لا أريد الرد فورًا، لأن جملة خاطئة قد تجعل كل شيء أكبر."
+        ],
+        [
+          "Mutlu bir anı hatırlamak, yoğun bir günün ortasında bile moralimi yükseltebiliyor.",
+          "إن تذكر لحظة سعيدة قادر حتى في وسط يوم مزدحم على رفع معنوياتي.",
+          "موتلو بير آني هاتِرلاماك، يونون بير گونون أورتاسِندا بيله موراليمي يوكسلتبيليور.",
+          "Mutlu bir anı hatırlamak, yoğun bir günün ortasında bile moralimi yükseltebiliyor.",
+          "إن تذكر لحظة سعيدة قادر حتى في وسط يوم مزدحم على رفع معنوياتي."
+        ],
+        [
+          "Duygularımı paylaşırken anlaşılmak benim için önemlidir; ama karşımdakini de dinlemeye çalışırım.",
+          "إن أن يُفهم ما أشعر به مهم بالنسبة لي عند مشاركة مشاعري؛ لكنني أحاول أيضًا أن أصغي إلى الطرف الآخر.",
+          "دويوگولارمي بايلاشِركِن أنلاشِلمك بنيم إچين أونمليدِر؛ أما كارشِمداكيني ده دينلميه چاليشِرم.",
+          "Duygularımı paylaşırken anlaşılmak benim için önemlidir; ama karşımdakini de dinlemeye çalışırım.",
+          "إن أن يُفهم ما أشعر به مهم بالنسبة لي عند مشاركة مشاعري؛ لكنني أحاول أيضًا أن أصغي إلى الطرف الآخر."
+        ],
+        [
+          "Kendimi iyi hissetmediğim günlerde bile küçük bir destek mesajı bana güç verebiliyor.",
+          "حتى في الأيام التي لا أشعر فيها أنني بخير، يمكن لرسالة دعم صغيرة أن تمنحني قوة.",
+          "كنديمي يي هيسّتمَديغيم گونلرده بيله كوجوك بير ديستك ميساجِ بانا گوج فيريبلييور.",
+          "Kendimi iyi hissetmediğim günlerde bile küçük bir destek mesajı bana güç verebiliyor.",
+          "حتى في الأيام التي لا أشعر فيها أنني بخير، يمكن لرسالة دعم صغيرة أن تمنحني قوة."
+        ]
+      ]
+    },
+    {
+      "topic": "الفن والأدب",
+      "words": [
+        [
+          "Roman okumak, farklı hayatlara kısa süreliğine de olsa bakma fırsatı verdiği için beni etkiliyor.",
+          "إن قراءة الروايات تؤثر فيّ لأنها تمنحني فرصة لأن أطلّ على حيوات مختلفة ولو لفترة قصيرة.",
+          "رومان أوكومك، فاركلي حياتلارا كِسا سوريليغِنه ده أولسا باكما فورساتِ فيردِغي إجين بني إتكِلييور.",
+          "Roman okumak, farklı hayatlara kısa süreliğine de olsa bakma fırsatı verdiği için beni etkiliyor.",
+          "إن قراءة الروايات تؤثر فيّ لأنها تمنحني فرصة لأن أطلّ على حيوات مختلفة ولو لفترة قصيرة."
+        ],
+        [
+          "İyi bir film, sadece eğlendirmekle kalmaz; düşündürür ve bazen bakış açımı değiştirir.",
+          "الفيلم الجيد لا يكتفي بإمتاعي؛ بل يدفعني إلى التفكير وأحيانًا يغيّر وجهة نظري.",
+          "يي بير فيلم، سازجه إغلندِرمكله كالمز؛ ديشوندرور وه بازن باكِش آجِمِي ديغيشتيرير.",
+          "İyi bir film, sadece eğlendirmekle kalmaz; düşündürür ve bazen bakış açımı değiştirir.",
+          "الفيلم الجيد لا يكتفي بإمتاعي؛ بل يدفعني إلى التفكير وأحيانًا يغيّر وجهة نظري."
+        ],
+        [
+          "Şiirde kısa bir dize bile güçlü bir duygu yaratabiliyor, bu yüzden onu dikkatle okumak gerekiyor.",
+          "في الشعر، حتى سطر قصير يمكن أن يخلق شعورًا قويًا، ولذلك يجب قراءته بعناية.",
+          "شييرده كِسا بير ديزه بيله غوجلو بير دويوگو ياراتابلييور، بو يوزدن أونو دِكّاتله أوكومك غيركيور.",
+          "Şiirde kısa bir dize bile güçlü bir duygu yaratabiliyor, bu yüzden onu dikkatle okumak gerekiyor.",
+          "في الشعر، حتى سطر قصير يمكن أن يخلق شعورًا قويًا، ولذلك يجب قراءته بعناية."
+        ],
+        [
+          "Bir müzeyi gezerken sadece eserlere değil, onların anlattığı döneme de dikkat ederim.",
+          "عندما أزور متحفًا، لا أركز على الأعمال فقط بل أيضًا على الحقبة التي تحكي عنها.",
+          "بير موزيي يي غِزركِن سازجه إسرلره ديغيل، أونلارِن أنلattغِ دورمه ده دِكّات إدريم.",
+          "Bir müzeyi gezerken sadece eserlere değil, onların anlattığı döneme de dikkat ederim.",
+          "عندما أزور متحفًا، لا أركز على الأعمال فقط بل أيضًا على الحقبة التي تحكي عنها."
+        ],
+        [
+          "Sanatın değeri, herkesin aynı şekilde anlamasından değil, farklı yorumlar doğurmasından geliyor.",
+          "تكمن قيمة الفن لا في أن يفهمه الجميع بالطريقة نفسها، بل في أنه يولد تفسيرات مختلفة.",
+          "ساناتِن ديغري، هر كسين آيني شيكيلده أنلاماسِندان ديغيل، فاركلي يوروملار دوغورماسِندان جيليور.",
+          "Sanatın değeri, herkesin aynı şekilde anlamasından değil, farklı yorumlar doğurmasından geliyor.",
+          "تكمن قيمة الفن لا في أن يفهمه الجميع بالطريقة نفسها، بل في أنه يولد تفسيرات مختلفة."
+        ],
+        [
+          "Bir yazarın dili sade olabilir, ama kurduğu dünya çok katmanlıysa okur daha uzun düşünür.",
+          "قد تكون لغة الكاتب بسيطة، لكن إذا كان العالم الذي يبنيه متعدد الطبقات فإن القارئ يفكر طويلًا.",
+          "بير يازارِن دِلي سادِه أولابيلير، أما كوردوغو دونيا تشوك كاتمانلييسه أوكور داها أوزون ديشونور.",
+          "Bir yazarın dili sade olabilir, ama kurduğu dünya çok katmanlıysa okur daha uzun düşünür.",
+          "قد تكون لغة الكاتب بسيطة، لكن إذا كان العالم الذي يبنيه متعدد الطبقات فإن القارئ يفكر طويلًا."
+        ],
+        [
+          "Tiyatroda canlı performans izlemek, ekrandan bakmaktan daha sıcak bir deneyim sunuyor.",
+          "إن مشاهدة أداء حي في المسرح تقدم تجربة أدفأ من المشاهدة عبر الشاشة.",
+          "تياتروادا جاندلي پرفورمانس إزلمك، إكراندان باكمَكتان داها سجاك بير دينييّم سونويور.",
+          "Tiyatroda canlı performans izlemek, ekrandan bakmaktan daha sıcak bir deneyim sunuyor.",
+          "إن مشاهدة أداء حي في المسرح تقدم تجربة أدفأ من المشاهدة عبر الشاشة."
+        ],
+        [
+          "Bir besteyi dinlerken sözler olmasa bile, ritim ve melodi bana bir hikâye anlatabiliyor.",
+          "عندما أستمع إلى مقطوعة موسيقية، يمكن للإيقاع واللحن أن يرويا لي قصة حتى من دون كلمات.",
+          "بير بستيي ديِنلرکِن سوزلر أولماسا بيله، ريتيم وه مِلودي بانا بير هيكايه أنلاتابيليور.",
+          "Bir besteyi dinlerken sözler olmasa bile, ritim ve melodi bana bir hikâye anlatabiliyor.",
+          "عندما أستمع إلى مقطوعة موسيقية، يمكن للإيقاع واللحن أن يرويا لي قصة حتى من دون كلمات."
+        ],
+        [
+          "Eleştiri yaparken eserin niyetini anlamak önemli, çünkü her eksik kusur anlamına gelmez.",
+          "عند النقد، من المهم فهم قصد العمل، لأن كل نقص لا يعني عيبًا.",
+          "إلِشتيري يپاركِن إسرِن نِيتِني أنلاماك أونملي، چونكو هر إكسِك كوسور أنلامِنا غِلْمز.",
+          "Eleştiri yaparken eserin niyetini anlamak önemli, çünkü her eksik kusur anlamına gelmez.",
+          "عند النقد، من المهم فهم قصد العمل، لأن كل نقص لا يعني عيبًا."
+        ],
+        [
+          "Güzel bir metin, bana sadece bilgi vermez; bazen kendi hayatımı da yeniden düşünmemi sağlar.",
+          "النص الجميل لا يمنحني المعلومة فقط؛ بل يجعلني أحيانًا أعيد التفكير في حياتي أيضًا.",
+          "غوزل بير متن، بانا سازجه بيلغي فيرمز؛ بازن كيندي حياتِمي دا يِنيدن ديشونممي ساغلار.",
+          "Güzel bir metin, bana sadece bilgi vermez; bazen kendi hayatımı da yeniden düşünmemi sağlar.",
+          "النص الجميل لا يمنحني المعلومة فقط؛ بل يجعلني أحيانًا أعيد التفكير في حياتي أيضًا."
+        ]
+      ]
+    }
+  ],
+  "fullSentences": true
+}

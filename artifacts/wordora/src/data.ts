@@ -1,10 +1,12 @@
 import { additionalWords } from './extra-vocabulary';
 import { expandedCurriculum } from './expanded-curriculum';
+import { advancedCurriculum } from './advanced-curriculum';
 import { contentCorrections } from './content-corrections';
+import { learningLevels, type CurriculumLevel } from './curriculum-levels';
 
 export type LanguageId = 'english' | 'french' | 'spanish' | 'german' | 'italian' | 'turkish';
 export type LegacyLanguageId = Exclude<LanguageId, 'turkish'>;
-export type Level = 'A1' | 'A2' | 'B1';
+export type Level = CurriculumLevel;
 export type Word = { id: string; term: string; arabicMeaning: string; pronunciation: string; example: string; exampleArabic: string };
 export type Lesson = { id: string; languageId: LanguageId; level: Level; topic: string; words: Word[] };
 export type Language = { id: LanguageId; name: string; arabicName: string; code: string; flag: string };
@@ -283,10 +285,10 @@ const advancedLessons: Lesson[] = legacyLanguages.flatMap((language) => advanced
 const originalLessons: Lesson[] = [...starterLessons, ...advancedLessons].map(lesson => ({
   ...lesson, words: [...lesson.words, ...additionalWords(lesson)],
 }));
-export const lessons: Lesson[] = [...originalLessons, ...expandedCurriculum].map(lesson => ({
+export const lessons: Lesson[] = [...originalLessons, ...expandedCurriculum, ...advancedCurriculum].map(lesson => ({
   ...lesson, words: lesson.words.map(word => ({ ...word, ...contentCorrections[word.id] })),
 })).sort((a, b) =>
   languages.findIndex(language => language.id === a.languageId) - languages.findIndex(language => language.id === b.languageId)
-  || ['A1', 'A2', 'B1'].indexOf(a.level) - ['A1', 'A2', 'B1'].indexOf(b.level),
+  || learningLevels.indexOf(a.level) - learningLevels.indexOf(b.level),
 );
 export const lessonById = (id: string) => lessons.find((lesson) => lesson.id === id);

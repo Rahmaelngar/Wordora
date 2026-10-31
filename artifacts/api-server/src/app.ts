@@ -34,7 +34,9 @@ app.use(
 );
 app.use(CLERK_PROXY_PATH, clerkProxyMiddleware());
 app.use(cors({ credentials: true, origin: true }));
-app.use(express.json());
+// Full six-language progress can contain thousands of saved/reviewed IDs.
+// Keep a bounded limit without rejecting valid long-term learning histories.
+app.use(express.json({ limit: "4mb" }));
 app.use(express.urlencoded({ extended: true }));
 app.use(
   clerkMiddleware((req) => ({
