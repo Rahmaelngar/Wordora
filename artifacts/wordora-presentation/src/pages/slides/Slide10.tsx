@@ -1,7 +1,6 @@
 export default function Slide10() {
   return <div className="w-screen h-screen overflow-hidden relative wordora-frame">
     <h1 className="deck-title">تقدّم محفوظ وتجربة شخصية</h1>
-    <div className="organic-soft left-[4vw] top-[23vh] w-[41vw] h-[65vh]"/>
     <div className="absolute right-[6vw] top-[30vh] w-[40vw]">
       <svg className="column-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="12" cy="7" r="4"/><path d="M4 22v-3a8 8 0 0 1 16 0v3"/></svg>
       <p className="deck-copy font-bold">حساب وملف شخصي وإعدادات</p>
