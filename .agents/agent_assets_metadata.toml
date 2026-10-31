@@ -14,3 +14,17 @@ mtime_ms = 1793457085823
 storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:38637fec-5006-4f76-b534-61109c490003/df69cb38-46ce-4f1e-90f1-0889e1dbdbe6/11cdb6ba-5379-428c-a6d1-68a20d849490"
 storage_version_token = "1793457086379340"
 content_type = "application/pdf"
+
+[[outputs]]
+id = "47upI_Ymf-8gfyFqIp7hc"
+uri = "file://.local/outputs/Wordora-Final-Presentation.pdf"
+type = "pdf"
+title = "Wordora — العرض النهائي (PDF)"
+description = "12 شريحة بآخر التعديلات، باسم الإعداد Rahma Magdy Ibrahim Elnaggar. الصور ثابتة في ملف PDF."
+logical_id = "20bb1c7f-ffe3-4178-94a2-d47c6f0a389c"
+content_hash = "sha256:c1d7331deaca0a511c9b9e1adac60436de7835e8fff7b62c5ad1260574ee90c9"
+size = 5875279
+mtime_ms = 1793459608206
+storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:38637fec-5006-4f76-b534-61109c490003/20bb1c7f-ffe3-4178-94a2-d47c6f0a389c/1e559613-961e-4c46-9d6e-8c7f88362e39"
+storage_version_token = "1793459608810126"
+content_type = "application/pdf"
