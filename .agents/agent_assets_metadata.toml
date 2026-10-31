@@ -42,3 +42,17 @@ mtime_ms = 1793467666328
 storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:38637fec-5006-4f76-b534-61109c490003/dbf6f5fd-8c48-46d1-a207-f27ef1bed177/7f9655cc-f964-4939-897c-6c1ea7ef808f"
 storage_version_token = "1793467667077713"
 content_type = "application/pdf"
+
+[[outputs]]
+id = "5MvIcFwnmuU30Is9-RfQs"
+uri = "file://.local/outputs/Wordora-Presentation-With-Learning-Journey.pdf"
+type = "pdf"
+title = "Wordora — أحدث نسخة (PDF)"
+description = "العرض الكامل من 12 شريحة، متضمنًا صورة شريحة 4 الجديدة وجميع تعديلات النصوص والصور. الأنيميشن ثابت في ملف PDF."
+logical_id = "a7f4f9fe-5bc1-4c84-9112-8385833e521c"
+content_hash = "sha256:cd058ec9e65f78529c3f974b90e0393de7146fcc228a4c35f1ed0964412a8856"
+size = 10391087
+mtime_ms = 1793468120292
+storage_uri = "gcs://replit-rams-assets-reed/rams/assets/repl:38637fec-5006-4f76-b534-61109c490003/a7f4f9fe-5bc1-4c84-9112-8385833e521c/ef00c92d-0206-4a5d-9d02-972e73ea0d2b"
+storage_version_token = "1793468120922978"
+content_type = "application/pdf"
