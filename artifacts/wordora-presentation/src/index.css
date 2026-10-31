@@ -1,5 +1,13 @@
 @import 'tailwindcss';
 
+@font-face { font-family: 'Cairo'; font-style: normal; font-weight: 500; font-display: swap; src: url('./assets/fonts/cairo-500.ttf') format('truetype'); }
+@font-face { font-family: 'Cairo'; font-style: normal; font-weight: 700; font-display: swap; src: url('./assets/fonts/cairo-700.ttf') format('truetype'); }
+@font-face { font-family: 'Cairo'; font-style: normal; font-weight: 800; font-display: swap; src: url('./assets/fonts/cairo-800.ttf') format('truetype'); }
+@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 500; font-display: swap; src: url('./assets/fonts/manrope-500.ttf') format('truetype'); }
+@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 600; font-display: swap; src: url('./assets/fonts/manrope-600.ttf') format('truetype'); }
+@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 700; font-display: swap; src: url('./assets/fonts/manrope-700.ttf') format('truetype'); }
+@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 800; font-display: swap; src: url('./assets/fonts/manrope-800.ttf') format('truetype'); }
+
 @theme inline {
   --color-primary: var(--slide-primary);
   --color-accent: var(--slide-accent);
@@ -12,13 +20,13 @@
 
 :root {
   /* Replace these with brand colors */
-  --slide-primary: #7951d2;
-  --slide-accent: #d9cbfa;
-  --slide-bg: #fdfbff;
-  --slide-text: #42246b;
-  --slide-muted: #76658b;
-  --font-display-family: 'Tajawal', sans-serif;
-  --font-body-family: 'Tajawal', sans-serif;
+  --slide-primary: #6a28bd;
+  --slide-accent: #c6a0f2;
+  --slide-bg: #fcf9ff;
+  --slide-text: #30164e;
+  --slide-muted: #73588c;
+  --font-display-family: 'Manrope', 'Cairo', sans-serif;
+  --font-body-family: 'Manrope', 'Cairo', sans-serif;
   color-scheme: light;
 }
 
@@ -33,6 +41,9 @@ body,
 body {
   background: var(--slide-bg);
   color: var(--slide-text);
+  font-family: var(--font-body-family);
+  font-weight: 500;
+  font-synthesis: none;
 }
 
 .slide {
@@ -52,19 +63,25 @@ body {
    Archetypes: cover, index, split, big-number, comparison, split, columns,
    image-feature, quote/conversation, columns, diagram, close.
    Every slide is static JSX; platform routing/export wrappers are untouched. */
-.wordora-frame { direction: rtl; font-family: var(--font-body-family); background: radial-gradient(ellipse at 5% 95%, #f0eaf9, #fdfbff 70%); }
-.deck-title { position: absolute; top: 8vh; right: 6vw; left: 6vw; font-size: 3.4vw; font-weight: 900; line-height: 1.35; text-wrap: balance; z-index: 2; }
-.deck-copy { font-size: 2vw; line-height: 1.6; text-wrap: pretty; }
+.wordora-frame { direction: rtl; isolation: isolate; font-family: var(--font-body-family); background: linear-gradient(135deg, #fcf9ff 15%, #ffffff 53%, #f0e1ff 100%); }
+.wordora-frame::before { content: ''; position: absolute; pointer-events: none; z-index: -1; left: -6vw; top: -19vh; width: 49vw; height: 34vh; border-radius: 3vw; transform: rotate(-12deg); background: linear-gradient(120deg, #ad79e8, #e1c4ff); opacity: .58; }
+.wordora-frame::after { content: ''; position: absolute; pointer-events: none; z-index: -1; right: -9vw; bottom: -19vh; width: 43vw; height: 33vh; border: .12vw solid #b782e4; border-radius: 3vw; transform: rotate(-18deg); background: linear-gradient(120deg, #ead6ff, #cda0ef); opacity: .42; }
+.deck-title { position: absolute; top: 7vh; right: 6vw; left: 6vw; font-size: 3.2vw; font-weight: 800; line-height: 1.5; text-wrap: balance; z-index: 2; color: #5a1f9b; }
+.deck-title::after { content: ''; display: block; width: 6vw; height: .55vh; margin-top: 1.6vh; border-radius: 1vw; background: linear-gradient(90deg, #cca0fa, #7c36c7); }
+.deck-copy { font-size: 1.9vw; line-height: 1.7; text-wrap: pretty; }
 .deck-caption { font-size: 1.5vw; line-height: 1.5; color: var(--slide-muted); }
-.organic { position: absolute; pointer-events: none; background: #d9cbfa; border-radius: 44% 56% 60% 40% / 58% 39% 61% 42%; }
-.organic-soft { position: absolute; pointer-events: none; background: #eee6fb; border-radius: 63% 37% 41% 59% / 43% 59% 41% 57%; }
+.organic { position: absolute; pointer-events: none; background: linear-gradient(145deg, #bfa1f0, #dec6fc 65%, #e8d8ff); border-radius: 44% 56% 60% 40% / 58% 39% 61% 42%; }
+.organic-soft { position: absolute; pointer-events: none; background: linear-gradient(135deg, #eed8fb, #d9c8fa); border-radius: 63% 37% 41% 59% / 43% 59% 41% 57%; }
 .deck-image { position: absolute; object-fit: contain; z-index: 1; }
 .deck-footer { position: absolute; bottom: 4vh; right: 6vw; left: 6vw; height: 4vh; display: flex; align-items: center; justify-content: space-between; font-size: 1.5vw; line-height: 1; color: var(--slide-muted); z-index: 3; }
 .image-credit { position: absolute; bottom: 10vh; left: 7vw; font-size: 1.5vw; color: var(--slide-muted); z-index: 2; }
 .credit-line { display: flex; gap: 1vw; align-items: baseline; font-size: 1.6vw; line-height: 1.7; }
 .level-line { display: flex; gap: 1.6vw; align-items: baseline; padding: 1vh 0; border-bottom: 0.08vw solid #c7b3eb; }
-.level-line strong { font-size: 3.2vw; line-height: 1.15; min-width: 6vw; font-weight: 900; }
-.level-line p { font-size: 2vw; line-height: 1.55; }
-.clean-list { display: flex; flex-direction: column; gap: 2.4vh; font-size: 2vw; line-height: 1.6; }
+.level-line strong { font-size: 3vw; line-height: 1.15; min-width: 6vw; font-weight: 800; color: #742ec0; }
+.level-line p { font-size: 1.9vw; line-height: 1.55; }
+.clean-list { display: flex; flex-direction: column; gap: 2vh; font-size: 1.9vw; line-height: 1.7; }
 .clean-list p { padding-bottom: 1.6vh; border-bottom: 0.08vw solid #dfd2ef; }
 .column-icon { width: 5vw; height: 5vw; color: var(--slide-primary); stroke-width: 1.5; margin-bottom: 2.4vh; }
+.closing-credit-label { font-family: 'Cairo', sans-serif; color: #865aab; font-size: 1.5vw; font-weight: 700; line-height: 1.4; margin-bottom: .4vh; }
+.closing-credit-name { font-family: 'Manrope', sans-serif; color: #432165; font-size: 1.9vw; font-weight: 700; line-height: 1.5; letter-spacing: -.025em; text-align: right; }
+.closing-credit-block + .closing-credit-block { margin-top: 1.6vh; }
