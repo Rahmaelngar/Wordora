@@ -1,0 +1,28 @@
+kind = "slides"
+previewPath = "/wordora-presentation/"
+title = "Wordora — عرض المشروع"
+description = "عرض عربي من12 شريحة يشرح فكرة Wordora ومزاياه، بتدرجات الموف والأبيض وصور AI، من إعداد Rahma magdy elngar وإشراف Taha Mahmoud Metwally Nour El-Dein."
+version = "1.0.0"
+id = "artifacts/wordora-presentation"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/wordora-presentation/" ]
+localPort = 22938
+
+[services.development]
+run = "pnpm --filter @workspace/wordora-presentation run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/wordora-presentation", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/wordora-presentation/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22938"
+BASE_PATH = "/wordora-presentation/"

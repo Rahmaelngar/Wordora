@@ -26,3 +26,9 @@ Per-word videos are real narrated instructional text clips, created on first req
 **Why:** The expanded multilingual curriculum is too large to pre-generate every video responsibly; on-demand creation avoids unnecessary AI charges while supporting every learning entry.
 
 **How to apply:** Keep the first-use cost/loading disclosure and honest media label, preserve native-language audio plus matching written translations, and invalidate cached media when its spoken content changes.
+
+Verify downloaded brand assets by actual decoded format, not HTTP status or filename.
+
+**Why:** A logo-search image URL returned a full HTML page with HTTP 200 and a `.jpeg` suffix. Embedding it would leave a broken logo despite a successful download.
+
+**How to apply:** Inspect the downloaded file before embedding it. Source a real image if it is HTML; then check logo contrast against the chosen slide background.

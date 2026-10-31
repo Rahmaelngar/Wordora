@@ -1,0 +1,70 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --color-primary: var(--slide-primary);
+  --color-accent: var(--slide-accent);
+  --color-bg: var(--slide-bg);
+  --color-text: var(--slide-text);
+  --color-muted: var(--slide-muted);
+  --font-display: var(--font-display-family);
+  --font-body: var(--font-body-family);
+}
+
+:root {
+  /* Replace these with brand colors */
+  --slide-primary: #7951d2;
+  --slide-accent: #d9cbfa;
+  --slide-bg: #fdfbff;
+  --slide-text: #42246b;
+  --slide-muted: #76658b;
+  --font-display-family: 'Tajawal', sans-serif;
+  --font-body-family: 'Tajawal', sans-serif;
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--slide-bg);
+  color: var(--slide-text);
+}
+
+.slide {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.slide-viewer {
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Warm, encouraging, clear. Lilac studio objects, organic panels and generous
+   RTL typography. 6vw margins; 2vw body, 1.5vw credits; 0.8/1.6/2.4/4vw gaps.
+   Archetypes: cover, index, split, big-number, comparison, split, columns,
+   image-feature, quote/conversation, columns, diagram, close.
+   Every slide is static JSX; platform routing/export wrappers are untouched. */
+.wordora-frame { direction: rtl; font-family: var(--font-body-family); background: radial-gradient(ellipse at 5% 95%, #f0eaf9, #fdfbff 70%); }
+.deck-title { position: absolute; top: 8vh; right: 6vw; left: 6vw; font-size: 3.4vw; font-weight: 900; line-height: 1.35; text-wrap: balance; z-index: 2; }
+.deck-copy { font-size: 2vw; line-height: 1.6; text-wrap: pretty; }
+.deck-caption { font-size: 1.5vw; line-height: 1.5; color: var(--slide-muted); }
+.organic { position: absolute; pointer-events: none; background: #d9cbfa; border-radius: 44% 56% 60% 40% / 58% 39% 61% 42%; }
+.organic-soft { position: absolute; pointer-events: none; background: #eee6fb; border-radius: 63% 37% 41% 59% / 43% 59% 41% 57%; }
+.deck-image { position: absolute; object-fit: contain; z-index: 1; }
+.deck-footer { position: absolute; bottom: 4vh; right: 6vw; left: 6vw; height: 4vh; display: flex; align-items: center; justify-content: space-between; font-size: 1.5vw; line-height: 1; color: var(--slide-muted); z-index: 3; }
+.image-credit { position: absolute; bottom: 10vh; left: 7vw; font-size: 1.5vw; color: var(--slide-muted); z-index: 2; }
+.credit-line { display: flex; gap: 1vw; align-items: baseline; font-size: 1.6vw; line-height: 1.7; }
+.level-line { display: flex; gap: 1.6vw; align-items: baseline; padding: 1vh 0; border-bottom: 0.08vw solid #c7b3eb; }
+.level-line strong { font-size: 3.2vw; line-height: 1.15; min-width: 6vw; font-weight: 900; }
+.level-line p { font-size: 2vw; line-height: 1.55; }
+.clean-list { display: flex; flex-direction: column; gap: 2.4vh; font-size: 2vw; line-height: 1.6; }
+.clean-list p { padding-bottom: 1.6vh; border-bottom: 0.08vw solid #dfd2ef; }
+.column-icon { width: 5vw; height: 5vw; color: var(--slide-primary); stroke-width: 1.5; margin-bottom: 2.4vh; }

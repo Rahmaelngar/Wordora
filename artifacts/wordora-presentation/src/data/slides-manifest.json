@@ -1,0 +1,14 @@
+[
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2201","position":1,"filepath":"src/pages/slides/Slide01.tsx","title":"Wordora — الكلمات تفتح عوالم جديدة","description":"الغلاف، إعداد Rahma magdy elngar وإشراف Taha Mahmoud Metwally Nour El-Dein.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2202","position":2,"filepath":"src/pages/slides/Slide02.tsx","title":"من أين نبدأ تعلّم لغة جديدة؟","description":"تحديات البداية والتنظيم والاستمرار.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2203","position":3,"filepath":"src/pages/slides/Slide03.tsx","title":"Wordora: رحلة تعلّم واضحة وممتعة","description":"فكرة المنصة واللغات الست والتصميم المتجاوب.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2204","position":4,"filepath":"src/pages/slides/Slide04.tsx","title":"ستة مستويات تتدرّج مع تقدّمك","description":"مستويات A1 إلى C2 وأعداد العناصر التعليمية لكل لغة.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2205","position":5,"filepath":"src/pages/slides/Slide05.tsx","title":"ركّز على عنصر واحد في كل مرة","description":"شاشة الكلمة والترجمة والنطق والتنقّل والمراجعة.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2206","position":6,"filepath":"src/pages/slides/Slide06.tsx","title":"اسمع النطق وشاهد الاستخدام","description":"الصوت باللغة المستهدفة والفيديو المروي عند الطلب.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2207","position":7,"filepath":"src/pages/slides/Slide07.tsx","title":"اختبارات مرتبطة بما تعلّمته","description":"أنواع الأسئلة والتصحيح المباشر والنتيجة.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2208","position":8,"filepath":"src/pages/slides/Slide08.tsx","title":"خطة يومية تساعدك على الاستمرار","description":"الأهداف والمراجعة وأيام الاستمرار والمكافآت العادلة.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2209","position":9,"filepath":"src/pages/slides/Slide09.tsx","title":"GPT Ieon: مساعدك التعليمي","description":"المحادثة والشرح والأمثلة مع التنبيه لاحتمال الخطأ.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2210","position":10,"filepath":"src/pages/slides/Slide10.tsx","title":"تقدّم محفوظ وتجربة شخصية","description":"الحساب ولوحة الإنجاز والكلمات المحفوظة والحفظ السحابي والمحلي.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2211","position":11,"filepath":"src/pages/slides/Slide11.tsx","title":"رحلة بسيطة من البداية إلى الإنجاز","description":"خطوات استخدام المنصة من اختيار اللغة إلى متابعة التقدم.","speakerNotes":""},
+  {"id":"e6ce22a9-e104-4010-a15e-fd9c0f8a2212","position":12,"filepath":"src/pages/slides/Slide12.tsx","title":"شكرًا لحسن استماعكم","description":"الشكر وأسماء إعداد المشروع والإشراف والشعارات.","speakerNotes":""}
+]
