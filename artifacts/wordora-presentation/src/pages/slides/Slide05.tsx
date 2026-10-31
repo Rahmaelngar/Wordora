@@ -12,7 +12,7 @@ export default function Slide05() {
     <div className="deck-image decor-tile right-[2vw] top-[73vh]" aria-hidden="true"/>
     <div className="decor-zigzag left-[2vw] top-[75vh]" aria-hidden="true"/>
     <div className="organic-soft left-[2vw] top-[27vh] w-[44vw] h-[59vh]"/>
-    <img src={`${base}images/lesson.webp`} crossOrigin="anonymous" alt="بطاقة تعلّم وكتاب، صورة AI" className="deck-image left-[0vw] top-[26vh] w-[47vw] h-[63vh]"/>
+    <img src={`${base}images/lesson-single-word-cartoon.webp`} crossOrigin="anonymous" alt="شخصية كرتونية تدرس بطاقة تعليمية واحدة وبجوارها كتاب للمراجعة" className="deck-image left-[0vw] top-[26vh] w-[47vw] h-[63vh]"/>
     <div className="absolute right-[6vw] top-[28vh] w-[46vw] clean-list">
       <p>كلمة أو جملة واحدة، ومعناها بالعربي</p>
       <p>نطق مبسّط ومثال مترجم يوضّح الاستخدام</p>

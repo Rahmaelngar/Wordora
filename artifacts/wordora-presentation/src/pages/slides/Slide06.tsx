@@ -18,7 +18,7 @@ export default function Slide06() {
     <div className="deck-image decor-tile right-[2vw] top-[73vh]" aria-hidden="true"/>
     <div className="decor-zigzag right-[2vw] top-[26vh]" aria-hidden="true"/>
     <div className="organic right-[1vw] top-[26vh] w-[45vw] h-[63vh]"/>
-    <img src={`${base}images/audio.webp`} crossOrigin="anonymous" alt="سماعات وتشغيل فيديو، صورة AI" className="deck-image right-[0vw] top-[25vh] w-[48vw] h-[64vh]"/>
+    <img src={`${base}images/audio-listening-cartoon.webp`} crossOrigin="anonymous" alt="شخصية كرتونية تستمع بسماعة رأس بنفسجية وتتابع كتابها" className="deck-image right-[0vw] top-[25vh] w-[48vw] h-[64vh]"/>
     <div className="absolute left-[6vw] top-[32vh] w-[46vw] clean-list">
       <p>استمع إلى الكلمات والجمل باللغة المختارة</p>
       <p>أعِد الاستماع حتى يصبح النطق مألوفًا</p>
