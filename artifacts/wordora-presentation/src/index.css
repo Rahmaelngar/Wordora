@@ -86,7 +86,7 @@ body {
 .closing-credit-label { font-family: 'Cairo', sans-serif; color: #865aab; font-size: 1.5vw; font-weight: 700; line-height: 1.4; margin-bottom: .4vh; }
 .closing-credit-name { font-family: 'Cormorant Garamond', Georgia, serif; color: #58247f; font-size: 2.55vw; font-weight: 600; font-style: italic; line-height: 1.25; letter-spacing: .005em; text-align: right; }
 .cover-supervisor-label { font-family: 'Cairo', sans-serif; color: #865aab; font-size: 1.05vw; font-weight: 700; line-height: 1.2; }
-.cover-supervisor-name { font-family: 'Cormorant Garamond', Georgia, serif; color: #58247f; font-size: 1.55vw; font-weight: 600; font-style: italic; line-height: 1.2; letter-spacing: .005em; text-align: center; }
+.cover-supervisor-name { font-family: 'Cormorant Garamond', Georgia, serif; color: #000; font-size: 1.55vw; font-weight: 600; font-style: italic; line-height: 1.2; letter-spacing: .005em; text-align: center; }
 .closing-credit-name.supervisor-name { color: #000; }
 .closing-credit-block + .closing-credit-block { margin-top: 1.6vh; }
 .friend-pair { pointer-events: none; }
