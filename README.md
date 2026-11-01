@@ -4,6 +4,12 @@
   <img src="artifacts/wordora-presentation/public/images/replit-logo.png" alt="شعار Replit" width="120">
 </p>
 
+<p align="center">
+  <a href="https://nordpoints.com">
+    <img src="artifacts/wordora-presentation/public/images/nordpoints-transparent.png" alt="شعار Nordpoints" width="190">
+  </a>
+</p>
+
 <h1 align="center">Wordora</h1>
 
 <p align="center"><em>Learn a New Language. Open a New World.</em></p>
