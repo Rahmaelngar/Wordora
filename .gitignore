@@ -55,3 +55,9 @@ Thumbs.db
 .local/
 /generated-artifacts/
 /attached_assets/generated_images/
+
+# Local environment files; keep credentials in Replit Secrets.
+.env
+.env.*
+!.env.example
+!.env.*.example
