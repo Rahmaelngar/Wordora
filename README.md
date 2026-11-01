@@ -8,6 +8,8 @@
 
 <p align="center"><em>Learn a New Language. Open a New World.</em></p>
 
+<p align="center">إشراف <strong>Taha Mahmoud Metwally Nour El-Dein</strong></p>
+
 <p align="center">مشروع من إنشاء <strong>Rahma Magdy Elnaggar</strong></p>
 
 **Wordora** منصة تفاعلية لتعلّم اللغات بشرح عربي، تنقل المتعلم من أول كلمة إلى مواقف وجمل أكثر تقدّمًا. تجمع بين الدروس القصيرة، والاستماع والنطق، والاختبارات، والمراجعة، وخطة يومية تساعد على الاستمرار.

@@ -2,3 +2,4 @@
 - [Learning video compatibility](wordora-media-compatibility.md) — successful media requests do not prove playback; preview Chromium needs a WebM option.
 - [Curriculum quality](wordora-curriculum.md) — validate distinctness across topics and repair only offending rows; sentence cards need full-sentence meanings and pronunciation.
 - [Presentation style](wordora-presentation.md) — animate the opening and closing, keep slide 10 static; no cartoon characters on slides 1, 7, 10 or 12.
+- [GitHub publishing readiness](github-publishing-readiness.md) — authorized GitHub is not usable until its API row reports ready.
