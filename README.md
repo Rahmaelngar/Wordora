@@ -1,14 +1,14 @@
-<p align="center"><strong>مشروع ضمن منحة لتعلّم Vibe Coding</strong></p>
-
-<p align="center">
-  <img src="artifacts/wordora-presentation/public/images/replit-logo.png" alt="شعار Replit" width="120">
-</p>
-
 <p align="center">
   <a href="https://nordpoints.com">
-    <img src="artifacts/wordora-presentation/public/images/nordpoints-transparent.png" alt="شعار Nordpoints" width="190">
+    <img src="artifacts/wordora-presentation/public/images/nordpoints-transparent.png" alt="شعار Nordpoints" width="220">
   </a>
 </p>
+
+<p align="center"><strong>تطبيق عملي ضمن منحة Vibe Coding الخاصة بـ Nordpoints</strong></p>
+
+<p align="center"><a href="https://nordpoints.com">nordpoints.com</a></p>
+
+<p align="center"><img src="artifacts/wordora-presentation/public/images/replit-logo.png" alt="شعار Replit" width="120"></p>
 
 <h1 align="center">Wordora</h1>
 
